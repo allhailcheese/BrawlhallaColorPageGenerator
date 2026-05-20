@@ -127,7 +127,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Voice of the Forest|image=Voice of the Forest.png|desc=[[Tengu Koji]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Voice of the Snow|image=Voice of the Snow.png|desc=[[Arctic Fox Yumiko]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wandering Wind|image=Wandering Wind.png|desc=[[Ronin Koji]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Weero Wings|image=Weero Wings.png|desc=[[Cockatiel Munin]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Weero Wings|image=Weero Wings.png|desc=[[Cockatoo Munin]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Whistling Death|image=Whistling Death.png|desc=[[Nightshade Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wicked Wings|image=Wicked Wings.png|desc=[[Demonkin Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wild Hunt|image=Wild Hunt.png|desc=[[Fangwild Fawn Ember]]|descheight=55px}}

@@ -547,6 +547,7 @@ Octavius Mordex && displayname:Octavius Mordex (Lvl 3) && image:Octavius Mordex 
 Brawldog Mordex
 Termidex
 KO-rpse Candle Mordex
+Ascended Mordex
 }}
 ===[[Munin]]===
 {{List to itembox|color={{{1|}}}|
@@ -556,7 +557,7 @@ Hugin
 DJ Hugin
 Starlet Munin
 Owl Bard Hugin
-Cockatiel Munin
+Cockatoo Munin
 Deathly Presence Munin
 }}
 <span id="N"></span>

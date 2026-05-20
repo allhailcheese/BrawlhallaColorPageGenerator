@@ -23,12 +23,12 @@
 *[[Jiro]] (Strength stance)
 *[[Kaya]] (Dexterity stance)
 *[[King Zuva]] (Dexterity stance)
-*[[Koji]] (Challenge stance)
+*[[Koji]] (Super Defense stance)
 *[[Kor]]
 *[[Lady Vera]] (Defense stance)
 *[[Lin Fei]] (Challenge stance)
-*[[Loki]] (Challenge stance)
-*[[Lord Vraxx]] (Challenge stance)
+*[[Loki]] (Super Strength stance)
+*[[Lord Vraxx]] (Super Speed stance)
 *[[Lucien]]
 *[[Magyar]] (Dexterity stance)
 *[[Mako]] (Dexterity stance)
@@ -61,7 +61,7 @@
 *[[Val]]
 *[[Vector]] (Dexterity stance)
 *[[Vivi]]
-*[[Volkov]] (Challenge stance)
+*[[Volkov]] (Super Speed stance)
 *[[Wu Shang]] (Strength stance)
 *[[Xull]] (Dexterity stance)
 *[[Yumiko]] (Strength stance)

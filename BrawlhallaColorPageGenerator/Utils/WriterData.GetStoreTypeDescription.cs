@@ -26,13 +26,14 @@ public partial class WriterData
                 "PaleRider" => 300,
                 "MythicWuShang" => 900,
                 "MythicNix" => 900,
+                "MythicWerewolf" => 900,
                 // Normal
                 _ => storeType.IdolCost
             });
             // also costs guild gems
             if(storeType.GuildGemsCost > 0)
             {
-                sb.Append("}} or {{Coin|guild gem|");
+                sb.Append("}} or {{Coin|goin|");
                 sb.Append(storeType.GuildGemsCost);
             }
         }
@@ -57,6 +58,7 @@ public partial class WriterData
                 "VDay25" => "love",
                 "StPatricks26" => "march",
                 "Bloomhalla26" => "spring",
+                "BHFest26" => "fest26",
                 _ => "ERROR",
             });
             sb.Append('|');
@@ -90,6 +92,7 @@ public partial class WriterData
                 "VDay25" => false,
                 "StPatricks26" => true,
                 "Bloomhalla26" => false,
+                "BHFest26" => false,
                 _ => false,
             };
 
@@ -106,6 +109,7 @@ public partial class WriterData
                 "VDay25" => FormatItemTag("love", 2026),
                 "StPatricks26" => FormatItemTag("march", 2026),
                 "Bloomhalla26" => FormatItemTag("spring", 2026),
+                "BHFest26" => FormatItemTag("fest", 2026),
                 _ => " ERROR",
             });
             if (useSmallElement) sb.Append("</small>");

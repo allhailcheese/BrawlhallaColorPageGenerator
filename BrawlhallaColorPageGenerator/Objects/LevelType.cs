@@ -13,7 +13,7 @@ public sealed class LevelType
     public LevelType(XElement element)
     {
         LevelName = element.Attribute(nameof(LevelName))!.Value;
-        DevOnly = string.Equals(element.Attribute(nameof(DevOnly))!.Value, "true", System.StringComparison.OrdinalIgnoreCase);
+        DevOnly = string.Equals(element.Attribute(nameof(DevOnly))?.Value, "true", System.StringComparison.OrdinalIgnoreCase);
         DisplayName = element.Element(nameof(DisplayName))!.Value;
         ColorExclusionList = element.Element(nameof(ColorExclusionList))?.Value.Split(',') ?? [];
     }

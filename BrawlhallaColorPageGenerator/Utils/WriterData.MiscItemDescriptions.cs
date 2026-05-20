@@ -41,6 +41,7 @@ public partial class WriterData
         ["ScytheEsports2026"] = TD_DESCRIPTION,
         ["OrbEsports2026"] = TD_DESCRIPTION,
         ["BootsEsports2026"] = TD_DESCRIPTION,
+        ["GreatswordMagicalGirl"] = TD_DESCRIPTION,
         #endregion
         #region gifts of asgard
         ["AxeSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,

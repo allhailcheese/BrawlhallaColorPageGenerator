@@ -832,6 +832,7 @@ The Sun, The Moon
 The Taggers
 Toybox Gauntlets
 Treble Makers
+Tyr's Blessing
 Tyr's Fists
 Umbra Gauntlets
 Valiant Armament Gauntlets
@@ -867,6 +868,7 @@ Divine Conviction && displayname:Divine Conviction (Lvl 2) && image:Divine Convi
 Divine Conviction && displayname:Divine Conviction (Lvl 3) && image:Divine Conviction Level 3 $1.png
 Dragon's Fang
 Dragon's Fury
+Dreaming Magi ☆ Astral Greatsword
 Dwarven-Forged Greatsword
 Flamberge's Gale
 Flora Striker
@@ -1241,7 +1243,7 @@ Trench Cutters
 Trials of Worth
 Trusty Trowels
 Twin Sai
-Umbra Katar
+Umbra Katars
 Valiant Armament Katars
 Vengeance
 Viper's Fangs
@@ -1620,6 +1622,7 @@ Winter's Grave
 Withering Scythe
 Wraith's Sickle
 Wrath of Hel
+Wrath Unleashed
 Yard Marker
 Yoshimitsu's Scythe
 }}

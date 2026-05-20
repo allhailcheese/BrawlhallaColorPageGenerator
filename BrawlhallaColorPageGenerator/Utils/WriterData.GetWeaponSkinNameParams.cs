@@ -95,9 +95,11 @@ public partial class WriterData
                 break;
             case "PistolMythicNix":
             case "FistsMythicWuShang":
+            case "FistsMythicWerewolf":
             case "OrbOddball":
             case "OrbLilith":
             case "ScytheMythicNix":
+            case "ScytheMythicWerewolf":
             case "SpearMythicWuShang":
                 isAnimated = true;
                 break;

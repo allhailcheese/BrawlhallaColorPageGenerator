@@ -81,7 +81,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Pavonini Talon|image=Pavonini Talon.png|desc=[[Starlet Munin]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Penumbral Crescent|image=Penumbral Crescent.png|desc=[[Eclipse Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Phantom Toxin|image=Phantom Toxin.png|desc=[[Arcane Loki]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Quarrion Sickle|image=Quarrion Sickle.png|desc=[[Cockatiel Munin]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Quarrion Sickle|image=Quarrion Sickle.png|desc=[[Cockatoo Munin]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Raven's Talon|image=Raven's Talon.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Razor's Reach|image=Razor's Reach.png|desc=[[Freestyle Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Reaping Time|image=Reaping Time.png|desc=[[Scarecrow Nix]]|descheight=55px}}
@@ -125,6 +125,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Withering Scythe|image=Withering Scythe.png|desc={{BPReward|Season Six|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Wraith's Sickle|image=Wraith's Sickle.png|desc=[[Crimson Oni Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wrath of Hel|image=Wrath of Hel.png|desc={{BPReward|Season Three|gold|Tier 81}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Wrath Unleashed|image=Wrath Unleashed.gif|desc=[[Ascended Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Yard Marker|image=Yard Marker.png|desc=[[Brawldog Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Yoshimitsu's Scythe|image=Yoshimitsu's Scythe.png|desc=[[Yoshimitsu]]|descheight=55px}}
 {{itembox/bottom}}

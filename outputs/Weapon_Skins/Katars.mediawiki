@@ -142,7 +142,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Trials of Worth|image=Trials of Worth.png|desc=[[Awakened Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Trusty Trowels|image=Trusty Trowels.png|desc=[[Green Thumb Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Twin Sai|image=Twin Sai.png|desc=[[Raphael]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Umbra Katar|image=Umbra Katar.png|desc={{BPReward|Season Thirteen|free|Dark Tier 23}}|descheight=55px}}
+{{itembox|width=180|height=190|name=Umbra Katars|image=Umbra Katars.png|desc={{BPReward|Season Thirteen|free|Dark Tier 23}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Valiant Armament Katars|image=Valiant Armament Katars.png|desc={{BPReward|Season Ten|free|Tier 4}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Vengeance|image=Vengeance.png|desc=[[Nightwatch Sentinel]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Viper's Fangs|image=Viper's Fangs.png|desc=[[Interloper Loki]]|descheight=55px}}
