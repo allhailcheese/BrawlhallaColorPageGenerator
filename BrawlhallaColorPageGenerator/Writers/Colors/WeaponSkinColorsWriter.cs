@@ -39,19 +39,20 @@ public sealed class WeaponSkinColorsWriter(WriterData data)
                 weaponSkin.WeaponSkinName.EndsWith("Stance")
             ) continue;
 
-            (string weaponSkinName, string imageName, string displayName, _) = data.GetWeaponSkinNameParams(weaponSkin, true);
+            ItemNameParams nameParams = data.GetWeaponSkinNameParams(weaponSkin, true);
 
-            writer.Write(weaponSkinName);
-            if (weaponSkinName != displayName)
+            writer.Write(nameParams.Name);
+            if (nameParams.Name != nameParams.DisplayName)
             {
                 writer.Write(" && displayname:");
-                writer.Write(displayName);
+                writer.Write(nameParams.DisplayName);
             }
-            if (weaponSkinName != imageName)
+            if (nameParams.Name != nameParams.Image)
             {
                 writer.Write(" && image:");
-                writer.Write(imageName);
-                writer.Write(" $1.png");
+                writer.Write(nameParams.Image);
+                writer.Write(" $1.");
+                writer.Write(nameParams.Extension.GetName());
             }
             writer.WriteLine();
         }

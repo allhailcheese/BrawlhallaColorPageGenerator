@@ -6,16 +6,3 @@ public readonly struct ItemDescription
     public required DescriptionTypeEnum DescriptionType { get; init; }
     public required RarityEnum Rarity { get; init; }
 }
-
-public enum DescriptionTypeEnum
-{
-    Desc,
-    Cost,
-}
-
-public enum RarityEnum
-{
-    None,
-    Epic,
-    Mythic,
-}

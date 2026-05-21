@@ -64,7 +64,7 @@ public sealed class WeaponSkinWriter(WriterData data)
 
     private void ProcessWeaponSkinType(WeaponSkinType weaponSkin, StreamWriter writer)
     {
-        (string weaponSkinName, string imageName, string displayName, bool isAnimated) = data.GetWeaponSkinNameParams(weaponSkin, false);
+        ItemNameParams nameParams = data.GetWeaponSkinNameParams(weaponSkin, false);
         writer.Write("{{itembox|width=");
         // width
         writer.Write(weaponSkin.BaseWeapon switch
@@ -108,35 +108,26 @@ public sealed class WeaponSkinWriter(WriterData data)
             _ => 0,
         });
         writer.Write("|name=");
-        writer.Write(weaponSkinName);
-        if (weaponSkinName != displayName)
+        writer.Write(nameParams.Name);
+        if (nameParams.Name != nameParams.DisplayName)
         {
             writer.Write("|displayname=");
-            writer.Write(displayName);
+            writer.Write(nameParams.DisplayName);
         }
         writer.Write("|image=");
-        writer.Write(imageName);
-        writer.Write(isAnimated ? ".gif" : ".png");
+        writer.Write(nameParams.Image);
+        writer.Write('.');
+        writer.Write(nameParams.Extension.GetName());
 
         ItemDescription description = data.GetItemDescription(weaponSkin.WeaponSkinName, ItemTypeEnum.WeaponSkin);
 
         writer.Write('|');
-        writer.Write(description.DescriptionType switch
-        {
-            DescriptionTypeEnum.Desc => "desc",
-            DescriptionTypeEnum.Cost => "cost",
-            _ => "ERROR",
-        });
+        writer.Write(description.DescriptionType.GetName());
         writer.Write('=');
         writer.Write(description.Description);
 
         writer.Write("|");
-        writer.Write(description.DescriptionType switch
-        {
-            DescriptionTypeEnum.Desc => "desc",
-            DescriptionTypeEnum.Cost => "cost",
-            _ => "ERROR",
-        });
+        writer.Write(description.DescriptionType.GetName());
         writer.Write("height=");
         // desc/cost height
         writer.Write(weaponSkin.BaseWeapon switch
@@ -160,12 +151,12 @@ public sealed class WeaponSkinWriter(WriterData data)
         });
         writer.Write("px");
 
-        writer.Write(description.Rarity switch
+        if (description.Rarity != RarityEnum.None)
         {
-            RarityEnum.Epic => "|epic=true",
-            RarityEnum.Mythic => "|mythic=true",
-            _ => null,
-        });
+            writer.Write('|');
+            writer.Write(description.Rarity.GetName());
+            writer.Write("=true");
+        }
 
         writer.WriteLine("}}");
     }

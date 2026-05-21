@@ -44,19 +44,20 @@ public sealed class SkinColorsWriter(WriterData data)
                     costumeType.CostumeName.EndsWith("Stance2")
                 ) continue;
 
-                (string costumeName, string imageName, string displayName, _) = data.GetSkinNameParams(costumeType, true);
+                ItemNameParams nameParams = data.GetSkinNameParams(costumeType, true);
 
-                writer.Write(costumeName);
-                if (costumeName != displayName)
+                writer.Write(nameParams.Name);
+                if (nameParams.Name != nameParams.DisplayName)
                 {
                     writer.Write(" && displayname:");
-                    writer.Write(displayName);
+                    writer.Write(nameParams.DisplayName);
                 }
-                if (costumeName != imageName)
+                if (nameParams.Name != nameParams.Image)
                 {
                     writer.Write(" && image:");
-                    writer.Write(imageName);
-                    writer.Write(" $1.png");
+                    writer.Write(nameParams.Image);
+                    writer.Write(" $1.");
+                    writer.Write(nameParams.Extension.GetName());
                 }
                 writer.WriteLine();
             }

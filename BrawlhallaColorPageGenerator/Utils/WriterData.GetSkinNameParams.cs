@@ -8,18 +8,16 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    public (string skinName, string imageName, string displayName, ImageExtensionEnum extension) GetSkinNameParams(CostumeType costumeType, bool colorMode)
+    public ItemNameParams GetSkinNameParams(CostumeType costumeType, bool colorMode)
     {
         string? displayNameKey = costumeType.DisplayNameKey;
-
-        bool useLevelSuffix = true;
-        ImageExtensionEnum extension = ImageExtensionEnum.Png;
 
         string skinName;
         if (displayNameKey is not null)
         {
             skinName = LangFile.Entries[displayNameKey];
         }
+        // default skin, name after legend
         else
         {
             TextInfo textInfo = CultureInfo.InvariantCulture.TextInfo;
@@ -30,7 +28,10 @@ public partial class WriterData
         }
 
         string imageName = skinName;
+        ImageExtensionEnum extension = ImageExtensionEnum.Png;
         string displayName = skinName;
+
+        bool useLevelSuffix = true;
 
         switch (costumeType.CostumeName)
         {
@@ -68,8 +69,8 @@ public partial class WriterData
             case "Spongebob":
                 if (!colorMode)
                 {
-                    extension = ImageExtensionEnum.Gif;
                     imageName = "Ani" + imageName;
+                    extension = ImageExtensionEnum.Gif;
                 }
                 break;
             // bp 1
@@ -86,9 +87,9 @@ public partial class WriterData
             case "BP11Azoth03":
                 if (!colorMode)
                 {
-                    useLevelSuffix = false;
-                    extension = ImageExtensionEnum.Gif;
                     imageName = "Ani" + imageName;
+                    extension = ImageExtensionEnum.Gif;
+                    useLevelSuffix = false;
                 }
                 break;
             // others
@@ -138,24 +139,21 @@ public partial class WriterData
             case "ImugiDragon3":
                 if (!colorMode)
                 {
-                    useLevelSuffix = false;
                     extension = ImageExtensionEnum.Webp;
+                    useLevelSuffix = false;
                 }
                 break;
         }
 
-        if (CostumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
+        if (useLevelSuffix && CostumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
         {
-            if (colorMode) displayName = skinName + " (Lvl " + upgradeLevel + ")";
-            if (colorMode && useLevelSuffix) imageName = skinName + " Level " + upgradeLevel;
+            displayName += " (Lvl " + upgradeLevel + ")";
+            imageName += " Level " + upgradeLevel;
         }
 
         // names that are too long
-        if (!colorMode)
-        {
-            if (_longCostumeNames.Contains(costumeType.CostumeName))
-                displayName = "{{small|" + displayName + "}}";
-        }
+        if (!colorMode && LONG_COSTUME_NAMES.Contains(costumeType.CostumeName))
+            displayName = "{{small|" + displayName + "}}";
 
         // html escape for the template
         if (colorMode)
@@ -167,10 +165,16 @@ public partial class WriterData
         // no : in image names
         imageName = imageName.Replace(":", "");
 
-        return (skinName, imageName, displayName, extension);
+        return new()
+        {
+            Name = skinName,
+            DisplayName = displayName,
+            Image = imageName,
+            Extension = extension,
+        };
     }
 
-    private static readonly HashSet<string> _longCostumeNames = [
+    private static readonly HashSet<string> LONG_COSTUME_NAMES = [
         "AnnivRoland",
     ];
 }

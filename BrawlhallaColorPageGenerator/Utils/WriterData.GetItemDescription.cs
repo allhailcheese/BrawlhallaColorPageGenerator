@@ -9,13 +9,7 @@ public partial class WriterData
     public ItemDescription GetItemDescription(string itemName, ItemTypeEnum itemType)
     {
         // get store type
-        string itemTypeString = itemType switch
-        {
-            ItemTypeEnum.Costume => "Costume",
-            ItemTypeEnum.WeaponSkin => "WeaponSkin",
-            _ => throw new ArgumentException("Invalid item type"),
-        };
-        StoreType? storeType = StoreTypes.ItemToStoreType.GetValueOrDefault((itemTypeString, itemName));
+        StoreType? storeType = StoreTypes.ItemToStoreType.GetValueOrDefault((itemType.GetName(), itemName));
 
         string description;
         DescriptionTypeEnum descriptionType;
@@ -30,11 +24,11 @@ public partial class WriterData
         else if (itemType == ItemTypeEnum.WeaponSkin && GetWeaponSkinSourceCostume(itemName) is CostumeType costume)
         {
             descriptionType = DescriptionTypeEnum.Desc;
-            (string costumeName, _, _, _) = GetSkinNameParams(costume, false);
-            description = "[[" + costumeName + "]]";
+            ItemNameParams skinNameParams = GetSkinNameParams(costume, false);
+            description = "[[" + skinNameParams.Name + "]]";
         }
         // metadev skin
-        else if (itemType == ItemTypeEnum.Costume && (UntaggedMetadevSkins.Contains(itemName) || CostumeTypes.CostumesMap[itemName].IsMetadev))
+        else if (itemType == ItemTypeEnum.Costume && (UNTAGGED_METADEV_SKINS.Contains(itemName) || CostumeTypes.CostumesMap[itemName].IsMetadev))
         {
             descriptionType = DescriptionTypeEnum.Desc;
             description = "Not normally obtainable.<br>See [[Metadev]].";
@@ -87,7 +81,7 @@ public partial class WriterData
         } : RarityEnum.None;
 
         // battlepass epic skins
-        if (itemType == ItemTypeEnum.Costume && EpicBattlepassSkins.Contains(itemName))
+        if (itemType == ItemTypeEnum.Costume && EPIC_BATTLEPASS_SKINS.Contains(itemName))
         {
             rarity = RarityEnum.Epic;
         }
@@ -100,7 +94,7 @@ public partial class WriterData
         };
     }
 
-    private static readonly HashSet<string> EpicBattlepassSkins = [
+    private static readonly HashSet<string> EPIC_BATTLEPASS_SKINS = [
         "DemonQueen",
         "EpicNix",
         "EpicBrynn",
@@ -116,16 +110,9 @@ public partial class WriterData
     ];
 
     // metadev skins not marked with IsMetadev
-    private static readonly HashSet<string> UntaggedMetadevSkins = [
+    private static readonly HashSet<string> UNTAGGED_METADEV_SKINS = [
         "MDFait",
         "MetadevNix",
         "MetadevJaeyun",
     ];
 }
-
-public enum ItemTypeEnum
-{
-    Costume,
-    WeaponSkin,
-}
-

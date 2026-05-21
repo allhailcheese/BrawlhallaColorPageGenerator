@@ -4,7 +4,7 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    public (string companionName, string imageName, string displayName) GetCompanionNameParams(CompanionType companionType)
+    public ItemNameParams GetCompanionNameParams(CompanionType companionType)
     {
         // string companion = companionType.CompanionName;
         string displayNameKey = companionType.DisplayNameKey;
@@ -17,6 +17,12 @@ public partial class WriterData
         displayName = displayName.Replace(":", "&#58;");
         imageName = imageName.Replace(":", "");
 
-        return (companionName, imageName, displayName);
+        return new()
+        {
+            Name = companionName,
+            DisplayName = displayName,
+            Image = imageName,
+            Extension = ImageExtensionEnum.Png,
+        };
     }
 }

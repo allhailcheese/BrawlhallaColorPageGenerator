@@ -21,7 +21,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Divine Conviction|image=Divine Conviction Level 3.png|desc=[[Luminous Paladin Jaeyun]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Dragon's Fang|image=Dragon's Fang.png|desc=[[Hanbok Jaeyun]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Dragon's Fury|image=Dragon's Fury.png|cost={{Coin|mammoth|60}}|costheight=70px}}
-{{itembox|width=190|height=170|name=Dreaming Magi ☆ Astral Greatsword|image=Dreaming Magi ☆ Astral Greatsword.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dreaming Magi ☆ Astral Greatsword|displayname=<span style="font-size:69%">Dreaming Magi ☆ Astral Greatsword</span>|image=Dreaming Magi ☆ Astral Greatsword.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=70px}}
 {{itembox|width=190|height=170|name=Dwarven-Forged Greatsword|displayname={{small|Dwarven-Forged Greatsword}}|image=Dwarven-Forged Greatsword.png|desc=<span style="font-size:75%">{{BPReward|Season Seven|gold|Tier 21}}<br>{{BPReward|Season Seven Classic|free|Tier 20}}</span>|descheight=70px}}
 {{itembox|width=190|height=170|name=Flamberge's Gale|image=Flamberge's Gale.png|desc={{BPReward|Season Six|gold|Tier 77}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Flora Striker|image=Flora Striker.png|desc=[[Hwarang Jaeyun]]|descheight=70px}}

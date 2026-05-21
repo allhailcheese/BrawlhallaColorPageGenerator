@@ -59,53 +59,37 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 
     private void ProcessCostumeType(CostumeType costumeType, StreamWriter writer)
     {
-        (string costumeName, string imageName, string displayName, ImageExtensionEnum extension) = data.GetSkinNameParams(costumeType, false);
+        ItemNameParams nameParams = data.GetSkinNameParams(costumeType, false);
 
         writer.Write("{{itembox|width=220|height=270|name=");
-        writer.Write(costumeName);
-        if (costumeName != displayName)
+        writer.Write(nameParams.Name);
+        if (nameParams.Name != nameParams.DisplayName)
         {
             writer.Write("|displayname=");
-            writer.Write(displayName);
+            writer.Write(nameParams.DisplayName);
         }
         writer.Write("|image=");
-        writer.Write(imageName);
+        writer.Write(nameParams.Image);
         writer.Write('.');
-        writer.Write(extension switch
-        {
-            ImageExtensionEnum.Png => "png",
-            ImageExtensionEnum.Gif => "gif",
-            ImageExtensionEnum.Webp => "webp",
-            _ => "ERROR",
-        });
+        writer.Write(nameParams.Extension.GetName());
 
         ItemDescription description = data.GetItemDescription(costumeType.CostumeName, ItemTypeEnum.Costume);
 
         writer.Write('|');
-        writer.Write(description.DescriptionType switch
-        {
-            DescriptionTypeEnum.Desc => "desc",
-            DescriptionTypeEnum.Cost => "cost",
-            _ => "ERROR",
-        });
+        writer.Write(description.DescriptionType.GetName());
         writer.Write('=');
         writer.Write(description.Description);
 
         writer.Write("|");
-        writer.Write(description.DescriptionType switch
-        {
-            DescriptionTypeEnum.Desc => "desc",
-            DescriptionTypeEnum.Cost => "cost",
-            _ => "ERROR",
-        });
+        writer.Write(description.DescriptionType.GetName());
         writer.Write("height=49px");
 
-        writer.Write(description.Rarity switch
+        if (description.Rarity != RarityEnum.None)
         {
-            RarityEnum.Epic => "|epic=true",
-            RarityEnum.Mythic => "|mythic=true",
-            _ => null,
-        });
+            writer.Write('|');
+            writer.Write(description.Rarity.GetName());
+            writer.Write("=true");
+        }
 
         writer.WriteLine("}}");
     }

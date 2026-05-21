@@ -34,22 +34,23 @@ public sealed class DefaultWeaponSkinsWriter(WriterData data)
             writer.WriteLine("{{itembox/top}}");
             foreach (WeaponSkinType weaponSkin in weaponSkins)
             {
-                (string weaponSkinName, string imageName, string displayName, _) = data.GetWeaponSkinNameParams(weaponSkin, false);
+                ItemNameParams weaponSkinNameParams = data.GetWeaponSkinNameParams(weaponSkin, false);
                 CostumeType costume = data.GetWeaponSkinSourceCostume(weaponSkin.WeaponSkinName)!;
-                (string costumeName, _, _, _) = data.GetSkinNameParams(costume, false);
+                ItemNameParams skinNameParams = data.GetSkinNameParams(costume, false);
 
-                writer.Write("{{itembox|width=180|height=170");
-                writer.Write("|name=");
-                writer.Write(weaponSkinName);
-                if (weaponSkinName != displayName)
+                writer.Write("{{itembox|width=180|height=170|name=");
+                writer.Write(weaponSkinNameParams.Name);
+                if (weaponSkinNameParams.Name != weaponSkinNameParams.DisplayName)
                 {
                     writer.Write("|displayname=");
-                    writer.Write(displayName);
+                    writer.Write(weaponSkinNameParams.DisplayName);
                 }
                 writer.Write("|image=");
-                writer.Write(imageName);
-                writer.Write(".png|desc=[[");
-                writer.Write(costumeName);
+                writer.Write(weaponSkinNameParams.Image);
+                writer.Write('.');
+                writer.Write(weaponSkinNameParams.Extension.GetName());
+                writer.Write("|desc=[[");
+                writer.Write(skinNameParams.Name);
                 writer.WriteLine("]]|descheight=55px}}");
             }
             writer.WriteLine("{{itembox/bottom}}");

@@ -5,14 +5,16 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
+    public ItemNameParams GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
     {
         string displayNameKey = weaponSkinType.DisplayNameKey!;
 
-        bool isAnimated = false;
         string weaponSkinName = LangFile.Entries[displayNameKey];
         string imageName = weaponSkinName;
+        ImageExtensionEnum extension = ImageExtensionEnum.Png;
         string displayName = weaponSkinName;
+
+        bool useLevelSuffix = true;
 
         switch (weaponSkinType.WeaponSkinName)
         {
@@ -90,8 +92,12 @@ public partial class WriterData
             case "SpearPaleRider":
             case "SwordDemonQueen":
             case "SwordCyberSam":
-                isAnimated = true;
-                if (!colorMode) imageName = "Ani" + imageName;
+                if (!colorMode)
+                {
+                    imageName = "Ani" + imageName;
+                    extension = ImageExtensionEnum.Gif;
+                    useLevelSuffix = false;
+                }
                 break;
             case "PistolMythicNix":
             case "FistsMythicWuShang":
@@ -101,7 +107,11 @@ public partial class WriterData
             case "ScytheMythicNix":
             case "ScytheMythicWerewolf":
             case "SpearMythicWuShang":
-                isAnimated = true;
+                if (!colorMode)
+                {
+                    extension = ImageExtensionEnum.Gif;
+                    useLevelSuffix = false;
+                }
                 break;
         }
 
@@ -113,16 +123,16 @@ public partial class WriterData
         // progression level
         if (WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkinType.WeaponSkinName, out int upgradeLevel) && upgradeLevel != 0)
         {
-            if (colorMode) displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
-            if (colorMode || !isAnimated) imageName = weaponSkinName + " Level " + upgradeLevel;
+            if (colorMode) displayName += " (Lvl " + upgradeLevel + ")";
+            if (colorMode || useLevelSuffix) imageName += " Level " + upgradeLevel;
         }
 
         // names that are too long
         if (!colorMode)
         {
-            if (_superLongWeaponSkinNames.Contains(weaponSkinType.WeaponSkinName))
+            if (SUPER_LONG_WEAPON_SKIN_NAMES.Contains(weaponSkinType.WeaponSkinName))
                 displayName = "<span style=\"font-size:69%\">" + displayName + "</span>";
-            else if (_longWeaponSkinNames.Contains(weaponSkinType.WeaponSkinName))
+            else if (LONG_WEAPON_SKIN_NAMES.Contains(weaponSkinType.WeaponSkinName))
                 displayName = "{{small|" + displayName + "}}";
         }
 
@@ -136,15 +146,22 @@ public partial class WriterData
         // no : in image names
         imageName = imageName.Replace(":", "");
 
-        return (weaponSkinName, imageName, displayName, isAnimated);
+        return new()
+        {
+            Name = weaponSkinName,
+            Image = imageName,
+            Extension = extension,
+            DisplayName = displayName,
+        };
     }
 
-    private static readonly HashSet<string> _superLongWeaponSkinNames = [
+    private static readonly HashSet<string> SUPER_LONG_WEAPON_SKIN_NAMES = [
         "AxeHolidayXull",
         "SpearDarthMaul",
+        "GreatswordMagicalGirl",
     ];
 
-    private static readonly HashSet<string> _longWeaponSkinNames = [
+    private static readonly HashSet<string> LONG_WEAPON_SKIN_NAMES = [
         "AxeMagicalGirl",
         "AxeSpringAxe21Viewer",
         "AxeJotun",

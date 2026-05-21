@@ -16,17 +16,19 @@ public sealed class CompanionColorsWriter(WriterData data)
         {
             if (companion.CompanionName == "Template") continue;
 
-            (string companionName, string imageName, string displayName) = data.GetCompanionNameParams(companion);
+            ItemNameParams itemName = data.GetCompanionNameParams(companion);
 
-            writer.Write(companionName);
-            if (companionName != displayName)
+            writer.Write(itemName.Name);
+            if (itemName.Name != itemName.DisplayName)
             {
                 writer.Write(" && displayname:");
-                writer.Write(displayName);
+                writer.Write(itemName.DisplayName);
             }
             writer.Write(" && image:Companion ");
-            writer.Write(imageName);
-            writer.WriteLine(" Idle $1.png");
+            writer.Write(itemName.Image);
+            writer.Write(" Idle $1.");
+            writer.Write(itemName.Extension.GetName());
+            writer.WriteLine();
         }
         writer.WriteLine("}}");
 
