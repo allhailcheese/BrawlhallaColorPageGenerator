@@ -13,7 +13,7 @@ public partial class WriterData
     private static string VSR(string track) => "{{VSR|" + track + "|Viewership Rewards}}";
     private static string TD(string track) => "{{TD|" + track + "|Twitch Drops}}";
 
-    // for stuff that can't be automated: vsr, bundle exclusives, and battlepass
+    // for stuff that can't be automated: vsr, twitch drops, bundle exclusives, and battlepass
 
     public readonly static Dictionary<string, string> MISC_ITEM_DESCRIPTIONS = new()
     {
@@ -35,10 +35,10 @@ public partial class WriterData
         ["HammerEsports2026"] = TD("Eternal Sports Triples Championship"),
         ["CannonEsports2026"] = TD("Spring Singles"),
         ["KatarEsports2026"] = TD("Spring Doubles"),
-        ["SpearEsports2026"] = TD_DESCRIPTION,
+        ["SpearEsports2026"] = TD("Midseason 2026 Whitelist"),
+        ["ScytheEsports2026"] = TD("Midseason 2026 Whitelist"),
         ["PistolEsports2026"] = TD_DESCRIPTION,
         ["AxeEsports2026"] = TD_DESCRIPTION,
-        ["ScytheEsports2026"] = TD_DESCRIPTION,
         ["OrbEsports2026"] = TD_DESCRIPTION,
         ["BootsEsports2026"] = TD_DESCRIPTION,
         ["GreatswordMagicalGirl"] = TD_DESCRIPTION,
