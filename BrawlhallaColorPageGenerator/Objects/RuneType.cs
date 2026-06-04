@@ -5,11 +5,11 @@ namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class RuneType
 {
-    public string IconName { get; set; }
-    public int Strength { get; set; }
-    public int Dexterity { get; set; }
-    public int Weight { get; set; }
-    public int Speed { get; set; }
+    public string IconName { get; }
+    public int Strength { get; }
+    public int Dexterity { get; }
+    public int Weight { get; }
+    public int Speed { get; }
 
     public RuneType(XElement element)
     {

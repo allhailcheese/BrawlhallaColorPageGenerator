@@ -6,10 +6,10 @@ namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class EntitlementType
 {
-    public string EntitlementName { get; set; }
-    public string? DisplayNameKey { get; set; }
-    public string[] Costumes { get; set; }
-    public string[] WeaponSkins { get; set; }
+    public string EntitlementName { get; }
+    public string? DisplayNameKey { get; }
+    public string[] Costumes { get; }
+    public string[] WeaponSkins { get; }
 
     public EntitlementType(XElement element)
     {
@@ -22,9 +22,9 @@ public sealed class EntitlementType
 
 public sealed class EntitlementTypes
 {
-    public EntitlementType[] Entitlements { get; set; }
-    public Dictionary<string, EntitlementType> CostumeToEntitlement { get; set; }
-    public Dictionary<string, EntitlementType> WeaponSkinToEntitlement { get; set; }
+    public EntitlementType[] Entitlements { get; }
+    public Dictionary<string, EntitlementType> CostumeToEntitlement { get; }
+    public Dictionary<string, EntitlementType> WeaponSkinToEntitlement { get; }
 
     public EntitlementTypes(string content)
     {

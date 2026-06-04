@@ -1,0 +1,886 @@
+<includeonly>{{#switch:{{lc:{{{1|}}}}}
+|1v1 showdown=
+{{!}}-
+{{!}} '''1v1 Showdown'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Spar with your opponent in this close combat 1v1 game mode! Unlock your inner awesomeness and fight to become the chosen one as you punch, kick, and fight. Watch out for the arrow and throwing star traps. First to 5 KOs wins, skadoosh!''
+*{{gamemodes|stock|16px}}
+*2 players
+*5 lives
+*8:00 minutes
+|2v2 showdown=
+{{!}}-
+{{!}} '''2v2 Showdown'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Team up as an awesome duo in this close combat 2v2 brawl! Fight to become the chosen team as you punch, kick, and fight. Watch out for the arrow and throwing star traps. First team to 5 KOs wins, skadoosh!''
+*{{gamemodes|stock|16px}}
+*4 players
+*5 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|dodgebomb=
+{{!}}-
+{{!}} '''Dodgebomb'''
+{{!}} [[File:ModeThumb Dodgebomb.jpg|200px]]
+{{!}}''Bombs, bombs, and more bombs! Juke and dodge high above the ground in this bombs only game mode. Score 2 points for a knockout and lose a point for being knocked out yourself in this 4 player 2 minute free for all queue!''
+*{{gamemodes|dodgebomb|16px}}
+*4 players
+*2:00 minutes
+|mayhem=
+{{!}}-
+{{!}} '''Mayhem!'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Opponents and heavy hits abound! Swing away with reckless abandon and blast your foes out of the arena with 200% damage! Score points with every hit & knockout this 8 player 3 minute free for all queue.''
+*{{gamemodes|timed|16px}}
+*8 players
+*3:00 minutes
+*200% damage
+|dangerous duel=
+{{!}}-
+{{!}} '''Dangerous Duel'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''The Chasm has all but crumbled away! Choose your Legend and prepare to duel on the smallest 1v1 map in the game. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|ko mania=
+{{!}}-
+{{!}} '''KO Mania!'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Square off against your opponent in this hard hitting KO fest! Chew through your foe's 5 Stocks with damage cranked up to an insane 300%! Send your challenger into orbit before they know what hit them. First to 5 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*5 lives
+*8:00 minutes
+*300% damage
+|stay frosty=
+{{!}}-
+{{!}} '''Stay Frosty!'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''Celebrate the holidays and get your Snowbrawl on at 150% damage! Face off against 3 other Legends in this 3 minute FFA. Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+*150% damage
+|betrayal=
+{{!}}-
+{{!}} '''Betrayal!'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Three is the magic number for Betrayal! Queue up against 2 other Players in a 3 minute FFA game. Score 2 points for KOing an enemy, lose 1 point for being KO'd. Can you survive the ever shifting alliances and score the most points at the end to win?''
+*{{gamemodes|timed|16px}}
+*3 players
+*3:00 minutes
+|platform king=
+{{!}}-
+{{!}} '''Platform King!'''
+{{!}} [[File:ModeThumb Color Platforms.jpg|200px]]
+{{!}}''Who is the platform king? 4 Players face off on a map with 6 platforms. Stay on the red platform to score points. Stun your opponents to keep them from scoring. Watch out, the platform switches around the map! The Player with the most points at the end of 2 minutes wins!''
+*{{gamemodes|color platforms|16px}}
+*4 players
+*2:00 minutes
+|yumiko, we-miko=
+{{!}}-
+{{!}} '''Yumiko, We-Miko!'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Time to get crazy like a fox! Yumiko has tricked Brawlhalla into being playable for free a week early. Jump in this 4 Player mirror match FFA and try out our clever trickster in this 3 minute queued match. Get 2 points for a KO, lose a point for being KOed. Most points at the end wins!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+|brawl together=
+{{!}}-
+{{!}} '''Brawl Together!'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Queue solo or as a team for 2v2 brawlin' action! No partner? Don't worry, we'll find someone to fight with you! No team damage, no ladder anxiety, just relax and enjoy Brawlhalla in teams. First team to KO both opponents 3 times each wins!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|brawlball bash=
+{{!}}-
+{{!}} '''Brawlball Bash!'''
+{{!}} [[File:ModeThumb Brawlball.jpg|200px]]
+{{!}}''Are you ready for some Brawlball? Get the team together for this 3v3 game! Don't have a team? Fear not, we'll find one for you! Hit the Coliseum, snag the ball, juke or pass past your opponents, and hold it in their goal to score! No team damage, and you can go through walls the same color as you. First team to 3 scores wins!''
+*{{gamemodes|brawlball|16px}}
+*6 players
+*Score to win: 3
+*5:00 minutes, max 0:30 minute rounds
+*Teams enabled (3v3)
+|double ko mania=
+{{!}}-
+{{!}} '''Double KO Mania!'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Square off against your opponents in this hard hitting 2v2 KO fest! Chew through your foes' 5 Stocks with damage cranked up to an insane 300%! Cover your ally with no team damage and send your challenger into orbit before they know what hit them. First to KO both opponents 5 times wins!''
+*{{gamemodes|stock|16px}}
+*4 players
+*5 lives
+*8:00 minutes
+*300% damage
+*Teams enabled (2v2)
+|3v3 beachbrawl=
+{{!}}-
+{{!}} '''3v3 Beachbrawl'''
+{{!}} [[File:ModeThumb Beachbrawl.jpg|200px]]
+{{!}}''Time for a Beachbrawl party! What better way to beat the heat than throwing water balloons at beach balls to score goals in a 3v3 Summer throw down? Get 1 point for each beach ball you get past the opposing team's goal. Most points at the end of 2 minutes wins!''
+*{{gamemodes|beachbrawl|16px}}
+*6 players
+*2:00 minutes
+*Teams enabled (3v3)
+|water balloon fight=
+{{!}}-
+{{!}} '''Water Balloon Fight!'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''When it's too hot for snowballs break out the water balloons! Two teams of 2 face off in this 3 minute 150% damage showdown! Score 1 point for hitting someone with a water balloon, 3 points for getting a KO, and lose 1 point for being KO'd. The team with the most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*6 players
+*3:00 minutes
+*150% damage
+*Teams enabled (3v3)
+|water bomb bash=
+{{!}}-
+{{!}} '''Water Bomb Bash!'''
+{{!}} [[File:ModeThumb Water Bomb Bash!.jpg|200px]]
+{{!}}''Water balloons are old news, this 6 person Free-for-all calls for something... Bigger. Break out new giant water bombs in this crazy 200% damage showdown! Score 2 points for getting a KO, lose 1 for getting KO'd. Watch out for those bombs!''
+*{{gamemodes|timed|16px}}
+*6 players
+*3:00 minutes
+*200% damage
+|platform kings=
+{{!}}-
+{{!}} '''Platform Kings!'''
+{{!}} [[File:ModeThumb Color Platforms.jpg|200px]]
+{{!}}''Who are the kings of the platform? 2v2 teams face off on a map with 6 platforms. Stay on the red platform to score points. Stun your opponents to keep them from scoring. Watch out, the platform switches around the map! The team with the most points at the end of 2 minutes wins!''
+*{{gamemodes|color platforms|16px}}
+*4 players
+*2:00 minutes
+*Teams enabled (2v2)
+|team strikeout=
+{{!}}-
+{{!}} '''Team Strikeout!'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''You and a teammate each pick your best 3 Legends and face off against an enemy team. 3 Stocks for each player, run through your list of Legends as you lose Stocks. KO all Legends on the enemy team to win!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|3v3 battle=
+{{!}}-
+{{!}} '''3v3 Battle!'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Queue solo or as a team for 3v3 brawlin' action! No partner? Don't worry, we'll find someone to fight with you! No team damage, no ladder anxiety, just relax and enjoy Brawlhalla in teams. First team to KO each opponent 3 times wins!''
+*{{gamemodes|stock|16px}}
+*6 players
+*3 lives
+*8:00 minutes
+*Teams enabled (3v3)
+|switchcraft 2v2=
+{{!}}-
+{{!}} '''Switchcraft 2v2'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Even more Switchcraft mayhem! Get a teammate and jump into this crazy 2v2 Stock battle. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle equally scrambled opponents and try to knock out all 6 of their Stocks first to win!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|double frost=
+{{!}}-
+{{!}} '''Double Frost!'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''Celebrate the holidays and get your team Snowbrawl on at 150% damage! Grab a partner and face off against another team in this 3 minute 2v2. Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+*150% damage
+*Teams enabled (2v2)
+|ghost brawl=
+{{!}}-
+{{!}} '''Ghost Brawl'''
+{{!}} [[File:ModeThumb Ghost Brawl.jpg|200px]]
+{{!}}''Quickly go invisible when you don't use any powers in this tense game mode. Watch out, your opponent has the same ability! Stay invisible too long or use any power (including dodge), and you're visible once more. Outsmart and outmaneuver your enemy in this 200% damage, 3 Stock match. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+*200% damage
+|ghost brawl 2v2=
+{{!}}-
+{{!}} '''Ghost Brawl 2v2'''
+{{!}} [[File:ModeThumb Ghost Brawl 2v2.jpg|200px]]
+{{!}}''Quickly go invisible when you don't use any powers in this tense game mode. Watch out, your opponents have the same ability! Stay invisible too long or use any power (including dodge), and you're visible once more. Outsmart and outmaneuver your enemies in this 200% damage, 3 Stock, no team damage, 2v2 match. First to 6 KOs wins!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*200% damage
+*Teams enabled (2v2)
+|scum & villainy strikeout=
+{{!}}-
+{{!}} '''Scum & Villainy Strikeout'''
+{{!}} [[File:ModeThumb Scum & Villainy Strikeout.jpg|200px]]
+{{!}}''Pick your 5 favorite Legends and shoot first in this intense 1v1 200% damage brawl under the twin suns! Gadgets spawn at a higher rate, and when you lose a stock, the next Legend in your list spawns in ready to fight. KO your opponent 5 times to win!''
+*{{gamemodes|stock|16px}}
+*2 players
+*5 lives
+*8:00 minutes
+*300% damage
+|kung foot=
+{{!}}-
+{{!}} '''Kung Foot'''
+{{!}} [[File:ModeThumb Kung Foot.jpg|200px]]
+{{!}}''High five your partner and get ready to compete Rayman style! In Kung Foot anything goes as you kick, bash, and slash the ball through the opposing team's goal in this 2v2 newcomer to the Brawlhalla sports scene. First team to score 5 goals wins!''
+*{{gamemodes|kung foot|16px}}
+*4 players
+*Score to win: 5
+*5:00 minutes
+*Teams enabled (2v2)
+|ghosts in the terminus=
+{{!}}-
+{{!}} '''Ghosts in the Terminus'''
+{{!}} [[File:ModeThumb Ghosts in the Terminus.jpg|200px]]
+{{!}}''Phase in and out of visibility as you fight for your escape from Loki's prison! Queue up against 2 other Players in a 3 minute FFA game with 300% damage. Score 2 points for KOing an enemy, lose 1 point for being KO'd. All while you and your opponents go invisible when not using powers!''
+*{{gamemodes|timed|16px}}
+*3 players
+*3:00 minutes
+*300% damage
+|horde=
+{{!}}-
+{{!}} '''Horde'''
+{{!}} [[File:ModeThumb Horde.jpg|200px]]
+{{!}}''Team up with 3 friends and defend the gates of the Great Hall against an army of demons! How many waves can you hold off? Do well enough and Gruagach might join the fight against you!''
+*{{gamemodes|horde|16px}}
+*4 players
+*15:00 minutes
+|buddy=
+{{!}}-
+{{!}} '''Buddy'''
+{{!}} [[File:ModeThumb Buddy.jpg|200px]]
+{{!}}''Come on grab your friend in this mathematical mode! Pick the ultimate 2v2 team and play as both Legends at the same time! Build up enough damage on your opponent's two Legends to bounce them around into oblivion. Hold Down or Dodge to help position your dudes. Score the most KOs to win!''
+*{{gamemodes|buddy|16px}}
+*2 players
+*3:00 minutes
+|brawldown=
+{{!}}-
+{{!}} '''Brawldown'''
+{{!}} [[File:ModeThumb Brawldown.jpg|200px]]
+{{!}}''Step into the ring with your tag team partner for a 2v2 no holds barred match! Keep the momentum going by bouncing yourself or your opponents off the ropes. Stun your target with a folding chair or knock them into a table for heavy damage. KO your opponents 3 times each to win!''
+*{{gamemodes|brawldown|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|capture the flag=
+{{!}}-
+{{!}} '''Capture the Flag'''
+{{!}} [[File:ModeThumb Capture the Flag.jpg|200px]]
+{{!}}''Protect your team's flag while stealing the enemy team's flag in this 3v3 game mode for control of Demon Island! Unite both flags at your base to score a point. Watch out! You'll drop the enemy's flag if you take damage. Players can return their flags to their base by touching it. First team to 3 points wins!''
+*{{gamemodes|capture the flag|16px}}
+*6 players
+*Score to win: 3
+*8:00 minutes
+*Teams enabled (3v3)
+|bubble tag=
+{{!}}-
+{{!}} '''Bubble Tag'''
+{{!}} [[File:ModeThumb Bubble Tag.jpg|200px]]
+{{!}}''Battle like the Crystal Gems! Strike your opponents to capture them in Gem Bubbles. Bubbled players can't attack and have limited movement, but you can save the day by tagging your teammates to free them. Capture the entire enemy team to score a point. The first team to 5 points wins!''
+*{{gamemodes|bubble tag|16px}}
+*6 players
+*Score to win: 5
+*5:00 minutes, max 1:30 minute rounds
+*Teams enabled (3v3)
+|3v3 kung foot=
+{{!}}-
+{{!}} '''3v3 Kung Foot'''
+{{!}} [[File:ModeThumb Kung Foot.jpg|200px]]
+{{!}}''Compete in stellar Rayman formation in a retrowave neon landscape! In Kung Foot anything goes as you kick, bash, and slash the ball through the opposing team's goal in this 3v3 digital sports scene. First team to score 5 goals wins!''
+*{{gamemodes|kung foot|16px}}
+*6 players
+*Score to win: 7
+*5:00 minutes
+*Teams enabled (3v3)
+|demolition basketball=
+{{!}}-
+{{!}} '''Demolition Basketball'''
+{{!}} [[File:ModeThumb Bombsketball.jpg|200px]]
+*{{gamemodes|bombsketball|16px}}
+*6 players
+*2:00 minutes
+*Teams enabled (3v3)
+|temple climb=
+{{!}}-
+{{!}} '''Temple Climb'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Walk the line between myths and truth like Lara Croft! Survive the treacherous climb through this 3 minute, 4 player free-for-all match. Beware! The temple is filled with traps, so make your own luck by activating the pressure plates to turn them on your opponents. The player with the highest score wins!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+|2v2 temple climb=
+{{!}}-
+{{!}} '''2v2 Temple Climb'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Walk the line between myths and truth like Lara Croft! Pick a teammate and survive the treacherous climb through this 3 minute, 2v2 match. Beware! The temple is filled with traps, so make your own luck by activating the pressure plates to turn them on the opposing team. The team with the highest score wins!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*Teams enabled (2v2)
+|morph=
+{{!}}-
+{{!}} '''Morph'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''It's hero time in this 1v1, 3 stock transforming battle! Choose one weapon each from 3 of your favorite Legends in character select. Activate your powers like the Omnitrix with the throw button to change forms. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|2v2 morph=
+{{!}}-
+{{!}} '''2v2 Morph'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''It's hero time in this 2v2, 3 stock transforming battle! Choose one weapon each from 3 of your favorite Legends in character select. Activate your powers like the Omnitrix with the throw button to change forms. Weapons are always equipped and cannot be picked up or thrown. Last team standing wins!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|synthwave kung foot=
+{{!}}-
+{{!}} '''Synthwave Kung Foot'''
+{{!}} [[File:ModeThumb Kung Foot.jpg|200px]]
+{{!}}''Compete in stellar Rayman formation in a retrowave neon landscape! In Kung Foot anything goes as you kick, bash, and slash the ball through the opposing team's goal in this 2v2 digital sports scene. First team to score 5 goals wins!''
+*{{gamemodes|kung foot|16px}}
+*4 players
+*Score to win: 5
+*5:00 minutes
+*Teams enabled (2v2)
+|walker attack=
+{{!}}-
+{{!}} '''Walker Attack!'''
+{{!}} [[File:ModeThumb Walker Attack!.jpg|200px]]
+{{!}}''Survive the walker onslaught! Battle through loads of walker opponents that get harder and smarter as time passes. Beware, the longer you fight the more walkers appear! Earn points by scoring KOs. Survive as long as you can to win the most points!''
+*{{gamemodes|walker attack!|16px}}
+*2 players
+*3 lives
+*15:00 minutes
+|jötunn winter brawlball=
+{{!}}-
+{{!}} '''Jötunn Winter Brawlball'''
+{{!}} [[File:ModeThumb Brawlball.jpg|200px]]
+{{!}}''Get ready for some 3v3 Brawlball! Grab a Jötunn, Asgardian, or a Legend for an epic battle at the world's end. Hit the Arena, snag the ball, juke or pass past your opponents, and hold it in their goal to score! No team damage, and you can go through walls the same color as you. First team to 5 scores wins!''
+*{{gamemodes|brawlball|16px}}
+*6 players
+*Score to win: 5
+*15:00 minutes, max 0:45 minute rounds
+*Teams enabled (3v3)
+|crew battle=
+{{!}}-
+{{!}} '''Crew Battle'''
+{{!}} [[File:ModeThumb Crew Battle.jpg|200px]]
+{{!}}''Get ready for the ultimate Crew Battle game mode! Get the team together for an epic 2v2 match at 200% damage. When you lose a stock, the next team member in your crew spawns in ready to fight. Be the last team standing and come out on top!''
+*{{gamemodes|crew battle|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*200% damage
+*Teams enabled (2v2)
+|crew battle=
+{{!}}-
+{{!}} '''Crew Battle'''
+{{!}} [[File:ModeThumb Crew Battle.jpg|200px]]
+{{!}}''Cowabunga! Get ready for the ultimate Crew Battle game mode! Get the team together and unleash your inner Turtle Power for a totally epic 2v2 match at 200% damage. When you lose a stock, the next team member in your crew spawns in ready to fight. Be the first team to come out on top!''
+*{{gamemodes|crew battle|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*200% damage
+*Teams enabled (2v2)
+|ghosts in the fortress=
+{{!}}-
+{{!}} '''Ghosts in the Fortress'''
+{{!}} [[File:ModeThumb Ghosts in the Fortress.jpg|200px]]
+{{!}}''Phase in and out of visibility to take advantage in the battle at the Fortress of the Lions! Queue up with a team mate in this intense 300% damage match while you and your opponents go invisible when not using powers. Last team standing wins!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*300% damage
+*Teams enabled (2v2)
+|siege of lions=
+{{!}}-
+{{!}} '''Siege of Lions'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''The Fortress is under siege, so prepare for battle! Survive the treacherous climb through this 3 minute, 4 player free-for-all match. Beware! The fortress is filled with traps, so make your own luck by activating the pressure plates to turn them on your opponents. The player with the highest score wins!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+|street brawl=
+{{!}}-
+{{!}} '''Street Brawl'''
+{{!}} [[File:ModeThumb Street Brawl.jpg|200px]]
+{{!}}''Get ready for action as another fight is coming your way! Choose your fighter and brawl in this 1v1, 8-minute match. Go for broke and knock out your opponents into oblivion. Defeat your opponent first in this stamina mode to win!''
+*{{gamemodes|street brawl|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|ghost bubble tag=
+{{!}}-
+{{!}} '''Ghost Bubble Tag'''
+{{!}} [[File:ModeThumb Ghost Bubble Tag.jpg|200px]]
+{{!}}''Phase in and out of visibility as you strike your opponents to capture them in bubbles in this intergalactic war! You and your opponents go invisible when not using powers. Bubbled players can't attack and have limited movement, but you can free them by tagging them. Capture the entire enemy team to score a point. The first team to 5 points wins!''
+*{{gamemodes|bubble tag|16px}}
+*4 players
+*Score to win: 5
+*5:00 minutes, max 1:30 minute rounds
+*Teams enabled (2v2)
+|arashikage showdown=
+{{!}}-
+{{!}} '''Arashikage Showdown'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Knowing is half the battle! Strike your opponents in this 3 minute, 4 player free-for-all match. Beware! The dojo is filled with traps, so make your own luck by activating the pressure plates to turn them on your opponents. The player with the highest score wins!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+|street brawl=
+{{!}}-
+{{!}} '''Street Brawl'''
+{{!}} [[File:ModeThumb Street Brawl.jpg|200px]]
+{{!}}''Get ready for action as another fight is coming your way! Choose your fighter and brawl in this 1v1, 8-minute match on the Bustling Side Street. Watch out for the side walls as they slide away to help knock your opponents into oblivion. Defeat your opponent first in this stamina mode to win''
+*{{gamemodes|street brawl|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|fabled city scuffle=
+{{!}}-
+{{!}} '''Fabled City Scuffle'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Battle within the Fabled City in this 3 minute, 6 player free-for-all match! Navigate the terrain of the giant swords and come out on top. Score 2 points for KOing an enemy, lose 1 point for being KO'd. Score the most points to win!''
+*{{gamemodes|timed|16px}}
+*6 players
+*3:00 minutes
+|fangwild switchcraft=
+{{!}}-
+{{!}} '''Fangwild Switchcraft'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Switchcraft just got even more chaotic! Form a tactical trio and jump into a crazy 3v3 Stock battle. Pick 3 Legends and watch their Weapons and Sigs get jumbled up. Battle an equally scrambled team and knock out all 9 of their Stocks first to win!''
+*{{gamemodes|stock|16px}}
+*6 players
+*3 lives
+*8:00 minutes
+*200% damage
+*Teams enabled (3v3)
+|rooftop rumble=
+{{!}}-
+{{!}} '''Rooftop Rumble'''
+{{!}} [[File:ModeThumb Bounty.jpg|200px]]
+{{!}}''Welcome, recruits! Abstergo Industries is thrilled for you to take part in this new module of the Animi Training Program. In this 3-minute FFA mode, the first person to get a KO becomes the Bounty and will take 2x Damage until they are KO-d. Whoever KOs the Bounty scores more points and becomes the new Bounty. Score the most points in the allotted time to win!''
+*{{gamemodes|bounty|16px}}
+*4 players
+*3:00 minutes
+|ghost rooftop rumble=
+{{!}}-
+{{!}} '''Ghost Rooftop Rumble'''
+{{!}} [[File:ModeThumb Ghost Rooftop Rumble.jpg|200px]]
+{{!}}''In this 3-minute FFA mode, the first person to get a KO becomes the Bounty and will take 2x Damage until they are KO-d. Whoever KOs the Bounty scores more points and becomes the new Bounty. Ghost Brawl rules are in effect – players are only visible using powers or if they are the Bounty. Score the most points in the allotted time to win!''
+*{{gamemodes|bounty|16px}}
+*4 players
+*3:00 minutes
+|bounty hunting=
+{{!}}-
+{{!}} '''Bounty Hunting'''
+{{!}} [[File:ModeThumb Bounty.jpg|200px]]
+{{!}}''Track down the score of a lifetime in this timed, 200% FFA mode. The first person to get a KO becomes the Bounty and will take 2x Damage until they are KO-d. Whoever KOs the Bounty scores more points and becomes the new Bounty. Score the most points in 3 minutes to win!''
+*{{gamemodes|bounty|16px}}
+*4 players
+*3:00 minutes
+*200% damage
+|florence brawl=
+{{!}}-
+{{!}} '''Florence Brawl'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Welcome, recruits! Abstergo Industries is thrilled for you to take part in this new module of the Animi Training Program. These colorful Legends have had their damage increased to 200% in this 3-minute FFA mode. Score the most points in the allotted time to win!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*200% damage
+|theed city skirmish=
+{{!}}-
+{{!}} '''Theed City Skirmish'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Brawl atop long platforms over endless chasms in an epic 3v3 Brawl of the Fates! Fight like the Jedi and Naboo forces fought back against the Trade Federation invaders, using the laser gates to your advantage. Knock out all 9 of the enemy's stocks to win!''
+*{{gamemodes|stock|16px}}
+*6 players
+*3 lives
+*8:00 minutes
+*Teams enabled (3v3)
+|cliffside scuffle=
+{{!}}-
+{{!}} '''Cliffside Scuffle'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Battle outside the Western Air Temple in this 3 minute, 6 player, 300% Damage free-for-all match! Brace yourself for the windy skies and rocky cliffs and come out on top. Score 2 points for KOing an enemy, lose 1 point for being KO'd. Score the most points to win!''
+*{{gamemodes|timed|16px}}
+*6 players
+*3:00 minutes
+*300% damage
+|avatar state shift=
+{{!}}-
+{{!}} '''Avatar State Shift'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Use your mastery of all four elements and the spirits of Avatars before in this 1v1, 3 stock transforming battle! First choose 3 Legends and one Weapon from each. Then, switch Legends in battle with the throw button. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|spirit world brawl=
+{{!}}-
+{{!}} '''Spirit World Brawl'''
+{{!}} [[File:ModeThumb Spirit World Brawl.jpg|200px]]
+{{!}}''Find enlightenment in a plane between the Spirit and physical worlds. Learn to see without your sense of sight and work together with a teammate. Your two opponents will be invisible when not using powers. Try to spot them while also staying hidden. Knock out all the opposing team's stocks to win!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|gamemaster’s doom=
+{{!}}-
+{{!}} '''Gamemaster’s Doom'''
+{{!}} [[File:ModeThumb Dice & Destruction.jpg|200px]]
+{{!}}''Be prepared for anything in this 3 minute, 4 player Free-for-All match! Withstand the dangerous, random conditions set by the Gamemaster’s dice roll as you work to KO your opponents. Score 2 points for KOing an enemy, lose 1 point for being KO'd. Score the most points to win!''
+*{{gamemodes|dice & destruction|16px}}
+*4 players
+*3:00 minutes
+|dwarven duel=
+{{!}}-
+{{!}} '''Dwarven Duel'''
+{{!}} [[File:ModeThumb Dice & Destruction.jpg|200px]]
+{{!}}''Prove you can withstand the harsh conditions of the Fighting Pit built inside the old mine! The Ivaldi's dice roll will determine the hazard in this 3 minute 1v1 match. Score 2 points for every KO and lose 1 point for being KO'd. The brawler with the most points wins!''
+*{{gamemodes|dice & destruction|16px}}
+*2 players
+*3:00 minutes
+|scruffy’s switchcraft=
+{{!}}-
+{{!}} '''Scruffy’s Switchcraft'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''It’s a battle of fusion spells on the docks of the Shorwind Fishing Port! Pick 3 Legends then watch their Weapons and Signatures get jumbled up. Battle an equally scrambled opponent and the last one standing wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|scruffy’s strikeout=
+{{!}}-
+{{!}} '''Scruffy’s Strikeout'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Face off against a fierce party while Scruffy stands guard outside the Salty Sailor! Find another adventurer and pick your best 3 Legends to challenge your enemy party. Cycle through your chosen Legends as you lose stocks. KO all Legends in the enemy party to win!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|volleybrawl triples=
+{{!}}-
+{{!}} '''Volleybrawl Triples'''
+{{!}} [[File:ModeThumb Volleybrawl.jpg|200px]]
+{{!}}''Hit the sands! Team up for an epic 3v3 game of Volleybrawl. Hit the ball to change it to your team's color. If it touches the opposing team's floor while it's your color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
+*{{gamemodes|volleybrawl|16px}}
+*6 players
+*3 lives
+*8:00 minutes
+*Teams enabled (3v3)
+|tekken brawl=
+{{!}}-
+{{!}} '''TEKKEN Brawl'''
+{{!}} [[File:ModeThumb Volleybrawl.jpg|200px]]
+{{!}}''Pair up and hit the Mishima Dojo for a 2v2 game of TEKKEN  Brawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
+*{{gamemodes|volleybrawl|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|volleybrawl face-off=
+{{!}}-
+{{!}} '''Volleybrawl Face-off'''
+{{!}} [[File:ModeThumb Volleybrawl.jpg|200px]]
+{{!}}''SPIKE! Get ready for a high stakes 1v1 game of Volleybrawl! Hit the ball to change it to your color. Deal damage to your opponent by getting the ball to touch the floor on their side while it's your color. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
+*{{gamemodes|volleybrawl|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+*Teams enabled (1v1)
+|oops! all boomerangs=
+{{!}}-
+{{!}} '''Oops! All Boomerangs'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Oh dear, so many Boomerangs! Test your skills with this nimble and versatile gadget that (almost) always finds its way home. Boomerangs will spawn as often as weapons in this intense 4 player FFA match. Damage has also been cranked up to 200%. Score the most points in 3 minutes to win!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*200% damage
+|2v2 bombsketball=
+{{!}}-
+{{!}} '''2v2 Bombsketball'''
+{{!}} [[File:ModeThumb Bombsketball.jpg|200px]]
+{{!}}''Layup! Grab a bomb and charge the goal in this upgraded 2v2 Bombsketball match! Score points for your team by throwing bombs at the opposing goals. The team with the most points after the 2 minute timer is up, wins!''
+*{{gamemodes|bombsketball|16px}}
+*4 players
+*2:00 minutes
+*Teams enabled (2v2)
+|oddbrawl mania=
+{{!}}-
+{{!}} '''Oddbrawl Mania'''
+{{!}} [[File:ModeThumb Oddbrawl.jpg|200px]]
+{{!}}''Play ball! Hold the Necro Ball to score points in this 4-player free for all match. Earn more points by landing attacks with the Necro Ball. The first player to reach 100 points wins!''
+*{{gamemodes|oddbrawl|16px}}
+*4 players
+*Score to win: 100
+*4:00 minutes
+|team oddbrawl=
+{{!}}-
+{{!}} '''Team Oddbrawl'''
+{{!}} [[File:ModeThumb Oddbrawl.jpg|200px]]
+{{!}}''Form teams, protect your carrier, and play ball! Hold the Necro Ball to score points for your team in this 2v2 match up. Players can earn more points by landing attacks with the Necro Ball. The team to reach 100 points first wins!''
+*{{gamemodes|oddbrawl|16px}}
+*4 players
+*Score to win: 100
+*4:00 minutes
+*Teams enabled (2v2)
+|terminus-plosions=
+{{!}}-
+{{!}} '''Terminus-plosions!'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Loki lets chaos reign in this highly explosive new FFA mode! Bouncy Bombs and Pressure Mines spawn as often as Weapons. Use these gadgets to gain the upper hand and score points by getting KOs before time runs out!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*200% damage
+|mishima dojo skirmish=
+{{!}}-
+{{!}} '''Mishima Dojo Skirmish'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Hone your skills inside of the Mishima Dojo! Choose one weapon each from 3 of your favorite Legends in a 3 stock 1v1 battle. Use the Weapon throw button to change forms in combat. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|street brawl relay=
+{{!}}-
+{{!}} '''Street Brawl Relay'''
+{{!}} [[File:ModeThumb Street Brawl.jpg|200px]]
+{{!}}''The King of Iron Fist Tournament and Grand Tournament Collide! Choose 3 fighters and brawl in this 1v1, 8-minute match. New fighters tag in when your health bar is depleted. First to 3 KO's wins!''
+*{{gamemodes|street brawl|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|tekken brawl=
+{{!}}-
+{{!}} '''TEKKEN Brawl'''
+{{!}} [[File:ModeThumb Volleybrawl.jpg|200px]]
+{{!}}''Pair up and hit the Mishima Dojo for a 2v2 game of TEKKEN  Brawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
+*{{gamemodes|volleybrawl|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|jötunheimr's doom=
+{{!}}-
+{{!}} '''Jötunheimr's Doom'''
+{{!}} [[File:ModeThumb Dice & Destruction.jpg|200px]]
+{{!}}''Stand against the best in this 3 minute 2v2 match! Brave the dangerous, random conditions determined by the Ice Giant's dice roll. Score 2 points for every KO and lose 1 point for being KO'd. The jötunn with the most points wins!''
+*{{gamemodes|dice & destruction|16px}}
+*4 players
+*3:00 minutes
+*Teams enabled (2v2)
+|bubble tag relay=
+{{!}}-
+{{!}} '''Bubble Tag Relay'''
+{{!}} [[File:ModeThumb Bubble Tag.jpg|200px]]
+{{!}}''Are you ready, brawlers? Find a teammate and pick your best three Legends and face off against an enemy duo. Strike your opponents to entrap them in a Bubble. Bubbled players can’t attack and have limited movement. Your Legend swaps out as you lose stocks. Capture the entire enemy team to score a point. The first team to 5 points wins!''
+*{{gamemodes|bubble tag|16px}}
+*4 players
+*Score to win: 5
+*5:00 minutes, max 1:30 minute rounds
+*Teams enabled (2v2)
+|brawl of the heroes=
+{{!}}-
+{{!}} '''Brawl of the Heroes'''
+{{!}} [[File:ModeThumb Brawl of the Heroes.jpg|200px]]
+{{!}}''Take the high ground in an epic 1v1 duel above the fires of Mustafar! Beware the rising lava as you battle. Knock out all of your opponent's stocks to win!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|apocalyptic target=
+{{!}}-
+{{!}} '''Apocalyptic Target'''
+{{!}} [[File:ModeThumb Bounty.jpg|200px]]
+{{!}}''To the winner goes the spoils! Score points in this 6-player free-for-all by KO-ing the target or your fellow scavengers. KO-ing the target grants more points, but places the target on YOU. Use the bouncy bombs around the crumbling terrain to gain the upper hand. Score the most points to win!''
+*{{gamemodes|bounty|16px}}
+*6 players
+*3:00 minutes
+*200% damage
+|brawl of the fates=
+{{!}}-
+{{!}} '''Brawl of the Fates'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Stand together like Qui-Gon Jinn & Obi-Wan Kenobi in a fateful duel against Darth Maul! This Sith apprentice is well-trained in the Jedi arts, so you'll have to brawl in sync like a Master & Padawan to defeat him. Now on the new Map: Small Theed Generator!''
+*{{gamemodes|stock|16px}}
+*3 players
+*3 lives
+*8:00 minutes
+*Teams enabled (1v1)
+|rule of 2v2=
+{{!}}-
+{{!}} '''Rule of 2v2'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Always two there are. No more, no less. Brawl together like a Jedi Master & Padawan fighting against a Sith Lord and their Apprentice. Use the long platforms and laser gates of Theed City's Power Generator to gain the upper hand. Knock out all 6 of the enemy's stocks to win!''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+|water balloon fight=
+{{!}}-
+{{!}} '''Water Balloon Fight!'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''When it's too hot for snowballs break out the water balloons! Two teams of 2 face off in this 3 minute 150% damage showdown! Score 1 point for hitting someone with a water balloon, 3 points for getting a KO, and lose 1 point for being KO'd. The team with the most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+*150% damage
+|starlight snowbrawl scuffle=
+{{!}}-
+{{!}} '''Starlight Snowbrawl Scuffle'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''Cool off with your fellow Starlight Champions in this 4 player, 3 minute free-for-all! Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+|starlight selection trials=
+{{!}}-
+{{!}} '''Starlight Selection Trials'''
+{{!}} [[File:ModeThumb Dice & Destruction.jpg|200px]]
+{{!}}''Prove your magical abilities in this 3 minute, 6 player Free-for-All match! Withstand the dangerous, random conditions determined by Hoshi's mischievous dice roll.  KO your opponents to earn 2 points. Lose 1 point for being KO'd. Score the most points to win!''
+*{{gamemodes|dice & destruction|16px}}
+*6 players
+*3:00 minutes
+|three for all relay=
+{{!}}-
+{{!}} '''Three For All Relay'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''Are you ready, brawlers? Find a teammate and pick your best three Legends and face off against an enemy duo. Strike your opponents to entrap them in a Bubble. Bubbled players can’t attack and have limited movement. Your Legend swaps out as you lose stocks. Capture the entire enemy team to score a point. The first team to 5 points wins!''
+*{{gamemodes|timed|16px}}
+*3 players
+*3:00 minutes
+|lichlord's relay=
+{{!}}-
+{{!}} '''Lichlord's Relay'''
+{{!}} [[File:ModeThumb Timed.jpg|200px]]
+{{!}}''The Lich King seeks out his gladiators! Pick your best three Legends and face off against your opponents in this Free for All. Your Legend swaps out as you lose stocks. KO your foes to earn points. The player with the most points at the end of the match wins Azoth's favor!''
+*{{gamemodes|timed|16px}}
+*3 players
+*3:00 minutes
+|batavian ghost brawl=
+{{!}}-
+{{!}} '''Batavian Ghost Brawl'''
+{{!}} [[File:ModeThumb Batavian Ghost Brawl.jpg|200px]]
+{{!}}''Phase in and out of visibility as you fight to keep your opponents from escaping Castle Batavia! Queue up against 3 other Players in this 3-minute FFA game with 300% damage. Score 2 points for KO-ing an enemy, lose 1 point for being KO'd. All while you and your opponents go invisible when not using powers!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*300% damage
+|spooky switchcraft=
+{{!}}-
+{{!}} '''Spooky Switchcraft'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Magyar invites you into a world of optical illusion in this 1v1 Switchcraft Mode. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle an equally scrambled opponent and try to knock out all 3 of their Stocks first to win!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|absolute mayhem=
+{{!}}-
+{{!}} '''Absolute Mayhem!'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''It's Random Gadgets in this 3 minute 4 player Free-for-All! Score 1 point for hitting someone with a Gadget and 3 points for getting a KO. The brawler with the most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+|bouncy bomb mayhem=
+{{!}}-
+{{!}} '''Bouncy Bomb Mayhem'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''Get ready for bouncy & explosive mayhem in this 3 minute 4 player Free-for-All! Score 1 point for hitting someone with a Gadget and 3 points for getting a KO. The brawler with the most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+|boomerang mayhem=
+{{!}}-
+{{!}} '''Boomerang Mayhem'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''What gets thrown must come back in this 3 minute 4 player mode! Score 1 point for hitting someone with a Gadget and 3 points for getting a KO. The brawler with the most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+|bomb mayhem=
+{{!}}-
+{{!}} '''Bomb Mayhem'''
+{{!}} [[File:ModeThumb Gadget Mayhem.jpg|200px]]
+{{!}}''Get ready for explosive mayhem in this 3 minute 4 player Free-for-All! Score 1 point for hitting someone with a Gadget and 3 points for getting a KO. The brawler with the most points at the end wins!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+|jötunn winter kung foot=
+{{!}}-
+{{!}} '''Jötunn Winter Kung Foot'''
+{{!}} [[File:ModeThumb Kung Foot.jpg|200px]]
+{{!}}''Get ready for some snowy 2v2 Kung Foot! Grab a Jötunn, Asgardian, or a Legend for an epic battle at the world's end. In Kung Foot anything goes as you kick, bash, and slash the ball through the opposing team's goal in the World's End Arena. First team to score 5 goals wins!''
+*{{gamemodes|kung foot|16px}}
+*4 players
+*Score to win: 5
+*5:00 minutes
+*Teams enabled (2v2)
+|jikoku ghost duel=
+{{!}}-
+{{!}} '''Jikoku Ghost Duel'''
+{{!}} [[File:ModeThumb Jikoku Ghost Duel.jpg|200px]]
+{{!}}''Who will prove the superior warrior? Hide in the shadows when you don't use any powers in this stealthy game mode! Watch out, your opponent has the same ability, so stay hidden for too long or use any power (including dodge), and you're visible once more. Outsmart and outmaneuver your enemy in this 200% damage, 3 Stock match. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+|hidden in the walls=
+{{!}}-
+{{!}} '''Hidden in the Walls'''
+{{!}} [[File:ModeThumb Hidden in the Walls.jpg|200px]]
+{{!}}''Beware enemies hidden inside Wall Maria! Quickly go invisible when you don’t use any powers in this tense game mode. Stay invisible too long, or use any power (including dodge) and you’re visible once more.''
+*{{gamemodes|stock|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*200% damage
+*Teams enabled (2v2)
+|shiganshina clash=
+{{!}}-
+{{!}} '''Shiganshina Clash'''
+{{!}} [[File:ModeThumb Shiganshina Clash.jpg|200px]]
+{{!}}''Defend Wall Rose in this 3 minute, 3v3 match! Withstand the dangerous, random conditions set by the Titan’s roll as you work to KO your opponents from all sides. Score 2 points for KOing an enemy, lose 1 point for being KO'd. Score the most points to win!''
+*{{gamemodes|dice & destruction|16px}}
+*6 players
+*3:00 minutes
+*Teams enabled (3v3)
+|mordex boss battle=
+{{!}}-
+{{!}} '''Mordex Boss Battle'''
+{{!}} [[File:ModeThumb Stock.jpg|200px]]
+{{!}}''Stand with the Order of the Exalted Lion against the wiles of the turncoat Mordex, who has finally amassed the power of the pack! Work together to take down this lupine menace once and for all!''
+*{{gamemodes|stock|16px}}
+*3 players
+*3 lives
+*8:00 minutes
+*Teams enabled (1v1)
+}}</includeonly><noinclude>
+{{doc}}
+{{BOTW/top}}
+{{BOTW/bottom}}
+
+[[Category:Templates]]</noinclude>

@@ -15,5 +15,7 @@ public sealed partial class WriterData
     public required ChanceBoxTypes ChanceBoxTypes { get; init; }
     public required ColorSchemeTypes ColorSchemeTypes { get; init; }
     public required LevelTypes LevelTypes { get; init; }
+    public required GameModeTypes GameModeTypes { get; init; }
+    public required ScoringTypes ScoringTypes { get; init; }
     public required LangFile LangFile { get; init; }
 }

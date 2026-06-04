@@ -145,6 +145,14 @@ ColorSchemeTypes colorSchemeTypes = new(colorSchemeTypesContent);
 string levelTypesContent = files["LevelTypes.xml"];
 LevelTypes levelTypes = new(levelTypesContent);
 
+// Gamemode types
+string gamemodeTypesContent = files["GameModeTypes.xml"];
+GameModeTypes gameModeTypes = new(gamemodeTypesContent);
+
+// Scoring types
+string scoringTypesContent = files["ScoringTypes.xml"];
+ScoringTypes scoringTypes = new(scoringTypesContent);
+
 WriterData data = new()
 {
     CostumeTypes = costumeTypes,
@@ -157,6 +165,8 @@ WriterData data = new()
     ChanceBoxTypes = chanceBoxTypes,
     ColorSchemeTypes = colorSchemeTypes,
     LevelTypes = levelTypes,
+    GameModeTypes = gameModeTypes,
+    ScoringTypes = scoringTypes,
     LangFile = langFile,
 };
 
@@ -214,5 +224,8 @@ skinsWriter.WriteTo("outputs/Skins.mediawiki");
 MapColorExclusionWriter mapColorExclusionWriter = new(data);
 Directory.CreateDirectory("outputs/Template Map_Color_Exclusion");
 mapColorExclusionWriter.WriteTo("outputs/Template Map_Color_Exclusion/List.mediawiki");
+
+BOTWWriter botwWriter = new(data);
+botwWriter.WriteTo("outputs/Template BOTW.mediawiki");
 
 #endregion
