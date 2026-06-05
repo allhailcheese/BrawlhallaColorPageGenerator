@@ -24,6 +24,7 @@ public sealed class BOTWWriter(WriterData data)
             string scoringTypeName = data.LangFile.Entries[scoringType.DisplayNameKey];
 
             // key
+            string gamemodeNameKey = gamemodeName.ToLowerInvariant().TrimEnd('!').Replace('’', '\'');
             writer.Write('|');
             writer.Write(gamemodeName.ToLowerInvariant().TrimEnd('!'));
             writer.WriteLine('=');
@@ -35,7 +36,8 @@ public sealed class BOTWWriter(WriterData data)
             writer.WriteLine("'''");
             // thumbnail
             writer.Write("{{!}} [[File:BOTW ");
-            writer.Write(gamemodeName);
+            string thumbnailName = gamemodeName.Replace('’', '\'');
+            writer.Write(thumbnailName);
             writer.WriteLine(".jpg|200px]]");
             // description
             if (gamemode.DescriptionKey is not null)

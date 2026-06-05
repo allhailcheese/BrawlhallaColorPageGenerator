@@ -595,7 +595,7 @@
 |gamemaster’s doom=
 {{!}}-
 {{!}} '''Gamemaster’s Doom'''
-{{!}} [[File:BOTW Gamemaster’s Doom.jpg|200px]]
+{{!}} [[File:BOTW Gamemaster's Doom.jpg|200px]]
 {{!}}''Be prepared for anything in this 3 minute, 4 player Free-for-All match! Withstand the dangerous, random conditions set by the Gamemaster’s dice roll as you work to KO your opponents. Score 2 points for KOing an enemy, lose 1 point for being KO'd. Score the most points to win!''
 *{{gamemodes|dice & destruction|16px}}
 *4 players
@@ -613,7 +613,7 @@
 |scruffy’s switchcraft=
 {{!}}-
 {{!}} '''Scruffy’s Switchcraft'''
-{{!}} [[File:BOTW Scruffy’s Switchcraft.jpg|200px]]
+{{!}} [[File:BOTW Scruffy's Switchcraft.jpg|200px]]
 {{!}}''It’s a battle of fusion spells on the docks of the Shorwind Fishing Port! Pick 3 Legends then watch their Weapons and Signatures get jumbled up. Battle an equally scrambled opponent and the last one standing wins!''
 *{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
 *2 players
@@ -623,7 +623,7 @@
 |scruffy’s strikeout=
 {{!}}-
 {{!}} '''Scruffy’s Strikeout'''
-{{!}} [[File:BOTW Scruffy’s Strikeout.jpg|200px]]
+{{!}} [[File:BOTW Scruffy's Strikeout.jpg|200px]]
 {{!}}''Face off against a fierce party while Scruffy stands guard outside the Salty Sailor! Find another adventurer and pick your best 3 Legends to challenge your enemy party. Cycle through your chosen Legends as you lose stocks. KO all Legends in the enemy party to win!''
 *{{gamemodes|stock|16px}} {{gamemodes|strikeout|16px}}
 *4 players
