@@ -145,6 +145,10 @@ ColorSchemeTypes colorSchemeTypes = new(colorSchemeTypesContent);
 string levelTypesContent = files["LevelTypes.xml"];
 LevelTypes levelTypes = new(levelTypesContent);
 
+// Level set types
+string levelSetTypesContent = files["LevelSetTypes.xml"];
+LevelSetTypes levelSetTypes = new(levelSetTypesContent);
+
 // Gamemode types
 string gamemodeTypesContent = files["GameModeTypes.xml"];
 GameModeTypes gameModeTypes = new(gamemodeTypesContent);
@@ -165,6 +169,7 @@ WriterData data = new()
     ChanceBoxTypes = chanceBoxTypes,
     ColorSchemeTypes = colorSchemeTypes,
     LevelTypes = levelTypes,
+    LevelSetTypes = levelSetTypes,
     GameModeTypes = gameModeTypes,
     ScoringTypes = scoringTypes,
     LangFile = langFile,
@@ -173,59 +178,59 @@ WriterData data = new()
 #endregion
 #region Writing
 
-Directory.CreateDirectory("outputs");
+Directory.CreateDirectory("outputs/pages");
 
 {
     SkinColorsWriter skinsColorWriter = new(data);
-    skinsColorWriter.WriteTo("outputs/Template Color_Skins.mediawiki");
+    skinsColorWriter.WriteTo("outputs/pages/Template Color_Skins.mediawiki");
 
     WeaponSkinColorsWriter weaponSkinsColorWriter = new(data);
-    weaponSkinsColorWriter.WriteTo("outputs/Template Color_Weapon_Skins.mediawiki");
+    weaponSkinsColorWriter.WriteTo("outputs/pages/Template Color_Weapon_Skins.mediawiki");
 
     CompanionColorsWriter companionsColorWriter = new(data);
-    companionsColorWriter.WriteTo("outputs/Template Color_Companions.mediawiki");
+    companionsColorWriter.WriteTo("outputs/pages/Template Color_Companions.mediawiki");
 }
 
 LevelingWriter levelingWriter = new(data);
-levelingWriter.WriteTo("outputs/Template LegendLevelingRowByName.mediawiki");
+levelingWriter.WriteTo("outputs/pages/Template LegendLevelingRowByName.mediawiki");
 
 StancesWriter stancesWriter = new(data);
-stancesWriter.WriteTo("outputs/Template LegendStancesRowByName.mediawiki");
+stancesWriter.WriteTo("outputs/pages/Template LegendStancesRowByName.mediawiki");
 
 QuestListWriter questListWriter = new(data);
-Directory.CreateDirectory("outputs/Template QuestList");
-questListWriter.WriteTo("outputs/Template QuestList/HighStrength.mediawiki", StatType.Strength, StatQuestType.High);
-questListWriter.WriteTo("outputs/Template QuestList/HighDexterity.mediawiki", StatType.Dexterity, StatQuestType.High);
-questListWriter.WriteTo("outputs/Template QuestList/HighDefense.mediawiki", StatType.Defense, StatQuestType.High);
-questListWriter.WriteTo("outputs/Template QuestList/HighSpeed.mediawiki", StatType.Speed, StatQuestType.High);
-questListWriter.WriteTo("outputs/Template QuestList/MidStrength.mediawiki", StatType.Strength, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/Template QuestList/MidDexterity.mediawiki", StatType.Dexterity, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/Template QuestList/MidDefense.mediawiki", StatType.Defense, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/Template QuestList/MidSpeed.mediawiki", StatType.Speed, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/Template QuestList/LowStrength.mediawiki", StatType.Strength, StatQuestType.Low);
-questListWriter.WriteTo("outputs/Template QuestList/LowDexterity.mediawiki", StatType.Dexterity, StatQuestType.Low);
-questListWriter.WriteTo("outputs/Template QuestList/LowDefense.mediawiki", StatType.Defense, StatQuestType.Low);
-questListWriter.WriteTo("outputs/Template QuestList/LowSpeed.mediawiki", StatType.Speed, StatQuestType.Low);
+Directory.CreateDirectory("outputs/pages/Template QuestList");
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighStrength.mediawiki", StatType.Strength, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighDexterity.mediawiki", StatType.Dexterity, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighDefense.mediawiki", StatType.Defense, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighSpeed.mediawiki", StatType.Speed, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidStrength.mediawiki", StatType.Strength, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidDexterity.mediawiki", StatType.Dexterity, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidDefense.mediawiki", StatType.Defense, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidSpeed.mediawiki", StatType.Speed, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowStrength.mediawiki", StatType.Strength, StatQuestType.Low);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowDexterity.mediawiki", StatType.Dexterity, StatQuestType.Low);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowDefense.mediawiki", StatType.Defense, StatQuestType.Low);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowSpeed.mediawiki", StatType.Speed, StatQuestType.Low);
 
 SkinsWriter skinsWriter = new(data);
-skinsWriter.WriteTo("outputs/Skins.mediawiki");
+skinsWriter.WriteTo("outputs/pages/Skins.mediawiki");
 
 {
-    Directory.CreateDirectory("outputs/Weapon_Skins");
+    Directory.CreateDirectory("outputs/pages/Weapon_Skins");
 
     WeaponSkinWriter weaponSkinWriter = new(data);
     foreach ((string baseWeapon, string weaponName) in Utils.BASE_WEAPON_NAME)
-        weaponSkinWriter.WriteTo($"outputs/Weapon_Skins/{weaponName}.mediawiki", baseWeapon);
+        weaponSkinWriter.WriteTo($"outputs/pages/Weapon_Skins/{weaponName}.mediawiki", baseWeapon);
 
     DefaultWeaponSkinsWriter defaultWeaponSkinsWriter = new(data);
-    defaultWeaponSkinsWriter.WriteTo("outputs/Weapon_Skins/Default_Weapons.mediawiki");
+    defaultWeaponSkinsWriter.WriteTo("outputs/pages/Weapon_Skins/Default_Weapons.mediawiki");
 }
 
 MapColorExclusionWriter mapColorExclusionWriter = new(data);
-Directory.CreateDirectory("outputs/Template Map_Color_Exclusion");
-mapColorExclusionWriter.WriteTo("outputs/Template Map_Color_Exclusion/List.mediawiki");
+Directory.CreateDirectory("outputs/pages/Template Map_Color_Exclusion");
+mapColorExclusionWriter.WriteTo("outputs/pages/Template Map_Color_Exclusion/List.mediawiki");
 
 BOTWWriter botwWriter = new(data);
-botwWriter.WriteTo("outputs/Template BOTW.mediawiki");
+botwWriter.WriteTo("outputs/pages/Template BOTW.mediawiki");
 
 #endregion

@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
 
@@ -22,10 +23,12 @@ public sealed class LevelType
 public sealed class LevelTypes
 {
     public LevelType[] Levels { get; }
+    public Dictionary<string, LevelType> LevelsMap { get; }
 
     public LevelTypes(string content)
     {
         XElement element = XElement.Parse(content);
         Levels = [.. element.Elements(nameof(LevelType)).Select((e) => new LevelType(e)).Where(l => !l.DevOnly)];
+        LevelsMap = Levels.ToDictionary((l) => l.LevelName);
     }
 }

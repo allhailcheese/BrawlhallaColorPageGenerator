@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
@@ -30,11 +31,8 @@ public sealed class BOTWWriter(WriterData data)
             writer.Write(gamemodeName);
             writer.WriteLine("'''");
             // thumbnail
-            // TODO: template climb and showdown
-            // TODO: morph, switchcraft, and strikeout
-            writer.Write("{{!}} [[File:ModeThumb ");
-            bool hasUniqueThumbnail = gamemode.GhostRule || GAMEMODES_WITH_UNIQUE_THUMBNAILS.Contains(gamemode.GameModeName);
-            writer.Write(hasUniqueThumbnail ? gamemodeName : scoringTypeName);
+            writer.Write("{{!}} [[File:BOTW ");
+            writer.Write(gamemodeName);
             writer.WriteLine(".jpg|200px]]");
             // description
             if (gamemode.DescriptionKey is not null)
@@ -48,6 +46,19 @@ public sealed class BOTWWriter(WriterData data)
             writer.Write("*{{gamemodes|");
             writer.Write(scoringTypeName.ToLowerInvariant());
             writer.WriteLine("|16px}}");
+            // variation
+            if (gamemode.Variation is not null)
+            {
+                writer.Write("*{{gamemodes|");
+                writer.Write(gamemode.Variation switch
+                {
+                    "Relay" => "strikeout",
+                    "Shift" => "morph",
+                    "Scramble" => "switchcraft",
+                    _ => "ERROR"
+                });
+                writer.WriteLine("|16px}}");
+            }
 
             // players
             writer.Write('*');
@@ -98,18 +109,29 @@ public sealed class BOTWWriter(WriterData data)
                 writer.WriteLine("% damage");
             }
 
-            // TODO: 2 player vs bot gamemodes
             // teams
             if (gamemode.Teams && gamemode.ScoringType != "BUDDY")
             {
                 writer.Write("*Teams enabled (");
-                writer.Write(gamemode.MaxPlayers / 2);
+                writer.Write(Math.Ceiling(gamemode.MaxPlayers / 2f));
                 writer.Write('v');
-                writer.Write(gamemode.MaxPlayers / 2);
+                writer.Write(Math.Floor(gamemode.MaxPlayers / 2f));
                 writer.WriteLine(')');
             }
 
-            // TODO: map set / maps
+            // 2 player vs bot gamemodes
+            if (gamemode.GameModeName == "BOTW2v1DarthMaul")
+            {
+                writer.WriteLine("*2 Players vs A [[Darth Maul]] Chosen bot");
+                writer.WriteLine("*Scoreboard header changed to \"JEDI WIN!\" or \"DARTH MAUL WINS!\"");
+            }
+            else if (gamemode.GameModeName == "BOTW2v1Mordex")
+            {
+                writer.WriteLine("*2 Players vs An [[Ascended Mordex]] Chosen bot");
+                writer.WriteLine("*Scoreboard header changed to \"EXALTED HUNTERS WIN!\" or \"MORDEX WINS!\"");
+            }
+
+            WriteLevelSetText(writer, gamemode);
 
             // TODO: custom spawn rule sets
         }
@@ -121,14 +143,62 @@ public sealed class BOTWWriter(WriterData data)
 [[Category:Templates]]</noinclude>");
     }
 
-    // Ghost rule gamemodes also do, but they're checked by themselves
-    // There exist BOTW gamemodes with unique thumbnails that we are missing
-    private static readonly HashSet<string> GAMEMODES_WITH_UNIQUE_THUMBNAILS = [
-        "BOTWTableTop3v3NewMap", // Shiganshina Clash
-        "BOTWHeatwaveFFA", // Water Bomb Bash
-        "BOTWBotMatch2v1", // Brawl of the Fates
-        "BOTW1v1NewMap", // Brawl of the Heroes
-        "BOTW1v1Relay5", // Strikeout Mania!
-        "BOTW1v1Relay5SW", // Scum & Villainy Strikeout
-    ];
+    public void WriteLevelSetText(StreamWriter writer, GameModeType gamemode)
+    {
+        string? levelSetName = gamemode.LevelSet;
+
+        // map set is all maps for the gamemode
+        if (levelSetName is null || levelSetName.EndsWith("All") || levelSetName == "VolleyBattle") return;
+
+        writer.Write("*Map Set: ");
+
+        // link to map set page
+        if (LEVEL_SET_TO_MAP_SET_PAGE_ANCHOR.TryGetValue(levelSetName, out string? mapSetPageHeader))
+        {
+            writer.Write("[[Map_Set#");
+            writer.Write(mapSetPageHeader);
+            writer.Write("_Map_Set|");
+            writer.Write(mapSetPageHeader);
+            writer.WriteLine("]]");
+        }
+        // custom list ("new map" level sets)
+        else if (levelSetName.Contains("NewMap"))
+        {
+            writer.WriteLine("TODO");
+        }
+        // just list out the levels
+        else
+        {
+            int index = 0;
+            LevelSetType levelSet = data.LevelSetTypes.LevelSetsMap[levelSetName];
+            foreach (string levelName in levelSet.LevelTypes)
+            {
+                if (!data.LevelTypes.LevelsMap.TryGetValue(levelName, out LevelType? level))
+                    continue;
+                // comma
+                if (index != 0)
+                    writer.Write(", ");
+                index++;
+                // level link
+                writer.Write("[[");
+                writer.Write(level.DisplayName);
+                writer.Write("]]");
+            }
+            writer.WriteLine();
+        }
+    }
+
+    private static readonly Dictionary<string, string> LEVEL_SET_TO_MAP_SET_PAGE_ANCHOR = new()
+    {
+        ["Standard1v1"] = "1v1",
+        ["Standard2v2"] = "2v2",
+        ["Standard3v3"] = "3v3",
+        ["StandardFFA"] = "FFA",
+        ["StandardBig"] = "Big",
+    };
+
+    private static readonly Dictionary<string, string> GAMEMODE_TYPE_TO_MAP_LIST = new()
+    {
+
+    };
 }

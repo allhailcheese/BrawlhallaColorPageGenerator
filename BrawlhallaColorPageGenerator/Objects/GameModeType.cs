@@ -15,6 +15,7 @@ public sealed class GameModeType
     public uint RoundDuration { get; }
     public uint StartingLives { get; }
     public string ScoringType { get; }
+    public string? Variation { get; }
     public uint ScoreToWin { get; }
     public string? LevelSet { get; }
     public uint DamageRatio { get; }
@@ -31,6 +32,7 @@ public sealed class GameModeType
         RoundDuration = uint.TryParse(element.Element(nameof(RoundDuration))?.Value, out uint rd) ? rd : 0;
         StartingLives = uint.TryParse(element.Element(nameof(StartingLives))?.Value, out uint sl) ? sl : 0;
         ScoringType = element.Element(nameof(ScoringType))!.Value;
+        Variation = element.Element(nameof(Variation))?.Value;
         ScoreToWin = uint.TryParse(element.Element(nameof(ScoreToWin))?.Value, out uint sw) ? sw : 0;
         LevelSet = element.Element(nameof(LevelSet))?.Value;
         DamageRatio = uint.TryParse(element.Element(nameof(DamageRatio))?.Value, out uint dr) ? dr : 100;
