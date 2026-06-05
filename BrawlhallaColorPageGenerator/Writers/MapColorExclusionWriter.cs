@@ -8,7 +8,7 @@ public sealed class MapColorExclusionWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine("<includeonly><onlyinclude>{{#arraymap:{{#switch:{{lc:{{{1}}}}}");
         foreach (LevelType levelType in data.LevelTypes.Levels)
         {

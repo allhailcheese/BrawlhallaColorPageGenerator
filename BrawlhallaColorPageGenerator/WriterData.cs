@@ -1,3 +1,4 @@
+using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
 

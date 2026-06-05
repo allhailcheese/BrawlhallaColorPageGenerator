@@ -9,7 +9,7 @@ public sealed class BOTWWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine("<includeonly>{{#switch:{{lc:{{{1|}}}}}");
         foreach (GameModeType gamemode in data.GameModeTypes.Gamemodes)
         {

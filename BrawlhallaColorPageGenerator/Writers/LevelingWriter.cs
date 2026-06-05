@@ -23,7 +23,7 @@ public sealed class LevelingWriter(WriterData data)
 
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine("<includeonly><onlyinclude>\n{{#switch:{{lc:{{{1}}}}}");
         foreach (HeroType hero in data.HeroTypes.Heroes.OrderBy((h) => h.ReleaseOrderID))
         {

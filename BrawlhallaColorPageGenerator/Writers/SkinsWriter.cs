@@ -9,7 +9,7 @@ public sealed class SkinsWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine(
 """
 [[File:Mallhalla_Skins.png|thumb|right|550px|Skins in the Store.]]

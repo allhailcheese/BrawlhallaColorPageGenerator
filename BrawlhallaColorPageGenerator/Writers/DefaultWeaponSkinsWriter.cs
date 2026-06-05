@@ -10,7 +10,7 @@ public sealed class DefaultWeaponSkinsWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine("Each Legend comes with two default weapon skins, which are equipped by default.");
         writer.WriteLine();
         writer.WriteLine("These weapon skins are unique in that they can only be used by the Legend they belong to. For example, [[Bödvar]] can use his default [[Warhammer]] regardless of skin equipped, but all other Hammer Legends are not able to equip it.");

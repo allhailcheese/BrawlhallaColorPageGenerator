@@ -22,7 +22,7 @@ public sealed class QuestListWriter(WriterData data)
 {
     public void WriteTo(string path, StatType stat, StatQuestType level)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         foreach (HeroType hero in data.HeroTypes.Heroes)
         {
             if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes) || hero.BioName is null)

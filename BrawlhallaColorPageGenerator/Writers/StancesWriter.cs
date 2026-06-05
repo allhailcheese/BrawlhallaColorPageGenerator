@@ -12,7 +12,7 @@ public sealed class StancesWriter(WriterData data)
 
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine(
 """
 <includeonly><onlyinclude>

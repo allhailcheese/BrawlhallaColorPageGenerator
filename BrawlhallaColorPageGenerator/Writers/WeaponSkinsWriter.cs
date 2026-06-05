@@ -11,7 +11,7 @@ public sealed class WeaponSkinWriter(WriterData data)
         string weaponName = Utils.BASE_WEAPON_NAME[baseWeapon];
         List<WeaponSkinType> defaults = [];
 
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.Write("The following is a list of all [[");
         writer.Write(weaponName);
         writer.WriteLine("]] skins in [[Brawlhalla]].");

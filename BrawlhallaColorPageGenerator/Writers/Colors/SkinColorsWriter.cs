@@ -9,7 +9,7 @@ public sealed class SkinColorsWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
+        using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine("<includeonly>");
         writer.WriteLine("The following is a list of all skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
         writer.WriteLine();
