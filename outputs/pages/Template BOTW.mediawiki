@@ -8,7 +8,7 @@
 *2 players
 *5 lives
 *8:00 minutes
-*Map Set: [[Spirit Realm Showdown]]
+*Map Set: {{MapListing|spirit realm showdown}}
 |2v2 showdown=
 {{!}}-
 {{!}} '''2v2 Showdown'''
@@ -19,7 +19,7 @@
 *5 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: [[Spirit Realm Showdown]]
+*Map Set: {{MapListing|spirit realm showdown}}
 |dodgebomb=
 {{!}}-
 {{!}} '''Dodgebomb'''
@@ -28,7 +28,7 @@
 *{{gamemodes|dodgebomb|16px}}
 *4 players
 *2:00 minutes
-*Map Set: [[Dodgebomb Arena]]
+*Map Set: {{MapListing|dodgebomb arena}}
 |mayhem=
 {{!}}-
 {{!}} '''Mayhem!'''
@@ -44,12 +44,11 @@
 {{!}} '''Dangerous Duel'''
 {{!}} [[File:BOTW Dangerous Duel.jpg|200px]]
 {{!}}''The Chasm has all but crumbled away! Choose your Legend and prepare to duel on the smallest 1v1 map in the game. First to 3 KOs wins!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|switchcraft|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|crumbled chasm}}
 |ko mania=
 {{!}}-
 {{!}} '''KO Mania!'''
@@ -118,7 +117,7 @@
 *Score to win: 3
 *5:00 minutes, max 0:30 minute rounds
 *Teams enabled (3v3)
-*Map Set: [[Big Brawlball Arena]], [[Big World's End Arena]]
+*Map Set: {{MapListing|big brawlball arena}}, {{MapListing|big world's end arena}}
 |double ko mania=
 {{!}}-
 {{!}} '''Double KO Mania!'''
@@ -175,8 +174,7 @@
 {{!}} '''Team Strikeout!'''
 {{!}} [[File:BOTW Team Strikeout!.jpg|200px]]
 {{!}}''You and a teammate each pick your best 3 Legends and face off against an enemy team. 3 Stocks for each player, run through your list of Legends as you lose Stocks. KO all Legends on the enemy team to win!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|strikeout|16px}}
 *4 players
 *3 lives
 *8:00 minutes
@@ -198,8 +196,7 @@
 {{!}} '''Switchcraft 2v2'''
 {{!}} [[File:BOTW Switchcraft 2v2.jpg|200px]]
 {{!}}''Even more Switchcraft mayhem! Get a teammate and jump into this crazy 2v2 Stock battle. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle equally scrambled opponents and try to knock out all 6 of their Stocks first to win!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|switchcraft|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
 *4 players
 *3 lives
 *8:00 minutes
@@ -244,13 +241,12 @@
 {{!}} '''Scum & Villainy Strikeout'''
 {{!}} [[File:BOTW Scum & Villainy Strikeout.jpg|200px]]
 {{!}}''Pick your 5 favorite Legends and shoot first in this intense 1v1 200% damage brawl under the twin suns! Gadgets spawn at a higher rate, and when you lose a stock, the next Legend in your list spawns in ready to fight. KO your opponent 5 times to win!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|strikeout|16px}}
 *2 players
 *5 lives
 *8:00 minutes
 *300% damage
-*Map Set: [[Mos Eisley Spaceport]]
+*Map Set: {{MapListing|mos eisley spaceport}}
 |kung foot=
 {{!}}-
 {{!}} '''Kung Foot'''
@@ -270,7 +266,7 @@
 *3 players
 *3:00 minutes
 *300% damage
-*Map Set: [[Small Brawlhaven]], [[Small Mammoth Fortress]], [[Shipwreck Falls]], [[Small Fangwild]]
+*Map Set: {{MapListing|small brawlhaven}}, {{MapListing|small mammoth fortress}}, {{MapListing|shipwreck falls}}, {{MapListing|small fangwild}}
 |horde=
 {{!}}-
 {{!}} '''Horde'''
@@ -279,7 +275,7 @@
 *{{gamemodes|horde|16px}}
 *4 players
 *15:00 minutes
-*Map Set: [[Horde]]
+*Map Set: {{MapListing|horde}}
 |buddy=
 {{!}}-
 {{!}} '''Buddy'''
@@ -288,7 +284,7 @@
 *{{gamemodes|buddy|16px}}
 *2 players
 *3:00 minutes
-*Map Set: [[Under the Canopy]]
+*Map Set: {{MapListing|under the canopy}}
 |brawldown=
 {{!}}-
 {{!}} '''Brawldown'''
@@ -309,7 +305,7 @@
 *Score to win: 3
 *8:00 minutes
 *Teams enabled (3v3)
-*Map Set: [[Demon Island CTF]]
+*Map Set: {{MapListing|demon island ctf}}
 |bubble tag=
 {{!}}-
 {{!}} '''Bubble Tag'''
@@ -331,7 +327,7 @@
 *Score to win: 7
 *5:00 minutes
 *Teams enabled (3v3)
-*Map Set: [[Synthwave Kung Foot]]
+*Map Set: {{MapListing|synthwave kung foot}}
 |demolition basketball=
 {{!}}-
 {{!}} '''Demolition Basketball'''
@@ -362,19 +358,17 @@
 {{!}} '''Morph'''
 {{!}} [[File:BOTW Morph.jpg|200px]]
 {{!}}''It's hero time in this 1v1, 3 stock transforming battle! Choose one weapon each from 3 of your favorite Legends in character select. Activate your powers like the Omnitrix with the throw button to change forms. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|morph|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|morph|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Small Brawlhaven]], [[Twilight Grove]], [[Small Enigma]], [[Small Mammoth Fortress]], [[Small Great Hall]], [[Shipwreck Falls]], [[Miami Dome]], [[Small Fangwild]], [[Plains of Passage]], [[Apocalypse]], [[Demon Island]], [[Crystal Temple]], [[Small Galvan Prime]], [[Spirit Realm]], [[Small Turtles' Lair]], [[Small Fortress of Wolves]], [[Suzaku Castle]], [[Small Fabled City]], [[Florence Rooftop]], [[Western Air Temple]], [[Shorwind Fishing Port]], [[Mishima Dojo]], [[Small Terminus]], [[Small World's End]], [[Bikini Bottom]], [[Crumbling Chasm]], [[Mos Eisley Spaceport]], [[Lich's Tomb]], [[Jikoku]], [[Small Wasteland]], [[Shadowscar Landing]], [[Elysium]]
+*Map Set: [[Map_Set#Ranked 1v1_Map_Set|Ranked 1v1]]
 |2v2 morph=
 {{!}}-
 {{!}} '''2v2 Morph'''
 {{!}} [[File:BOTW 2v2 Morph.jpg|200px]]
 {{!}}''It's hero time in this 2v2, 3 stock transforming battle! Choose one weapon each from 3 of your favorite Legends in character select. Activate your powers like the Omnitrix with the throw button to change forms. Weapons are always equipped and cannot be picked up or thrown. Last team standing wins!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|morph|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|morph|16px}}
 *4 players
 *3 lives
 *8:00 minutes
@@ -390,7 +384,7 @@
 *Score to win: 5
 *5:00 minutes
 *Teams enabled (2v2)
-*Map Set: [[Synthwave Kung Foot]]
+*Map Set: {{MapListing|synthwave kung foot}}
 |walker attack=
 {{!}}-
 {{!}} '''Walker Attack!'''
@@ -400,7 +394,7 @@
 *2 players
 *3 lives
 *15:00 minutes
-*Map Set: [[Walker Attack!]]
+*Map Set: {{MapListing|walker attack!}}
 |jötunn winter brawlball=
 {{!}}-
 {{!}} '''Jötunn Winter Brawlball'''
@@ -411,7 +405,7 @@
 *Score to win: 5
 *15:00 minutes, max 0:45 minute rounds
 *Teams enabled (3v3)
-*Map Set: [[Big World's End Arena]]
+*Map Set: {{MapListing|big world's end arena}}
 |crew battle=
 {{!}}-
 {{!}} '''Crew Battle'''
@@ -435,7 +429,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (2v2)
-*Map Set: [[Small Turtles' Lair]]
+*Map Set: {{MapListing|small turtles' lair}}
 |ghosts in the fortress=
 {{!}}-
 {{!}} '''Ghosts in the Fortress'''
@@ -447,7 +441,7 @@
 *8:00 minutes
 *300% damage
 *Teams enabled (2v2)
-*Map Set: [[Fortress of Wolves]]
+*Map Set: {{MapListing|fortress of wolves}}
 |siege of lions=
 {{!}}-
 {{!}} '''Siege of Lions'''
@@ -456,7 +450,7 @@
 *{{gamemodes|timed|16px}}
 *4 players
 *3:00 minutes
-*Map Set: [[Siege of Lions]]
+*Map Set: {{MapListing|siege of lions}}
 |street brawl=
 {{!}}-
 {{!}} '''Street Brawl'''
@@ -466,7 +460,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Suzaku Castle Walls]], [[Bustling Side Street]]
+*Map Set: {{MapListing|suzaku castle walls}}, {{MapListing|bustling side street}}
 |ghost bubble tag=
 {{!}}-
 {{!}} '''Ghost Bubble Tag'''
@@ -486,7 +480,7 @@
 *{{gamemodes|timed|16px}}
 *4 players
 *3:00 minutes
-*Map Set: [[The Wasteland Showdown]]
+*Map Set: {{MapListing|the wasteland showdown}}
 |street brawl=
 {{!}}-
 {{!}} '''Street Brawl'''
@@ -496,7 +490,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Bustling Side Street]]
+*Map Set: {{MapListing|bustling side street}}
 |fabled city scuffle=
 {{!}}-
 {{!}} '''Fabled City Scuffle'''
@@ -505,20 +499,19 @@
 *{{gamemodes|timed|16px}}
 *6 players
 *3:00 minutes
-*Map Set: [[Fabled City]]
+*Map Set: {{MapListing|fabled city}}
 |fangwild switchcraft=
 {{!}}-
 {{!}} '''Fangwild Switchcraft'''
 {{!}} [[File:BOTW Fangwild Switchcraft.jpg|200px]]
 {{!}}''Switchcraft just got even more chaotic! Form a tactical trio and jump into a crazy 3v3 Stock battle. Pick 3 Legends and watch their Weapons and Sigs get jumbled up. Battle an equally scrambled team and knock out all 9 of their Stocks first to win!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|switchcraft|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
 *6 players
 *3 lives
 *8:00 minutes
 *200% damage
 *Teams enabled (3v3)
-*Map Set: [[Fabled City]]
+*Map Set: {{MapListing|fabled city}}
 |rooftop rumble=
 {{!}}-
 {{!}} '''Rooftop Rumble'''
@@ -527,7 +520,7 @@
 *{{gamemodes|bounty|16px}}
 *4 players
 *3:00 minutes
-*Map Set: [[Florence Rooftop]]
+*Map Set: {{MapListing|florence rooftop}}
 |ghost rooftop rumble=
 {{!}}-
 {{!}} '''Ghost Rooftop Rumble'''
@@ -536,7 +529,7 @@
 *{{gamemodes|bounty|16px}}
 *4 players
 *3:00 minutes
-*Map Set: [[Florence Rooftop]]
+*Map Set: {{MapListing|florence rooftop}}
 |bounty hunting=
 {{!}}-
 {{!}} '''Bounty Hunting'''
@@ -556,7 +549,7 @@
 *4 players
 *3:00 minutes
 *200% damage
-*Map Set: [[Florence Rooftop]], [[Florence Terrace]]
+*Map Set: {{MapListing|florence rooftop}}, {{MapListing|florence terrace}}
 |theed city skirmish=
 {{!}}-
 {{!}} '''Theed City Skirmish'''
@@ -567,7 +560,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (3v3)
-*Map Set: TODO
+*Map Set: {{MapListing|theed power generator}}
 |cliffside scuffle=
 {{!}}-
 {{!}} '''Cliffside Scuffle'''
@@ -577,18 +570,17 @@
 *6 players
 *3:00 minutes
 *300% damage
-*Map Set: [[Western Air Temple Brawl]]
+*Map Set: {{MapListing|western air temple brawl}}
 |avatar state shift=
 {{!}}-
 {{!}} '''Avatar State Shift'''
 {{!}} [[File:BOTW Avatar State Shift.jpg|200px]]
 {{!}}''Use your mastery of all four elements and the spirits of Avatars before in this 1v1, 3 stock transforming battle! First choose 3 Legends and one Weapon from each. Then, switch Legends in battle with the throw button. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|morph|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|morph|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Western Air Temple]]
+*Map Set: {{MapListing|western air temple}}
 |spirit world brawl=
 {{!}}-
 {{!}} '''Spirit World Brawl'''
@@ -599,7 +591,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: [[Western Air Temple]]
+*Map Set: {{MapListing|western air temple}}
 |gamemaster’s doom=
 {{!}}-
 {{!}} '''Gamemaster’s Doom'''
@@ -608,7 +600,7 @@
 *{{gamemodes|dice & destruction|16px}}
 *4 players
 *3:00 minutes
-*Map Set: [[Brawlhaven]], [[Twilight Grove]], [[Kings Pass]], [[Thundergard Stadium]], [[Blackguard Keep]], [[Mammoth Fortress]], [[The Great Hall]], [[Big Miami Dome]], [[Plains of Passage]], [[Tree Fort]], [[Big Crystal Temple]], [[Temple Ruins]], [[Galvan Prime]], [[Sun Drive City]], [[World's End]], [[Fabled City]], [[Small Fabled City]], [[Florence Terrace]], [[Western Air Temple Brawl]], [[Crumbling Chasm]], [[Mustafar]], [[Theed Power Generator]], [[Starlight Falls]], [[Mos Eisley Spaceport]], [[Spirit Realm Showdown]], [[Divine Spirit Showdown]], [[The Wasteland Showdown]], [[Lich's Tomb]], [[Old Ivaldi Mine]], [[Castle Batavia]], [[The Wasteland]], [[Elysium]]
+*Map Set: [[Map_Set#Dice & Destruction FFA_Map_Set|Dice & Destruction FFA]]
 |dwarven duel=
 {{!}}-
 {{!}} '''Dwarven Duel'''
@@ -617,30 +609,28 @@
 *{{gamemodes|dice & destruction|16px}}
 *2 players
 *3:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|old ivaldi mine}}
 |scruffy’s switchcraft=
 {{!}}-
 {{!}} '''Scruffy’s Switchcraft'''
 {{!}} [[File:BOTW Scruffy’s Switchcraft.jpg|200px]]
 {{!}}''It’s a battle of fusion spells on the docks of the Shorwind Fishing Port! Pick 3 Legends then watch their Weapons and Signatures get jumbled up. Battle an equally scrambled opponent and the last one standing wins!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|switchcraft|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Shorwind Fishing Port]]
+*Map Set: {{MapListing|shorwind fishing port}}
 |scruffy’s strikeout=
 {{!}}-
 {{!}} '''Scruffy’s Strikeout'''
 {{!}} [[File:BOTW Scruffy’s Strikeout.jpg|200px]]
 {{!}}''Face off against a fierce party while Scruffy stands guard outside the Salty Sailor! Find another adventurer and pick your best 3 Legends to challenge your enemy party. Cycle through your chosen Legends as you lose stocks. KO all Legends in the enemy party to win!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|strikeout|16px}}
 *4 players
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: [[Shorwind Fishing Port]]
+*Map Set: {{MapListing|shorwind fishing port}}
 |volleybrawl triples=
 {{!}}-
 {{!}} '''Volleybrawl Triples'''
@@ -699,7 +689,7 @@
 *4 players
 *Score to win: 100
 *4:00 minutes
-*Map Set: [[Brawlhaven]], [[Twilight Grove]], [[Kings Pass]], [[Thundergard Stadium]], [[Blackguard Keep]], [[Mammoth Fortress]], [[The Great Hall]], [[Big Miami Dome]], [[Plains of Passage]], [[Tree Fort]], [[Big Crystal Temple]], [[Temple Ruins]], [[Galvan Prime]], [[Sun Drive City]], [[World's End]], [[Fabled City]], [[Small Fabled City]], [[Florence Terrace]], [[Western Air Temple Brawl]], [[Crumbling Chasm]], [[Mustafar]], [[Theed Power Generator]], [[Starlight Falls]], [[Mos Eisley Spaceport]], [[Spirit Realm Showdown]], [[Divine Spirit Showdown]], [[The Wasteland Showdown]], [[Lich's Tomb]], [[Old Ivaldi Mine]], [[Castle Batavia]], [[The Wasteland]], [[Elysium]]
+*Map Set: [[Map_Set#Dice & Destruction FFA_Map_Set|Dice & Destruction FFA]]
 |team oddbrawl=
 {{!}}-
 {{!}} '''Team Oddbrawl'''
@@ -710,7 +700,7 @@
 *Score to win: 100
 *4:00 minutes
 *Teams enabled (2v2)
-*Map Set: [[Small Brawlhaven]], [[Twilight Grove]], [[Kings Pass]], [[Thundergard Stadium]], [[Blackguard Keep]], [[Small Enigma]], [[Mammoth Fortress]], [[The Great Hall]], [[Shipwreck Falls]], [[Miami Dome]], [[Plains of Passage]], [[Apocalypse]], [[Demon Island]], [[Crystal Temple]], [[Small Galvan Prime]], [[Spirit Realm]], [[Small Fortress of Wolves]], [[Small Fabled City]], [[Florence Terrace]], [[Western Air Temple]], [[Shorwind Fishing Port]], [[Small World's End]], [[Bikini Bottom]], [[Crumbling Chasm]], [[Mustafar]], [[Starlight Falls]], [[Mos Eisley Spaceport]], [[Small Theed Generator]], [[Spirit Realm Showdown]], [[Divine Spirit Showdown]], [[The Wasteland Showdown]], [[Lich's Tomb]], [[Old Ivaldi Mine]], [[Castle Batavia]], [[Jikoku]], [[Shiganshina District]], [[Small Wasteland]], [[The Wasteland]], [[Shadowscar Landing]], [[Elysium]]
+*Map Set: [[Map_Set#Dice & Destruction 2v2_Map_Set|Dice & Destruction 2v2]]
 |terminus-plosions=
 {{!}}-
 {{!}} '''Terminus-plosions!'''
@@ -720,40 +710,27 @@
 *4 players
 *3:00 minutes
 *200% damage
-*Map Set: TODO
+*Map Set: {{MapListing|terminus}}
 |mishima dojo skirmish=
 {{!}}-
 {{!}} '''Mishima Dojo Skirmish'''
 {{!}} [[File:BOTW Mishima Dojo Skirmish.jpg|200px]]
 {{!}}''Hone your skills inside of the Mishima Dojo! Choose one weapon each from 3 of your favorite Legends in a 3 stock 1v1 battle. Use the Weapon throw button to change forms in combat. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|morph|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|morph|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|mishima dojo}}
 |street brawl relay=
 {{!}}-
 {{!}} '''Street Brawl Relay'''
 {{!}} [[File:BOTW Street Brawl Relay.jpg|200px]]
 {{!}}''The King of Iron Fist Tournament and Grand Tournament Collide! Choose 3 fighters and brawl in this 1v1, 8-minute match. New fighters tag in when your health bar is depleted. First to 3 KO's wins!''
-*{{gamemodes|street brawl|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|street brawl|16px}} {{gamemodes|strikeout|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Suzaku Castle Walls]], [[Bustling Side Street]]
-|tekken brawl=
-{{!}}-
-{{!}} '''TEKKEN Brawl'''
-{{!}} [[File:BOTW TEKKEN Brawl.jpg|200px]]
-{{!}}''Pair up and hit the Mishima Dojo for a 2v2 game of TEKKEN  Brawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
-*{{gamemodes|volleybrawl|16px}}
-*4 players
-*3 lives
-*8:00 minutes
-*Teams enabled (2v2)
-*Map Set: TODO
+*Map Set: {{MapListing|suzaku castle walls}}, {{MapListing|bustling side street}}
 |jötunheimr's doom=
 {{!}}-
 {{!}} '''Jötunheimr's Doom'''
@@ -763,19 +740,18 @@
 *4 players
 *3:00 minutes
 *Teams enabled (2v2)
-*Map Set: TODO
+*Map Set: {{MapListing|small world's end}}
 |bubble tag relay=
 {{!}}-
 {{!}} '''Bubble Tag Relay'''
 {{!}} [[File:BOTW Bubble Tag Relay.jpg|200px]]
 {{!}}''Are you ready, brawlers? Find a teammate and pick your best three Legends and face off against an enemy duo. Strike your opponents to entrap them in a Bubble. Bubbled players can’t attack and have limited movement. Your Legend swaps out as you lose stocks. Capture the entire enemy team to score a point. The first team to 5 points wins!''
-*{{gamemodes|bubble tag|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|bubble tag|16px}} {{gamemodes|strikeout|16px}}
 *4 players
 *Score to win: 5
 *5:00 minutes, max 1:30 minute rounds
 *Teams enabled (2v2)
-*Map Set: TODO
+*Map Set: {{MapListing|bikini bottom}}
 |brawl of the heroes=
 {{!}}-
 {{!}} '''Brawl of the Heroes'''
@@ -785,7 +761,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|mustafar}}
 |apocalyptic target=
 {{!}}-
 {{!}} '''Apocalyptic Target'''
@@ -795,7 +771,7 @@
 *6 players
 *3:00 minutes
 *200% damage
-*Map Set: TODO
+*Map Set: {{MapListing|apocalyptic chasm}}
 |brawl of the fates=
 {{!}}-
 {{!}} '''Brawl of the Fates'''
@@ -808,7 +784,7 @@
 *Teams enabled (2v1)
 *2 Players vs A [[Darth Maul]] Chosen bot
 *Scoreboard header changed to "JEDI WIN!" or "DARTH MAUL WINS!"
-*Map Set: [[Small Theed Generator]]
+*Map Set: {{MapListing|small theed generator}}
 |rule of 2v2=
 {{!}}-
 {{!}} '''Rule of 2v2'''
@@ -819,7 +795,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: TODO
+*Map Set: {{MapListing|theed power generator}}
 |water balloon fight=
 {{!}}-
 {{!}} '''Water Balloon Fight!'''
@@ -829,7 +805,7 @@
 *4 players
 *3:00 minutes
 *150% damage
-*Map Set: [[Mustafar]]
+*Map Set: {{MapListing|mustafar}}
 |starlight snowbrawl scuffle=
 {{!}}-
 {{!}} '''Starlight Snowbrawl Scuffle'''
@@ -838,7 +814,7 @@
 *{{gamemodes|gadget mayhem|16px}}
 *4 players
 *3:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|starlight falls}}
 |starlight selection trials=
 {{!}}-
 {{!}} '''Starlight Selection Trials'''
@@ -847,14 +823,13 @@
 *{{gamemodes|dice & destruction|16px}}
 *6 players
 *3:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|starlight falls}}
 |three for all relay=
 {{!}}-
 {{!}} '''Three For All Relay'''
 {{!}} [[File:BOTW Three For All Relay.jpg|200px]]
 {{!}}''Are you ready, brawlers? Find a teammate and pick your best three Legends and face off against an enemy duo. Strike your opponents to entrap them in a Bubble. Bubbled players can’t attack and have limited movement. Your Legend swaps out as you lose stocks. Capture the entire enemy team to score a point. The first team to 5 points wins!''
-*{{gamemodes|timed|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|timed|16px}} {{gamemodes|strikeout|16px}}
 *3 players
 *3:00 minutes
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
@@ -863,11 +838,10 @@
 {{!}} '''Lichlord's Relay'''
 {{!}} [[File:BOTW Lichlord's Relay.jpg|200px]]
 {{!}}''The Lich King seeks out his gladiators! Pick your best three Legends and face off against your opponents in this Free for All. Your Legend swaps out as you lose stocks. KO your foes to earn points. The player with the most points at the end of the match wins Azoth's favor!''
-*{{gamemodes|timed|16px}}
-*{{gamemodes|strikeout|16px}}
+*{{gamemodes|timed|16px}} {{gamemodes|strikeout|16px}}
 *3 players
 *3:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|lich's tomb}}
 |batavian ghost brawl=
 {{!}}-
 {{!}} '''Batavian Ghost Brawl'''
@@ -877,18 +851,17 @@
 *4 players
 *3:00 minutes
 *300% damage
-*Map Set: [[Castle Batavia]]
+*Map Set: {{MapListing|castle batavia}}
 |spooky switchcraft=
 {{!}}-
 {{!}} '''Spooky Switchcraft'''
 {{!}} [[File:BOTW Spooky Switchcraft.jpg|200px]]
 {{!}}''Magyar invites you into a world of optical illusion in this 1v1 Switchcraft Mode. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle an equally scrambled opponent and try to knock out all 3 of their Stocks first to win!''
-*{{gamemodes|stock|16px}}
-*{{gamemodes|switchcraft|16px}}
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: [[Castle Batavia]]
+*Map Set: {{MapListing|castle batavia}}
 |absolute mayhem=
 {{!}}-
 {{!}} '''Absolute Mayhem!'''
@@ -935,7 +908,7 @@
 *Score to win: 5
 *5:00 minutes
 *Teams enabled (2v2)
-*Map Set: TODO
+*Map Set: {{MapListing|world's end kung foot}}
 |jikoku ghost duel=
 {{!}}-
 {{!}} '''Jikoku Ghost Duel'''
@@ -945,7 +918,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: TODO
+*Map Set: {{MapListing|jikoku}}
 |hidden in the walls=
 {{!}}-
 {{!}} '''Hidden in the Walls'''
@@ -957,7 +930,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (2v2)
-*Map Set: TODO
+*Map Set: {{MapListing|shiganshina district}}
 |shiganshina clash=
 {{!}}-
 {{!}} '''Shiganshina Clash'''
@@ -967,7 +940,7 @@
 *6 players
 *3:00 minutes
 *Teams enabled (3v3)
-*Map Set: TODO
+*Map Set: {{MapListing|shiganshina district brawl}}
 |mordex boss battle=
 {{!}}-
 {{!}} '''Mordex Boss Battle'''
@@ -980,7 +953,7 @@
 *Teams enabled (2v1)
 *2 Players vs An [[Ascended Mordex]] Chosen bot
 *Scoreboard header changed to "EXALTED HUNTERS WIN!" or "MORDEX WINS!"
-*Map Set: [[Small Fortress of Wolves]]
+*Map Set: {{MapListing|small fortress of wolves}}
 }}</includeonly><noinclude>
 {{doc}}
 {{BOTW/top}}

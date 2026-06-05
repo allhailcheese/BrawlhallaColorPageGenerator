@@ -13,7 +13,10 @@ public sealed class BOTWWriter(WriterData data)
         writer.WriteLine("<includeonly>{{#switch:{{lc:{{{1|}}}}}");
         foreach (GameModeType gamemode in data.GameModeTypes.Gamemodes)
         {
-            if (!gamemode.GameModeName.Contains("BOTW")) continue;
+            if (
+                !gamemode.GameModeName.Contains("BOTW") ||
+                gamemode.GameModeName == "BOTWVolleyBattle2v2NewMap" // duplicate with BOTWVolleyBattle2v2
+            ) continue;
 
             string gamemodeName = data.LangFile.Entries[gamemode.DisplayNameKey];
 
@@ -45,11 +48,11 @@ public sealed class BOTWWriter(WriterData data)
             // scoring type
             writer.Write("*{{gamemodes|");
             writer.Write(scoringTypeName.ToLowerInvariant());
-            writer.WriteLine("|16px}}");
+            writer.Write("|16px}}");
             // variation
             if (gamemode.Variation is not null)
             {
-                writer.Write("*{{gamemodes|");
+                writer.Write(" {{gamemodes|");
                 writer.Write(gamemode.Variation switch
                 {
                     "Relay" => "strikeout",
@@ -57,8 +60,9 @@ public sealed class BOTWWriter(WriterData data)
                     "Scramble" => "switchcraft",
                     _ => "ERROR"
                 });
-                writer.WriteLine("|16px}}");
+                writer.Write("|16px}}");
             }
+            writer.WriteLine();
 
             // players
             writer.Write('*');
@@ -161,17 +165,25 @@ public sealed class BOTWWriter(WriterData data)
             writer.Write(mapSetPageHeader);
             writer.WriteLine("]]");
         }
-        // custom list ("new map" level sets)
-        else if (levelSetName.Contains("NewMap"))
-        {
-            writer.WriteLine("TODO");
-        }
         // just list out the levels
         else
         {
+            string[]? levelList = GAMEMODE_LEVEL_LIST_OVERRIDE.GetValueOrDefault(gamemode.GameModeName);
+            if (levelList is null)
+            {
+                // make sure we get all of them
+                if (levelSetName.Contains("New"))
+                {
+                    writer.WriteLine("AN OVERRIDE NEEDS TO BE ADDED FOR THIS");
+                    return;
+                }
+
+                LevelSetType levelSet = data.LevelSetTypes.LevelSetsMap[levelSetName];
+                levelList = levelSet.LevelTypes;
+            }
+
             int index = 0;
-            LevelSetType levelSet = data.LevelSetTypes.LevelSetsMap[levelSetName];
-            foreach (string levelName in levelSet.LevelTypes)
+            foreach (string levelName in levelList)
             {
                 if (!data.LevelTypes.LevelsMap.TryGetValue(levelName, out LevelType? level))
                     continue;
@@ -180,9 +192,9 @@ public sealed class BOTWWriter(WriterData data)
                     writer.Write(", ");
                 index++;
                 // level link
-                writer.Write("[[");
-                writer.Write(level.DisplayName);
-                writer.Write("]]");
+                writer.Write("{{MapListing|");
+                writer.Write(level.DisplayName.ToLowerInvariant());
+                writer.Write("}}");
             }
             writer.WriteLine();
         }
@@ -195,10 +207,42 @@ public sealed class BOTWWriter(WriterData data)
         ["Standard3v3"] = "3v3",
         ["StandardFFA"] = "FFA",
         ["StandardBig"] = "Big",
+        ["Ranked1v1"] = "Ranked 1v1",
+        ["Ranked2v2"] = "Ranked 2v2",
+        ["Ranked3v3"] = "Ranked 3v3",
+        ["Experimental1v1"] = "Experimental 1v1",
+        ["Unranked2v2"] = "Friendly 2v2",
+        ["Crazy"] = "Mayhem",
+        ["TableTop1v1"] = "Dice & Destruction 1v1",
+        ["TableTop2v2"] = "Dice & Destruction 2v2",
+        ["TableTop3v3"] = "Dice & Destruction 3v3",
+        ["TableTopFFA"] = "Dice & Destruction FFA",
+        ["TableTopBig"] = "Dice & Destruction Big",
+        ["SnowbrawlNewSmall"] = "Gadget Mayhem Small",
+        ["SnowbrawlNewBig"] = "Gadget Mayhem Big",
     };
 
-    private static readonly Dictionary<string, string> GAMEMODE_TYPE_TO_MAP_LIST = new()
+    // For gamemodes that use a level set that is later changed (like "NewMap1v1")
+    private static readonly Dictionary<string, string[]> GAMEMODE_LEVEL_LIST_OVERRIDE = new()
     {
-
+        ["BOTW1v1Switch"] = ["BP9EndTimesTiny"], // Dangerous Duel
+        ["BOTW3v3NewMap"] = ["RefineryDoors"], // Theed City Skirmish
+        ["BOTWTableTop1v1"] = ["Lavabrawl3"], // Dwarven Duel
+        ["BOTWBombMania"] = ["BP8ThreePlatformFFABig"], // Terminus-plosions!
+        ["BOTWShift1v1NewMap"] = ["TriPlatBattle"], // Mishima Dojo Skirmish
+        ["BOTWVolleyBattle2v2"] = ["VolleyBattleSmall"], // TEKKEN Brawl
+        ["BOTWVolleyBattle2v2NewMap"] = ["VolleyBattleSmall"], // TEKKEN Brawl
+        ["BOTWTableTop2v2NewMap"] = ["Norse1v1Spike"], // Jötunheimr's Doom
+        ["BOTWTagRelay2v2NewMap"] = ["SpongebobMap"], // Bubble Tag Relay
+        ["BOTW1v1NewMap"] = ["Mustafar"], // Brawl of the Heroes
+        ["BOTWBounty6Bombs200"] = ["BP9EndTimesBig"], // Apocalyptic Target
+        ["BOTW2v2NewMap"] = ["RefineryDoors"], // Rule of 2v2
+        ["BOTWSnowbrawlNewMap"] = ["ThreeShips"], // Starlight Snowbrawl Scuffle
+        ["BOTWTableTopFFA6NewMap"] = ["ThreeShips"], // Starlight Selection Trials
+        ["BOTWThreeForAllRelayNewMap"] = ["SmallMovingPlatform"], // Lichlord's Relay
+        ["BOTW2v2KungFootNewMap"] = ["NorseSoccer"], // Jötunn Winter Kung Foot
+        ["BOTW1v1GhostNewMap"] = ["GroveSinglePlat"], // Jikoku Ghost Duel
+        ["BOTW2v2Ghost200NewMap"] = ["Atlas_2v2"], // Hidden in the Walls
+        ["BOTWTableTop3v3NewMap"] = ["Atlas_3v3"], // Shiganshina Clash
     };
 }
