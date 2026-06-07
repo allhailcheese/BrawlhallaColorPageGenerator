@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using BrawlhallaColorPageGenerator.Objects;
 
 namespace BrawlhallaColorPageGenerator.Writers;
@@ -139,7 +140,7 @@ public sealed class BOTWWriter(WriterData data)
 
             WriteLevelSetText(writer, gamemode);
 
-            // TODO: custom spawn rule sets
+            WriteItemSpawnRuleSetText(writer, gamemode);
         }
         writer.Write(@"}}</includeonly><noinclude>
 {{doc}}
@@ -149,12 +150,13 @@ public sealed class BOTWWriter(WriterData data)
 [[Category:Templates]]</noinclude>");
     }
 
-    public void WriteLevelSetText(StreamWriter writer, GameModeType gamemode)
+    private void WriteLevelSetText(StreamWriter writer, GameModeType gamemode)
     {
         string? levelSetName = gamemode.LevelSet;
 
         // map set is all maps for the gamemode
-        if (levelSetName is null || levelSetName.EndsWith("All") || levelSetName == "VolleyBattle") return;
+        if (levelSetName is null || levelSetName.EndsWith("All") || levelSetName == "VolleyBattle")
+            return;
 
         writer.Write("*Map Set: ");
 
@@ -247,4 +249,93 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTW2v2Ghost200NewMap"] = ["Atlas_2v2"], // Hidden in the Walls
         ["BOTWTableTop3v3NewMap"] = ["Atlas_3v3"], // Shiganshina Clash
     };
+
+    private void WriteItemSpawnRuleSetText(StreamWriter writer, GameModeType gamemode)
+    {
+        // Morph will always have NoItems
+        if (gamemode.Variation == "Shift")
+            return;
+
+        string? itemSpawnRuleSetName = gamemode.OverrideItemSpawnRuleSet;
+        if (itemSpawnRuleSetName is null)
+            return;
+
+        // check if given item spawn rule set is the default
+        ScoringType scoringType = data.ScoringTypes.ScoringsMap[gamemode.ScoringType];
+        ItemSpawnRuleSetType defaultRuleSet = data.ItemSpawnRuleSetTypes.ItemSpawnRuleSetsMap[scoringType.ItemSpawnRuleSet];
+        ItemSpawnRuleSetType itemSpawnRuleSet = data.ItemSpawnRuleSetTypes.ItemSpawnRuleSetsMap[itemSpawnRuleSetName];
+
+        // writer weapon and gadget spawn rate and spawn list. each will only be written if different from default.
+        string spawnText = gamemode.ScoringType == "SNOWBALL" ? "appear" : "spawn";
+        WriteItemSpawnRate(writer, itemSpawnRuleSet.WeaponSpawnRateTypes, defaultRuleSet.WeaponSpawnRateTypes, "Weapon");
+        WriteItemListText(writer, itemSpawnRuleSet.WeaponList, defaultRuleSet.WeaponList, spawnText, "Weapons");
+        WriteItemSpawnRate(writer, itemSpawnRuleSet.GadgetSpawnRateTypes, defaultRuleSet.GadgetSpawnRateTypes, "Gadget");
+        WriteItemListText(writer, itemSpawnRuleSet.GadgetList, defaultRuleSet.GadgetList, spawnText, "Gadgets");
+    }
+
+    private void WriteItemSpawnRate(StreamWriter writer, string[] itemSpawnRates, string[] defaultItemSpawnRates, string itemTypeText)
+    {
+        string? itemSpawnRate = itemSpawnRates.ElementAtOrDefault(0);
+        string? defaultItemSpawnRate = defaultItemSpawnRates.ElementAtOrDefault(0);
+        if (itemSpawnRate is null || itemSpawnRate == defaultItemSpawnRate || itemSpawnRate == "WaterBombGadgets")
+            return;
+
+        writer.Write('*');
+        writer.Write(itemTypeText);
+        writer.Write(" spawns set to ");
+        if (itemSpawnRate.EndsWith("Low"))
+            writer.WriteLine("Low");
+        else if (itemSpawnRate.EndsWith("Medium"))
+            writer.WriteLine("Medium");
+        else if (itemSpawnRate.EndsWith("High"))
+            writer.WriteLine("High");
+        else
+            writer.WriteLine("UNKNOWN");
+    }
+
+    private void WriteItemListText(StreamWriter writer, string[] itemList, string[] defaultItemList, string spawnText, string itemTypeText)
+    {
+        if (Enumerable.SequenceEqual(itemList, defaultItemList))
+            return;
+
+        if (itemList.Length == 0)
+        {
+            writer.Write("*[[");
+            writer.Write(itemTypeText);
+            writer.Write("]] cannot ");
+            writer.WriteLine(spawnText);
+            return;
+        }
+
+        writer.Write("*Only ");
+        if (itemList.Length > 1)
+        {
+            writer.Write("the following [[");
+            writer.Write(itemTypeText);
+            writer.Write("]] can ");
+            writer.Write(spawnText);
+            writer.WriteLine(':');
+        }
+
+        foreach (string itemName in itemList)
+        {
+            ItemType item = data.ItemTypes.ItemsMap[itemName];
+
+            if (itemList.Length > 1) writer.Write("**");
+            writer.Write("{{items|");
+            writer.Write(item.ItemName switch
+            {
+                "WaterBomb" => "water bomb",
+                _ => data.LangFile.Entries[item.DisplayNameKey!].ToLowerInvariant(),
+            });
+            writer.Write("}}");
+            if (itemList.Length > 1) writer.WriteLine();
+        }
+
+        if (itemList.Length == 1)
+        {
+            writer.Write(" can ");
+            writer.WriteLine(spawnText);
+        }
+    }
 }

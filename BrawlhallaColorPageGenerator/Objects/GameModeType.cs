@@ -17,6 +17,7 @@ public sealed class GameModeType
     public string ScoringType { get; }
     public string? Variation { get; }
     public uint ScoreToWin { get; }
+    public string? OverrideItemSpawnRuleSet { get; }
     public string? LevelSet { get; }
     public uint DamageRatio { get; }
     public bool GhostRule { get; }
@@ -34,6 +35,7 @@ public sealed class GameModeType
         ScoringType = element.Element(nameof(ScoringType))!.Value;
         Variation = element.Element(nameof(Variation))?.Value;
         ScoreToWin = uint.TryParse(element.Element(nameof(ScoreToWin))?.Value, out uint sw) ? sw : 0;
+        OverrideItemSpawnRuleSet = element.Element(nameof(OverrideItemSpawnRuleSet))?.Value;
         LevelSet = element.Element(nameof(LevelSet))?.Value;
         DamageRatio = uint.TryParse(element.Element(nameof(DamageRatio))?.Value, out uint dr) ? dr : 100;
         GhostRule = string.Equals("TRUE", element.Element(nameof(GhostRule))?.Value, StringComparison.OrdinalIgnoreCase);

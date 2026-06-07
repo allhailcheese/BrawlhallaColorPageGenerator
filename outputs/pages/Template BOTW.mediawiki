@@ -70,6 +70,7 @@
 *3:00 minutes
 *150% damage
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
+*Only {{items|snowball}} can appear
 |betrayal=
 {{!}}-
 {{!}} '''Betrayal!'''
@@ -150,6 +151,7 @@
 *150% damage
 *Teams enabled (3v3)
 *Map Set: [[Map_Set#2v2_Map_Set|2v2]]
+*Only {{items|water balloon}} can appear
 |water bomb bash=
 {{!}}-
 {{!}} '''Water Bomb Bash!'''
@@ -160,6 +162,7 @@
 *3:00 minutes
 *200% damage
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
+*Only {{items|water bomb}} can spawn
 |platform kings=
 {{!}}-
 {{!}} '''Platform Kings!'''
@@ -247,6 +250,7 @@
 *8:00 minutes
 *300% damage
 *Map Set: {{MapListing|mos eisley spaceport}}
+*Gadget spawns set to High
 |kung foot=
 {{!}}-
 {{!}} '''Kung Foot'''
@@ -671,6 +675,9 @@
 *3:00 minutes
 *200% damage
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
+*[[Weapons]] cannot spawn
+*Gadget spawns set to High
+*Only {{items|homing boomerang}} can spawn
 |2v2 bombsketball=
 {{!}}-
 {{!}} '''2v2 Bombsketball'''
@@ -711,6 +718,12 @@
 *3:00 minutes
 *200% damage
 *Map Set: {{MapListing|terminus}}
+*Gadget spawns set to High
+*Only the following [[Gadgets]] can spawn:
+**{{items|bouncy bomb}}
+**{{items|pressure mine}}
+**{{items|sticky bomb}}
+**{{items|bubble bomb}}
 |mishima dojo skirmish=
 {{!}}-
 {{!}} '''Mishima Dojo Skirmish'''
@@ -772,6 +785,12 @@
 *3:00 minutes
 *200% damage
 *Map Set: {{MapListing|apocalyptic chasm}}
+*Gadget spawns set to High
+*Only the following [[Gadgets]] can spawn:
+**{{items|bouncy bomb}}
+**{{items|pressure mine}}
+**{{items|sticky bomb}}
+**{{items|bubble bomb}}
 |brawl of the fates=
 {{!}}-
 {{!}} '''Brawl of the Fates'''
@@ -806,6 +825,7 @@
 *3:00 minutes
 *150% damage
 *Map Set: {{MapListing|mustafar}}
+*Only {{items|water balloon}} can appear
 |starlight snowbrawl scuffle=
 {{!}}-
 {{!}} '''Starlight Snowbrawl Scuffle'''
@@ -880,6 +900,7 @@
 *4 players
 *3:00 minutes
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
+*Only {{items|bounciest bomb}} can appear
 |boomerang mayhem=
 {{!}}-
 {{!}} '''Boomerang Mayhem'''
@@ -889,6 +910,7 @@
 *4 players
 *3:00 minutes
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
+*Only {{items|homing boomerang}} can appear
 |bomb mayhem=
 {{!}}-
 {{!}} '''Bomb Mayhem'''
@@ -898,6 +920,10 @@
 *4 players
 *3:00 minutes
 *Map Set: [[Map_Set#FFA_Map_Set|FFA]]
+*Only the following [[Gadgets]] can appear:
+**{{items|bounciest bomb}}
+**{{items|pressure mine}}
+**{{items|stickier bomb}}
 |jötunn winter kung foot=
 {{!}}-
 {{!}} '''Jötunn Winter Kung Foot'''

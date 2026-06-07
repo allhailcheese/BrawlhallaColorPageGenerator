@@ -157,6 +157,14 @@ GameModeTypes gameModeTypes = new(gamemodeTypesContent);
 string scoringTypesContent = files["ScoringTypes.xml"];
 ScoringTypes scoringTypes = new(scoringTypesContent);
 
+// Item types
+string itemTypesContent = files["itemTypes.csv"];
+ItemTypes itemTypes = new(itemTypesContent);
+
+// Item spawn rule set types
+string itemSpawnRuleSetTypesContent = files["ItemSpawnRuleSetTypes.xml"];
+ItemSpawnRuleSetTypes itemSpawnRuleSetTypes = new(itemSpawnRuleSetTypesContent);
+
 WriterData data = new()
 {
     CostumeTypes = costumeTypes,
@@ -172,6 +180,8 @@ WriterData data = new()
     LevelSetTypes = levelSetTypes,
     GameModeTypes = gameModeTypes,
     ScoringTypes = scoringTypes,
+    ItemTypes = itemTypes,
+    ItemSpawnRuleSetTypes = itemSpawnRuleSetTypes,
     LangFile = langFile,
 };
 

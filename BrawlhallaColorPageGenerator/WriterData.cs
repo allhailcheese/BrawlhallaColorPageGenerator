@@ -1,4 +1,3 @@
-using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
 
@@ -19,5 +18,7 @@ public sealed partial class WriterData
     public required LevelSetTypes LevelSetTypes { get; init; }
     public required GameModeTypes GameModeTypes { get; init; }
     public required ScoringTypes ScoringTypes { get; init; }
+    public required ItemTypes ItemTypes { get; init; }
+    public required ItemSpawnRuleSetTypes ItemSpawnRuleSetTypes { get; init; }
     public required LangFile LangFile { get; init; }
 }
