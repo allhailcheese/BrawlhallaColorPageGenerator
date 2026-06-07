@@ -428,10 +428,10 @@
 *200% damage
 *Teams enabled (2v2)
 *Map Set: [[Map_Set#1v1_Map_Set|1v1]]
-|crew battle=
+|tmnt crew battle=
 {{!}}-
-{{!}} '''Crew Battle'''
-{{!}} [[File:BOTW Crew Battle.jpg|200px]]
+{{!}} '''TMNT Crew Battle'''
+{{!}} [[File:BOTW TMNT Crew Battle.jpg|200px]]
 {{!}}''Cowabunga! Get ready for the ultimate Crew Battle game mode! Get the team together and unleash your inner Turtle Power for a totally epic 2v2 match at 200% damage. When you lose a stock, the next team member in your crew spawns in ready to fight. Be the first team to come out on top!''
 *{{gamemodes|crew battle|16px}}
 *4 players
@@ -493,10 +493,10 @@
 *4 players
 *3:00 minutes
 *Map: {{MapListing|the wasteland showdown}}
-|street brawl=
+|bustling side street street brawl=
 {{!}}-
-{{!}} '''Street Brawl'''
-{{!}} [[File:BOTW Street Brawl.jpg|200px]]
+{{!}} '''Bustling Side Street Street Brawl'''
+{{!}} [[File:BOTW Bustling Side Street Street Brawl.jpg|200px]]
 {{!}}''Get ready for action as another fight is coming your way! Choose your fighter and brawl in this 1v1, 8-minute match on the Bustling Side Street. Watch out for the side walls as they slide away to help knock your opponents into oblivion. Defeat your opponent first in this stamina mode to win''
 *{{gamemodes|street brawl|16px}}
 *2 players
@@ -606,7 +606,7 @@
 *8:00 minutes
 *Teams enabled (2v2)
 *Map: {{MapListing|western air temple}}
-|gamemaster’s doom=
+|gamemaster's doom=
 {{!}}-
 {{!}} '''Gamemaster’s Doom'''
 {{!}} [[File:BOTW Gamemaster's Doom.jpg|200px]]
@@ -624,7 +624,7 @@
 *2 players
 *3:00 minutes
 *Map: {{MapListing|old ivaldi mine}}
-|scruffy’s switchcraft=
+|scruffy's switchcraft=
 {{!}}-
 {{!}} '''Scruffy’s Switchcraft'''
 {{!}} [[File:BOTW Scruffy's Switchcraft.jpg|200px]]
@@ -634,7 +634,7 @@
 *3 lives
 *8:00 minutes
 *Map: {{MapListing|shorwind fishing port}}
-|scruffy’s strikeout=
+|scruffy's strikeout=
 {{!}}-
 {{!}} '''Scruffy’s Strikeout'''
 {{!}} [[File:BOTW Scruffy's Strikeout.jpg|200px]]
@@ -655,16 +655,6 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (3v3)
-|tekken brawl=
-{{!}}-
-{{!}} '''TEKKEN Brawl'''
-{{!}} [[File:BOTW TEKKEN Brawl.jpg|200px]]
-{{!}}''Pair up and hit the Mishima Dojo for a 2v2 game of TEKKEN  Brawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
-*{{gamemodes|volleybrawl|16px}}
-*4 players
-*3 lives
-*8:00 minutes
-*Teams enabled (2v2)
 |volleybrawl face-off=
 {{!}}-
 {{!}} '''Volleybrawl Face-off'''
@@ -674,7 +664,6 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Teams enabled (1v1)
 |oops! all boomerangs=
 {{!}}-
 {{!}} '''Oops! All Boomerangs'''
@@ -756,6 +745,17 @@
 *Map Set: 
 **{{MapListing|suzaku castle walls}}
 **{{MapListing|bustling side street}}
+|tekken brawl=
+{{!}}-
+{{!}} '''TEKKEN Brawl'''
+{{!}} [[File:BOTW TEKKEN Brawl.jpg|200px]]
+{{!}}''Pair up and hit the Mishima Dojo for a 2v2 game of TEKKEN  Brawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
+*{{gamemodes|volleybrawl|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+*Map: {{MapListing|tekken brawl}}
 |jötunheimr's doom=
 {{!}}-
 {{!}} '''Jötunheimr's Doom'''
@@ -827,10 +827,10 @@
 *8:00 minutes
 *Teams enabled (2v2)
 *Map: {{MapListing|theed power generator}}
-|water balloon fight=
+|mustafar water balloon fight=
 {{!}}-
-{{!}} '''Water Balloon Fight!'''
-{{!}} [[File:BOTW Water Balloon Fight!.jpg|200px]]
+{{!}} '''Mustafar Water Balloon Fight!'''
+{{!}} [[File:BOTW Mustafar Water Balloon Fight!.jpg|200px]]
 {{!}}''When it's too hot for snowballs break out the water balloons! Two teams of 2 face off in this 3 minute 150% damage showdown! Score 1 point for hitting someone with a water balloon, 3 points for getting a KO, and lose 1 point for being KO'd. The team with the most points at the end wins!''
 *{{gamemodes|gadget mayhem|16px}}
 *4 players

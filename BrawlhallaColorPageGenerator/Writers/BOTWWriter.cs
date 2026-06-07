@@ -16,10 +16,18 @@ public sealed class BOTWWriter(WriterData data)
         {
             if (
                 !gamemode.GameModeName.Contains("BOTW") ||
-                gamemode.GameModeName == "BOTWVolleyBattle2v2NewMap" // duplicate with BOTWVolleyBattle2v2
+                // duplicate of BOTWVolleyBattle2v2NewMap but allows all maps, which doesn't make sense with its name and description
+                gamemode.GameModeName == "BOTWVolleyBattle2v2"
             ) continue;
 
-            string gamemodeName = data.LangFile.Entries[gamemode.DisplayNameKey];
+            string gamemodeName = gamemode.GameModeName switch
+            {
+                // These are all named like another BOTW gamedmode, but are on a specific map
+                "BOTW2v2CrewBattleTMNT" => "TMNT Crew Battle",
+                "BOTWFixedStaminaGamemodeNewMap" => "Bustling Side Street Street Brawl",
+                "BOTWHeatwaveSnowbrawlLavaFFA" => "Mustafar Water Balloon Fight!",
+                _ => data.LangFile.Entries[gamemode.DisplayNameKey],
+            };
 
             ScoringType scoringType = data.ScoringTypes.ScoringsMap[gamemode.ScoringType];
             string scoringTypeName = data.LangFile.Entries[scoringType.DisplayNameKey];
@@ -27,7 +35,7 @@ public sealed class BOTWWriter(WriterData data)
             // key
             string gamemodeNameKey = gamemodeName.ToLowerInvariant().TrimEnd('!').Replace('’', '\'');
             writer.Write('|');
-            writer.Write(gamemodeName.ToLowerInvariant().TrimEnd('!'));
+            writer.Write(gamemodeNameKey);
             writer.WriteLine('=');
             // new row
             writer.WriteLine("{{!}}-");
@@ -117,7 +125,7 @@ public sealed class BOTWWriter(WriterData data)
             }
 
             // teams
-            if (gamemode.Teams && gamemode.ScoringType != "BUDDY")
+            if (gamemode.Teams && gamemode.ScoringType != "BUDDY" && gamemode.MaxPlayers > 2)
             {
                 writer.Write("*Teams enabled (");
                 writer.Write(Math.Ceiling(gamemode.MaxPlayers / 2f));
