@@ -8,7 +8,7 @@
 *2 players
 *5 lives
 *8:00 minutes
-*Map Set: {{MapListing|spirit realm showdown}}
+*Map: {{MapListing|spirit realm showdown}}
 |2v2 showdown=
 {{!}}-
 {{!}} '''2v2 Showdown'''
@@ -19,7 +19,7 @@
 *5 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|spirit realm showdown}}
+*Map: {{MapListing|spirit realm showdown}}
 |dodgebomb=
 {{!}}-
 {{!}} '''Dodgebomb'''
@@ -28,7 +28,7 @@
 *{{gamemodes|dodgebomb|16px}}
 *4 players
 *2:00 minutes
-*Map Set: {{MapListing|dodgebomb arena}}
+*Map: {{MapListing|dodgebomb arena}}
 |mayhem=
 {{!}}-
 {{!}} '''Mayhem!'''
@@ -48,7 +48,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|crumbled chasm}}
+*Map: {{MapListing|crumbled chasm}}
 |ko mania=
 {{!}}-
 {{!}} '''KO Mania!'''
@@ -118,7 +118,9 @@
 *Score to win: 3
 *5:00 minutes, max 0:30 minute rounds
 *Teams enabled (3v3)
-*Map Set: {{MapListing|big brawlball arena}}, {{MapListing|big world's end arena}}
+*Map Set: 
+**{{MapListing|big brawlball arena}}
+**{{MapListing|big world's end arena}}
 |double ko mania=
 {{!}}-
 {{!}} '''Double KO Mania!'''
@@ -249,7 +251,7 @@
 *5 lives
 *8:00 minutes
 *300% damage
-*Map Set: {{MapListing|mos eisley spaceport}}
+*Map: {{MapListing|mos eisley spaceport}}
 *Gadget spawns set to High
 |kung foot=
 {{!}}-
@@ -270,7 +272,11 @@
 *3 players
 *3:00 minutes
 *300% damage
-*Map Set: {{MapListing|small brawlhaven}}, {{MapListing|small mammoth fortress}}, {{MapListing|shipwreck falls}}, {{MapListing|small fangwild}}
+*Map Set: 
+**{{MapListing|small brawlhaven}}
+**{{MapListing|small mammoth fortress}}
+**{{MapListing|shipwreck falls}}
+**{{MapListing|small fangwild}}
 |horde=
 {{!}}-
 {{!}} '''Horde'''
@@ -279,7 +285,7 @@
 *{{gamemodes|horde|16px}}
 *4 players
 *15:00 minutes
-*Map Set: {{MapListing|horde}}
+*Map: {{MapListing|horde}}
 |buddy=
 {{!}}-
 {{!}} '''Buddy'''
@@ -288,7 +294,7 @@
 *{{gamemodes|buddy|16px}}
 *2 players
 *3:00 minutes
-*Map Set: {{MapListing|under the canopy}}
+*Map: {{MapListing|under the canopy}}
 |brawldown=
 {{!}}-
 {{!}} '''Brawldown'''
@@ -309,7 +315,7 @@
 *Score to win: 3
 *8:00 minutes
 *Teams enabled (3v3)
-*Map Set: {{MapListing|demon island ctf}}
+*Map: {{MapListing|demon island ctf}}
 |bubble tag=
 {{!}}-
 {{!}} '''Bubble Tag'''
@@ -331,7 +337,7 @@
 *Score to win: 7
 *5:00 minutes
 *Teams enabled (3v3)
-*Map Set: {{MapListing|synthwave kung foot}}
+*Map: {{MapListing|synthwave kung foot}}
 |demolition basketball=
 {{!}}-
 {{!}} '''Demolition Basketball'''
@@ -388,7 +394,7 @@
 *Score to win: 5
 *5:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|synthwave kung foot}}
+*Map: {{MapListing|synthwave kung foot}}
 |walker attack=
 {{!}}-
 {{!}} '''Walker Attack!'''
@@ -398,7 +404,7 @@
 *2 players
 *3 lives
 *15:00 minutes
-*Map Set: {{MapListing|walker attack!}}
+*Map: {{MapListing|walker attack!}}
 |jötunn winter brawlball=
 {{!}}-
 {{!}} '''Jötunn Winter Brawlball'''
@@ -409,7 +415,7 @@
 *Score to win: 5
 *15:00 minutes, max 0:45 minute rounds
 *Teams enabled (3v3)
-*Map Set: {{MapListing|big world's end arena}}
+*Map: {{MapListing|big world's end arena}}
 |crew battle=
 {{!}}-
 {{!}} '''Crew Battle'''
@@ -433,7 +439,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (2v2)
-*Map Set: {{MapListing|small turtles' lair}}
+*Map: {{MapListing|small turtles' lair}}
 |ghosts in the fortress=
 {{!}}-
 {{!}} '''Ghosts in the Fortress'''
@@ -445,7 +451,7 @@
 *8:00 minutes
 *300% damage
 *Teams enabled (2v2)
-*Map Set: {{MapListing|fortress of wolves}}
+*Map: {{MapListing|fortress of wolves}}
 |siege of lions=
 {{!}}-
 {{!}} '''Siege of Lions'''
@@ -454,7 +460,7 @@
 *{{gamemodes|timed|16px}}
 *4 players
 *3:00 minutes
-*Map Set: {{MapListing|siege of lions}}
+*Map: {{MapListing|siege of lions}}
 |street brawl=
 {{!}}-
 {{!}} '''Street Brawl'''
@@ -464,7 +470,9 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|suzaku castle walls}}, {{MapListing|bustling side street}}
+*Map Set: 
+**{{MapListing|suzaku castle walls}}
+**{{MapListing|bustling side street}}
 |ghost bubble tag=
 {{!}}-
 {{!}} '''Ghost Bubble Tag'''
@@ -484,7 +492,7 @@
 *{{gamemodes|timed|16px}}
 *4 players
 *3:00 minutes
-*Map Set: {{MapListing|the wasteland showdown}}
+*Map: {{MapListing|the wasteland showdown}}
 |street brawl=
 {{!}}-
 {{!}} '''Street Brawl'''
@@ -494,7 +502,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|bustling side street}}
+*Map: {{MapListing|bustling side street}}
 |fabled city scuffle=
 {{!}}-
 {{!}} '''Fabled City Scuffle'''
@@ -503,7 +511,7 @@
 *{{gamemodes|timed|16px}}
 *6 players
 *3:00 minutes
-*Map Set: {{MapListing|fabled city}}
+*Map: {{MapListing|fabled city}}
 |fangwild switchcraft=
 {{!}}-
 {{!}} '''Fangwild Switchcraft'''
@@ -515,7 +523,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (3v3)
-*Map Set: {{MapListing|fabled city}}
+*Map: {{MapListing|fabled city}}
 |rooftop rumble=
 {{!}}-
 {{!}} '''Rooftop Rumble'''
@@ -524,7 +532,7 @@
 *{{gamemodes|bounty|16px}}
 *4 players
 *3:00 minutes
-*Map Set: {{MapListing|florence rooftop}}
+*Map: {{MapListing|florence rooftop}}
 |ghost rooftop rumble=
 {{!}}-
 {{!}} '''Ghost Rooftop Rumble'''
@@ -533,7 +541,7 @@
 *{{gamemodes|bounty|16px}}
 *4 players
 *3:00 minutes
-*Map Set: {{MapListing|florence rooftop}}
+*Map: {{MapListing|florence rooftop}}
 |bounty hunting=
 {{!}}-
 {{!}} '''Bounty Hunting'''
@@ -553,7 +561,9 @@
 *4 players
 *3:00 minutes
 *200% damage
-*Map Set: {{MapListing|florence rooftop}}, {{MapListing|florence terrace}}
+*Map Set: 
+**{{MapListing|florence rooftop}}
+**{{MapListing|florence terrace}}
 |theed city skirmish=
 {{!}}-
 {{!}} '''Theed City Skirmish'''
@@ -564,7 +574,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (3v3)
-*Map Set: {{MapListing|theed power generator}}
+*Map: {{MapListing|theed power generator}}
 |cliffside scuffle=
 {{!}}-
 {{!}} '''Cliffside Scuffle'''
@@ -574,7 +584,7 @@
 *6 players
 *3:00 minutes
 *300% damage
-*Map Set: {{MapListing|western air temple brawl}}
+*Map: {{MapListing|western air temple brawl}}
 |avatar state shift=
 {{!}}-
 {{!}} '''Avatar State Shift'''
@@ -584,7 +594,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|western air temple}}
+*Map: {{MapListing|western air temple}}
 |spirit world brawl=
 {{!}}-
 {{!}} '''Spirit World Brawl'''
@@ -595,7 +605,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|western air temple}}
+*Map: {{MapListing|western air temple}}
 |gamemaster’s doom=
 {{!}}-
 {{!}} '''Gamemaster’s Doom'''
@@ -613,7 +623,7 @@
 *{{gamemodes|dice & destruction|16px}}
 *2 players
 *3:00 minutes
-*Map Set: {{MapListing|old ivaldi mine}}
+*Map: {{MapListing|old ivaldi mine}}
 |scruffy’s switchcraft=
 {{!}}-
 {{!}} '''Scruffy’s Switchcraft'''
@@ -623,7 +633,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|shorwind fishing port}}
+*Map: {{MapListing|shorwind fishing port}}
 |scruffy’s strikeout=
 {{!}}-
 {{!}} '''Scruffy’s Strikeout'''
@@ -634,7 +644,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|shorwind fishing port}}
+*Map: {{MapListing|shorwind fishing port}}
 |volleybrawl triples=
 {{!}}-
 {{!}} '''Volleybrawl Triples'''
@@ -717,7 +727,7 @@
 *4 players
 *3:00 minutes
 *200% damage
-*Map Set: {{MapListing|terminus}}
+*Map: {{MapListing|terminus}}
 *Gadget spawns set to High
 *Only the following [[Gadgets]] can spawn:
 **{{items|bouncy bomb}}
@@ -733,7 +743,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|mishima dojo}}
+*Map: {{MapListing|mishima dojo}}
 |street brawl relay=
 {{!}}-
 {{!}} '''Street Brawl Relay'''
@@ -743,7 +753,9 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|suzaku castle walls}}, {{MapListing|bustling side street}}
+*Map Set: 
+**{{MapListing|suzaku castle walls}}
+**{{MapListing|bustling side street}}
 |jötunheimr's doom=
 {{!}}-
 {{!}} '''Jötunheimr's Doom'''
@@ -753,7 +765,7 @@
 *4 players
 *3:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|small world's end}}
+*Map: {{MapListing|small world's end}}
 |bubble tag relay=
 {{!}}-
 {{!}} '''Bubble Tag Relay'''
@@ -764,7 +776,7 @@
 *Score to win: 5
 *5:00 minutes, max 1:30 minute rounds
 *Teams enabled (2v2)
-*Map Set: {{MapListing|bikini bottom}}
+*Map: {{MapListing|bikini bottom}}
 |brawl of the heroes=
 {{!}}-
 {{!}} '''Brawl of the Heroes'''
@@ -774,7 +786,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|mustafar}}
+*Map: {{MapListing|mustafar}}
 |apocalyptic target=
 {{!}}-
 {{!}} '''Apocalyptic Target'''
@@ -784,7 +796,7 @@
 *6 players
 *3:00 minutes
 *200% damage
-*Map Set: {{MapListing|apocalyptic chasm}}
+*Map: {{MapListing|apocalyptic chasm}}
 *Gadget spawns set to High
 *Only the following [[Gadgets]] can spawn:
 **{{items|bouncy bomb}}
@@ -803,7 +815,7 @@
 *Teams enabled (2v1)
 *2 Players vs A [[Darth Maul]] Chosen bot
 *Scoreboard header changed to "JEDI WIN!" or "DARTH MAUL WINS!"
-*Map Set: {{MapListing|small theed generator}}
+*Map: {{MapListing|small theed generator}}
 |rule of 2v2=
 {{!}}-
 {{!}} '''Rule of 2v2'''
@@ -814,7 +826,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|theed power generator}}
+*Map: {{MapListing|theed power generator}}
 |water balloon fight=
 {{!}}-
 {{!}} '''Water Balloon Fight!'''
@@ -824,7 +836,7 @@
 *4 players
 *3:00 minutes
 *150% damage
-*Map Set: {{MapListing|mustafar}}
+*Map: {{MapListing|mustafar}}
 *Only {{items|water balloon}} can appear
 |starlight snowbrawl scuffle=
 {{!}}-
@@ -834,7 +846,7 @@
 *{{gamemodes|gadget mayhem|16px}}
 *4 players
 *3:00 minutes
-*Map Set: {{MapListing|starlight falls}}
+*Map: {{MapListing|starlight falls}}
 |starlight selection trials=
 {{!}}-
 {{!}} '''Starlight Selection Trials'''
@@ -843,7 +855,7 @@
 *{{gamemodes|dice & destruction|16px}}
 *6 players
 *3:00 minutes
-*Map Set: {{MapListing|starlight falls}}
+*Map: {{MapListing|starlight falls}}
 |three for all relay=
 {{!}}-
 {{!}} '''Three For All Relay'''
@@ -861,7 +873,7 @@
 *{{gamemodes|timed|16px}} {{gamemodes|strikeout|16px}}
 *3 players
 *3:00 minutes
-*Map Set: {{MapListing|lich's tomb}}
+*Map: {{MapListing|lich's tomb}}
 |batavian ghost brawl=
 {{!}}-
 {{!}} '''Batavian Ghost Brawl'''
@@ -871,7 +883,7 @@
 *4 players
 *3:00 minutes
 *300% damage
-*Map Set: {{MapListing|castle batavia}}
+*Map: {{MapListing|castle batavia}}
 |spooky switchcraft=
 {{!}}-
 {{!}} '''Spooky Switchcraft'''
@@ -881,7 +893,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|castle batavia}}
+*Map: {{MapListing|castle batavia}}
 |absolute mayhem=
 {{!}}-
 {{!}} '''Absolute Mayhem!'''
@@ -934,7 +946,7 @@
 *Score to win: 5
 *5:00 minutes
 *Teams enabled (2v2)
-*Map Set: {{MapListing|world's end kung foot}}
+*Map: {{MapListing|world's end kung foot}}
 |jikoku ghost duel=
 {{!}}-
 {{!}} '''Jikoku Ghost Duel'''
@@ -944,7 +956,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: {{MapListing|jikoku}}
+*Map: {{MapListing|jikoku}}
 |hidden in the walls=
 {{!}}-
 {{!}} '''Hidden in the Walls'''
@@ -956,7 +968,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (2v2)
-*Map Set: {{MapListing|shiganshina district}}
+*Map: {{MapListing|shiganshina district}}
 |shiganshina clash=
 {{!}}-
 {{!}} '''Shiganshina Clash'''
@@ -966,7 +978,7 @@
 *6 players
 *3:00 minutes
 *Teams enabled (3v3)
-*Map Set: {{MapListing|shiganshina district brawl}}
+*Map: {{MapListing|shiganshina district brawl}}
 |mordex boss battle=
 {{!}}-
 {{!}} '''Mordex Boss Battle'''
@@ -979,7 +991,7 @@
 *Teams enabled (2v1)
 *2 Players vs An [[Ascended Mordex]] Chosen bot
 *Scoreboard header changed to "EXALTED HUNTERS WIN!" or "MORDEX WINS!"
-*Map Set: {{MapListing|small fortress of wolves}}
+*Map: {{MapListing|small fortress of wolves}}
 }}</includeonly><noinclude>
 {{doc}}
 {{BOTW/top}}

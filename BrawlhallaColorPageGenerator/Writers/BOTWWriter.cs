@@ -158,12 +158,10 @@ public sealed class BOTWWriter(WriterData data)
         if (levelSetName is null || levelSetName.EndsWith("All") || levelSetName == "VolleyBattle")
             return;
 
-        writer.Write("*Map Set: ");
-
         // link to map set page
         if (LEVEL_SET_TO_MAP_SET_PAGE_ANCHOR.TryGetValue(levelSetName, out string? mapSetPageHeader))
         {
-            writer.Write("[[Map_Set#");
+            writer.Write("*Map Set: [[Map_Set#");
             writer.Write(mapSetPageHeader);
             writer.Write("_Map_Set|");
             writer.Write(mapSetPageHeader);
@@ -186,21 +184,25 @@ public sealed class BOTWWriter(WriterData data)
                 levelList = levelSet.LevelTypes;
             }
 
-            int index = 0;
+            writer.Write("*Map");
+            if (levelList.Length > 1)
+                writer.Write(" Set");
+            writer.Write(": ");
+            if (levelList.Length > 1)
+                writer.WriteLine();
+
             foreach (string levelName in levelList)
             {
                 if (!data.LevelTypes.LevelsMap.TryGetValue(levelName, out LevelType? level))
                     continue;
-                // comma
-                if (index != 0)
-                    writer.Write(", ");
-                index++;
-                // level link
+
+                if (levelList.Length > 1)
+                    writer.Write("**");
+
                 writer.Write("{{MapListing|");
                 writer.Write(level.DisplayName.ToLowerInvariant());
-                writer.Write("}}");
+                writer.WriteLine("}}");
             }
-            writer.WriteLine();
         }
     }
 
