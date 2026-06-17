@@ -2,6 +2,7 @@
 *[[Arcadia]] (Defense stance)
 *[[Artemis]]
 *[[Asuri]] (Strength stance)
+*[[Aurus]]
 *[[Azoth]]
 *[[Barraza]] (Dexterity stance)
 *[[Bödvar]]
@@ -26,7 +27,7 @@
 *[[Koji]] (Super Defense stance)
 *[[Kor]]
 *[[Lady Vera]] (Defense stance)
-*[[Lin Fei]] (Challenge stance)
+*[[Lin Fei]] (Super Defense stance)
 *[[Loki]] (Super Strength stance)
 *[[Lord Vraxx]] (Super Speed stance)
 *[[Lucien]]

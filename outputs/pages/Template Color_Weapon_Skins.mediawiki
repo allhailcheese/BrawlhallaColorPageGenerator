@@ -180,6 +180,7 @@ Yong-ui Dokki
 Achilles' Loss
 Airgliders
 Ancestral Steps
+Aqua Jets
 Asgardian Battle Boots
 Aú Sem Mão
 Aztlán Boots
@@ -645,10 +646,13 @@ Watery Grave
 {{List to itembox|color={{{1|}}}|
 Asgardian Chakram
 Aztlán Chakram
+Boon of Mars
 Bug Fixer
 Circle of Light
+Clipeus Virtutis
 Consecrate
 CopyCat
+Cyber Myk Chakram
 Darkheart Chakram
 Demon Art&#58; Kageshuriken && image:Demon Art Kageshuriken $1.png
 Dwarven-forged Chakram
@@ -658,6 +662,7 @@ Hringr of the Raven
 Jade Maw
 Jubilant Cymbal
 Lethal Coil
+Mercurial Reve
 Nightmare Incisor
 Ninpō&#58; Unsealed Chakram && image:Ninpō Unsealed Chakram $1.png
 Noxious Wheel
@@ -665,6 +670,7 @@ Penitence
 Quantum War-Quoit
 RGB Chakram
 Scrollbar
+Shield of the Empire
 Stories of Antiquity
 Sun Dust
 Toybox Chakram
@@ -1160,6 +1166,7 @@ Flora Blades && displayname:Flora Blades (Lvl 2) && image:Flora Blades Level 2 $
 Flora Blades && displayname:Flora Blades (Lvl 3) && image:Flora Blades Level 3 $1.png
 Getaway Points
 Grand Finale
+Great Bite Katars
 Greed and Avarice
 Hardlight Pincers
 Haunting Blades
@@ -1267,6 +1274,7 @@ Asgardian Orb
 Aztlán Orb
 Beach Ball
 Beatdown Bell
+Big Chomp
 Blood Keepsake
 Blood Shard
 Closin' Time
@@ -1680,14 +1688,17 @@ Guiding Spirit
 Gungnir
 Hand-Saw
 Hardlight Spear
+Hasta Pura
 Heart Piercer
 Heartseeker
 Heavenly Shattering Star
 Heimdall's Call
 Helios Reign
+Herd Culler
 Holy Covenant
 Hunting Spear
 Immortal Pike
+Imperator's Will
 In Health
 Inscription
 Iron Might
@@ -1716,6 +1727,7 @@ Museum-Quality Spear
 Nanometal Spear
 Needle Drop Spear
 Neo-City Spear
+Neptune's Blessing
 Nightmare Spine
 Ninetails
 Ninpō&#58; Unsealed Spear && image:Ninpō Unsealed Spear $1.png

@@ -6,8 +6,10 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Aztlán Chakram|image=Aztlán Chakram.png|desc={{BPReward|Season Eleven|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Bug Fixer|image=Bug Fixer.png|desc=[[Desktop Butterfly Ransom]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Circle of Light|image=Circle of Light.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Clipeus Virtutis|image=Clipeus Virtutis.png|desc=[[Centurion Aurus]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Consecrate|image=Consecrate.png|desc=[[Divine Adjudicator Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=CopyCat|image=CopyCat.png|desc=[[Rootkit Ransom]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Chakram|image=Cyber Myk Chakram.png|desc={{BPReward|Season Eight Classic|gold|Tier 14}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Chakram|image=Darkheart Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Demon Art: Kageshuriken|image=Demon Art Kageshuriken.png|desc=[[Akuma Shinobi Priya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dwarven-forged Chakram|image=Dwarven-forged Chakram.png|desc={{BPReward|Season Seven Classic|gold|Tier 21}}|descheight=55px}}
@@ -17,12 +19,14 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Jade Maw|image=Jade Maw.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Jubilant Cymbal|image=Jubilant Cymbal.png|desc=[[Joyful Dancer Priya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Lethal Coil|image=Lethal Coil.png|desc=[[Dark Harlequin Priya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mercurial Reve|image=Mercurial Reve.png|desc=[[God of Boar Aurus]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Incisor|image=Nightmare Incisor.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Chakram|image=Ninpō Unsealed Chakram.png|desc={{BPReward|Season Twelve|gold|Past Tier 22}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Noxious Wheel|image=Noxious Wheel.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Penitence|image=Penitence.png|desc=[[High Inquisitor Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=RGB Chakram|image=RGB Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Scrollbar|image=Scrollbar.png|desc=[[Incognito Ransom]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shield of the Empire|image=Shield of the Empire.png|desc=[[Freesmith Inquisitor Aurus]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Skyforged Chakram|image=Skyforged Chakram.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Stories of Antiquity|image=Stories of Antiquity.png|desc=[[Aqyn Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Chakram|image=Toybox Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -35,6 +39,7 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 These Chakram skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
 
 {{itembox/top}}
+{{itembox|width=200|height=170|name=Boon of Mars|image=Boon of Mars.png|desc=[[Aurus]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Golden Order|image=Golden Order.png|desc=[[Lady Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Quantum War-Quoit|image=Quantum War-Quoit.png|desc=[[Ransom]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sun Dust|image=Sun Dust.png|desc=[[Priya]]|descheight=55px}}

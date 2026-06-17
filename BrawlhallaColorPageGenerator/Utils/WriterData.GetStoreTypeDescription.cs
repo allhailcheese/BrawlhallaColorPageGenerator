@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Text;
 using BrawlhallaColorPageGenerator.Objects;
 
@@ -31,7 +32,7 @@ public partial class WriterData
                 _ => storeType.IdolCost
             });
             // also costs guild gems
-            if(storeType.GuildGemsCost > 0)
+            if (storeType.GuildGemsCost > 0)
             {
                 sb.Append("}} or {{Coin|goin|");
                 sb.Append(storeType.GuildGemsCost);
@@ -50,7 +51,7 @@ public partial class WriterData
             sb.Append(storeType.SpecialCurrencyType switch
             {
                 "BHFest25" => "fest",
-                "Heatwave25" => "orange",
+                "Heatwave25" or "Heatwave26" => "heatwave",
                 "BackToSchool25" => "school",
                 "Halloween25" => "halloween",
                 "Anniversary25" => "anniv",
@@ -81,20 +82,7 @@ public partial class WriterData
 
         if (storeType.SpecialCurrencyType is not null)
         {
-            bool useSmallElement = storeType.SpecialCurrencyType switch
-            {
-                "BHFest25" => false,
-                "Heatwave25" => false,
-                "BackToSchool25" => true,
-                "Halloween25" => true,
-                "Anniversary25" => false,
-                "Christmas25" => false,
-                "VDay25" => false,
-                "StPatricks26" => true,
-                "Bloomhalla26" => false,
-                "BHFest26" => false,
-                _ => false,
-            };
+            bool useSmallElement = SPECIAL_CURRENCY_WITH_LONG_NAME.Contains(storeType.SpecialCurrencyType);
 
             sb.Append("<br>");
             if (useSmallElement) sb.Append("<small>");
@@ -110,6 +98,7 @@ public partial class WriterData
                 "StPatricks26" => FormatItemTag("march", 2026),
                 "Bloomhalla26" => FormatItemTag("spring", 2026),
                 "BHFest26" => FormatItemTag("fest", 2026),
+                "Heatwave26" => FormatItemTag("summer", 2026),
                 _ => " ERROR",
             });
             if (useSmallElement) sb.Append("</small>");
@@ -120,6 +109,7 @@ public partial class WriterData
             sb.Append(storeType.EndDateKey switch
             {
                 "StoreType_EndDate_RequiresSkyforged" => "+ Skyforged Variant",
+                "StoreType_EndDate_RequiresGoldforged" => "+ Goldforged Variant",
                 "StoreType_EndDate_LimitedTime" => storeType.TimedPromotion switch
                 {
                     "Valhallentines" => FormatItemTag("valentines"),
@@ -140,4 +130,6 @@ public partial class WriterData
 
         return sb.ToString();
     }
+
+    private static readonly HashSet<string> SPECIAL_CURRENCY_WITH_LONG_NAME = ["BackToSchool25", "Halloween25", "StPatricks26"];
 }

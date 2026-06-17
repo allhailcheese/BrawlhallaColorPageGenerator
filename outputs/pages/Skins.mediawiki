@@ -73,6 +73,14 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{Itembox/bottom}}
 
 
+===[[Aurus]]===
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Centurion Aurus|image=Centurion Aurus.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=God of Boar Aurus|image=God of Boar Aurus.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Freesmith Inquisitor Aurus|image=Freesmith Inquisitor Aurus.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{Itembox/bottom}}
+
+
 ===[[Azoth]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Baron Azoth|image=Baron Azoth.png|cost={{Coin|mammoth|80}}|costheight=49px}}
@@ -686,7 +694,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Frost Guardian Ragnir|image=Frost Guardian Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Raphael|image=Raphael (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Elder Wild Ragnir|image=Elder Wild Ragnir.webp|desc={{BPReward|Season Six|gold|Tier 1}}|descheight=49px}}
-{{itembox|width=220|height=270|name=Seadragon Ragnir|image=Seadragon Ragnir.png|cost={{Coin|ticket orange|1850}}<br>{{ItemTag|summer|2025}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Seadragon Ragnir|image=Seadragon Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Ragnir, King of Darkness|image=Ragnir, King of Darkness.png|desc={{BPReward|Season Thirteen|gold|Final Tier 7}}|descheight=49px|epic=true}}
 {{Itembox/bottom}}
 
@@ -717,6 +725,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Fallen Raptor|image=Fallen Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Emerald Raptor|image=Emerald Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Raptor, the Betrayer|image=Raptor, the Betrayer.png|desc={{BPReward|Season Nine|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Scuba Raptor|image=Scuba Raptor.png|cost={{Coin|ticket heatwave|1850}}<br>{{ItemTag|summer|2026}}|costheight=49px}}
 {{itembox|width=220|height=270|name=adidas Raptor|image=adidas Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Eren|image=Eren.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}

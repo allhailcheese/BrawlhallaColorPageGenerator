@@ -5,6 +5,7 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Achilles' Loss|image=Achilles' Loss.png|desc=[[Gorgon Thea]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Airgliders|image=Airgliders.png|desc=[[Rocket Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ancestral Steps|image=Ancestral Steps.png|desc=[[Ocelotl Tezca]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aqua Jets|image=Aqua Jets.png|desc=[[Scuba Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Battle Boots|image=Asgardian Battle Boots.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Aztlán Boots|image=Aztlán Boots.png|desc={{BPReward|Season Eleven|gold|Tier 58}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Barra Boots|image=Barra Boots.png|desc=[[Streetwear Vivi]]|descheight=55px}}

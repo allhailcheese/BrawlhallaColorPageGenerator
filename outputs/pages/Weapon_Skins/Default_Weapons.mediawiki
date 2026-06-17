@@ -70,6 +70,7 @@ These weapon skins are unique in that they can only be used by the Legend they b
 {{itembox|width=180|height=170|name=Elven Battle Spear|image=Elven Battle Spear.png|desc=[[Dusk]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hunting Spear|image=Hunting Spear.png|desc=[[Gnash]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Mega Wrench|image=Mega Wrench.png|desc=[[Seven]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Neptune's Blessing|image=Neptune's Blessing.png|desc=[[Aurus]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Prey Catcher|image=Prey Catcher.png|desc=[[Kaya]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Qiang|image=Qiang.png|desc=[[Wu Shang]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Serpent Spear|image=Serpent Spear.png|desc=[[Queen Nai]]|descheight=55px}}
@@ -193,6 +194,7 @@ These weapon skins are unique in that they can only be used by the Legend they b
 
 ==Chakram==
 {{itembox/top}}
+{{itembox|width=180|height=170|name=Boon of Mars|image=Boon of Mars.png|desc=[[Aurus]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Golden Order|image=Golden Order.png|desc=[[Lady Vera]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Quantum War-Quoit|image=Quantum War-Quoit.png|desc=[[Ransom]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Sun Dust|image=Sun Dust.png|desc=[[Priya]]|descheight=55px}}

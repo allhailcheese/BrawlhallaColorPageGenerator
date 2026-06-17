@@ -288,6 +288,7 @@ public partial class WriterData
         // weapon skins
         ["OrbTerminus"] = "{{BPReward|Season Eight|free|Tier 4}}",
         ["AxeTerminus"] = "{{BPReward|Season Eight|gold|Tier 13}}",
+        ["ChakramTerminus"] = "{{BPReward|Season Eight Classic|gold|Tier 14}}",
         ["CannonTerminus"] = "{{BPReward|Season Eight|gold|Tier 18}}",
         ["BowTerminus"] = "{{BPReward|Season Eight|gold|Tier 26}}",
         ["FistsTerminus"] = "{{BPReward|Season Eight|gold|Tier 33}}",

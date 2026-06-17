@@ -51,13 +51,16 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Gungnir|image=Gungnir.png|desc=[[Eivor]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Hand-Saw|image=Hand-Saw.png|desc=[[The Monster Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Hardlight Spear|image=Hardlight Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=210|height=220|name=Hasta Pura|image=Hasta Pura.png|desc=[[Centurion Aurus]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Heart Piercer|image=Heart Piercer.png|desc=[[The First Real Bear Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Heartseeker|image=Heartseeker.png|desc=[[Eternal Love Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Heavenly Shattering Star|image=Heavenly Shattering Star.png|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Heimdall's Call|image=Heimdall's Call.png|desc=[[Aurora Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Helios Reign|image=Helios Reign.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=210|height=220|name=Herd Culler|image=Herd Culler.png|desc=[[God of Boar Aurus]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Holy Covenant|image=Holy Covenant.png|desc=[[Sylvan Cleric Kaya]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Immortal Pike|image=Immortal Pike.png|desc=[[Dusk Till Dawn]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Imperator's Will|image=Imperator's Will.png|desc=[[Freesmith Inquisitor Aurus]]|descheight=55px}}
 {{itembox|width=210|height=220|name=In Health|image=In Health.png|desc=[[Corpse Bride Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Inscription|image=Inscription.png|desc=[[Neostreet Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Iron Might|image=Iron Might.png|desc=[[Wu Shang the Breaker]]|descheight=55px}}
@@ -189,6 +192,7 @@ These Spear skins belong to default Legend skins. Because of this, they can only
 {{itembox|width=210|height=220|name=Elven Battle Spear|image=Elven Battle Spear.png|desc=[[Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Hunting Spear|image=Hunting Spear.png|desc=[[Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Mega Wrench|image=Mega Wrench.png|desc=[[Seven]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Neptune's Blessing|image=Neptune's Blessing.png|desc=[[Aurus]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Prey Catcher|image=Prey Catcher.png|desc=[[Kaya]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Qiang|image=Qiang.png|desc=[[Wu Shang]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Serpent Spear|image=Serpent Spear.png|desc=[[Queen Nai]]|descheight=55px}}

@@ -65,6 +65,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Getaway Points|image=Getaway Points.png|desc=[[Overdrive Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Goldforged Blades|image=Goldforged Blades.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=190|name=Grand Finale|image=Grand Finale.png|desc=[[Harlequin Caspian]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Great Bite Katars|image=Great Bite Katars.png|desc=[[Summer Championship 2026 Pack]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Greed and Avarice|image=Greed and Avarice.png|desc=[[Ragnir the Covetous]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Hardlight Pincers|image=Hardlight Pincers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Haunting Blades|image=Haunting Blades.png|desc=[[Horseman Lucien]]|descheight=55px}}

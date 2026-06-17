@@ -10,6 +10,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Aztlán Orb|image=Aztlán Orb.png|desc={{BPReward|Season Eleven|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Beach Ball|image=Beach Ball.png|desc=[[Summer Esports 2024 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Beatdown Bell|image=Beatdown Bell.png|desc=[[Feline Fait]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Big Chomp|image=Big Chomp.png|desc=[[Scuba Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blood Keepsake|image=Blood Keepsake.png|desc=[[Dusk Till Dawn]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blood Shard|image=Blood Shard.png|desc=[[Nimue]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Closin' Time|image=Closin' Time.png|desc=[[Desperado Reno]]|descheight=55px}}

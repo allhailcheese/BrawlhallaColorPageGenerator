@@ -65,6 +65,13 @@ Ahsoka Tano
 Master of Night Asuri
 Levi
 }}
+===[[Aurus]]===
+{{List to itembox|color={{{1|}}}|
+Aurus
+Centurion Aurus
+God of Boar Aurus
+Freesmith Inquisitor Aurus
+}}
 ===[[Azoth]]===
 {{List to itembox|color={{{1|}}}|
 Azoth
@@ -701,6 +708,7 @@ Rocket Raptor
 Fallen Raptor
 Emerald Raptor
 Raptor, the Betrayer
+Scuba Raptor
 adidas Raptor
 Eren
 }}
