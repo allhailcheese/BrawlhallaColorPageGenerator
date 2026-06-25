@@ -37,7 +37,7 @@ public partial class WriterData
         ["KatarEsports2026"] = TD("Spring Doubles"),
         ["SpearEsports2026"] = TD("Midseason 2026 Whitelist"),
         ["ScytheEsports2026"] = TD("Midseason 2026 Whitelist"),
-        ["PistolEsports2026"] = TD_DESCRIPTION,
+        ["PistolEsports2026"] = TD("Eternal Sports 2026"),
         ["AxeEsports2026"] = TD_DESCRIPTION,
         ["OrbEsports2026"] = TD_DESCRIPTION,
         ["BootsEsports2026"] = TD_DESCRIPTION,

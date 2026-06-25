@@ -102,7 +102,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Murder of Crows|image=Murder of Crows.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Naughty & Nice|image=Naughty & Nice.png|desc=[[Secret Santa Thatch]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Needlers|image=Needlers.png|desc=Unobtainable.<br>Removed from Store.|descheight=55px}}
-{{itembox|width=180|height=170|name=Neo-City Blasters|image=Neo-City Blasters.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=180|height=170|name=Neo-City Blasters|image=Neo-City Blasters.png|desc={{TD|Eternal Sports 2026|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Net Guns|image=Net Guns.png|desc=[[Sandy Cheeks]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Witnesses|image=Nightmare Witnesses.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Nina's Blasters|image=Nina's Blasters.png|desc=[[Nina Williams]]|descheight=55px}}
