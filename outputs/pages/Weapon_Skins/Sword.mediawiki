@@ -103,7 +103,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Moonbeam Blade (Chakora Priya)|displayname=Moonbeam Blade|image=Moonbeam Blade (Chakora Priya).png|desc=[[Chakora Priya]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Morning Star|image=Morning Star.png|desc=[[Simon Belmont]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Mr. Stabby|image=Mr. Stabby.png|desc=[[Goblin Thatch]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Neo-City Sword|image=Neo-City Sword.png|desc={{TD|Winter Singles Championship|Twitch Drops}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Neo-City Sword|image=Neo-City Sword.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Winter Singles Championship|Twitch Drops}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Neon Gleam|image=Neon Gleam.png|desc={{BPReward|Season Two|gold|Tier 19}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Night Terrors|image=Night Terrors.png|desc=[[Fiendish Knight Roland]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Nightmare Sword|image=Nightmare Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}

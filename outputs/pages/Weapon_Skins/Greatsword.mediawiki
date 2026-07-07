@@ -21,7 +21,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Divine Conviction|image=Divine Conviction Level 3.png|desc=[[Luminous Paladin Jaeyun]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Dragon's Fang|image=Dragon's Fang.png|desc=[[Hanbok Jaeyun]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Dragon's Fury|image=Dragon's Fury.png|cost={{Coin|mammoth|60}}|costheight=70px}}
-{{itembox|width=190|height=170|name=Dreaming Magi ☆ Astral Greatsword|displayname=<span style="font-size:69%">Dreaming Magi ☆ Astral Greatsword</span>|image=Dreaming Magi ☆ Astral Greatsword.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dreaming Magi ☆ Astral Greatsword|displayname=<span style="font-size:69%">Dreaming Magi ☆ Astral Greatsword</span>|image=Dreaming Magi ☆ Astral Greatsword.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Summer 2026 Whitelist|Twitch Drops}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Dwarven-Forged Greatsword|displayname={{small|Dwarven-Forged Greatsword}}|image=Dwarven-Forged Greatsword.png|desc=<span style="font-size:75%">{{BPReward|Season Seven|gold|Tier 21}}<br>{{BPReward|Season Seven Classic|free|Tier 20}}</span>|descheight=70px}}
 {{itembox|width=190|height=170|name=Flamberge's Gale|image=Flamberge's Gale.png|desc={{BPReward|Season Six|gold|Tier 77}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Flora Striker|image=Flora Striker.png|desc=[[Hwarang Jaeyun]]|descheight=70px}}
@@ -44,7 +44,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Law of the Land|image=Law of the Land.png|desc=[[Elvenhollow Magyar]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Lucille|image=Lucille.png|desc=[[Negan]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Luke Skywalker's Lightsaber|displayname={{small|Luke Skywalker's Lightsaber}}|image=Luke Skywalker's Lightsaber.png|desc=[[Luke Skywalker]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Neo-City Greatsword|image=Neo-City Greatsword.png|desc={{TD|Winter Doubles Championship|Twitch Drops}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Neo-City Greatsword|image=Neo-City Greatsword.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Winter Doubles Championship|Twitch Drops}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Nightfall|image=Nightfall.png|desc=[[Rogue Queen Arcadia]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Nightmare Butcher|image=Nightmare Butcher.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Ninpō: Unsealed Greatsword|displayname={{small|Ninpō: Unsealed Greatsword}}|image=Ninpō Unsealed Greatsword.png|desc={{BPReward|Season Twelve|free|Present Tier 23}}|descheight=70px}}
@@ -52,7 +52,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Outrun|image=Outrun.png|desc={{BPReward|Season Two|gold|Tier 81}}|descheight=70px}}
 {{itembox|width=190|height=170|name=RGB Greatsword|image=RGB Greatsword.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Skyforged Greatsword|image=Skyforged Greatsword.png|cost={{Coin|glory|5000}}|costheight=70px}}
-{{itembox|width=190|height=170|name=Skysworn Oath|image=Skysworn Oath.png|desc={{VSR|Charity Stream #6|Viewership Rewards}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Skysworn Oath|image=Skysworn Oath.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #6|Viewership Rewards}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Stolen Jedi Lightsaber|image=Stolen Jedi Lightsaber.png|desc=[[General Grievous]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Super Dragon Star Blade|image=Super Dragon Star Blade.png|desc=[[Mecha Imugi]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Sweetgum Greatsword|image=Sweetgum Greatsword.png|desc=[[Elvenhollow Imugi]]|descheight=70px}}

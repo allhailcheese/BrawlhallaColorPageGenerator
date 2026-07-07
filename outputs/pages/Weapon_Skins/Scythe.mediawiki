@@ -29,7 +29,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Dreamweaver's Dance: Reap|displayname={{small|Dreamweaver's Dance: Reap}}|image=Dreamweaver's Dance Reap.png|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dwarven-Forged Scythe|image=Dwarven-Forged Scythe.png|desc={{BPReward|Season Seven|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Edge of the Universe|image=Edge of the Universe.png|desc=[[Void Zenith Artemis]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Erudition's Call|image=Erudition's Call.png|desc={{VSR|Charity Stream #9|Viewership Rewards}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Erudition's Call|image=Erudition's Call.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #9|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Eternity|image=Eternity.png|desc=[[Seraph Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Eye of Horus|image=Eye of Horus.png|desc=[[Hand of Horus Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fettered Rage|image=Fettered Rage.png|desc=[[Fenrir Mordex]]|descheight=55px}}
@@ -71,7 +71,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Mississippi Wrangler|image=Mississippi Wrangler.png|desc=[[Outlaw Loki]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Mordex on Ice: Dair to Dream|displayname={{small|Mordex on Ice: Dair to Dream}}|image=Mordex on Ice Dair to Dream.png|desc=[[Winter Esports 2026 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Necromantic Aura|image=Necromantic Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Neo-City Scythe|image=Neo-City Scythe.png|desc={{TD|Midseason 2026 Whitelist|Twitch Drops}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Neo-City Scythe|image=Neo-City Scythe.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Midseason 2026 Whitelist|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Nevermore|image=Nevermore.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Reaper|image=Nightmare Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Kusarenka|image=Ninpō Kusarenka Level 3.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}

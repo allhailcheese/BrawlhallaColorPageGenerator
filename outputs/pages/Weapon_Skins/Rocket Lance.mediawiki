@@ -72,7 +72,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Nordic Celebration|image=Nordic Celebration.png|desc=[[Ivaldi's Finest Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=OHHHHH YEEAAAH!|image=OHHHHH YEEAAAH!.png|desc=[[Macho Man]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Overdrive|image=Overdrive.png|desc=[[Rock 'n Rupture]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Perceptive Flight|image=Perceptive Flight.png|desc={{VSR|Charity Streams #5|Viewership Rewards}}|descheight=55px}}
+{{itembox|width=205|height=170|name=Perceptive Flight|image=Perceptive Flight.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Streams #5|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Piercing Gaze|image=Piercing Gaze.png|desc=[[Secret Admirer Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Plague Boost|image=Plague Boost.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Planet Destroyer|image=Planet Destroyer.png|desc=[[General Vraxx]]|descheight=55px}}

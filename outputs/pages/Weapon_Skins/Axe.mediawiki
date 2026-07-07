@@ -4,7 +4,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=200|height=170|name=A Sign from Above|image=A Sign from Above.png|desc=[[Maggie]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Abandoned Anchor|image=Abandoned Anchor.png|desc=[[Ship Sinker Imugi]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Acuity Manifest|image=Acuity Manifest.png|desc={{VSR|Charity Stream #10|Viewership Rewards}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Acuity Manifest|image=Acuity Manifest.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #10|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Aesir Blade|image=Aesir Blade.png|desc=[[Metadev Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Airship Anchor|image=Airship Anchor.png|desc=[[Sky Scourge Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Arbiters Reach|image=Arbiters Reach.png|desc=[[Celestial Ragnir]]|descheight=55px}}
@@ -103,7 +103,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Mjolnir's Spirit|image=Mjolnir's Spirit.png|desc=[[Cheer Captain Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Monstrous Aura|image=Monstrous Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Mortal Coil|image=Mortal Coil.png|desc=[[Amun-Raza]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Neo-City Axe|image=Neo-City Axe.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo-City Axe|image=Neo-City Axe.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Hatchet|image=Nightmare Hatchet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Axe|image=Ninpō Unsealed Axe.png|desc={{BPReward|Season Twelve|gold|Present Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Painkiller|image=Painkiller.png|desc=[[Nemesis Barraza]]|descheight=55px}}

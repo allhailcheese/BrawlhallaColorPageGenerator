@@ -49,7 +49,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Mk1 Cannon|image=Mk1 Cannon.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=180|height=170|name=Modern Thunder|image=Modern Thunder.png|desc=[[Wenqing Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=170|name=MPL Rocket Launcher|image=MPL Rocket Launcher.png|desc=[[Kay Vess]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Neo-City Cannon|image=Neo-City Cannon.png|desc={{TD|Spring Singles|Twitch Drops}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Neo-City Cannon|image=Neo-City Cannon.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Spring Singles|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Mandible|image=Nightmare Mandible.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Unsealed Cannon|displayname={{small|Ninpō: Unsealed Cannon}}|image=Ninpō Unsealed Cannon.png|desc={{BPReward|Season Twelve|free|Future Tier 1}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Optimized Odzutsu|image=Optimized Odzutsu.png|desc=[[Wanderer Seven]]|descheight=55px}}
@@ -67,7 +67,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Snowsmoke|image=Snowsmoke.png|desc={{BPReward|Season Three|gold|Tier 41}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Sonic Boom|image=Sonic Boom.png|desc={{BPReward|Season Two|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=180|height=170|name=SPNKr Rocket Launcher|image=SPNKr Rocket Launcher.png|desc=[[The Master Chief]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Stalwart Screech|image=Stalwart Screech.png|desc={{VSR|Charity Stream #7|Viewership Rewards}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Stalwart Screech|image=Stalwart Screech.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #7|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Swamp Serum|image=Swamp Serum.png|desc=[[Termin-gator Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Tactical Cannon|image=Tactical Cannon.png|desc=[[Shadow Ops Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Big Bang|image=The Big Bang.png|desc={{BPReward|Season Five|gold|Tier 41}}|descheight=55px}}

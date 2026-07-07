@@ -15,7 +15,7 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Dwarven-forged Chakram|image=Dwarven-forged Chakram.png|desc={{BPReward|Season Seven Classic|gold|Tier 21}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Chakram|image=Goldforged Chakram.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Hardlight Chakram|image=Hardlight Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Hringr of the Raven|image=Hringr of the Raven.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hringr of the Raven|image=Hringr of the Raven.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Summer 2026 Whitelist|Twitch Drops}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Jade Maw|image=Jade Maw.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Jubilant Cymbal|image=Jubilant Cymbal.png|desc=[[Joyful Dancer Priya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Lethal Coil|image=Lethal Coil.png|desc=[[Dark Harlequin Priya]]|descheight=55px}}

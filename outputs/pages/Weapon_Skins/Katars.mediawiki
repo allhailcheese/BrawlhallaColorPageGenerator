@@ -94,7 +94,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Mech Makers|image=Mech Makers.png|desc=[[0RC4-M4k0]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Mikasa's Snap Blades|image=Mikasa's Snap Blades.png|desc=[[Mikasa]]|descheight=55px}}
 {{itembox|width=180|height=190|name=MK Needles|image=MK Needles.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=180|height=190|name=Neo-City Katars|image=Neo-City Katars.png|desc={{TD|Spring Doubles|Twitch Drops}}|descheight=55px}}
+{{itembox|width=180|height=190|name=Neo-City Katars|image=Neo-City Katars.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Spring Doubles|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Nettle & Belladonna|image=Nettle & Belladonna.png|desc=[[Nightshade Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Nightmare Claws|image=Nightmare Claws.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Nightmare Slicers|image=Nightmare Slicers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -150,7 +150,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Whispers of the Asp|image=Whispers of the Asp.png|desc=[[Winged Serpent Nai]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Wicked Claws|image=Wicked Claws.png|desc=[[Lynx Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Wings of Liberty|image=Wings of Liberty.png|desc=[[President Sentinel]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Wings of the Sage|image=Wings of the Sage.png|desc={{VSR|Charity Stream #8|Viewership Rewards}}|descheight=55px}}
+{{itembox|width=180|height=190|name=Wings of the Sage|image=Wings of the Sage.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #8|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Winter Daggers|image=Winter Daggers.png|cost={{Coin|mammoth|60}}<br>{{ItemTag|winter|small}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Wolfsilver Blades|image=Wolfsilver Blades.png|desc=[[Ember the Hunter]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Zenith Daggers|image=Zenith Daggers.png|desc={{BPReward|Season Five|gold|Tier 9}}|descheight=55px}}

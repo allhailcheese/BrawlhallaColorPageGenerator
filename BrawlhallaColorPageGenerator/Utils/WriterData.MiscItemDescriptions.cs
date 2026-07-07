@@ -4,20 +4,23 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    private const string TD_DESCRIPTION = "[[Twitch Drops|''Future Twitch Drop'']]";
+    private const string VSR_ICON = "[[File:Icon Viewership.png|16px|link=]]";
+    private const string TD_ICON = "[[File:Icon Twitch.png|16px|link=]]";
+
+    private const string TD_DESCRIPTION = $"{TD_ICON} [[Twitch Drops|''Future Twitch Drop'']]";
     private const string GIFTS_OF_ASGARD_DESCRIPTION = "[[The Gifts of Asgard]]";
     private const string BUNDLE_EXCLUSIVE_DESCRIPTION = "[[Store Bundles|Bundle]] exclusive";
     private const string REMOVED_FROM_STORE_DESCRIPTION = "Unobtainable.<br>Removed from Store.";
     private const string UNOBTAINABLE_DESCRIPTION = "''Unobtainable''";
 
-    private static string VSR(string track) => "{{VSR|" + track + "|Viewership Rewards}}";
-    private static string TD(string track) => "{{TD|" + track + "|Twitch Drops}}";
+    // TODO: show the track name instead of the generic text?
+    private static string VSR(string track) => VSR_ICON + " {{VSR|" + track + "|Viewership Rewards}}";
+    private static string TD(string track) => TD_ICON + " {{TD|" + track + "|Twitch Drops}}";
 
     // for stuff that can't be automated: vsr, twitch drops, bundle exclusives, and battlepass
-
     public readonly static Dictionary<string, string> MISC_ITEM_DESCRIPTIONS = new()
     {
-        #region vsr
+        #region exclusive weapon skins
         // charity
         ["SpearCharity2020"] = VSR("Charity Stream #2"),
         ["OrbCharity2021"] = VSR("Charity Stream #3"),
@@ -41,19 +44,19 @@ public partial class WriterData
         ["AxeEsports2026"] = TD_DESCRIPTION,
         ["OrbEsports2026"] = TD_DESCRIPTION,
         ["BootsEsports2026"] = TD_DESCRIPTION,
-        ["GreatswordMagicalGirl"] = TD_DESCRIPTION,
-        #endregion
-        #region gifts of asgard
+        // magical girl
+        ["GreatswordMagicalGirl"] = TD("Summer 2026 Whitelist"),
+        // gifts of asgard. TODO: give all of these a proper description
+        ["SwordSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["AxeSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["PistolSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["FistsSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["KatarSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["ScytheSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["SpearSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
-        ["SwordSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
-        ["BowSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
-        ["OrbSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
-        ["ChakramSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
+        ["BowSocial"] = TD("Brawlhalla Fest 2026 Whitelist"),
+        ["ChakramSocial"] = TD("Summer 2026 Whitelist"),
+        ["OrbSocial"] = TD_DESCRIPTION,
         #endregion
         #region bundle exclusive
         ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
@@ -420,7 +423,6 @@ public partial class WriterData
         ["SwordBP13"] = "{{BPReward|Season Thirteen|gold|Dark Tier 4}}",
         ["SpearBP13"] = "{{BPReward|Season Thirteen|gold|Dark Tier 21}}",
         ["KatarBP13"] = "{{BPReward|Season Thirteen|free|Dark Tier 23}}",
-
         #endregion
         #region misc
         ["Yetee"] = "Bonus with purchase Brawlhalla merchandise from [https://theyetee.com/collections/brawlhalla The Yetee]",
