@@ -127,6 +127,7 @@ public sealed class BOTWWriter(WriterData data)
             // teams
             if (gamemode.Teams && gamemode.ScoringType != "BUDDY" && gamemode.MaxPlayers > 2)
             {
+                // with an unbalanced team, give first team more players to handle 2v1
                 writer.Write("*Teams enabled (");
                 writer.Write(Math.Ceiling(gamemode.MaxPlayers / 2f));
                 writer.Write('v');
@@ -275,7 +276,7 @@ public sealed class BOTWWriter(WriterData data)
         ItemSpawnRuleSetType defaultRuleSet = data.ItemSpawnRuleSetTypes.ItemSpawnRuleSetsMap[scoringType.ItemSpawnRuleSet];
         ItemSpawnRuleSetType itemSpawnRuleSet = data.ItemSpawnRuleSetTypes.ItemSpawnRuleSetsMap[itemSpawnRuleSetName];
 
-        // writer weapon and gadget spawn rate and spawn list. each will only be written if different from default.
+        // write weapon and gadget spawn rate and spawn list. each will only be written if different from default.
         string spawnText = gamemode.ScoringType == "SNOWBALL" ? "appear" : "spawn";
         WriteItemSpawnRate(writer, itemSpawnRuleSet.WeaponSpawnRateTypes, defaultRuleSet.WeaponSpawnRateTypes, "Weapon");
         WriteItemListText(writer, itemSpawnRuleSet.WeaponList, defaultRuleSet.WeaponList, spawnText, "Weapons");

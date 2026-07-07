@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using BrawlhallaColorPageGenerator.Objects;
@@ -7,8 +6,18 @@ namespace BrawlhallaColorPageGenerator.Writers;
 
 public sealed class StancesWriter(WriterData data)
 {
-    private static readonly int[] LEVELS_FOR_INDEX = [3, 4, 6, 8];
-    private static readonly int[] LEVELS_FOR_INDEX_SUPER = [11, 13, 15, 17];
+    private static readonly int[] LEVELS_FOR_RUNES = [3, 4, 6, 8, 11, 13, 15, 17];
+
+    private static readonly string[] RUNE_NAMES = [
+        "str",
+        "dex",
+        "def",
+        "spd",
+        "super_str",
+        "super_dex",
+        "super_def",
+        "super_spd",
+    ];
 
     public void WriteTo(string path)
     {
@@ -23,8 +32,6 @@ public sealed class StancesWriter(WriterData data)
         {
             if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes) || hero.BioName is null)
                 continue;
-            List<RuneType> normalRunes = [.. runes.Where((r) => !r.IsSuper && !r.IsBase && !r.IsChallenge)];
-            List<RuneType> superRunes = [.. runes.Where((r) => r.IsSuper && !r.IsBase && !r.IsChallenge)];
 
             writer.Write('|');
             writer.Write(hero.BioName.ToLowerInvariant());
@@ -42,70 +49,29 @@ public sealed class StancesWriter(WriterData data)
             writer.Write("|spd=");
             writer.Write(hero.Speed);
 
-            int strStanceIndex = normalRunes.FindIndex((r) => r.ShortName == "str" && !r.IsSuper);
-            RuneType strStance = normalRunes[strStanceIndex];
-            string strTakeFrom = strStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|str_take=");
-            writer.Write(strTakeFrom);
+            // what each rune takes from
+            foreach (string runeName in RUNE_NAMES)
+            {
+                RuneType rune = runes.Find((r) => r.ShortName == runeName)!;
+                string takesFrom = rune.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
+                writer.Write('|');
+                writer.Write(runeName);
+                writer.Write("_take=");
+                writer.Write(takesFrom);
+            }
 
-            int dexStanceIndex = normalRunes.FindIndex((r) => r.ShortName == "dex" && !r.IsSuper);
-            RuneType dexStance = normalRunes[dexStanceIndex];
-            string dexTakeFrom = dexStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|dex_take=");
-            writer.Write(dexTakeFrom);
+            writer.Write("|levels={{{levels|}}}");
 
-            int defStanceIndex = normalRunes.FindIndex((r) => r.ShortName == "def" && !r.IsSuper);
-            RuneType defStance = normalRunes[defStanceIndex];
-            string defTakeFrom = defStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|def_take=");
-            writer.Write(defTakeFrom);
-
-            int spdStanceIndex = normalRunes.FindIndex((r) => r.ShortName == "spd" && !r.IsSuper);
-            RuneType spdStance = normalRunes[spdStanceIndex];
-            string spdTakeFrom = spdStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|spd_take=");
-            writer.Write(spdTakeFrom);
-
-            int superStrStanceIndex = superRunes.FindIndex((r) => r.ShortName == "str" && r.IsSuper);
-            RuneType superStrStance = superRunes[superStrStanceIndex];
-            string superStrTakeFrom = superStrStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|super_str_take=");
-            writer.Write(superStrTakeFrom);
-
-            int superDexStanceIndex = superRunes.FindIndex((r) => r.ShortName == "dex" && r.IsSuper);
-            RuneType superDexStance = superRunes[superDexStanceIndex];
-            string superDexTakeFrom = superDexStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|super_dex_take=");
-            writer.Write(superDexTakeFrom);
-
-            int superDefStanceIndex = superRunes.FindIndex((r) => r.ShortName == "def" && r.IsSuper);
-            RuneType superDefStance = superRunes[superDefStanceIndex];
-            string superDefTakeFrom = superDefStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|super_def_take=");
-            writer.Write(superDefTakeFrom);
-
-            int superSpdStanceIndex = superRunes.FindIndex((r) => r.ShortName == "spd" && r.IsSuper);
-            RuneType superSpdStance = superRunes[superSpdStanceIndex];
-            string superSpdTakeFrom = superSpdStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
-            writer.Write("|super_spd_take=");
-            writer.Write(superSpdTakeFrom);
-
-            writer.Write("|levels={{{levels|}}}|str_level=");
-            writer.Write(LEVELS_FOR_INDEX[strStanceIndex]);
-            writer.Write("|dex_level=");
-            writer.Write(LEVELS_FOR_INDEX[dexStanceIndex]);
-            writer.Write("|def_level=");
-            writer.Write(LEVELS_FOR_INDEX[defStanceIndex]);
-            writer.Write("|spd_level=");
-            writer.Write(LEVELS_FOR_INDEX[spdStanceIndex]);
-            writer.Write("|super_str_level=");
-            writer.Write(LEVELS_FOR_INDEX_SUPER[superStrStanceIndex]);
-            writer.Write("|super_dex_level=");
-            writer.Write(LEVELS_FOR_INDEX_SUPER[superDexStanceIndex]);
-            writer.Write("|super_def_level=");
-            writer.Write(LEVELS_FOR_INDEX_SUPER[superDefStanceIndex]);
-            writer.Write("|super_spd_level=");
-            writer.Write(LEVELS_FOR_INDEX_SUPER[superSpdStanceIndex]);
+            // the level to get each rune
+            foreach (string runeName in RUNE_NAMES)
+            {
+                int runeIndex = runes.FindIndex((r) => r.ShortName == runeName);
+                writer.Write('|');
+                writer.Write(runeName);
+                writer.Write("_level=");
+                // base is at index 0, so the normal runes start at 1
+                writer.Write(LEVELS_FOR_RUNES[runeIndex - 1]);
+            }
 
             writer.WriteLine("}}");
         }

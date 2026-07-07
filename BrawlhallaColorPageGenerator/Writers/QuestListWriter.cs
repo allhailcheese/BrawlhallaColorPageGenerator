@@ -3,14 +3,6 @@ using BrawlhallaColorPageGenerator.Objects;
 
 namespace BrawlhallaColorPageGenerator.Writers;
 
-public enum StatType
-{
-    Strength,
-    Dexterity,
-    Defense,
-    Speed,
-};
-
 public enum StatQuestType
 {
     High, // 8+
@@ -20,7 +12,7 @@ public enum StatQuestType
 
 public sealed class QuestListWriter(WriterData data)
 {
-    public void WriteTo(string path, StatType stat, StatQuestType level)
+    public void WriteTo(string path, StatEnum stat, StatQuestType level)
     {
         using StreamWriter writer = new(path) { NewLine = "\n" };
         foreach (HeroType hero in data.HeroTypes.Heroes)
@@ -32,10 +24,10 @@ public sealed class QuestListWriter(WriterData data)
             {
                 int statValue = stat switch
                 {
-                    StatType.Strength => rune.Strength,
-                    StatType.Dexterity => rune.Dexterity,
-                    StatType.Defense => rune.Weight,
-                    StatType.Speed => rune.Speed,
+                    StatEnum.Strength => rune.Strength,
+                    StatEnum.Dexterity => rune.Dexterity,
+                    StatEnum.Defense => rune.Weight,
+                    StatEnum.Speed => rune.Speed,
                     _ => throw new System.IndexOutOfRangeException(),
                 };
 
@@ -52,22 +44,11 @@ public sealed class QuestListWriter(WriterData data)
                     writer.Write("*[[");
                     writer.Write(hero.BioName);
                     writer.Write("]]");
-                    if (rune.IconName != "a_StanceIcon_Base")
+                    string? runeName = rune.Name;
+                    if (runeName is not null)
                     {
                         writer.Write(" (");
-                        writer.Write(rune.IconName switch
-                        {
-                            "a_StanceIcon_Strength" => "Strength",
-                            "a_StanceIcon_SuperStrength" => "Super Strength",
-                            "a_StanceIcon_Dexterity" => "Dexterity",
-                            "a_StanceIcon_SuperDexterity" => "Super Dexterity",
-                            "a_StanceIcon_Weight" => "Defense",
-                            "a_StanceIcon_SuperWeight" => "Super Defense",
-                            "a_StanceIcon_Speed" => "Speed",
-                            "a_StanceIcon_SuperSpeed" => "Super Speed",
-                            "a_StanceIcon_Challenge" => "Challenge",
-                            _ => "ERROR"
-                        });
+                        writer.Write(runeName);
                         writer.Write(" stance)");
                     }
                     writer.WriteLine();

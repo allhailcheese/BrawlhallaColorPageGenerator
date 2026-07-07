@@ -209,18 +209,19 @@ stancesWriter.WriteTo("outputs/pages/Template LegendStancesRowByName.mediawiki")
 
 QuestListWriter questListWriter = new(data);
 Directory.CreateDirectory("outputs/pages/Template QuestList");
-questListWriter.WriteTo("outputs/pages/Template QuestList/HighStrength.mediawiki", StatType.Strength, StatQuestType.High);
-questListWriter.WriteTo("outputs/pages/Template QuestList/HighDexterity.mediawiki", StatType.Dexterity, StatQuestType.High);
-questListWriter.WriteTo("outputs/pages/Template QuestList/HighDefense.mediawiki", StatType.Defense, StatQuestType.High);
-questListWriter.WriteTo("outputs/pages/Template QuestList/HighSpeed.mediawiki", StatType.Speed, StatQuestType.High);
-questListWriter.WriteTo("outputs/pages/Template QuestList/MidStrength.mediawiki", StatType.Strength, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/pages/Template QuestList/MidDexterity.mediawiki", StatType.Dexterity, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/pages/Template QuestList/MidDefense.mediawiki", StatType.Defense, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/pages/Template QuestList/MidSpeed.mediawiki", StatType.Speed, StatQuestType.Mid);
-questListWriter.WriteTo("outputs/pages/Template QuestList/LowStrength.mediawiki", StatType.Strength, StatQuestType.Low);
-questListWriter.WriteTo("outputs/pages/Template QuestList/LowDexterity.mediawiki", StatType.Dexterity, StatQuestType.Low);
-questListWriter.WriteTo("outputs/pages/Template QuestList/LowDefense.mediawiki", StatType.Defense, StatQuestType.Low);
-questListWriter.WriteTo("outputs/pages/Template QuestList/LowSpeed.mediawiki", StatType.Speed, StatQuestType.Low);
+// TODO: make this just be two for loops
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighStrength.mediawiki", StatEnum.Strength, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighDexterity.mediawiki", StatEnum.Dexterity, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighDefense.mediawiki", StatEnum.Defense, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/HighSpeed.mediawiki", StatEnum.Speed, StatQuestType.High);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidStrength.mediawiki", StatEnum.Strength, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidDexterity.mediawiki", StatEnum.Dexterity, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidDefense.mediawiki", StatEnum.Defense, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/MidSpeed.mediawiki", StatEnum.Speed, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowStrength.mediawiki", StatEnum.Strength, StatQuestType.Low);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowDexterity.mediawiki", StatEnum.Dexterity, StatQuestType.Low);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowDefense.mediawiki", StatEnum.Defense, StatQuestType.Low);
+questListWriter.WriteTo("outputs/pages/Template QuestList/LowSpeed.mediawiki", StatEnum.Speed, StatQuestType.Low);
 
 SkinsWriter skinsWriter = new(data);
 skinsWriter.WriteTo("outputs/pages/Skins.mediawiki");

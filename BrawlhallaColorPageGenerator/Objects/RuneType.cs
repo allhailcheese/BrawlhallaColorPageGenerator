@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Xml.Linq;
 
@@ -20,14 +21,43 @@ public sealed class RuneType
         Speed = int.Parse(element.Element(nameof(Speed))!.Value);
     }
 
-    public string ShortName => IconName switch
+    public StatEnum Stat => IconName switch
     {
-        "a_StanceIcon_Strength" or "a_StanceIcon_SuperStrength" => "str",
-        "a_StanceIcon_Dexterity" or "a_StanceIcon_SuperDexterity" => "dex",
-        "a_StanceIcon_Weight" or "a_StanceIcon_SuperWeight" => "def",
-        "a_StanceIcon_Speed" or "a_StanceIcon_SuperSpeed" => "spd",
+        "a_StanceIcon_Strength" or "a_StanceIcon_SuperStrength" => StatEnum.Strength,
+        "a_StanceIcon_Dexterity" or "a_StanceIcon_SuperDexterity" => StatEnum.Dexterity,
+        "a_StanceIcon_Weight" or "a_StanceIcon_SuperWeight" => StatEnum.Defense,
+        "a_StanceIcon_Speed" or "a_StanceIcon_SuperSpeed" => StatEnum.Speed,
+        _ => throw new ArgumentException($"Rune type {IconName} does not represent a specific stat"),
+    };
+
+    public string? Name => IconName switch
+    {
+        "a_StanceIcon_Strength" => "Strength",
+        "a_StanceIcon_SuperStrength" => "Super Strength",
+        "a_StanceIcon_Dexterity" => "Dexterity",
+        "a_StanceIcon_SuperDexterity" => "Super Dexterity",
+        "a_StanceIcon_Weight" => "Defense",
+        "a_StanceIcon_SuperWeight" => "Super Defense",
+        "a_StanceIcon_Speed" => "Speed",
+        "a_StanceIcon_SuperSpeed" => "Super Speed",
+        "a_StanceIcon_Challenge" => "Challenge",
+        "a_StanceIcon_Base" => null,
+        _ => "ERROR",
+    };
+
+    public string? ShortName => IconName switch
+    {
+        "a_StanceIcon_Strength" => "str",
+        "a_StanceIcon_SuperStrength" => $"super_str",
+        "a_StanceIcon_Dexterity" => "dex",
+        "a_StanceIcon_SuperDexterity" => $"super_dex",
+        "a_StanceIcon_Weight" => "def",
+        "a_StanceIcon_SuperWeight" => $"super_def",
+        "a_StanceIcon_Speed" => "spd",
+        "a_StanceIcon_SuperSpeed" => $"super_spd",
         "a_StanceIcon_Challenge" => "chal",
-        _ => "base",
+        "a_StanceIcon_Base" => null,
+        _ => "ERROR",
     };
 
     public bool IsSuper => IconName.StartsWith("a_StanceIcon_Super");

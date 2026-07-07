@@ -4,6 +4,7 @@ namespace BrawlhallaColorPageGenerator;
 
 public static class Utils
 {
+    // TODO: read from itemTypes.csv?
     public static Dictionary<string, string> BASE_WEAPON_NAME { get; } = new()
     {
         ["Axe"] = "Axe",
