@@ -52,7 +52,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Love Sick|image=Love Sick.png|desc=[[Date Night Dusk]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Memento Mori|image=Memento Mori.png|desc=[[Relentless Pest Reno]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Moonlight Meteor|image=Moonlight Meteor.png|desc=[[Metadev Fait]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Neo-City Orb|image=Neo-City Orb.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=180|height=170|name=Neo-City Orb|image=Neo-City Orb.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Summer Doubles 2026|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Night Blight|image=Night Blight.png|desc=[[Deathcap Dusk]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Eye|image=Nightmare Eye.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Unsealed Orb|image=Ninpō Unsealed Orb.png|desc=[[Sengoku Rappa Petra]]|descheight=55px}}
