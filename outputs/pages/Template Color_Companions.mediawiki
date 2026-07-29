@@ -3,6 +3,7 @@ The following is a list of all companions in {{{1|}}}. ''Click an image to view 
 
 {{List to itembox|color={{{1|}}}|
 Domo Jr. && image:Companion Domo Jr. Idle $1.png
+Donkey && image:Companion Donkey Idle $1.png
 Grogu && image:Companion Grogu Idle $1.png
 Hunter Ghost && image:Companion Hunter Ghost Idle $1.png
 Lil' Reaper && image:Companion Lil' Reaper Idle $1.png

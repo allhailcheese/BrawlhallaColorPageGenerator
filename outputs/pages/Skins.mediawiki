@@ -70,6 +70,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Ahsoka Tano|image=Ahsoka Tano.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{itembox|width=220|height=270|name=Master of Night Asuri|image=Master of Night Asuri.png|desc={{BPReward|Season Eleven|gold|Tier 20}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Levi|image=Levi.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Puss in Boots|image=Puss in Boots.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
 
@@ -848,6 +849,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Corrupted Blood Tezca|image=Corrupted Blood Tezca.webp|desc={{BPReward|Season Eight|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Druid Mage Chel|image=Druid Mage Chel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Usurper Chel|image=Usurper Chel.png|desc={{BPReward|Season Eleven|gold|Tier 50}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Fiona|image=Fiona.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
 
 
@@ -988,6 +990,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Elvenhollow Xull|image=Elvenhollow Xull.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Terror-Watt Xull|image=Terror-Watt Xull.png|desc={{BPReward|Season Eight|gold|Tier 20}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Abominable Jötunn Xull|image=Abominable Jötunn Xull.png|cost={{Coin|ticket xmas|1850}}<br>{{ItemTag|xmas|2025}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shrek|image=Shrek.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
 
 

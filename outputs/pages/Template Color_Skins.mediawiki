@@ -64,6 +64,7 @@ Tigress
 Ahsoka Tano
 Master of Night Asuri
 Levi
+Puss in Boots
 }}
 ===[[Aurus]]===
 {{List to itembox|color={{{1|}}}|
@@ -828,6 +829,7 @@ Corrupted Blood Tezca && displayname:Corrupted Blood Tezca (Lvl 2) && image:Corr
 Corrupted Blood Tezca && displayname:Corrupted Blood Tezca (Lvl 3) && image:Corrupted Blood Tezca Level 3 $1.png
 Druid Mage Chel
 Usurper Chel
+Fiona
 }}
 ===[[Thatch]]===
 {{List to itembox|color={{{1|}}}|
@@ -966,6 +968,7 @@ Amethyst
 Elvenhollow Xull
 Terror-Watt Xull
 Abominable Jötunn Xull
+Shrek
 }}
 <span id="Y"></span>
 ===[[Yumiko]]===

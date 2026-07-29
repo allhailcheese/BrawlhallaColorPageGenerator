@@ -80,6 +80,15 @@
 *3 players
 *3:00 minutes
 *Map Set: [[Map_Set#1v1_Map_Set|1v1]]
+|swamp mud brawl=
+{{!}}-
+{{!}} '''Swamp Mud Brawl'''
+{{!}} [[File:BOTW Swamp Mud Brawl.jpg|200px]]
+{{!}}''What are you doing in Shrek's swamp? Brawling! Navigate the muddy terrain and come out on top. Score points with every hit & knockout in this 3 minute, 4-player free for all mode.''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*Map: {{MapListing|shrek's muddy swamp}}
 |platform king=
 {{!}}-
 {{!}} '''Platform King!'''
@@ -838,6 +847,15 @@
 *150% damage
 *Map: {{MapListing|mustafar}}
 *Only {{items|water balloon}} can appear
+|muddy gadget mayhem=
+{{!}}-
+{{!}} '''Muddy Gadget Mayhem'''
+{{!}} [[File:BOTW Muddy Gadget Mayhem.jpg|200px]]
+{{!}}''This is the part where you run away - it's absolute mayhem! Score the most points by throwing Gadgets at your opponents in this 3 minute, 4-player free for all. Navigate through the muddy terrain while dodging Gadgets to come out on top!''
+*{{gamemodes|gadget mayhem|16px}}
+*4 players
+*3:00 minutes
+*Map: {{MapListing|shrek's muddy swamp}}
 |starlight snowbrawl scuffle=
 {{!}}-
 {{!}} '''Starlight Snowbrawl Scuffle'''

@@ -55,6 +55,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Fangs of Woe|image=Fangs of Woe.png|desc=[[Snake Goddess Nai]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Fatal Fans|image=Fatal Fans.png|desc=[[Daomadan Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Feather's Edge|image=Feather's Edge.png|desc=[[Galaxy X Nai]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Fencing Daggers|image=Fencing Daggers.png|desc=[[Puss in Boots]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Finishing Touches|image=Finishing Touches.png|desc=[[All City Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Fire & The Flame|image=Fire & The Flame.png|desc=[[Radiant Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Fire Fangs|image=Fire Fangs.png|desc=[[Zhulong Lin Fei]]|descheight=55px}}

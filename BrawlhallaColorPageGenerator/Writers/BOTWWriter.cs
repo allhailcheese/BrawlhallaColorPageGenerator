@@ -14,142 +14,12 @@ public sealed class BOTWWriter(WriterData data)
         writer.WriteLine("<includeonly>{{#switch:{{lc:{{{1|}}}}}");
         foreach (GameModeType gamemode in data.GameModeTypes.Gamemodes)
         {
-            if (
-                !gamemode.GameModeName.Contains("BOTW") ||
-                // duplicate of BOTWVolleyBattle2v2NewMap but allows all maps, which doesn't make sense with its name and description
-                gamemode.GameModeName == "BOTWVolleyBattle2v2"
-            ) continue;
+            WriteGamemodeType(writer, gamemode);
 
-            string gamemodeName = gamemode.GameModeName switch
+            if (gamemode.GameModeName == "BOTWSnowbrawlNewMap")
             {
-                // These are all named like another BOTW gamedmode, but are on a specific map
-                "BOTW2v2CrewBattleTMNT" => "TMNT Crew Battle",
-                "BOTWFixedStaminaGamemodeNewMap" => "Bustling Side Street Street Brawl",
-                "BOTWHeatwaveSnowbrawlLavaFFA" => "Mustafar Water Balloon Fight!",
-                _ => data.LangFile.Entries[gamemode.DisplayNameKey],
-            };
-
-            ScoringType scoringType = data.ScoringTypes.ScoringsMap[gamemode.ScoringType];
-            string scoringTypeName = data.LangFile.Entries[scoringType.DisplayNameKey];
-
-            // key
-            string gamemodeNameKey = gamemodeName.ToLowerInvariant().TrimEnd('!').Replace('’', '\'');
-            writer.Write('|');
-            writer.Write(gamemodeNameKey);
-            writer.WriteLine('=');
-            // new row
-            writer.WriteLine("{{!}}-");
-            // title
-            writer.Write("{{!}} '''");
-            writer.Write(gamemodeName);
-            writer.WriteLine("'''");
-            // thumbnail
-            writer.Write("{{!}} [[File:BOTW ");
-            string thumbnailName = gamemodeName.Replace('’', '\'');
-            writer.Write(thumbnailName);
-            writer.WriteLine(".jpg|200px]]");
-            // description
-            if (gamemode.DescriptionKey is not null)
-            {
-                string gamemodeDescription = data.LangFile.Entries[gamemode.DescriptionKey];
-                writer.Write("{{!}}''");
-                writer.Write(gamemodeDescription);
-                writer.WriteLine("''");
+                WriteGamemodeType(writer, BOTWSnowbrawlNewMap_Old);
             }
-            // scoring type
-            writer.Write("*{{gamemodes|");
-            writer.Write(scoringTypeName.ToLowerInvariant());
-            writer.Write("|16px}}");
-            // variation
-            if (gamemode.Variation is not null)
-            {
-                writer.Write(" {{gamemodes|");
-                writer.Write(gamemode.Variation switch
-                {
-                    "Relay" => "strikeout",
-                    "Shift" => "morph",
-                    "Scramble" => "switchcraft",
-                    _ => "ERROR"
-                });
-                writer.Write("|16px}}");
-            }
-            writer.WriteLine();
-
-            // players
-            writer.Write('*');
-            writer.Write(gamemode.MaxPlayers);
-            writer.WriteLine(" players");
-
-            // lives
-            if (gamemode.StartingLives > 0)
-            {
-                writer.Write('*');
-                writer.Write(gamemode.StartingLives);
-                writer.WriteLine(" lives");
-            }
-
-            // score to win
-            if (gamemode.ScoreToWin > 0)
-            {
-                writer.Write("*Score to win: ");
-                writer.WriteLine(gamemode.ScoreToWin);
-            }
-
-            // time
-            uint minutes = gamemode.Duration / 60;
-            uint seconds = gamemode.Duration % 60;
-            writer.Write('*');
-            writer.Write(minutes);
-            writer.Write(':');
-            writer.Write("{0:D2}", seconds);
-            writer.Write(" minutes");
-            // round time
-            if (gamemode.RoundDuration > 0)
-            {
-                uint roundMinutes = gamemode.RoundDuration / 60;
-                uint roundSeconds = gamemode.RoundDuration % 60;
-                writer.Write(", max ");
-                writer.Write(roundMinutes);
-                writer.Write(':');
-                writer.Write("{0:D2}", roundSeconds);
-                writer.Write(" minute rounds");
-            }
-            writer.WriteLine();
-
-            // damage multiplier
-            if (gamemode.DamageRatio != 100)
-            {
-                writer.Write('*');
-                writer.Write(gamemode.DamageRatio);
-                writer.WriteLine("% damage");
-            }
-
-            // teams
-            if (gamemode.Teams && gamemode.ScoringType != "BUDDY" && gamemode.MaxPlayers > 2)
-            {
-                // with an unbalanced team, give first team more players to handle 2v1
-                writer.Write("*Teams enabled (");
-                writer.Write(Math.Ceiling(gamemode.MaxPlayers / 2f));
-                writer.Write('v');
-                writer.Write(Math.Floor(gamemode.MaxPlayers / 2f));
-                writer.WriteLine(')');
-            }
-
-            // 2 player vs bot gamemodes
-            if (gamemode.GameModeName == "BOTW2v1DarthMaul")
-            {
-                writer.WriteLine("*2 Players vs A [[Darth Maul]] Chosen bot");
-                writer.WriteLine("*Scoreboard header changed to \"JEDI WIN!\" or \"DARTH MAUL WINS!\"");
-            }
-            else if (gamemode.GameModeName == "BOTW2v1Mordex")
-            {
-                writer.WriteLine("*2 Players vs An [[Ascended Mordex]] Chosen bot");
-                writer.WriteLine("*Scoreboard header changed to \"EXALTED HUNTERS WIN!\" or \"MORDEX WINS!\"");
-            }
-
-            WriteLevelSetText(writer, gamemode);
-
-            WriteItemSpawnRuleSetText(writer, gamemode);
         }
         writer.Write(@"}}</includeonly><noinclude>
 {{doc}}
@@ -157,6 +27,155 @@ public sealed class BOTWWriter(WriterData data)
 {{BOTW/bottom}}
 
 [[Category:Templates]]</noinclude>");
+    }
+
+    private void WriteGamemodeType(StreamWriter writer, GameModeType gamemode)
+    {
+        if (
+            !gamemode.GameModeName.Contains("BOTW") ||
+            // duplicate of BOTWVolleyBattle2v2NewMap but allows all maps, which doesn't make sense with its name and description
+            gamemode.GameModeName == "BOTWVolleyBattle2v2"
+        ) return;
+
+        string gamemodeName = gamemode.GameModeName switch
+        {
+            // These are all named like another BOTW gamedmode, but are on a specific map
+            "BOTW2v2CrewBattleTMNT" => "TMNT Crew Battle",
+            "BOTWFixedStaminaGamemodeNewMap" => "Bustling Side Street Street Brawl",
+            "BOTWHeatwaveSnowbrawlLavaFFA" => "Mustafar Water Balloon Fight!",
+            // Fake gamemode types to keep older ones
+            "BOTWSnowbrawlNewMap_Old" => gamemode.DisplayNameKey,
+            // Real
+            _ => data.LangFile.Entries[gamemode.DisplayNameKey],
+        };
+
+        ScoringType scoringType = data.ScoringTypes.ScoringsMap[gamemode.ScoringType];
+        string scoringTypeName = data.LangFile.Entries[scoringType.DisplayNameKey];
+
+        // key
+        string gamemodeNameKey = gamemodeName.ToLowerInvariant().TrimEnd('!').Replace('’', '\'');
+        writer.Write('|');
+        writer.Write(gamemodeNameKey);
+        writer.WriteLine('=');
+        // new row
+        writer.WriteLine("{{!}}-");
+        // title
+        writer.Write("{{!}} '''");
+        writer.Write(gamemodeName);
+        writer.WriteLine("'''");
+        // thumbnail
+        writer.Write("{{!}} [[File:BOTW ");
+        string thumbnailName = gamemodeName.Replace('’', '\'');
+        writer.Write(thumbnailName);
+        writer.WriteLine(".jpg|200px]]");
+        // description
+        if (gamemode.DescriptionKey is not null)
+        {
+            string gamemodeDescription = gamemode.GameModeName switch
+            {
+                // Fake gamemode types to keep older ones
+                "BOTWSnowbrawlNewMap_Old" => gamemode.DescriptionKey,
+                // Real
+                _ => data.LangFile.Entries[gamemode.DescriptionKey],
+            };
+            writer.Write("{{!}}''");
+            writer.Write(gamemodeDescription);
+            writer.WriteLine("''");
+        }
+        // scoring type
+        writer.Write("*{{gamemodes|");
+        writer.Write(scoringTypeName.ToLowerInvariant());
+        writer.Write("|16px}}");
+        // variation
+        if (gamemode.Variation is not null)
+        {
+            writer.Write(" {{gamemodes|");
+            writer.Write(gamemode.Variation switch
+            {
+                "Relay" => "strikeout",
+                "Shift" => "morph",
+                "Scramble" => "switchcraft",
+                _ => "ERROR"
+            });
+            writer.Write("|16px}}");
+        }
+        writer.WriteLine();
+
+        // players
+        writer.Write('*');
+        writer.Write(gamemode.MaxPlayers);
+        writer.WriteLine(" players");
+
+        // lives
+        if (gamemode.StartingLives > 0)
+        {
+            writer.Write('*');
+            writer.Write(gamemode.StartingLives);
+            writer.WriteLine(" lives");
+        }
+
+        // score to win
+        if (gamemode.ScoreToWin > 0)
+        {
+            writer.Write("*Score to win: ");
+            writer.WriteLine(gamemode.ScoreToWin);
+        }
+
+        // time
+        uint minutes = gamemode.Duration / 60;
+        uint seconds = gamemode.Duration % 60;
+        writer.Write('*');
+        writer.Write(minutes);
+        writer.Write(':');
+        writer.Write("{0:D2}", seconds);
+        writer.Write(" minutes");
+        // round time
+        if (gamemode.RoundDuration > 0)
+        {
+            uint roundMinutes = gamemode.RoundDuration / 60;
+            uint roundSeconds = gamemode.RoundDuration % 60;
+            writer.Write(", max ");
+            writer.Write(roundMinutes);
+            writer.Write(':');
+            writer.Write("{0:D2}", roundSeconds);
+            writer.Write(" minute rounds");
+        }
+        writer.WriteLine();
+
+        // damage multiplier
+        if (gamemode.DamageRatio != 100)
+        {
+            writer.Write('*');
+            writer.Write(gamemode.DamageRatio);
+            writer.WriteLine("% damage");
+        }
+
+        // teams
+        if (gamemode.Teams && gamemode.ScoringType != "BUDDY" && gamemode.MaxPlayers > 2)
+        {
+            // with an unbalanced team, give first team more players to handle 2v1
+            writer.Write("*Teams enabled (");
+            writer.Write(Math.Ceiling(gamemode.MaxPlayers / 2f));
+            writer.Write('v');
+            writer.Write(Math.Floor(gamemode.MaxPlayers / 2f));
+            writer.WriteLine(')');
+        }
+
+        // 2 player vs bot gamemodes
+        if (gamemode.GameModeName == "BOTW2v1DarthMaul")
+        {
+            writer.WriteLine("*2 Players vs A [[Darth Maul]] Chosen bot");
+            writer.WriteLine("*Scoreboard header changed to \"JEDI WIN!\" or \"DARTH MAUL WINS!\"");
+        }
+        else if (gamemode.GameModeName == "BOTW2v1Mordex")
+        {
+            writer.WriteLine("*2 Players vs An [[Ascended Mordex]] Chosen bot");
+            writer.WriteLine("*Scoreboard header changed to \"EXALTED HUNTERS WIN!\" or \"MORDEX WINS!\"");
+        }
+
+        WriteLevelSetText(writer, gamemode);
+
+        WriteItemSpawnRuleSetText(writer, gamemode);
     }
 
     private void WriteLevelSetText(StreamWriter writer, GameModeType gamemode)
@@ -252,13 +271,15 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTW1v1NewMap"] = ["Mustafar"], // Brawl of the Heroes
         ["BOTWBounty6Bombs200"] = ["BP9EndTimesBig"], // Apocalyptic Target
         ["BOTW2v2NewMap"] = ["RefineryDoors"], // Rule of 2v2
-        ["BOTWSnowbrawlNewMap"] = ["ThreeShips"], // Starlight Snowbrawl Scuffle
+        ["BOTWSnowbrawlNewMap_Old"] = ["ThreeShips"], // Starlight Snowbrawl Scuffle
+        ["BOTWSnowbrawlNewMap"] = ["MudBrawl2"], // Muddy Gadget Mayhem
         ["BOTWTableTopFFA6NewMap"] = ["ThreeShips"], // Starlight Selection Trials
         ["BOTWThreeForAllRelayNewMap"] = ["SmallMovingPlatform"], // Lichlord's Relay
         ["BOTW2v2KungFootNewMap"] = ["NorseSoccer"], // Jötunn Winter Kung Foot
         ["BOTW1v1GhostNewMap"] = ["GroveSinglePlat"], // Jikoku Ghost Duel
         ["BOTW2v2Ghost200NewMap"] = ["Atlas_2v2"], // Hidden in the Walls
         ["BOTWTableTop3v3NewMap"] = ["Atlas_3v3"], // Shiganshina Clash
+        ["BOTW4FFANewMap"] = ["MudBrawl2"], // Swamp Mud Brawl
     };
 
     private void WriteItemSpawnRuleSetText(StreamWriter writer, GameModeType gamemode)
@@ -349,4 +370,17 @@ public sealed class BOTWWriter(WriterData data)
             writer.WriteLine(spawnText);
         }
     }
+
+    // BOTWSnowbrawlNewMap was replaced, this is the original one
+    private static readonly GameModeType BOTWSnowbrawlNewMap_Old = new()
+    {
+        GameModeName = "BOTWSnowbrawlNewMap_Old",
+        DisplayNameKey = "Starlight Snowbrawl Scuffle",
+        DescriptionKey = "Cool off with your fellow Starlight Champions in this 4 player, 3 minute free-for-all! Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!",
+        ScoringType = "SNOWBALL",
+        LevelSet = "",
+        MaxPlayers = 4,
+        Duration = 180,
+        DamageRatio = 100,
+    };
 }

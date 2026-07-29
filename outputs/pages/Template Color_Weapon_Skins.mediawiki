@@ -27,6 +27,7 @@ Battle Axe
 Battle Axe (Simon Belmont)
 Beckoning Bramble
 Bellow's Breath
+Beware of Ogre Sign
 Bifrost Edge
 Big Clipper
 Blooming Blade
@@ -218,6 +219,7 @@ Martelo No Chão
 Neo-City Boots
 Nightmare Talons
 Ninpō&#58; Unsealed Boots && image:Ninpō Unsealed Boots $1.png
+Ogre Impact Battle Boots
 Olive Stompers
 Patadas Voladoras
 PegaSwift Runners
@@ -629,6 +631,7 @@ Sonic Boom
 SPNKr Rocket Launcher
 Stalwart Screech
 Stryge
+Swamp Log
 Swamp Serum
 Tactical Cannon
 The Big Bang
@@ -663,6 +666,7 @@ Jade Maw
 Jubilant Cymbal
 Lethal Coil
 Mercurial Reve
+Neo-City Chakram
 Nightmare Incisor
 Ninpō&#58; Unsealed Chakram && image:Ninpō Unsealed Chakram $1.png
 Noxious Wheel
@@ -730,6 +734,7 @@ Earthly Answers && displayname:Earthly Answers (Lvl 3) && image:Earthly Answers 
 Echidna
 Eye of the Oni
 Fiendish Fists
+Fighting Spirit Gauntlets
 Fighting Spirit Gloves
 Fisticuff-links
 Fisticuffs
@@ -1155,6 +1160,7 @@ Fangs of Woe
 Fangwild Thorns
 Fatal Fans
 Feather's Edge
+Fencing Daggers
 Finishing Touches
 Fire & The Flame
 Fire Fangs
@@ -1960,6 +1966,7 @@ Pressure Slicer
 Prickly Cut
 Pristine Cutlass
 Pro-Tour Racket
+Puss in Boots' Épée
 Regal Sun Sword
 RGB Sword
 Royal Sword

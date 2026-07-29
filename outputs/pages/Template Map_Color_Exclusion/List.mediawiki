@@ -92,6 +92,8 @@
 |elysium = Cyan,White,Coat of Lions,Pool Party,Green,Lucky Clover,Clover Patch,Verdant Bloom,Hibiscus,Gala,Pact of Poison,Esports v.7
 |fortress of the lions = Orange,Yellow,Black,Brown,Charged OG,Haunting,Home Team,Esports,Esports v.2,Coat of Lions,Sunset,Red,Art Deco,Raven's Honor,RGB,Blacklight,Heartfelt,Esports v.6,Guild Colors
 |small fortress of wolves = Cyan,Grey,White,Gala,Starlight,Coat of Lions,Pact of Poison,Frozen Forest,Skyforged,Soul Fire,Synthwave,Pool Party,Home Team Reunion,Heartfelt,Esports v.7,Esports,Home Team,Sunset,Black,Esports v.2,Haunting,Purple,Blue,Goldforged,Art Deco,Raven's Honor,Kira-kira,RGB,Ghoulish,Blacklight,Esports v.6,Guild Colors,Blood Moon,Crystalforged
+|shrek's muddy swamp = Lucky Clover,Verdant Bloom,Cyan,Grey,White,Gala,Starlight,Coat of Lions,Pact of Poison,Yellow,Orange,Red,Heatwave,Armageddon,Esports v.7
+|shrek's swamp = Lucky Clover,Verdant Bloom,Cyan,Grey,White,Gala,Starlight,Coat of Lions,Pact of Poison,Frozen Forest,Skyforged,Soul Fire,Synthwave,Pool Party,Home Team Reunion,Heartfelt,Esports v.7
 }}|,|@|<span style="display:inline-block;margin-right:1.5em">{{Colors|@}}</span>|}}</onlyinclude></includeonly><noinclude>
 * <code><nowiki>{{Map Color Exclusion/List|shipwreck falls}}</nowiki></code> = {{Map Color Exclusion/List|shipwreck falls}}
 [[Category:Templates]]</noinclude>

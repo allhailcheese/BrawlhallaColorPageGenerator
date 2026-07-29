@@ -68,6 +68,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Sonic Boom|image=Sonic Boom.png|desc={{BPReward|Season Two|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=180|height=170|name=SPNKr Rocket Launcher|image=SPNKr Rocket Launcher.png|desc=[[The Master Chief]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Stalwart Screech|image=Stalwart Screech.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #7|Viewership Rewards}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Swamp Log|image=Swamp Log.png|desc=[[Shrek]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Swamp Serum|image=Swamp Serum.png|desc=[[Termin-gator Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Tactical Cannon|image=Tactical Cannon.png|desc=[[Shadow Ops Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Big Bang|image=The Big Bang.png|desc={{BPReward|Season Five|gold|Tier 41}}|descheight=55px}}

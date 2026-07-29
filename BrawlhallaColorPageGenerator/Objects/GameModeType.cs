@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Xml.Linq;
 
@@ -6,22 +7,25 @@ namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class GameModeType
 {
-    public string GameModeName { get; }
-    public string DisplayNameKey { get; }
-    public string? DescriptionKey { get; }
-    public bool Teams { get; }
-    public uint MaxPlayers { get; }
-    public uint Duration { get; }
-    public uint RoundDuration { get; }
-    public uint StartingLives { get; }
-    public string ScoringType { get; }
-    public string? Variation { get; }
-    public uint ScoreToWin { get; }
-    public string? OverrideItemSpawnRuleSet { get; }
-    public string? LevelSet { get; }
-    public uint DamageRatio { get; }
-    public bool GhostRule { get; }
+    public required string GameModeName { get; init; }
+    public required string DisplayNameKey { get; init; }
+    public string? DescriptionKey { get; init; }
+    public bool Teams { get; init; }
+    public uint MaxPlayers { get; init; }
+    public uint Duration { get; init; }
+    public uint RoundDuration { get; init; }
+    public uint StartingLives { get; init; }
+    public required string ScoringType { get; init; }
+    public string? Variation { get; init; }
+    public uint ScoreToWin { get; init; }
+    public string? OverrideItemSpawnRuleSet { get; init; }
+    public string? LevelSet { get; init; }
+    public uint DamageRatio { get; init; }
+    public bool GhostRule { get; init; }
 
+    public GameModeType() { }
+
+    [SetsRequiredMembers]
     public GameModeType(XElement element)
     {
         GameModeName = element.Attribute(nameof(GameModeName))!.Value;

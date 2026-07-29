@@ -19,6 +19,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Barbaraxe|image=Barbaraxe.png|desc=[[Barbara]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Battle Axe (Simon Belmont)|image=Battle Axe (Simon Belmont).png|desc=[[Simon Belmont]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Beckoning Bramble|image=Beckoning Bramble.png|desc={{BPReward|Season Six|gold|Tier 37}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Beware of Ogre Sign|image=Beware of Ogre Sign.png|desc=[[Shrek]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bifrost Edge|image=Bifrost Edge.png|desc=[[Aurora Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Big Clipper|image=Big Clipper.png|desc=[[Hall Minotaur Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Blooming Blade|image=Blooming Blade.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
