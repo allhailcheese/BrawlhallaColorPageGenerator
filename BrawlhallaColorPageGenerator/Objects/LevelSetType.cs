@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Xml.Linq;
 
@@ -6,10 +7,13 @@ namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class LevelSetType
 {
-    public string LevelSetName { get; }
-    public string DisplayNameKey { get; }
-    public string[] LevelTypes { get; }
+    public required string LevelSetName { get; init; }
+    public required string DisplayNameKey { get; init; }
+    public required string[] LevelTypes { get; init; }
 
+    public LevelSetType() { }
+
+    [SetsRequiredMembers]
     public LevelSetType(XElement element)
     {
         LevelSetName = element.Attribute(nameof(LevelSetName))!.Value;

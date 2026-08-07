@@ -8,6 +8,7 @@ public sealed class LevelType
 {
     public string LevelName { get; }
     public bool DevOnly { get; }
+    public bool TestLevel { get; }
     public string DisplayName { get; }
     public string[] ColorExclusionList { get; }
 
@@ -15,6 +16,7 @@ public sealed class LevelType
     {
         LevelName = element.Attribute(nameof(LevelName))!.Value;
         DevOnly = string.Equals(element.Attribute(nameof(DevOnly))?.Value, "true", System.StringComparison.OrdinalIgnoreCase);
+        TestLevel = string.Equals(element.Attribute(nameof(TestLevel))?.Value, "true", System.StringComparison.OrdinalIgnoreCase);
         DisplayName = element.Element(nameof(DisplayName))!.Value;
         ColorExclusionList = element.Element(nameof(ColorExclusionList))?.Value.Split(',') ?? [];
     }

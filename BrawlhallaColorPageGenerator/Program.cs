@@ -244,4 +244,7 @@ mapColorExclusionWriter.WriteTo("outputs/pages/Template Map_Color_Exclusion/List
 BOTWWriter botwWriter = new(data);
 botwWriter.WriteTo("outputs/pages/Template BOTW.mediawiki");
 
+MapSetWriter mapSetWriter = new(data);
+mapSetWriter.WriteTo("outputs/pages/Map Set.mediawiki");
+
 #endregion

@@ -1,0 +1,889 @@
+The '''Map Set''' is the pool of [[Maps]] players can select from in [[Custom Online]] and [[Couch Party]] lobbies. This can be configured in the settings menu in the lobby of these gamemodes.
+
+By default, the map set is configured to "Auto", which will automatically select a map set based on how many players are in the lobby. If you do not want to play by a specific map set, the "All" map set will simply allow any map from the gamemode to be selected.
+
+==Standard Map Sets==
+
+===FFA Map Set===
+This map set is intended for 3 to 4 players. It is currently being used in [[Free-for-All]].
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Lost Labyrinth}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|The Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Tree Fort}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Sun Drive City}}
+{{MapListing|World's End}}
+{{MapListing|Fortress of the Lions}}
+{{MapListing|Void Major}}
+{{MapListing|Fabled City}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Terminus}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Enchanted Forest}}
+{{MapListing|Shiganshina District}}
+{{MapListing|The Wasteland}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+===1v1 Map Set===
+This map set is intended for 2 players.
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Small Kings Pass}}
+{{MapListing|Small Thundergard Stadium}}
+{{MapListing|Small Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Small Mammoth Fortress}}
+{{MapListing|Small Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Rooftop}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Crumbled Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Castle Batavia}}
+{{MapListing|Jikoku}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing|Shrek's Swamp}}
+{{MapListing/bottom}}
+
+
+===2v2 Map Set===
+This map set is intended for 4 players with teams enabled.
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Small Grumpy Temple}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Small Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Void Minor}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Castle Batavia}}
+{{MapListing|Jikoku}}
+{{MapListing|Shiganshina District}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing|Shrek's Swamp}}
+{{MapListing/bottom}}
+
+
+===3v3 Map Set===
+This map set is intended for 6 players with teams enabled, however it does not get used if the "Auto" map set is enabled.
+
+{{MapListing/top}}
+{{MapListing|Small Grumpy Temple}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|Tree Fort}}
+{{MapListing|Temple Ruins}}
+{{MapListing|World's End}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Apocalyptic Chasm}}
+{{MapListing|Shiganshina District Brawl}}
+{{MapListing/bottom}}
+
+
+===Big Map Set===
+This map set is intended for matches with 5 or more players. It is used if the "Auto" map set is enabled regardless if teams are also enabled.
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Grumpy Temple}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Big Thundergard Stadium}}
+{{MapListing|Big Titan's End}}
+{{MapListing|The Enigma}}
+{{MapListing|Big Great Hall}}
+{{MapListing|Big Lost Labyrinth}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|The Fangwild}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Wheel}}
+{{MapListing|Sun Drive City}}
+{{MapListing|Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Terminus}}
+{{MapListing|Apocalyptic Chasm}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing|Shiganshina District Brawl}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+===Mayhem Map Set===
+This map set is intended for any number of players, and contains maps that are more chaotic.
+
+{{MapListing/top}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Apocalyptic Chasm}}
+{{MapListing|Crumbled Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing/bottom}}
+
+==Casual Queue Map Sets==
+
+===Experimental 1v1 Map Set===
+This map set is intended for 2 players. It is used in [[Experimental 1v1]] when it is available.
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Small Mammoth Fortress}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Small World's End}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Jikoku}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+===Friendly 2v2 Map Set===
+This map set is used in [[Friendly 2v2]].
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Small Thundergard Stadium}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Fortress of the Lions}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Void Minor}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Castle Batavia}}
+{{MapListing|Jikoku}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+==Ranked Map Sets==
+
+===Ranked 1v1 Map Set===
+This map set is used in [[Ranked 1v1]] matches, in [[Unranked 1v1]], and in [[Strikeout 1v1]].
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Small Enigma}}
+{{MapListing|Small Mammoth Fortress}}
+{{MapListing|Small Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Rooftop}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Jikoku}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Swamp}}
+{{MapListing/bottom}}
+
+
+===Ranked 2v2 Map Set===
+This map set is used in [[Ranked 2v2]] matches.
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Void Minor}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Jikoku}}
+{{MapListing|Shiganshina District}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Swamp}}
+{{MapListing/bottom}}
+
+==Tournament Map Sets==
+
+===Tournament 1v1 Map Set===
+This map set is used in 1v1 matches for official tournaments.
+
+{{MapListing/top}}
+{{MapListing|Demon Island}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Small World's End}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing/bottom}}
+
+
+===Tournament 2v2 Map Set===
+This map set is used in 2v2 matches for official tournaments.
+
+{{MapListing/top}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Mishima Dojo}}
+{{MapListing|Small Terminus}}
+{{MapListing|Jikoku}}
+{{MapListing|Shiganshina District}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing/bottom}}
+
+
+===Tournament 3v3 Map Set===
+This map set is intended to be used in 3v3 matches for tournaments.
+
+{{MapListing/top}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|The Great Hall}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|World's End}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Shiganshina District Brawl}}
+{{MapListing/bottom}}
+
+==Gamemode Specific==
+Non-standard gamemodes typically have different map sets than regular. Some of these gamemodes can only be played on custom maps, and thus do not have any selection for map sets. Other gamemodes, however, can be played on regular maps, and have unique map sets.
+
+===Dice & Destruction===
+[[Dice & Destruction]] features 6 unique map sets, alongside using the standard Tournament 1v1 and Tournament 2v2 sets. These map sets are similar to their standard counterparts, typically only removing maps with ceilings or high item spawns from the pool.
+
+====Dice & Destruction All Map Set====
+This map set is used in place of the typical "All" map set, removing maps that may not work well with the gamemode.
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Small Kings Pass}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Small Thundergard Stadium}}
+{{MapListing|Big Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Small Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|Small Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Small Great Hall}}
+{{MapListing|Big Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Lost Labyrinth}}
+{{MapListing|Big Lost Labyrinth}}
+{{MapListing|Miami Dome}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Tree Fort}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Sun Drive City}}
+{{MapListing|Spirit Realm}}
+{{MapListing|World's End}}
+{{MapListing|Fortress of the Lions}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Void Minor}}
+{{MapListing|Fabled City}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Rooftop}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Castle Batavia}}
+{{MapListing|Enchanted Forest}}
+{{MapListing|Jikoku}}
+{{MapListing|Shiganshina District}}
+{{MapListing|Shiganshina District Brawl}}
+{{MapListing|Small Wasteland}}
+{{MapListing|The Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing|Shrek's Swamp}}
+{{MapListing/bottom}}
+
+
+====Dice & Destruction FFA Map Set====
+This map set is used for lobbies of 3-4 players with teams disabled.
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Tree Fort}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Sun Drive City}}
+{{MapListing|World's End}}
+{{MapListing|Fabled City}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Castle Batavia}}
+{{MapListing|The Wasteland}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+====Dice & Destruction 1v1 Map Set====
+This map set is used for lobbies of 2 players.
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Small Kings Pass}}
+{{MapListing|Small Thundergard Stadium}}
+{{MapListing|Small Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Small Mammoth Fortress}}
+{{MapListing|Small Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Suzaku Castle}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Rooftop}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Castle Batavia}}
+{{MapListing|Jikoku}}
+{{MapListing|Small Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing|Shrek's Swamp}}
+{{MapListing/bottom}}
+
+
+====Dice & Destruction 2v2 Map Set====
+This map set is used for lobbies of 3-4 players with teams enabled.
+
+{{MapListing/top}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Demon Island}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Fortress of Wolves}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple}}
+{{MapListing|Shorwind Fishing Port}}
+{{MapListing|Small World's End}}
+{{MapListing|Bikini Bottom}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Mos Eisley Spaceport}}
+{{MapListing|Small Theed Generator}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing|Old Ivaldi Mine}}
+{{MapListing|Castle Batavia}}
+{{MapListing|Jikoku}}
+{{MapListing|Shiganshina District}}
+{{MapListing|Small Wasteland}}
+{{MapListing|The Wasteland}}
+{{MapListing|Shadowscar Landing}}
+{{MapListing|Elysium}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+====Dice & Destruction 3v3 Map Set====
+This map set is used for lobbies of 5-6 players with teams enabled.
+
+{{MapListing/top}}
+{{MapListing|Kings Pass}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|The Great Hall}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Apocalyptic Chasm}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing|Shiganshina District Brawl}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+====Dice & Destruction Big Map Set====
+This map set is used for lobbies of 5-8 players with teams disabled, or 7-8 players with teams enabled.
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Big Thundergard Stadium}}
+{{MapListing|Big Great Hall}}
+{{MapListing|Big Lost Labyrinth}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Sun Drive City}}
+{{MapListing|Fabled City}}
+{{MapListing|Florence Terrace}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Apocalyptic Chasm}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|The Wasteland Showdown}}
+{{MapListing|Shiganshina District Brawl}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+===Gadget Mayhem===
+[[Gadget Mayhem]] features 2 unique maps sets: "small", for 1-4 player matches, and "big", for 5-8 player matches.
+
+====Gadget Mayhem Small Map Set====
+This map set is used for lobbies with 1-4 players.
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Lost Labyrinth}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|Tree Fort}}
+{{MapListing|Demon Island}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Sun Drive City}}
+{{MapListing|World's End}}
+{{MapListing|Fortress of the Lions}}
+{{MapListing|Void Major}}
+{{MapListing|Fabled City}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Terminus}}
+{{MapListing|Mustafar}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+
+====Gadget Mayhem Big Map Set====
+This map set is used for lobbies with 5-8 players.
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Big Lost Labyrinth}}
+{{MapListing|Big Miami Dome}}
+{{MapListing|The Fangwild}}
+{{MapListing|Tree Fort}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Temple Ruins}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Sun Drive City}}
+{{MapListing|World's End}}
+{{MapListing|Fortress of the Lions}}
+{{MapListing|Void Major}}
+{{MapListing|Fabled City}}
+{{MapListing|Western Air Temple Brawl}}
+{{MapListing|Terminus}}
+{{MapListing|Theed Power Generator}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Shrek's Muddy Swamp}}
+{{MapListing/bottom}}
+
+==Removed Map Sets==
+Certain map sets previously existed in the game, and were later removed.
+
+===Bubble Tag===
+[[Bubble Tag]] previously featured three unique map sets: '''All''', '''2v2''', and '''Big'''.
+
+These were removed in [[Patch 8.14]]. Bubble Tag now uses standard map sets.
+
+====Bubble Tag All Map Set====
+
+{{MapListing/top}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Small Grumpy Temple}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Grumpy Temple}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Big Titan's End}}
+{{MapListing|Big Great Hall}}
+{{MapListing|The Fangwild}}
+{{MapListing|Under the Canopy}}
+{{MapListing|Kung Foot Arena}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Small Fortress of Lions}}
+{{MapListing|Void Minor}}
+{{MapListing|Void Major}}
+{{MapListing|Small World's End}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Theed Power Generator}}
+{{MapListing/bottom}}
+
+
+====Bubble Tag 2v2 Map Set====
+This map set was used for lobbies of 4 players or less.
+
+{{MapListing/top}}
+{{MapListing|Crystal Temple}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Small Brawlhaven}}
+{{MapListing|Small Grumpy Temple}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|Small Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Miami Dome}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Plains of Passage}}
+{{MapListing|Apocalypse}}
+{{MapListing|Under the Canopy}}
+{{MapListing|Small Galvan Prime}}
+{{MapListing|Spirit Realm}}
+{{MapListing|Small Turtles' Lair}}
+{{MapListing|Small Fortress of Lions}}
+{{MapListing|Void Minor}}
+{{MapListing|Small World's End}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing/bottom}}
+
+
+====Bubble Tag Big Map Set====
+This map set was used for lobbies of 5 players or more.
+
+{{MapListing/top}}
+{{MapListing|Big Crystal Temple}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Grumpy Temple}}
+{{MapListing|Big Twilight Grove}}
+{{MapListing|Big Titan's End}}
+{{MapListing|Big Great Hall}}
+{{MapListing|The Fangwild}}
+{{MapListing|Kung Foot Arena}}
+{{MapListing|Galvan Prime}}
+{{MapListing|Void Major}}
+{{MapListing|Theed Power Generator}}
+{{MapListing/bottom}}
+
+
+===Snowbrawl FFA Map Set===
+[[Snowbrawl]] previously featured a unique '''FFA''' map set, alongside a '''Big''' map set which was identical to the regular Big map set.
+
+These were removed in [[Patch 9.01]], replaced with standard map sets.
+
+Despite its removal, this map set still remained in the files and was updated for a few patches. It was finally removed in [[Patch 9.06]]
+
+{{MapListing/top}}
+{{MapListing|Brawlhaven}}
+{{MapListing|Grumpy Temple}}
+{{MapListing|Twilight Grove}}
+{{MapListing|Kings Pass}}
+{{MapListing|Thundergard Stadium}}
+{{MapListing|Big Titan's End}}
+{{MapListing|Blackguard Keep}}
+{{MapListing|The Enigma}}
+{{MapListing|Mammoth Fortress}}
+{{MapListing|The Great Hall}}
+{{MapListing|Shipwreck Falls}}
+{{MapListing|Lost Labyrinth}}
+{{MapListing|The Fangwild}}
+{{MapListing|Small Fangwild}}
+{{MapListing|Crumbling Chasm}}
+{{MapListing|Mustafar}}
+{{MapListing|Starlight Falls}}
+{{MapListing|Temple Climb}}
+{{MapListing|Siege of Lions}}
+{{MapListing|Spirit Realm Showdown}}
+{{MapListing|Divine Spirit Showdown}}
+{{MapListing|Lich's Tomb}}
+{{MapListing/bottom}}
+
+[[Category:Maps]]
