@@ -2,12 +2,12 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 
 ==Sword Skins==
 {{itembox/top}}
-{{itembox|width=190|height=200|name=Ahsoka's Lightsaber|image=Ahsoka's Lightsaber.png|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ahsoka's Lightsaber|image=Ahsoka's Lightsaber.webp|desc=[[Ahsoka Tano]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Alucard Sword|image=Alucard Sword.png|desc=[[Alucard]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Anakin's Lightsaber|image=Anakin's Lightsaber.png|desc=[[Anakin Skywalker]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Anakin's Lightsaber|image=Anakin's Lightsaber.webp|desc=[[Anakin Skywalker]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Ancestor's Flame|image=Ancestor's Flame.png|desc=[[Ojiisan Koji]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Apex Keysword|image=Apex Keysword.png|desc=SteelSeries 2022 reward|descheight=55px}}
-{{itembox|width=190|height=200|name=Asgardian Lightsaber|image=Asgardian Lightsaber.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
+{{itembox|width=190|height=200|name=Asgardian Lightsaber|image=Asgardian Lightsaber.webp|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=190|height=200|name=Asgardian Sword|image=Asgardian Sword.png|desc=[[Asgard Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Assassin's Breath|image=Assassin's Breath.png|desc=[[Lynx Asuri]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Astroblade|image=Astroblade.png|desc={{BPReward|Season Five|gold|Tier 15}}|descheight=55px}}
@@ -36,8 +36,8 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Cyber Myk Switchblade|image=Cyber Myk Switchblade.png|desc={{BPReward|Season Eight|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Dark Elf Flamberge|image=Dark Elf Flamberge.png|cost={{Coin|mammoth|40}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Darkheart Blade|image=Darkheart Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=190|height=200|name=Darth Maul's Split Lightsaber|displayname={{small|Darth Maul's Split Lightsaber}}|image=Darth Maul's Split Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Darth Vader's Lightsaber|image=Darth Vader's Lightsaber.png|desc=[[Darth Vader]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Darth Maul's Split Lightsaber|displayname={{small|Darth Maul's Split Lightsaber}}|image=Darth Maul's Split Lightsaber.webp|desc=[[Darth Maul]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Darth Vader's Lightsaber|image=Darth Vader's Lightsaber.webp|desc=[[Darth Vader]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Demon Art: Kurayami-ken|image=Demon Art Kurayami-ken.png|desc=[[Akuma Shinobi Priya]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Demon's Blade|image=Demon's Blade.png|desc=[[Crimson Oni Jiro]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Devil's Hand|image=Devil's Hand.png|desc={{BPReward|Season One|gold|Tier 15}}|descheight=55px}}
@@ -51,15 +51,15 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Dynasty Ender|image=Dynasty Ender.png|desc=[[Shogun Jiro]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Edge of Twilight|image=Edge of Twilight.png|desc=[[Metadev Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Emperor's Claim|image=Emperor's Claim.png|desc=[[Ashen Warmonger Roland]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Energy Sword|image=Energy Sword.png|desc=[[The Arbiter]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Eternal Flame|image=AniEternal Flame.gif|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Energy Sword|image=Energy Sword.webp|desc=[[The Arbiter]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Eternal Flame|image=Eternal Flame.webp|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Falling Blossoms|image=Falling Blossoms.png|desc=[[Demon Bride Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Finn Sword|image=Finn Sword.png|desc=[[Finn]]|descheight=55px}}
 {{itembox|width=190|height=200|name=For Royalty|image=For Royalty.png|desc=[[King Knight]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Foxfire|image=Foxfire.png|desc=[[Kitsune Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Francesca|image=Francesca.png|desc=[[Xavier Woods]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Frost Brandr|image=Frost Brandr.png|desc={{BPReward|Season Three|gold|Tier 29}}|descheight=55px}}
-{{itembox|width=190|height=200|name=Fusioncutter|image=Fusioncutter.png|desc=[[Chewbacca]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Fusioncutter|image=Fusioncutter.webp|desc=[[Chewbacca]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Gift of Sojobo|image=Gift of Sojobo.png|desc=[[Tengu Koji]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Gilded Lily|image=Gilded Lily.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Glorious Deco|image=Glorious Deco.png|desc=[[Ritzy Bödvar]]|descheight=55px}}
@@ -113,7 +113,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Ninpō: Zanshintō|image=Ninpō Zanshintō.png|desc=[[Modern Monomi Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=No Running!|image=No Running!.png|desc=[[First Day Asuri]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Nunchaku|image=Nunchaku.png|desc=[[Michelangelo]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Obi-Wan's Lightsaber|image=Obi-Wan's Lightsaber.png|desc=[[Obi-Wan Kenobi]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Obi-Wan's Lightsaber|image=Obi-Wan's Lightsaber.webp|desc=[[Obi-Wan Kenobi]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Obsidian Edge|image=Obsidian Edge.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=190|height=200|name=Onihashi Steel Blade|image=Onihashi Steel Blade.png|desc=[[Snake Eyes]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Outlander's Knife|image=Outlander's Knife.png|desc=''Unobtainable''|descheight=55px}}
@@ -123,7 +123,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Phoenix Claw|image=Phoenix Claw.png|desc=[[Hanbok Jaeyun]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Plasma Cleaver|image=Plasma Cleaver.png|desc=[[Cyber Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Power Sword|image=Power Sword.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=190|height=200|name=Powersurge|image=AniPowersurge.gif|desc=[[Shin Sekai Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Powersurge|image=Powersurge.webp|desc=[[Shin Sekai Koji]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Pressure Slicer|image=Pressure Slicer.png|desc=[[Sky Pirate Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Prickly Cut|image=Prickly Cut.png|desc={{BPReward|Season Six|gold|Tier 21}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Pristine Cutlass|image=Pristine Cutlass.png|desc=[[Classy Thatch]]|descheight=55px}}
@@ -163,7 +163,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Sword of Truth|image=Sword of Truth.png|desc=[[Silver Age Jhala]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Tactical Blade|image=Tactical Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Tactical Edge|image=Tactical Edge.png|desc=[[Commando Val]]|descheight=55px}}
-{{itembox|width=190|height=200|name=The Darksaber|image=The Darksaber.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
+{{itembox|width=190|height=200|name=The Darksaber|image=The Darksaber.webp|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=190|height=200|name=The Frozen Cutlass|image=The Frozen Cutlass.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=190|height=200|name=The Frozen Edge|image=The Frozen Edge.png|desc=[[Winter Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=190|height=200|name=The Gladius|image=The Gladius.png|desc=[[Roland the Victorious]]|descheight=55px}}

@@ -47,13 +47,6 @@ public partial class WriterData
             case "Mando":
                 if (!colorMode) displayName = "The Mandalorian & Grogu";
                 break;
-            case "Heatblast":
-                if (!colorMode)
-                {
-                    imageName = "AniHeatblast (lock-in)";
-                    extension = ImageExtensionEnum.Gif;
-                }
-                break;
             case "Stevonnie":
             case "Diamondhead":
             case "FourArms":
@@ -64,7 +57,14 @@ public partial class WriterData
             case "TaiLung":
                 if (!colorMode) imageName += " (lock-in)";
                 break;
-            // misc epics
+            case "Heatblast":
+                if (!colorMode)
+                {
+                    imageName = "AniHeatblast (lock-in)";
+                    extension = ImageExtensionEnum.Gif;
+                }
+                break;
+            // animated with gif and Ani prefix
             case "Bubblegum":
             case "Spongebob":
                 if (!colorMode)
@@ -92,7 +92,7 @@ public partial class WriterData
                     useLevelSuffix = false;
                 }
                 break;
-            // others
+            // animated with webp
             case "CyberSam":
             case "PaleRider":
             // bp 1

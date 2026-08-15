@@ -20,7 +20,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Bullhorn Basher|image=Bullhorn Basher.png|desc=[[Hall Minotaur Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Champion's Hammer|image=Champion's Hammer.png|desc=[[Golden Gladiator Zuva]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Chikara|image=Chikara.png|desc=[[Ancestral Zuva]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Circuit Breaker|image=AniCircuit Breaker.gif|desc=[[Mad Genius Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Circuit Breaker|image=Circuit Breaker.webp|desc=[[Mad Genius Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Combustion|image=Combustion.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=205|height=170|name=Compressed Metal Mallet|image=Compressed Metal Mallet.png|desc=[[Toph]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Concrete Slam|image=Concrete Slam.png|desc=[[Four Arms]]|descheight=55px}}
@@ -77,7 +77,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Ice Crusher|image=Ice Crusher.png|desc=[[The Yetee Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Ice Fishing|image=Ice Fishing.png|desc=[[Winter Championship 2020 Pack]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Ix Chel|image=Ix Chel.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=205|height=170|name=Jellyfishing Net|image=Jellyfishing Net.png|desc=[[Patrick Star]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Jellyfishing Net|image=Jellyfishing Net.webp|desc=[[Patrick Star]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Laughing Dragon|image=Laughing Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Lodestone|image=Lodestone.png|desc=[[Rift Dweller Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=LOL RIP|image=LOL RIP.png|desc=[[Punkin Spice Yumiko]]|descheight=55px}}
@@ -132,7 +132,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Striking Magi ☆ Miracle Mallet|displayname={{small|Striking Magi ☆ Miracle Mallet}}|image=Striking Magi ☆ Miracle Mallet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Sucker Punch|image=Sucker Punch.png|desc=[[Cho-Kor-late]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Sun Dial|image=Sun Dial.png|desc=[[Indomitable Daylight Kor]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Taurus Rebellion|image=Taurus Rebellion Level 3.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Taurus Rebellion|image=Taurus Rebellion.webp|desc=[[Fallen Prince Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Tea-KO|image=Tea-KO.png|desc=[[Teatime Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Teeth-Grinder|image=Teeth-Grinder.png|desc=[[Capra Thor]]|descheight=55px}}
 {{itembox|width=205|height=170|name=That's A Hammer|image=That's A Hammer.png|desc=[[Outback Gnash]]|descheight=55px}}

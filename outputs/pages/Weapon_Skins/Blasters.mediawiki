@@ -18,7 +18,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Blaster Pistols|image=Blaster Pistols.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=180|height=170|name=Blasters of Mercy|image=Blasters of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 33}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Blazing Deringers|image=Blazing Deringers.png|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Blazing Fire|image=Blazing Fire.png|desc=[[Heatblast]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Blazing Fire|image=Blazing Fire.webp|desc=[[Heatblast]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Bolt Blasters|image=Bolt Blasters.png|desc=[[Stormlord Ada]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Boom Booms|image=Boom Booms.png|desc=[[Goblin Thatch]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Bowcaster & E-11 Blaster|displayname={{small|Bowcaster & E-11 Blaster}}|image=Bowcaster & E-11 Blaster.png|desc=[[Chewbacca]]|descheight=55px}}
@@ -118,7 +118,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Repeating Crossbows|image=Repeating Crossbows.png|desc=[[Bitten Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Revolvers|image=Revolvers.png|desc=[[Rick]]|descheight=55px}}
 {{itembox|width=180|height=170|name=RGB Blasters|image=RGB Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Ripple and Wave|image=Ripple and Wave.png|desc=[[Retro Reaper Nix]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ripple and Wave|image=Ripple and Wave.webp|desc=[[Retro Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Rose Gold Revolvers|image=Rose Gold Revolvers.png|desc=[[New West Cassidy]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Royal Family|image=Royal Family.png|desc=[[Lionguard Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Sacred Orders|image=Sacred Orders.png|desc=[[Honor Bound Cross]]|descheight=55px}}
@@ -162,7 +162,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Toybox Pistol|image=Toybox Pistol.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Umbra Blasters|image=Umbra Blasters.png|desc={{BPReward|Season Thirteen|gold|Light Tier 8}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Valiant Armament Blasters|displayname={{small|Valiant Armament Blasters}}|image=Valiant Armament Blasters.png|desc={{BPReward|Season Ten|gold|Tier 37}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Vengeance at Hand|image=Vengeance at Hand.png|desc=[[Soulbound Diana]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Vengeance at Hand|image=Vengeance at Hand.webp|desc=[[Soulbound Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Venom Spitters|image=Venom Spitters.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=180|height=170|name=VM-19 Pistol & E-11 Blaster|displayname={{small|VM-19 Pistol & E-11 Blaster}}|image=VM-19 Pistol & E-11 Blaster.png|desc=[[Kay Vess]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Whirlwinds|image=Whirlwinds.png|desc=[[Dust Devil Cassidy]]|descheight=55px}}

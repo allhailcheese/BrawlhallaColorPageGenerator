@@ -76,6 +76,7 @@ public partial class WriterData
             case "BowTrickOrTreat":
                 if (!colorMode) imageName = "ded";
                 break;
+            // animated with gif and Ani prefix
             case "PistolBubblegum":
             case "BowCyberSam":
             case "FistsDemon01":
@@ -84,14 +85,11 @@ public partial class WriterData
             case "OrbDemon01":
             case "OrbDemon02":
             case "OrbDemon03":
-            case "HammerScientist":
             case "OrbBattlePassSet2":
             case "RocketLanceScientist":
             case "ScythePaleRider":
             case "SpearDemonQueen":
             case "SpearPaleRider":
-            case "SwordDemonQueen":
-            case "SwordCyberSam":
                 if (!colorMode)
                 {
                     imageName = "Ani" + imageName;
@@ -99,6 +97,7 @@ public partial class WriterData
                     useLevelSuffix = false;
                 }
                 break;
+            // animated with gif
             case "PistolMythicNix":
             case "FistsMythicWuShang":
             case "FistsMythicWerewolf":
@@ -110,6 +109,33 @@ public partial class WriterData
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Gif;
+                    useLevelSuffix = false;
+                }
+                break;
+            // animated with webp
+            case "HammerPatrick":
+            case "HammerScientist":
+            case "HammerMagicalTeros03":
+            case "SwordObiWan":
+            case "SwordAhsoka":
+            case "SwordAnakin":
+            case "SwordAsgardSaber":
+            case "SwordPaladinJY":
+            case "SwordSynthVal":
+            case "SwordDarthMaul":
+            case "SwordDarthVader":
+            case "SwordArbiter":
+            case "SwordDemonQueen":
+            case "SwordChewbacca":
+            case "SwordShinobiBP12":
+            case "SwordCyberSam":
+            case "DarkSaber":
+            case "PistolHeatblast":
+            case "PistolEpicNix":
+            case "PistolEpicDiana":
+                if (!colorMode)
+                {
+                    extension = ImageExtensionEnum.Webp;
                     useLevelSuffix = false;
                 }
                 break;
