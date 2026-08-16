@@ -86,7 +86,6 @@ public partial class WriterData
             case "OrbDemon02":
             case "OrbDemon03":
             case "OrbBattlePassSet2":
-            case "RocketLanceScientist":
             case "ScythePaleRider":
             case "SpearDemonQueen":
             case "SpearPaleRider":
@@ -133,6 +132,9 @@ public partial class WriterData
             case "PistolHeatblast":
             case "PistolEpicNix":
             case "PistolEpicDiana":
+            case "RocketLanceSpaceLeviathan":
+            case "RocketLanceEpicOrion":
+            case "RocketLanceScientist":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Webp;

@@ -3,7 +3,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 ==Rocket Lance Skins==
 {{itembox/top}}
 {{itembox|width=205|height=170|name=Abyssal Excavator|image=Abyssal Excavator.png|desc=[[Black Knight]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Accretion Mass Projector|image=Accretion Mass Projector.png|desc=[[Void Zenith Artemis]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Accretion Mass Projector|image=Accretion Mass Projector.webp|desc=[[Void Zenith Artemis]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Aesinite Lance|image=Aesinite Lance.png|desc=[[Arcanium Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Aetheric Rocket Drill|image=Aetheric Rocket Drill.png|desc=[[Steam Tank Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Asgardian Lance|image=Asgardian Lance.png|desc=[[Collectors Pack]]|descheight=55px}}
@@ -24,7 +24,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Chemical V|image=Chemical V.png|desc=[[Professor Vraxx]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Chrysalis Lance|image=Chrysalis Lance.png|desc=[[Puella Papilio Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cobalt Mecha Lance|image=Cobalt Mecha Lance.png|cost={{Coin|mammoth|40}}|costheight=55px}}
-{{itembox|width=205|height=170|name=Core Collapse|image=Core Collapse.png|desc=[[Orion Prime]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Core Collapse|image=Core Collapse.webp|desc=[[Orion Prime]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Corinthian Lance|image=Corinthian Lance.png|desc=[[Gorgon Thea]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cristatus Wingspan|image=Cristatus Wingspan.png|desc=[[Peacock Artemis]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cupid's Arrow|image=Cupid's Arrow.png|desc=[[Matchmaker Vector]]|descheight=55px}}
@@ -99,7 +99,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Skyrush|image=Skyrush.png|desc=[[Corsair Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Soaring Magi ☆ Sky Duster|image=Soaring Magi ☆ Sky Duster.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Spark Compressor|image=Spark Compressor.png|desc=[[Gridrunner Thea]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Spark of Madness|image=AniSpark of Madness.gif|desc=[[Mad Genius Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Spark of Madness|image=Spark of Madness.webp|desc=[[Mad Genius Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Speaker of the Sea|image=Speaker of the Sea.png|desc=[[Atlantean Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Svartalfheim's Caverns|image=Svartalfheim's Caverns.png|desc=[[Master Blacksmith Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Synthetic Charge|image=Synthetic Charge.png|desc={{BPReward|Season Two|gold|Tier 29}}|descheight=55px}}
