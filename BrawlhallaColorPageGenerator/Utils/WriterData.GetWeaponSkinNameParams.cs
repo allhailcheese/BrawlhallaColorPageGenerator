@@ -87,8 +87,6 @@ public partial class WriterData
             case "OrbDemon03":
             case "OrbBattlePassSet2":
             case "ScythePaleRider":
-            case "SpearDemonQueen":
-            case "SpearPaleRider":
                 if (!colorMode)
                 {
                     imageName = "Ani" + imageName;
@@ -104,7 +102,6 @@ public partial class WriterData
             case "OrbLilith":
             case "ScytheMythicNix":
             case "ScytheMythicWerewolf":
-            case "SpearMythicWuShang":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Gif;
@@ -135,6 +132,16 @@ public partial class WriterData
             case "RocketLanceSpaceLeviathan":
             case "RocketLanceEpicOrion":
             case "RocketLanceScientist":
+            case "SpearAsgardSaber":
+            case "SpearDarthMaul":
+            case "SpearMonkGuardian":
+            case "WolfKissSpear":
+            case "SpearEpicWitch":
+            case "SpearHeatblast":
+            case "SpearDemonQueen":
+            case "SpearPaleRider":
+            case "SpearEpicOrion":
+            case "SpearMythicWuShang":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Webp;

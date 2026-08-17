@@ -6,7 +6,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Amanita Naginata|image=Amanita Naginata.png|desc=[[Deathcap Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Ambition|image=Ambition.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Arctic Edge Spear|image=Arctic Edge Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=210|height=220|name=Asgardian Saberstaff|image=Asgardian Saberstaff.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
+{{itembox|width=210|height=220|name=Asgardian Saberstaff|image=Asgardian Saberstaff.webp|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=210|height=220|name=Asgardian Spear|image=Asgardian Spear.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Astro Shard|image=Astro Shard.png|desc={{BPReward|Season Two|gold|Tier 79}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Aurora's Spear|image=Aurora's Spear.png|desc=[[Barbara]]|descheight=55px}}
@@ -24,7 +24,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Cyber Myk Pike|image=Cyber Myk Pike.png|desc=[[Live Action Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dark Shovel Blade|image=Dark Shovel Blade.png|desc=[[Black Knight]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Darkheart Spine|image=Darkheart Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=210|height=220|name=Darth Maul's Double-Bladed Lightsaber|displayname=<span style="font-size:69%">Darth Maul's Double-Bladed Lightsaber</span>|image=Darth Maul's Double-Bladed Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Darth Maul's Double-Bladed Lightsaber|displayname=<span style="font-size:69%">Darth Maul's Double-Bladed Lightsaber</span>|image=Darth Maul's Double-Bladed Lightsaber.webp|desc=[[Darth Maul]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Destiny|image=Destiny.png|desc=[[Harbinger Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Devilish Spike|image=Devilish Spike.png|desc={{BPReward|Season One|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Divine Question|image=Divine Question Level 3.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
@@ -70,14 +70,14 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Knifebeak|image=Knifebeak.png|desc=[[Pteranodon Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Lacrosse Check|image=Lacrosse Check.png|desc=[[Detention Ada]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Laticauda's Poison|image=Laticauda's Poison.png|desc=[[Sea Krait Nai]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Lich Lord's Gift|image=Lich Lord's Gift.png|desc=[[Fell Empress Nai]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Lich Lord's Gift|image=Lich Lord's Gift.webp|desc=[[Fell Empress Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Light of Truth|image=Light of Truth.png|desc=[[Infinite Wu Shang]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Lightning Rod|image=Lightning Rod.png|desc=[[Stormlord Ada]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Loathsome Talon|image=Loathsome Talon.png|desc=[[Harpy Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Long Tooth|image=Long Tooth.png|desc=[[White Fang Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Love Hurts|image=Love Hurts.png|desc=[[Date Night Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Loves Me Not|image=Loves Me Not.png|desc=[[Lovelaced Ada]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Magma Spear|image=Magma Spear.png|desc=[[Heatblast]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Magma Spear|image=Magma Spear.webp|desc=[[Heatblast]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Martial Staff|image=Martial Staff.png|desc=[[Chun-Li]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Matchlock Spear|image=Matchlock Spear.png|desc=[[Sidewinder Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Mikasa's Thunder Spear|image=Mikasa's Thunder Spear.png|desc=[[Mikasa]]|descheight=55px}}
@@ -113,7 +113,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Precision|image=Precision.png|desc=[[Mirage the Cleaner]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Pulaski Pike|image=Pulaski Pike.png|desc=[[Firefighter Seven]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Pumpkin Pike|image=Pumpkin Pike.png|desc=[[Trick or Treater Kaya]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Queen of Demons|image=AniQueen of Demons.gif|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Queen of Demons|image=Queen of Demons.webp|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Quill of Thoth|image=Quill of Thoth.png|desc=[[Librarian Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Ranked Ladder|image=Ranked Ladder.png|desc=[[John Cena]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Red-Hot Ranseur|image=Red-Hot Ranseur.png|cost={{Coin|mammoth|40}}|costheight=55px}}
@@ -128,7 +128,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Scintilating Spear|image=Scintilating Spear.png|desc=[[Snake Charmer Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Scrapshard|image=Scrapshard.png|desc=[[Chrometooth Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Scrimshaw Harpoon|image=Scrimshaw Harpoon.png|desc=[[Huntress Kaya]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Seal Breaker|image=AniSeal Breaker.gif|desc=[[Apocalypse Mirage]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Seal Breaker|image=Seal Breaker.webp|desc=[[Apocalypse Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Seridashi|image=Seridashi.png|desc=[[Kabuki Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Serving Fork|image=Serving Fork.png|desc=[[Festive Baker Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Seven Secrets Spear|image=Seven Secrets Spear.png|desc=[[Kill Thrill Hattori]]|descheight=55px}}
@@ -158,7 +158,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=The Last Crutch|image=The Last Crutch.png|desc=[[Becky Lynch]]|descheight=55px}}
 {{itembox|width=210|height=220|name=The Mixup|image=The Mixup.png|desc=[[Crossfade Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=The Seeker's Spear|image=The Seeker's Spear.png|desc=[[Hand of Horus Mirage]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Thermal Runaway|image=Thermal Runaway.png|desc=[[Orion Prime]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Thermal Runaway|image=Thermal Runaway.webp|desc=[[Orion Prime]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Tiburon's Teeth|image=Tiburon's Teeth.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Tines of the Heart|image=Tines of the Heart.png|desc=[[Heart of Hathor Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Toxic Ranseur|image=Toxic Ranseur.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -178,7 +178,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Viper's Venom|image=Viper's Venom.png|desc=[[Winged Serpent Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Warrior's Wisdom|image=Warrior's Wisdom.png|desc=[[Athena Kaya]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Winged Glory|image=Winged Glory.png|desc=[[Freestyle Mirage]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Wu Wei|image=Wu Wei.gif|desc=[[Ascended Wu Shang]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Wu Wei|image=Wu Wei.webp|desc=[[Ascended Wu Shang]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Xochitl Tlacochtli|image=Xochitl Tlacochtli.png|desc=[[Calavera Catrina Seven]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Yokai Naginata|image=Yokai Naginata.png|desc=[[Cyber Oni Orion]]|descheight=55px}}
 {{itembox/bottom}}
