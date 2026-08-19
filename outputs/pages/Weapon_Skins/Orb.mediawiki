@@ -15,12 +15,14 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Blood Shard|image=Blood Shard.png|desc=[[Nimue]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Closin' Time|image=Closin' Time.png|desc=[[Desperado Reno]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crimson Poison|image=Crimson Poison.png|desc=[[Widowmaker Reno]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Crystalforged Orb|image=Crystalforged Orb.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Orb|image=Cyber Myk Orb.png|desc={{BPReward|Season Eight|free|Tier 4}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Geode|image=Darkheart Geode.png|desc=[[Fallen Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Orb|image=Darkheart Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Death Awaits|image=Death Awaits.png|desc=[[Draugr Thor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Death Star Hologram|image=Death Star Hologram.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=180|height=170|name=Demon's Malice|image=AniDemon's Malice.gif|desc=[[Obake Petra]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Discarded Helmets|image=Discarded Helmets.png|desc=[[2001 Skate Odyssey Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dragon's Heart|image=Dragon's Heart.png|desc=[[Emerald Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Durasteel Debris|image=Durasteel Debris.png|desc=[[Darth Vader]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dwarven-Forged Orb|image=Dwarven-Forged Orb.png|desc={{BPReward|Season Seven|gold|Tier 25}}|descheight=55px}}
@@ -37,6 +39,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Golden Punishment|image=Golden Punishment.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Orb|image=Goldforged Orb.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Grifball|image=Grifball.png|desc=Unobtainable.<br>Removed from Store.|descheight=55px}}
+{{itembox|width=180|height=170|name=Guild Orb|image=Guild Orb.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Hardening Crystal|image=Hardening Crystal.png|desc=[[Eren]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Orb|image=Hardlight Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Home Run|image=Home Run.png|desc=[[Sourcecode Petra]]|descheight=55px}}
@@ -50,6 +53,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Lightning Sigil|image=Lightning Sigil.png|desc=[[Cinderguard Thor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Logitech Keycap|image=Logitech Keycap.png|desc=Tournament Reward|descheight=55px}}
 {{itembox|width=180|height=170|name=Love Sick|image=Love Sick.png|desc=[[Date Night Dusk]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Maintenance Droid|image=Maintenance Droid.png|desc=[[Automaton Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Memento Mori|image=Memento Mori.png|desc=[[Relentless Pest Reno]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Moonlight Meteor|image=Moonlight Meteor.png|desc=[[Metadev Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Neo-City Orb|image=Neo-City Orb.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Summer Doubles 2026|Twitch Drops}}|descheight=55px}}
@@ -64,6 +68,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Power of Courage|image=Power of Courage.png|desc=[[Ken]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Power of Will|image=Power of Will.png|desc=[[Ryu]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Psycho Power Aura|image=Psycho Power Aura.png|desc=[[M. Bison]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Pumpkin Jack|image=Pumpkin Jack.png|desc=[[Autumn Esports 2026 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Remnant of Fate|image=Remnant of Fate.png|desc=[[Enchantress]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Reunited|image=Reunited.png|desc=[[Garnet]]|descheight=55px}}
 {{itembox|width=180|height=170|name=RGB Orb|image=RGB Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -76,6 +81,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Snarler|image=Snarler.png|desc=[[Capra Thor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Snow Globe|image=Snow Globe.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
 {{itembox|width=180|height=170|name=Soul Battery|image=Soul Battery.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Star of the Weaving Girl|image=Star of the Weaving Girl.png|desc=[[Lunar Rabbit Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Terra Firma|image=Terra Firma.png|desc=[[Cosmic Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Firehawk|image=The Firehawk.gif|desc=[[Lilith]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Giver's Grasp|image=The Giver's Grasp.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #3|Viewership Rewards}}|descheight=55px}}
@@ -96,6 +102,7 @@ These Orb skins belong to default Legend skins. Because of this, they can only b
 
 {{itembox/top}}
 {{itembox|width=180|height=170|name=Apple of Eden|image=Apple of Eden.png|desc=[[Ezio]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Celestial Puzzle|image=Celestial Puzzle.png|desc=[[Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Eye of the Storm|image=Eye of the Storm.png|desc=[[Thor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Garuda's Core|image=Garuda's Core.png|desc=[[Red Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Orbot|image=Orbot.png|desc=[[Reno]]|descheight=55px}}

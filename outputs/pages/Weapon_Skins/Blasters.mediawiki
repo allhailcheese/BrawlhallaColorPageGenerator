@@ -32,6 +32,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Chicago Typewriters|image=Chicago Typewriters.png|desc=[[Boss Cross]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Close Quarters|image=Close Quarters.png|desc=[[Shadow Ops Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Commander and Chief|image=Commander and Chief.png|desc=[[Admiral Isaiah]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Crystalforged Pisol|image=Crystalforged Pisol.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Pistols|image=Cyber Myk Pistols.png|desc={{BPReward|Season Eight|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Dark Conjurers|image=Dark Conjurers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Dark Elf Blasters|image=Dark Elf Blasters.png|desc=[[Vraxx the Viking]]|descheight=55px}}
@@ -77,6 +78,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Golden Gears|image=Golden Gears.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Blasters|image=Goldforged Blasters.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Grisly Burrs|image=Grisly Burrs.png|desc={{BPReward|Season Six|gold|Tier 9}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Guild Blasters|image=Guild Blasters.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Guileless Hellfire Blasters|displayname={{small|Guileless Hellfire Blasters}}|image=Guileless Hellfire Blasters.png|desc=[[Lilith]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Blasters|image=Hardlight Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Hraesvelgr's Eyes|image=Hraesvelgr's Eyes.png|desc=[[The Gifts of Asgard]]|descheight=55px}}

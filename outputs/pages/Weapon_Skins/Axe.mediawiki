@@ -40,6 +40,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Chopsicle|image=Chopsicle.png|desc=[[The Yetee Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Conch Cleaver|image=Conch Cleaver.png|desc=[[Seadragon Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Crystal Whip Axe|image=Crystal Whip Axe.png|desc=[[Amethyst]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystalforged Axe|image=Crystalforged Axe.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Cyber Myk Axe|image=Cyber Myk Axe.png|desc={{BPReward|Season Eight|gold|Tier 13}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Dark Blade of Malakkar|image=Dark Blade of Malakkar.png|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Axe|image=Darkheart Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -72,6 +73,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Golem's Heart|image=Golem's Heart.png|desc=[[Arcanium Ulgrim]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Goofy Goober Guitar|image=Goofy Goober Guitar.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Grass Axe|image=Grass Axe.png|desc=[[Finn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Guild Axe|image=Guild Axe.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Hack and Slash|image=Hack and Slash.png|desc=[[Slasher Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Half-Halberd|image=Half-Halberd.png|cost={{Coin|mammoth|40}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Hardlight Axe|image=Hardlight Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}

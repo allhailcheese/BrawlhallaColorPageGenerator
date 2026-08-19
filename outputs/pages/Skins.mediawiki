@@ -476,6 +476,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=THNX Researcher Loki|image=THNX Researcher Loki.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Lakeside Loki|image=Lakeside Loki.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Interloper Loki|image=Interloper Loki.png|desc={{BPReward|Season Eleven|gold|Tier 65}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Valedictorian Loki|image=Valedictorian Loki.png|cost={{Coin|ticket school|1850}}<br><small>{{ItemTag|school|2026}}</small>|costheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -657,6 +658,14 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Joyful Dancer Priya|image=Joyful Dancer Priya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Chakora Priya|image=Chakora Priya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Akuma Shinobi Priya|image=Akuma Shinobi Priya.png|desc={{BPReward|Season Twelve|gold|Final Tier 7}}|descheight=49px}}
+{{Itembox/bottom}}
+
+
+===[[Qinghua & Baobao]]===
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=2001 Skate Odyssey Qinghua & Baobao|image=2001 Skate Odyssey Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lunar Rabbit Qinghua & Baobao|image=Lunar Rabbit Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Automaton Qinghua & Baobao|image=Automaton Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -1007,7 +1016,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=High Frequency Yumiko|image=High Frequency Yumiko.png|desc={{BPReward|Season Two|gold|Tier 71}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Caelestis Yumiko|image=Caelestis Yumiko.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Inari Yumiko|image=Inari Yumiko.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Band Kid Yumiko|image=Band Kid Yumiko.png|cost={{Coin|ticket school|1850}}<br><small>{{ItemTag|school|2025}}</small>|costheight=49px}}
+{{itembox|width=220|height=270|name=Band Kid Yumiko|image=Band Kid Yumiko.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Twilight Dragon Yumiko|image=Twilight Dragon Yumiko.png|desc={{BPReward|Season Thirteen|gold|Twilight Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 

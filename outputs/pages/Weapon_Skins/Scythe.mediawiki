@@ -21,6 +21,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Coatl Culler|image=Coatl Culler.png|desc=[[Interloper Loki]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Constellation Carver|image=Constellation Carver.png|desc=[[Cosmic Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crossfader|image=Crossfader.png|desc=[[DJ Hugin]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Crystalforged Scythe|image=Crystalforged Scythe.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Sickle|image=Cyber Myk Sickle.png|desc={{BPReward|Season Eight|gold|Tier 83}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Cygnus|image=Cygnus Level 3.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Reaper|image=Darkheart Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -40,6 +41,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Goalie Stick|image=Goalie Stick.png|desc=[[Slapshot Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Golden Light|image=Golden Light.png|desc=[[Celestial Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Scythe|image=Goldforged Scythe.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=180|height=170|name=Guild Scythe|image=Guild Scythe.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Hand of Asmodeus|image=Hand of Asmodeus.gif|desc=[[Ascended Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Scythe|image=Hardlight Scythe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Harvest Sickle|image=Harvest Sickle.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -97,6 +99,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Scythe of Torment|image=Scythe of Torment.png|desc=[[Specter Knight]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Searing Blade|image=Searing Blade.png|desc=[[Iron Lady Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Seraph's Message|image=Seraph's Message.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Serpentine Scepter|image=Serpentine Scepter.png|desc=[[Valedictorian Loki]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Sharkbite|image=Sharkbite.png|desc=[[Wipeout Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Singularity Sickle|image=Singularity Sickle.png|desc={{BPReward|Season Five|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Skyforged Scythe|image=Skyforged Scythe.png|cost={{Coin|glory|5000}}|costheight=55px}}

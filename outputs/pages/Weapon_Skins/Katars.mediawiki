@@ -36,6 +36,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Crescent Moon Claws|image=Crescent Moon Claws.png|desc=[[Metadev Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Crystal Blades|image=Crystal Blades.png|desc=[[Frost Guardian Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Crystal Shards|image=Crystal Shards.png|desc=[[Diamondhead]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Crystalforged Katar|image=Crystalforged Katar.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=190|name=Crystalline Blades|image=Crystalline Blades.png|desc=[[Metadev Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Cyber Myk Shanks|image=Cyber Myk Shanks.png|desc={{BPReward|Season Eight|free|Tier 78}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Dark Scarabs|image=Dark Scarabs.png|desc={{BPReward|Season One|gold|Tier 9}}|descheight=55px}}
@@ -68,6 +69,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Grand Finale|image=Grand Finale.png|desc=[[Harlequin Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Great Bite Katars|image=Great Bite Katars.png|desc=[[Summer Championship 2026 Pack]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Greed and Avarice|image=Greed and Avarice.png|desc=[[Ragnir the Covetous]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Guild Katars|image=Guild Katars.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Hardlight Pincers|image=Hardlight Pincers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Haunting Blades|image=Haunting Blades.png|desc=[[Horseman Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Heart Piercers|image=Heart Piercers.png|desc=[[Tuxedo Bandit Caspian]]|descheight=55px}}
@@ -105,6 +107,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Overhand Slicers|image=Overhand Slicers.png|desc=[[Ace Spiker Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Piercing Petals|image=Piercing Petals.png|desc=[[Spring Championship 2022 Pack]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Pillage and Plunder|image=Pillage and Plunder.png|desc=[[Swashbuckler Asuri]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Poisoned Nibs|image=Poisoned Nibs.png|desc=[[Valedictorian Loki]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Raptorial Limbs|image=Raptorial Limbs.png|desc=[[Hulking Mantis Rupture]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Raven Claws|image=Raven Claws.png|desc=[[Raven Rogue Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Rending Talons|image=Rending Talons.png|desc=[[Apex Predator Asuri]]|descheight=55px}}

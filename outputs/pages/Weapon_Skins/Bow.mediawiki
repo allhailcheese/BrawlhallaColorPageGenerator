@@ -27,6 +27,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Coastline Pulse|image=Coastline Pulse.png|desc=[[Beachside Zariel]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Counter Curse|image=Counter Curse.png|desc=[[Spellbreaker Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crepuscular Recurve|image=Crepuscular Recurve.png|desc=[[Twilight Dragon Yumiko]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Crystalforged Bow|image=Crystalforged Bow.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Cupid's Bow|image=Cupid's Bow.png|cost={{Coin|mammoth|60}}<br>{{ItemTag|valentines|small}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Cursed Bow|image=Cursed Bow.png|desc={{BPReward|Season One|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Bow|image=Cyber Myk Bow.png|desc={{BPReward|Season Eight|gold|Tier 26}}|descheight=55px}}
@@ -59,6 +60,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Gold-Inlaid Bow|image=Gold-Inlaid Bow.png|desc=[[Swanky Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Bow|image=Goldforged Bow.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Grand Prix|image=Grand Prix.png|desc=[[Hyperdrift Vector]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Guild Bow|image=Guild Bow.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Bow|image=Hardlight Bow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Heartstring|image=Heartstring.png|desc=[[Secret Admirer Zariel]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Heaven's Order|image=Heaven's Order.png|desc=[[Archangel Zariel]]|descheight=55px}}

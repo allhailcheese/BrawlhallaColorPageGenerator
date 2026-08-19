@@ -21,13 +21,14 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Crafts Time|image=Crafts Time.png|desc=[[Kindergarten Kaya]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Crimson Pike|image=Crimson Pike.png|desc=[[Nimue]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Crush Killer|image=Crush Killer.png|desc=[[Date Night Dusk]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Crystalforged Spear|image=Crystalforged Spear.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=210|height=220|name=Cyber Myk Pike|image=Cyber Myk Pike.png|desc=[[Live Action Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dark Shovel Blade|image=Dark Shovel Blade.png|desc=[[Black Knight]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Darkheart Spine|image=Darkheart Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Darth Maul's Double-Bladed Lightsaber|displayname=<span style="font-size:69%">Darth Maul's Double-Bladed Lightsaber</span>|image=Darth Maul's Double-Bladed Lightsaber.webp|desc=[[Darth Maul]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Destiny|image=Destiny.png|desc=[[Harbinger Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Devilish Spike|image=Devilish Spike.png|desc={{BPReward|Season One|gold|Tier 37}}|descheight=55px}}
-{{itembox|width=210|height=220|name=Divine Question|image=Divine Question Level 3.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Divine Question|image=Divine Question.webp|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dreamshard|image=Dreamshard.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Dusk (Weapon Skin)|displayname=Dusk|image=Dusk Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Dwarven Awl|image=Dwarven Awl.png|desc=[[Aesir-Forged Brynn]]|descheight=55px}}
@@ -48,7 +49,8 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Goldforged Spear|image=Goldforged Spear.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=210|height=220|name=Great Bite Shark|image=Great Bite Shark.png|desc=[[Summer Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Guiding Spirit|image=Guiding Spirit.png|desc=[[Aurora Kaya]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Gungnir|image=Gungnir.png|desc=[[Eivor]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Guild Spear|image=Guild Spear.png|cost={{Coin|goin|225}}|costheight=55px}}
+{{itembox|width=210|height=220|name=Gungnir|image=Gungnir.webp|desc=[[Eivor]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Hand-Saw|image=Hand-Saw.png|desc=[[The Monster Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Hardlight Spear|image=Hardlight Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Hasta Pura|image=Hasta Pura.png|desc=[[Centurion Aurus]]|descheight=55px}}

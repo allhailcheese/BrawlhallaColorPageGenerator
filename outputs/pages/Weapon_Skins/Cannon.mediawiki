@@ -19,6 +19,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Cannon of Mercy|image=Cannon of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Chimney|image=Chimney.png|desc=[[Winter Esports 2025 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Conk Shell|image=Conk Shell.png|desc=[[Merrow Sidra]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Crystalforged Cannon|image=Crystalforged Cannon.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Megacannon|image=Cyber Myk Megacannon.png|desc={{BPReward|Season Eight|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Danish Brick Mortar|image=Danish Brick Mortar.png|desc=[[Tinyfigure Seven]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Tower|image=Darkheart Tower.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -32,14 +33,18 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Ensnaring Boom|image=Ensnaring Boom.png|desc=[[Beastmaster Sidra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Eternal Siege|image=Eternal Siege.png|desc=[[Soulbound Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fire Hose|image=Fire Hose.png|desc=[[Firefighter Seven]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Flowering Vase|image=Flowering Vase.png|desc=[[Lunar Rabbit Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Frosty's Fury|image=Frosty's Fury.png|desc=[[Festive Yeti Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fuel Rod Cannon|image=Fuel Rod Cannon.png|desc=[[The Arbiter]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Gjallarhorn|image=Gjallarhorn.png|desc=[[Store Bundles|Bundle]] exclusive|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Cannon|image=Goldforged Cannon.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Grilled Smoker|image=Grilled Smoker.png|desc=[[Brawl Dad Isaiah]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Guild Cannon|image=Guild Cannon.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Cannon|image=Hardlight Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Howling Siren|image=Howling Siren.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Hyper Fire Drifter|image=Hyper Fire Drifter.png|desc=[[2001 Skate Odyssey Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hyperion Yggdrasil|image=Hyperion Yggdrasil.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Interdimensional Rail Gun|image=Interdimensional Rail Gun.png|desc=[[Automaton Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Jade Dragon|image=Jade Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Kanabo|image=Kanabo.png|desc=[[Demon Ogre Xull]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Koi Cannon|image=Koi Cannon.png|desc=[[Green Thumb Lin Fei]]|descheight=55px}}
@@ -90,5 +95,6 @@ These Cannon skins belong to default Legend skins. Because of this, they can onl
 {{itembox|width=180|height=170|name=Handcrafted Cannon|image=Handcrafted Cannon.png|desc=[[Seven]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ol' Faithful|image=Ol' Faithful.png|desc=[[Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Stryge|image=Stryge.png|desc=[[Onyx]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sun Seeker|image=Sun Seeker.png|desc=[[Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wartusk|image=Wartusk.png|desc=[[Xull]]|descheight=55px}}
 {{itembox/bottom}}

@@ -45,6 +45,8 @@ public partial class WriterData
         ["AxeEsports2026"] = TD_DESCRIPTION,
         ["BootsEsports2026"] = TD_DESCRIPTION,
         ["ChakramEsports2026"] = TD_DESCRIPTION,
+        ["FistEsports2026"] = TD_DESCRIPTION,
+        ["RocketLanceEsports2026"] = TD_DESCRIPTION,
         // magical girl
         ["GreatswordMagicalGirl"] = TD("Summer 2026 Whitelist"),
         // gifts of asgard. TODO: give all of these a proper description

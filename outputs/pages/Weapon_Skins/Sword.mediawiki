@@ -15,10 +15,10 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Aztlán Sword|image=Aztlán Sword.png|desc=[[Master of Night Asuri]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Babe|image=Babe.png|desc=[[Queen Beat Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Bear Blade|image=Bear Blade.png|desc=[[Bear'dvar]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Benevolent Light|image=Benevolent Light Level 3.png|desc=[[Luminous Paladin Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Benevolent Light|image=Benevolent Light.webp|desc=[[Luminous Paladin Jaeyun]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Betrayal|image=Betrayal.png|desc=[[Mythic Hero Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Big ol' Knife|image=Big ol' Knife.png|desc=[[Big Rig Bödvar]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Bitrate Blade|image=Bitrate Blade Level 3.png|desc=[[Future Wave Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Bitrate Blade|image=Bitrate Blade.webp|desc=[[Future Wave Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Blade of Brutus|image=Blade of Brutus.png|desc=[[Armor of Brutus Ezio]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Blade of Shadows|image=Blade of Shadows.png|desc=[[Yakuza Koji]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Blazing Light Sword|image=Blazing Light Sword.png|desc=[[Mecha Asuri]]|descheight=55px}}
@@ -32,6 +32,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Crimson Cutlass|image=Crimson Cutlass.png|desc=[[Pirate Queen Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Crowbar|image=Crowbar.png|desc=[[Negan]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Crypto Blade|image=Crypto Blade.png|desc=[[Street Samurai Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Crystalforged Sword|image=Crystalforged Sword.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=190|height=200|name=Curved Beam|image=Curved Beam.png|desc=[[Hardsuit Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Cyber Myk Switchblade|image=Cyber Myk Switchblade.png|desc={{BPReward|Season Eight|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Dark Elf Flamberge|image=Dark Elf Flamberge.png|cost={{Coin|mammoth|40}}|costheight=55px}}
@@ -68,6 +69,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Golden Saber|image=Golden Saber.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=190|height=200|name=Goldforged Sword|image=Goldforged Sword.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=190|height=200|name=Guardian's Edge|image=Guardian's Edge.png|desc=[[Komainu Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Guild Sword|image=Guild Sword.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Hardlight Sword|image=Hardlight Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Hattori Hanzo Sword|image=Hattori Hanzo Sword.png|desc=[[Kill Thrill Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Haunted Incisor|image=Haunted Incisor.png|desc=[[Werewolf Thatch]]|descheight=55px}}
@@ -108,7 +110,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Night Terrors|image=Night Terrors.png|desc=[[Fiendish Knight Roland]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Nightmare Sword|image=Nightmare Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Ninpō: Raijin|image=Ninpō Raijin.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Ninpō: Senbonzakura|image=Ninpō Senbonzakura Level 3.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ninpō: Senbonzakura|image=Ninpō Senbonzakura.webp|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Ninpō: Unsealed Sword|image=Ninpō Unsealed Sword.png|desc={{BPReward|Season Twelve|free|Future Tier 23}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Ninpō: Zanshintō|image=Ninpō Zanshintō.png|desc=[[Modern Monomi Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=No Running!|image=No Running!.png|desc=[[First Day Asuri]]|descheight=55px}}

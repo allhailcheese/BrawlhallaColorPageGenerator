@@ -24,6 +24,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Collision Rocket Fists|image=Collision Rocket Fists.png|desc=[[Termidex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Corellian Flight Gloves|image=Corellian Flight Gloves.png|desc=[[Han Solo]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Crystal Clutch|image=Crystal Clutch.png|desc={{BPReward|Season Three|gold|Tier 69|small}}<br>{{BPReward|Season Three Classic|free|Tier 66|small}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Crystalforged Gauntlets|image=Crystalforged Gauntlets.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=70px}}
 {{itembox|width=190|height=170|name=Ctrl & Delete|image=Ctrl & Delete.png|desc=[[Sourcecode Petra]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Cuffed Regalia|image=Cuffed Regalia.png|desc=[[Gentleman Kor]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Cyber Myk Gauntlets|image=Cyber Myk Gauntlets.png|desc={{BPReward|Season Eight|gold|Tier 33}}|descheight=70px}}
@@ -67,6 +68,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Goldforged Gauntlets|image=Goldforged Gauntlets.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=70px}}
 {{itembox|width=190|height=170|name=Grasping Boughs|image=Grasping Boughs.png|desc=[[Druid Mage Chel]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Ground & Pound|image=Ground & Pound.png|desc=[[Prizefighter Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Guild Gauntlets|image=Guild Gauntlets.png|cost={{Coin|goin|225}}|costheight=70px}}
 {{itembox|width=190|height=170|name=H2-KO|image=H2-KO.png|desc=[[Water Wars Cross]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Halo Breakers|image=Halo Breakers.png|desc=[[Darkheart Zariel]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Hand Wraps|image=Hand Wraps.png|desc=[[Po]]|descheight=70px}}
@@ -96,6 +98,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Mudras|image=Mudras.png|desc=[[Perfect Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Neo-City Gauntlets|image=Neo-City Gauntlets.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=70px}}
 {{itembox|width=190|height=170|name=Nightlapse|image=Nightlapse.png|desc={{BPReward|Season Two|gold|Tier 50}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Nightmare Knuckles|image=Nightmare Knuckles.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Ninpō: Kotegakure|image=Ninpō Kotegakure.png|desc=[[Modern Monomi Val]]|descheight=70px}}

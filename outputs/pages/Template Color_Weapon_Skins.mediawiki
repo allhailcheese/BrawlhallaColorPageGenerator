@@ -84,6 +84,7 @@ Glory (Weapon Skin) && displayname:Glory && image:Glory $1.png
 Golem's Heart
 Goofy Goober Guitar
 Grass Axe
+Guild Axe
 Hack and Slash
 Hardlight Axe
 Heartbreaker
@@ -208,6 +209,7 @@ Fang & Claw
 Forum Mid
 Gilded Dress Boots
 Gomo
+Guild Boots
 Hardened Titan Feet
 Hardlight Battle Boots
 His Nice Shoes
@@ -314,6 +316,7 @@ Ghost and Goblin
 Glimpse of Death
 Glitz & Glam
 Grisly Burrs
+Guild Blasters
 Guileless Hellfire Blasters
 Hand Cannons
 Hardlight Blasters
@@ -479,6 +482,7 @@ Forgotten Bow
 Gift Giver
 Gold-Inlaid Bow
 Grand Prix
+Guild Bow
 Hardlight Bow
 Heartstring
 Heaven's Order
@@ -595,14 +599,18 @@ Electro Overdrive
 Ensnaring Boom
 Eternal Siege
 Fire Hose
+Flowering Vase
 Frosty's Fury
 Fuel Rod Cannon
 Gjallarhorn
 Grilled Smoker
+Guild Cannon
 Handcrafted Cannon
 Hardlight Cannon
 Howling Siren
+Hyper Fire Drifter
 Hyperion Yggdrasil
+Interdimensional Rail Gun
 Jade Dragon
 Kanabo
 Koi Cannon
@@ -631,6 +639,7 @@ Sonic Boom
 SPNKr Rocket Launcher
 Stalwart Screech
 Stryge
+Sun Seeker
 Swamp Log
 Swamp Serum
 Tactical Cannon
@@ -660,6 +669,7 @@ Darkheart Chakram
 Demon Art&#58; Kageshuriken && image:Demon Art Kageshuriken $1.png
 Dwarven-forged Chakram
 Golden Order
+Guild Chakram
 Hardlight Chakram
 Hringr of the Raven
 Jade Maw
@@ -756,6 +766,7 @@ God Tyr
 Golden Force
 Grasping Boughs
 Ground & Pound
+Guild Gauntlets
 H2-KO
 Halo Breakers
 Hand Wraps
@@ -791,6 +802,7 @@ Martial Fists
 Melting Wax Gauntlets
 Metalbender's Mittens
 Mudras
+Neo-City Gauntlets
 Nightlapse
 Nightmare Knuckles
 Ninpō&#58; Kotegakure && image:Ninpō Kotegakure $1.png
@@ -895,6 +907,7 @@ Great Mandibles
 Great-Oar
 Great-Pop
 Greatsword of Mercy
+Guild Greatsword
 Haekal && displayname:Haekal (Lvl 1) && image:Haekal Level 1 $1.png
 Haekal && displayname:Haekal (Lvl 2) && image:Haekal Level 2 $1.png
 Haekal && displayname:Haekal (Lvl 3) && image:Haekal Level 3 $1.png
@@ -986,6 +999,7 @@ Gravity Hammer
 Ground Pounder
 Grueling Terror
 Guardian Mallet
+Guild Hammer
 H4MM3R Time
 Hammer Decorum
 Hammer of Mercy
@@ -1174,6 +1188,7 @@ Getaway Points
 Grand Finale
 Great Bite Katars
 Greed and Avarice
+Guild Katars
 Hardlight Pincers
 Haunting Blades
 Heart Piercers
@@ -1212,6 +1227,7 @@ Numeric Flux
 Overhand Slicers
 Piercing Petals
 Pillage and Plunder
+Poisoned Nibs
 Raptorial Limbs
 Raven Claws
 Realm Etchers
@@ -1283,6 +1299,7 @@ Beatdown Bell
 Big Chomp
 Blood Keepsake
 Blood Shard
+Celestial Puzzle
 Closin' Time
 Crimson Poison
 Cyber Myk Orb
@@ -1293,6 +1310,7 @@ Death Star Hologram
 Demon's Malice && displayname:Demon's Malice (Lvl 1) && image:Demon's Malice Level 1 $1.png
 Demon's Malice && displayname:Demon's Malice (Lvl 2) && image:Demon's Malice Level 2 $1.png
 Demon's Malice && displayname:Demon's Malice (Lvl 3) && image:Demon's Malice Level 3 $1.png
+Discarded Helmets
 Dragon's Heart
 Durasteel Debris
 Dwarven-Forged Orb
@@ -1310,6 +1328,7 @@ Ghost Familiar
 Golden Dawn ~ Arcana
 Golden Punishment
 Grifball
+Guild Orb
 Hardening Crystal
 Hardlight Orb
 Home Run
@@ -1323,6 +1342,7 @@ Lighted Eminence
 Lightning Sigil
 Logitech Keycap
 Love Sick
+Maintenance Droid
 Memento Mori
 Moonlight Meteor
 Neo-City Orb
@@ -1338,6 +1358,7 @@ Piña Collider
 Power of Courage
 Power of Will
 Psycho Power Aura
+Pumpkin Jack
 Remnant of Fate
 Reunited
 RGB Orb
@@ -1351,6 +1372,7 @@ Sleeping Demon
 Snarler
 Snow Globe
 Soul Battery
+Star of the Weaving Girl
 Stone of Malice
 Terra Firma
 The Firehawk
@@ -1418,6 +1440,7 @@ Fuselage
 Galaxy Lance
 Glorious Conquest
 Griffoth's Fire
+Guild Rocket Lance
 Hardlight Rocket Lance
 Heartbreak Havoc
 Honor's Edge
@@ -1436,6 +1459,7 @@ Magma Bolt
 Magma Heart
 Mk 1 Lance
 Mk V Lance
+Neo-City Rocket Lance
 Nightmare Launcher
 Ninpō&#58; Unsealed Rocket Lance && image:Ninpō Unsealed Rocket Lance $1.png
 Nordic Celebration
@@ -1543,6 +1567,7 @@ Fusion Blade
 Gloryhound
 Goalie Stick
 Golden Light
+Guild Scythe
 Hand of Asmodeus
 Hardlight Scythe
 Harvest Sickle
@@ -1604,6 +1629,7 @@ Scythe of the Sands
 Scythe of Torment
 Searing Blade
 Seraph's Message
+Serpentine Scepter
 Sharkbite
 Shooting Star
 Singularity Sickle
@@ -1691,6 +1717,7 @@ Flamepiercer
 Glacier's Grace
 Great Bite Shark
 Guiding Spirit
+Guild Spear
 Gungnir
 Hand-Saw
 Hardlight Spear
@@ -1905,6 +1932,7 @@ Golden Fang
 Golden Lion Fang
 Golden Saber
 Guardian's Edge
+Guild Sword
 Hardlight Blade
 Hardlight Sword
 Hattori Hanzo Sword

@@ -27,6 +27,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Core Collapse|image=Core Collapse.webp|desc=[[Orion Prime]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Corinthian Lance|image=Corinthian Lance.png|desc=[[Gorgon Thea]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cristatus Wingspan|image=Cristatus Wingspan.png|desc=[[Peacock Artemis]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Crystalforged Rocket Lance|image=Crystalforged Rocket Lance.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=205|height=170|name=Cupid's Arrow|image=Cupid's Arrow.png|desc=[[Matchmaker Vector]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cyber Myk Starblaze|image=Cyber Myk Starblaze.png|desc=[[Live Action Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Darkheart Missile|image=Darkheart Missile.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -48,6 +49,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Glorious Conquest|image=Glorious Conquest.png|desc=[[Ashen Warmonger Roland]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Goldforged Lance|image=Goldforged Lance.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=205|height=170|name=Griffoth's Fire|image=Griffoth's Fire.png|desc=[[King Knight]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Guild Rocket Lance|image=Guild Rocket Lance.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Hardlight Rocket Lance|image=Hardlight Rocket Lance.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Heartbreak Havoc|image=Heartbreak Havoc.png|desc=[[Vraxx the King]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Honor's Edge|image=Honor's Edge.png|desc=[[Apprentice Ulgrim]]|descheight=55px}}
@@ -66,6 +68,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Magma Heart|image=Magma Heart.png|desc=[[Summer Championship 2020 Pack]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Mk 1 Lance|image=Mk 1 Lance.png|desc=[[Steamsmith Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Mk V Lance|image=Mk V Lance.png|desc=[[Steam Sentry Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Neo-City Rocket Lance|image=Neo-City Rocket Lance.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
 {{itembox|width=205|height=170|name=Neon Surfer|image=Neon Surfer.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=205|height=170|name=Nightmare Launcher|image=Nightmare Launcher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Ninpō: Unsealed Rocket Lance|displayname={{small|Ninpō: Unsealed Rocket Lance}}|image=Ninpō Unsealed Rocket Lance.png|desc={{BPReward|Season Twelve|free|Past Tier 4}}|descheight=55px}}

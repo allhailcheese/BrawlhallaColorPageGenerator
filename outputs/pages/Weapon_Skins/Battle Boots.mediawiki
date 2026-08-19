@@ -17,6 +17,7 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Breezy Magi ☆ Skyward Strikers|displayname={{small|Breezy Magi ☆ Skyward Strikers}}|image=Breezy Magi ☆ Skyward Strikers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Cloud Kickers|image=Cloud Kickers Level 3.png|desc=[[Corrupted Blood Tezca]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Corrupted Steps|image=Corrupted Steps.png|desc=[[Fallen Raptor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystalforged Boots|image=Crystalforged Boots.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Cyber Myk Megaboots|image=Cyber Myk Megaboots.png|desc={{BPReward|Season Eight|gold|Tier 63}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Dame X|image=Dame X.png|desc=[[adidas Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Stompers|image=Darkheart Stompers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -30,6 +31,7 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Gilded Dress Boots|image=Gilded Dress Boots.png|desc=[[Elegant Zuva]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Battle Boots|image=Goldforged Battle Boots.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Gomo|image=Gomo.png|desc=[[Ancestral Zuva]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Guild Boots|image=Guild Boots.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Hardened Titan Feet|image=Hardened Titan Feet.png|desc=[[Eren]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Hardlight Battle Boots|image=Hardlight Battle Boots.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=His Nice Shoes|image=His Nice Shoes.png|desc=[[Talk of the Town Tezca]]|descheight=55px}}

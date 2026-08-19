@@ -10,75 +10,17 @@ public partial class WriterData
     {
         string FormatItemTag(string tag, int year = 0) => "{{ItemTag|" + tag + (smallItemTag ? "|small" : "") + (year > 0 ? "|" + year : "") + "}}";
 
+        int i = 0;
         StringBuilder sb = new("{{Coin|");
-        // costs gold
-        if (storeType.GoldCost > 0)
+        foreach ((string coin, int cost) in GetStoreTypeCost(storeType))
         {
-            sb.Append("gold|");
-            sb.Append(storeType.GoldCost);
-        }
-        // costs mammoth coins
-        else if (storeType.IdolCost > 0)
-        {
-            sb.Append("mammoth|");
-            sb.Append(storeType.StoreName switch
-            {
-                // Purchased as a bundle
-                "PaleRider" => 300,
-                "MythicWuShang" => 900,
-                "MythicNix" => 900,
-                "MythicWerewolf" => 900,
-                // Normal
-                _ => storeType.IdolCost
-            });
-            // also costs guild gems
-            if (storeType.GuildGemsCost > 0)
-            {
-                sb.Append("}} or {{Coin|goin|");
-                sb.Append(storeType.GuildGemsCost);
-            }
-        }
-        // costs glory
-        else if (storeType.RankedPointsCost > 0)
-        {
-            sb.Append("glory|");
-            sb.Append(storeType.RankedPointsCost);
-        }
-        // costs tickets
-        else if (storeType.SpecialCurrencyType is not null)
-        {
-            sb.Append("ticket ");
-            sb.Append(storeType.SpecialCurrencyType switch
-            {
-                "BHFest25" => "fest",
-                "Heatwave25" or "Heatwave26" => "heatwave",
-                "BackToSchool25" => "school",
-                "Halloween25" => "halloween",
-                "Anniversary25" => "anniv",
-                "Christmas25" => "xmas",
-                "VDay25" => "love",
-                "StPatricks26" => "march",
-                "Bloomhalla26" => "spring",
-                "BHFest26" => "fest26",
-                _ => "ERROR",
-            });
+            if (i > 0) sb.Append(" or {{Coin|");
+            sb.Append(coin);
             sb.Append('|');
-            if (storeType.SpecialCurrencyCost > 0)
-            {
-                sb.Append(storeType.SpecialCurrencyCost);
-            }
-            // event-finish skin
-            else
-            {
-                sb.Append(1850);
-            }
+            sb.Append(cost);
+            sb.Append("}}");
+            ++i;
         }
-        // unexpected
-        else
-        {
-            sb.Append("ERROR|0");
-        }
-        sb.Append("}}");
 
         if (storeType.SpecialCurrencyType is not null)
         {
@@ -99,6 +41,7 @@ public partial class WriterData
                 "Bloomhalla26" => FormatItemTag("spring", 2026),
                 "BHFest26" => FormatItemTag("fest", 2026),
                 "Heatwave26" => FormatItemTag("summer", 2026),
+                "BackToSchool26" => FormatItemTag("school", 2026),
                 _ => " ERROR",
             });
             if (useSmallElement) sb.Append("</small>");
@@ -131,5 +74,76 @@ public partial class WriterData
         return sb.ToString();
     }
 
-    private static readonly HashSet<string> SPECIAL_CURRENCY_WITH_LONG_NAME = ["BackToSchool25", "Halloween25", "StPatricks26"];
+    public (string, int)[] GetStoreTypeCost(StoreType storeType)
+    {
+        List<(string, int)> result = [];
+
+        // costs gold
+        if (storeType.GoldCost > 0)
+        {
+            result.Add(("gold", storeType.GoldCost));
+        }
+
+        // costs mammoth coins
+        if (storeType.IdolCost > 0)
+        {
+            result.Add(("mammoth", storeType.StoreName switch
+            {
+                // Purchased as a bundle
+                "PaleRider" => 300,
+                "MythicWuShang" => 900,
+                "MythicNix" => 900,
+                "MythicWerewolf" => 900,
+                // Normal
+                _ => storeType.IdolCost
+            }));
+        }
+
+        // costs guild gems
+        if (storeType.GuildGemsCost > 0)
+        {
+            result.Add(("goin", storeType.GuildGemsCost));
+        }
+
+        // costs glory
+        if (storeType.RankedPointsCost > 0)
+        {
+            result.Add(("glory", storeType.RankedPointsCost));
+        }
+
+        // costs tickets
+        if (storeType.SpecialCurrencyType is not null)
+        {
+            string coinStr = "ticket " + storeType.SpecialCurrencyType switch
+            {
+                "BHFest25" => "fest",
+                "Heatwave25" or "Heatwave26" => "heatwave",
+                "BackToSchool25" or "BackToSchool26" => "school",
+                "Halloween25" => "halloween",
+                "Anniversary25" => "anniv",
+                "Christmas25" => "xmas",
+                "VDay25" => "love",
+                "StPatricks26" => "march",
+                "Bloomhalla26" => "spring",
+                "BHFest26" => "fest26",
+                _ => "ERROR",
+            };
+
+            int cost = storeType.SpecialCurrencyCost > 0
+                ? storeType.SpecialCurrencyCost
+                // event-finish (only works with skins. bhfest2026 podium has different value)
+                : 1850;
+
+            result.Add((coinStr, cost));
+        }
+
+        return [.. result];
+    }
+
+    private static readonly HashSet<string> SPECIAL_CURRENCY_WITH_LONG_NAME = [
+        "BackToSchool25",
+        "BackToSchool26",
+        "Halloween25",
+        "StPatricks26",
+    ];
 }

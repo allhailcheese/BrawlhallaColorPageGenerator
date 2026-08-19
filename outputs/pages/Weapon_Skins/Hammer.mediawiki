@@ -24,6 +24,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Combustion|image=Combustion.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=205|height=170|name=Compressed Metal Mallet|image=Compressed Metal Mallet.png|desc=[[Toph]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Concrete Slam|image=Concrete Slam.png|desc=[[Four Arms]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Crystalforged Hammer|image=Crystalforged Hammer.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=205|height=170|name=Crystalline Mallet|image=Crystalline Mallet.png|desc=[[Metadev Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cultivator's Mallet|image=Cultivator's Mallet.png|desc=[[Gardener Bödvar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cyber Myk Gavel|image=Cyber Myk Gavel.png|desc={{BPReward|Season Eight|gold|Tier 67}}|descheight=55px}}
@@ -57,6 +58,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Gravity Hammer|image=Gravity Hammer.png|desc=Unobtainable.<br>Removed from Store.|descheight=55px}}
 {{itembox|width=205|height=170|name=Grueling Terror|image=Grueling Terror.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Guardian Mallet|image=Guardian Mallet.png|desc=[[Royal Warrior Thor]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Guild Hammer|image=Guild Hammer.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=205|height=170|name=H4MM3R Time|image=H4MM3R Time.png|desc=[[Bitpunk Cassidy]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Hammer Decorum|image=Hammer Decorum.png|desc=[[Ritzy Bödvar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Hammer of Mercy|image=Hammer of Mercy.png|desc={{BPReward|Season Nine|free|Tier 4}}|descheight=55px}}

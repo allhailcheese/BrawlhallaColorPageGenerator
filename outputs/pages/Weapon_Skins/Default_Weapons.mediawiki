@@ -160,12 +160,14 @@ These weapon skins are unique in that they can only be used by the Legend they b
 {{itembox|width=180|height=170|name=Handcrafted Cannon|image=Handcrafted Cannon.png|desc=[[Seven]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ol' Faithful|image=Ol' Faithful.png|desc=[[Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Stryge|image=Stryge.png|desc=[[Onyx]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sun Seeker|image=Sun Seeker.png|desc=[[Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wartusk|image=Wartusk.png|desc=[[Xull]]|descheight=55px}}
 {{itembox/bottom}}
 
 ==Orb==
 {{itembox/top}}
 {{itembox|width=180|height=170|name=Apple of Eden|image=Apple of Eden.png|desc=[[Ezio]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Celestial Puzzle|image=Celestial Puzzle.png|desc=[[Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Eye of the Storm|image=Eye of the Storm.png|desc=[[Thor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Garuda's Core|image=Garuda's Core.png|desc=[[Red Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Orbot|image=Orbot.png|desc=[[Reno]]|descheight=55px}}

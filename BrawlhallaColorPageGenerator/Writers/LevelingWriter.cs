@@ -31,7 +31,7 @@ public sealed class LevelingWriter(WriterData data)
                 continue;
 
             writer.Write('|');
-            writer.Write(hero.BioName.ToLowerInvariant());
+            writer.Write(hero.BioNameKey);
             if (hero.HeroName == "Viking")
                 writer.Write("|bodvar");
 

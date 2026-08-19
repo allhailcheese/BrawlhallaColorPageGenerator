@@ -116,14 +116,14 @@ public partial class WriterData
             case "SwordAhsoka":
             case "SwordAnakin":
             case "SwordAsgardSaber":
-            case "SwordPaladinJY":
-            case "SwordSynthVal":
+            case "SwordT3Paladin":
+            case "SwordSynth03":
             case "SwordDarthMaul":
             case "SwordDarthVader":
             case "SwordArbiter":
             case "SwordDemonQueen":
             case "SwordChewbacca":
-            case "SwordShinobiBP12":
+            case "SwordShinobiBP1203":
             case "SwordCyberSam":
             case "DarkSaber":
             case "PistolHeatblast":
@@ -134,7 +134,7 @@ public partial class WriterData
             case "RocketLanceScientist":
             case "SpearAsgardSaber":
             case "SpearDarthMaul":
-            case "SpearMonkGuardian":
+            case "SpearMonkGuardian03":
             case "WolfKissSpear":
             case "SpearEpicWitch":
             case "SpearHeatblast":
@@ -142,6 +142,7 @@ public partial class WriterData
             case "SpearPaleRider":
             case "SpearEpicOrion":
             case "SpearMythicWuShang":
+            case "SpearEivor":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Webp;

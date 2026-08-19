@@ -462,6 +462,7 @@ Outlaw Loki
 THNX Researcher Loki
 Lakeside Loki
 Interloper Loki
+Valedictorian Loki
 }}
 ===[[Lord Vraxx]]===
 {{List to itembox|color={{{1|}}}|
@@ -643,6 +644,13 @@ Chakora Priya
 Akuma Shinobi Priya
 }}
 <span id="Q"></span>
+===[[Qinghua & Baobao]]===
+{{List to itembox|color={{{1|}}}|
+Qinghua & Baobao
+2001 Skate Odyssey Qinghua & Baobao
+Lunar Rabbit Qinghua & Baobao
+Automaton Qinghua & Baobao
+}}
 ===[[Queen Nai]]===
 {{List to itembox|color={{{1|}}}|
 Queen Nai

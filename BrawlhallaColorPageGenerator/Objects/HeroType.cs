@@ -19,6 +19,8 @@ public sealed class HeroType
     public int Weight { get; }
     public int Speed { get; }
 
+    public string? BioNameKey => BioName?.ToLowerInvariant();
+
     public HeroType(XElement element)
     {
         HeroName = element.Attribute(nameof(HeroName))!.Value;

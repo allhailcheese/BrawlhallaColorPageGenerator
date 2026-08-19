@@ -9,11 +9,13 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Clipeus Virtutis|image=Clipeus Virtutis.png|desc=[[Centurion Aurus]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Consecrate|image=Consecrate.png|desc=[[Divine Adjudicator Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=CopyCat|image=CopyCat.png|desc=[[Rootkit Ransom]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystalforged Chakram|image=Crystalforged Chakram.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Cyber Myk Chakram|image=Cyber Myk Chakram.png|desc={{BPReward|Season Eight Classic|gold|Tier 14}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Chakram|image=Darkheart Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Demon Art: Kageshuriken|image=Demon Art Kageshuriken.png|desc=[[Akuma Shinobi Priya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dwarven-forged Chakram|image=Dwarven-forged Chakram.png|desc={{BPReward|Season Seven Classic|gold|Tier 21}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Chakram|image=Goldforged Chakram.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Guild Chakram|image=Guild Chakram.png|cost={{Coin|goin|225}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Hardlight Chakram|image=Hardlight Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Hringr of the Raven|image=Hringr of the Raven.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Summer 2026 Whitelist|Twitch Drops}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Jade Maw|image=Jade Maw.png|cost={{Coin|mammoth|60}}|costheight=55px}}
