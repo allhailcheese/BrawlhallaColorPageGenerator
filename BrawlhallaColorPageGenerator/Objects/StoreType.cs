@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -13,7 +14,7 @@ public sealed class StoreType
     public int IdolCost { get; }
     public int GoldCost { get; }
     public int RankedPointsCost { get; }
-    public int GuildGemsCost {get;}
+    public int GuildGemsCost { get; }
     public string? SpecialCurrencyType { get; }
     public int SpecialCurrencyCost { get; }
 
