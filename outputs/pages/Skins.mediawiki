@@ -663,8 +663,8 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 
 ===[[Qinghua & Baobao]]===
 {{Itembox/top}}
-{{itembox|width=220|height=270|name=2001 Skate Odyssey Qinghua & Baobao|image=2001 Skate Odyssey Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Lunar Rabbit Qinghua & Baobao|image=Lunar Rabbit Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=2001 Skate Odyssey Qinghua & Baobao|displayname=<span style="font-size:75%">2001 Skate Odyssey Qinghua & Baobao</span>|image=2001 Skate Odyssey Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lunar Rabbit Qinghua & Baobao|displayname={{small|Lunar Rabbit Qinghua & Baobao}}|image=Lunar Rabbit Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Automaton Qinghua & Baobao|image=Automaton Qinghua & Baobao.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{Itembox/bottom}}
 

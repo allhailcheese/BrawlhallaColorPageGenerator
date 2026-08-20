@@ -67,12 +67,6 @@ public partial class WriterData
             // animated with gif and Ani prefix
             case "Bubblegum":
             case "Spongebob":
-                if (!colorMode)
-                {
-                    imageName = "Ani" + imageName;
-                    extension = ImageExtensionEnum.Gif;
-                }
-                break;
             // bp 1
             case "Demon01":
             case "Demon02":
@@ -152,8 +146,13 @@ public partial class WriterData
         }
 
         // names that are too long
-        if (!colorMode && LONG_COSTUME_NAMES.Contains(costumeType.CostumeName))
-            displayName = "{{small|" + displayName + "}}";
+        if (!colorMode)
+        {
+            if (SUPER_LONG_COSTUME_NAMES.Contains(costumeType.CostumeName))
+                displayName = "<span style=\"font-size:75%\">" + displayName + "</span>";
+            else if (LONG_COSTUME_NAMES.Contains(costumeType.CostumeName))
+                displayName = "{{small|" + displayName + "}}";
+        }
 
         // html escape for the template
         if (colorMode)
@@ -176,5 +175,10 @@ public partial class WriterData
 
     private static readonly HashSet<string> LONG_COSTUME_NAMES = [
         "AnnivRoland",
+        "AstroLunarBun",
+    ];
+
+    private static readonly HashSet<string> SUPER_LONG_COSTUME_NAMES = [
+        "AstroSkater",
     ];
 }
