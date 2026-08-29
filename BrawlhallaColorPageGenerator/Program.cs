@@ -4,6 +4,7 @@ using System.IO;
 using BrawlhallaColorPageGenerator;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaColorPageGenerator.Writers;
+using BrawlhallaColorPageGenerator.Writers.Bundles;
 using BrawlhallaColorPageGenerator.Writers.Colors;
 using BrawlhallaLangReader;
 using BrawlhallaSwz;
@@ -246,5 +247,8 @@ botwWriter.WriteTo("outputs/pages/Template BOTW.mediawiki");
 
 MapSetWriter mapSetWriter = new(data);
 mapSetWriter.WriteTo("outputs/pages/Map Set.mediawiki");
+
+BundleCostWriter bundleCostWriter = new(data);
+bundleCostWriter.WriteTo("outputs/pages/Template BundleCost.mediawiki");
 
 #endregion
