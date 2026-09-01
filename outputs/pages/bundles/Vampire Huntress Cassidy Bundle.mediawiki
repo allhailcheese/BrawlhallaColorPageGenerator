@@ -1,0 +1,26 @@
+{{Store Item Infobox
+| image = Bundle Vampire Huntress Cassidy.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Everything you need to hunt down the Bloodfang Rangers. Available for a righteous discount.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 4 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Vampire Huntress Cassidy|image=Vampire Huntress Cassidy.png}}
+{{itembox|width=220|height=270|name=Cassidoodle|image=Avatar DoodleCassidy.png|nolink=true}}
+{{itembox|width=220|height=270|name=Avatar Cape|image=Taunt Avatar Cape Still.png}}
+{{itembox|width=220|height=270|name=|image=.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

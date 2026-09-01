@@ -1,0 +1,32 @@
+{{Store Item Infobox
+| image = Bundle Traveler's Chosen Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Of all the firepower you’ll bring with you from the Tower, the Guardians by your side will be your finest weapons. Includes the exclusive Gjallarhorn Cannon Weapon Skin and 3 Bundle Exclusive Ghost Companions!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 10 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Gjallarhorn|image=Gjallarhorn.png}}
+{{itembox|width=220|height=270|name=Hunter Ghost|image=Hunter Ghost.png}}
+{{itembox|width=220|height=270|name=Warlock Ghost|image=Warlock Ghost.png}}
+{{itembox|width=220|height=270|name=Titan Ghost|image=Titan Ghost.png}}
+{{itembox|width=220|height=270|name=Hunter|image=Hunter.png}}
+{{itembox|width=220|height=270|name=Warlock|image=Warlock.png}}
+{{itembox|width=220|height=270|name=Titan|image=Titan.png}}
+{{itembox|width=220|height=270|name=Cayde-6|image=Avatar Cayde-6.png|nolink=true}}
+{{itembox|width=220|height=270|name=Ikora Rey|image=Avatar Ikora Rey.png|nolink=true}}
+{{itembox|width=220|height=270|name=Commander Zavala|image=Avatar Commander Zavala.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

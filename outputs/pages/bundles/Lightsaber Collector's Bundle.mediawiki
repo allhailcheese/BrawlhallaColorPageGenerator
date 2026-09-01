@@ -1,0 +1,27 @@
+{{Store Item Infobox
+| image = Bundle Lightsaber Collector's.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = These lightsabers will make a fine addition to your collection! Get a discount on all 5 Lightsaber Epic Weapon Skins in this new bundle.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 5 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Asgardian Lightsaber|image=Asgardian Lightsaber.webp}}
+{{itembox|width=220|height=270|name=Asgardian Saberstaff|image=Asgardian Saberstaff.webp}}
+{{itembox|width=220|height=270|name=Asgardian Shoto Lightsabers|displayname={{small|Asgardian Shoto Lightsabers}}|image=Asgardian Shoto Lightsabers.png}}
+{{itembox|width=220|height=270|name=The Darksaber|image=The Darksaber.webp}}
+{{itembox|width=220|height=270|name=Asgardian Great Lightsaber|displayname={{small|Asgardian Great Lightsaber}}|image=Asgardian Great Lightsaber.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

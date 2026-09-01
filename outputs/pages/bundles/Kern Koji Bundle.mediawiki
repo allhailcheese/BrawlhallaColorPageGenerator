@@ -1,0 +1,27 @@
+{{Store Item Infobox
+| image = Bundle Kern Koji.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Skip to the front lines with Koji and the bundle exclusive Dobhar Sidekick! Get this bundle for a discount on these items:
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|march|2025}}'''
+
+==Contents==
+
+This bundle contains 3 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Dobhar|image=Bot Dobhar.png}}
+{{itembox|width=220|height=270|name=Kern Koji|image=Kern Koji.png}}
+{{itembox|width=220|height=270|name=Pot o' Gold|image=Taunt Pot o' Gold Still.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

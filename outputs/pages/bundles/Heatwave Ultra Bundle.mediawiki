@@ -1,0 +1,42 @@
+{{Store Item Infobox
+| image = Bundle Heatwave Ultra.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Get EVERY Heatwave Event Legend Skin from 2016-2024 PLUS the new Stocks on the Rocks Podium. All for 50% off! That's hot. From Azoth to Zariel, here's everything you get in this bundle:
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|summer|2025}}'''
+
+==Contents==
+
+This bundle contains 18 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Wipeout Nix|image=Wipeout Nix.png}}
+{{itembox|width=220|height=270|name=Dog Days Mordex|image=Dog Days Mordex.png}}
+{{itembox|width=220|height=270|name=Atlantean Orion|image=Atlantean Orion.png}}
+{{itembox|width=220|height=270|name=Water Wars Cross|image=Water Wars Cross.png}}
+{{itembox|width=220|height=270|name=Pool Party Diana|image=Pool Party Diana.png}}
+{{itembox|width=220|height=270|name=Thor by the Shore|image=Thor by the Shore.png}}
+{{itembox|width=220|height=270|name=Brawl Dad Isaiah|image=Brawl Dad Isaiah.png}}
+{{itembox|width=220|height=270|name=Hotshot Vector|image=Hotshot Vector.png}}
+{{itembox|width=220|height=270|name=Island Azoth|image=Island Azoth.png}}
+{{itembox|width=220|height=270|name=Beachside Zariel|image=Beachside Zariel.png}}
+{{itembox|width=220|height=270|name=Riptide Petra|image=Riptide Petra.png}}
+{{itembox|width=220|height=270|name=Vraxxy Jones|image=Vraxxy Jones.png}}
+{{itembox|width=220|height=270|name=Deep Sea Lucien|image=Deep Sea Lucien.png}}
+{{itembox|width=220|height=270|name=Sea Krait Nai|image=Sea Krait Nai.png}}
+{{itembox|width=220|height=270|name=Cockatoo Munin|image=Cockatoo Munin.png}}
+{{itembox|width=220|height=270|name=Lakeside Loki|image=Lakeside Loki.png}}
+{{itembox|width=220|height=270|name=Alepisaurus Mako|image=Alepisaurus Mako.png}}
+{{itembox|width=220|height=270|name=Stocks on the Rocks|image=Podium Stocks on the Rocks.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

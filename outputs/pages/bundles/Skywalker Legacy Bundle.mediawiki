@@ -1,0 +1,32 @@
+{{Store Item Infobox
+| image = Bundle Skywalker Legacy.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = A family conflict so intense, it took two trilogies to tell! Celebrating iconic moments from the parallel journeys of Luke Skywalker and his father Darth Vader.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 10 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Luke Skywalker|image=Luke Skywalker.png}}
+{{itembox|width=220|height=270|name=Darth Vader|image=Darth Vader.png}}
+{{itembox|width=220|height=270|name=Force Levitation|image=Taunt Force Levitation Still.png}}
+{{itembox|width=220|height=270|name=R2-D2|image=Bot R2-D2.png}}
+{{itembox|width=220|height=270|name=Jedi vs Sith|image=Avatar Jedi vs Sith.png|nolink=true}}
+{{itembox|width=220|height=270|name=Wicket W. Warrick Wow|image=Emoji Wow Wicket W. Warrick.png|nolink=true}}
+{{itembox|width=220|height=270|name=X-wing BRB|image=Emoji BRB X-wing.png|nolink=true}}
+{{itembox|width=220|height=270|name=Darth Vader Thumbs Down|image=Emoji ThumbsDown Darth Vader.png|nolink=true}}
+{{itembox|width=220|height=270|name=Bespin Carbon Freezing Chamber|displayname=<span style="font-size:82%">Bespin Carbon Freezing Chamber</span>|image=Podium Bespin Carbon Freezing Chamber.png}}
+{{itembox|width=220|height=270|name=Emperor Palpatine Cackle|image=Emoji Laugh Emperor Palpatine.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

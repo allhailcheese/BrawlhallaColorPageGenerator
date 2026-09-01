@@ -1,0 +1,36 @@
+{{Store Item Infobox
+| image = Bundle Brawlhalloween 2025 Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Beware what lurks in the shadows with this bundle offering a scary good discount on all of these seasonal items!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|halloween|2025}}'''
+
+==Contents==
+
+This bundle contains 12 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Horseman Lucien|image=Horseman Lucien.png}}
+{{itembox|width=220|height=270|name=Corpse Bride Mirage|image=Corpse Bride Mirage.png}}
+{{itembox|width=220|height=270|name=Diabolical Doll Arcadia|image=Diabolical Doll Arcadia.png}}
+{{itembox|width=220|height=270|name=Ray of the Dead|image=Ray of the Dead.png}}
+{{itembox|width=220|height=270|name=The Monster Gnash|image=The Monster Gnash.png}}
+{{itembox|width=220|height=270|name=Skel-asuri|image=Skel-asuri.png}}
+{{itembox|width=220|height=270|name=Bewitching Scarlet|image=Bewitching Scarlet.png}}
+{{itembox|width=220|height=270|name=Termin-gator Onyx|image=Termin-gator Onyx.png}}
+{{itembox|width=220|height=270|name=Demon Rider Artemis|image=Demon Rider Artemis.png}}
+{{itembox|width=220|height=270|name=Werebat Ragnir|image=Werebat Ragnir.png}}
+{{itembox|width=220|height=270|name=Calavera Catrina Seven|image=Calavera Catrina Seven.png}}
+{{itembox|width=220|height=270|name=Haunted Manor|image=Podium Haunted Manor.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

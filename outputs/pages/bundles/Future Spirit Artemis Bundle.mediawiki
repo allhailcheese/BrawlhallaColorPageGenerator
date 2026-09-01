@@ -1,0 +1,28 @@
+{{Store Item Infobox
+| image = Bundle Future Spirit Artemis.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Artemis sees a great deal on these seasonal items in your future. Including the new 2025 Exclusive Music Box Podium!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|winter|2025}}'''
+
+==Contents==
+
+This bundle contains 4 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Music Box|image=Podium Music Box.png}}
+{{itembox|width=220|height=270|name=Bomby the Snowman|image=AniAvatar Snowman.gif|nolink=true}}
+{{itembox|width=220|height=270|name=Festive Yeti Heart|image=Emoji Heart Festive Yeti.png|nolink=true}}
+{{itembox|width=220|height=270|name=Future Spirit Artemis|image=Future Spirit Artemis.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

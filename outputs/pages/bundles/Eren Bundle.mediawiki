@@ -1,0 +1,26 @@
+{{Store Item Infobox
+| image = Bundle Eren.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Wipe out every last Titan with this bundle featuring Eren alongside his greatest friends and greatest enemies.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 4 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Eren|image=Eren.png}}
+{{itembox|width=220|height=270|name=Smiling Titan|image=KO Smiling Titan.gif}}
+{{itembox|width=220|height=270|name=Colossal Titan Thumbs Down|image=Emoji ThumbsDown Colossal Titan.png|nolink=true}}
+{{itembox|width=220|height=270|name=Armin WP|image=Emoji WP Armin.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

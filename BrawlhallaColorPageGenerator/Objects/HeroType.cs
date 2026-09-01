@@ -28,7 +28,7 @@ public sealed class HeroType
         BioName = element.Element(nameof(BioName))?.Value;
         CostumeName = element.Element(nameof(CostumeName))!.Value;
         ColorRewards = element.Element(nameof(ColorRewards))?.Value.Split(',') ?? [];
-        IsActive = string.Equals(element.Element(nameof(IsActive))?.Value, "TRUE", System.StringComparison.InvariantCultureIgnoreCase);
+        IsActive = string.Equals(element.Element(nameof(IsActive))?.Value, "TRUE", System.StringComparison.OrdinalIgnoreCase);
         BaseWeapon1 = element.Element(nameof(BaseWeapon1))?.Value;
         BaseWeapon2 = element.Element(nameof(BaseWeapon2))?.Value;
         Strength = int.Parse(element.Element(nameof(Strength))?.Value ?? "0");

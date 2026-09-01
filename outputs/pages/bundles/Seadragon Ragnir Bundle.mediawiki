@@ -1,0 +1,33 @@
+{{Store Item Infobox
+| image = Bundle Seadragon Ragnir.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Get Event Items from Heatwave 2025 and the exclusive return of the Heatwave 2017 Podium
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|summer|2026}}'''
+
+==Contents==
+
+This bundle contains 9 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Seadragon Ragnir|image=Seadragon Ragnir.png}}
+{{itembox|width=220|height=270|name=Hot Lava|image=KO Hot Lava.gif}}
+{{itembox|width=220|height=270|name=Endless Heat Wave|image=AniAvatar Heatwave.gif|nolink=true}}
+{{itembox|width=220|height=270|name=Sandrew|image=Bot Sandrew.png}}
+{{itembox|width=220|height=270|name=Riptide Facepalm|image=Emoji Facepalm Riptide.png|nolink=true}}
+{{itembox|width=220|height=270|name=Vraxxy Jones Shrug|image=Emoji Shrug Vraxxy Jones.png|nolink=true}}
+{{itembox|width=220|height=270|name=Brawl Dad 1 More|image=Emoji 1More Brawl Dad.gif|nolink=true}}
+{{itembox|width=220|height=270|name=Dog Days Thumbs Up|image=Emoji ThumbsUp Dog Days.png|nolink=true}}
+{{itembox|width=220|height=270|name=Heatwave 2017 (Podium)|displayname=Heatwave 2017|image=Podium Heatwave 2017.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

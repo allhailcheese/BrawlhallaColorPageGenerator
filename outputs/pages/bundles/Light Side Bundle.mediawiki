@@ -1,0 +1,32 @@
+{{Store Item Infobox
+| image = Bundle Light Side.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = This is no Jedi mind trick! Connect to the Force with these brave heroes from all eras of the Star Wars timeline.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is no longer available'''
+
+==Contents==
+
+This bundle contains 8 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Anakin Skywalker|image=Anakin Skywalker.png}}
+{{itembox|width=220|height=270|name=Obi-Wan Kenobi|image=Obi-Wan Kenobi.png}}
+{{itembox|width=220|height=270|name=Ahsoka Tano|image=Ahsoka Tano.png}}
+{{itembox|width=220|height=270|name=Asgardian Great Lightsaber|displayname={{small|Asgardian Great Lightsaber}}|image=Asgardian Great Lightsaber.png}}
+{{itembox|width=220|height=270|name=R2-D2|image=Bot R2-D2.png}}
+{{itembox|width=220|height=270|name=Jedi Order|image=Avatar Jedi Order.png|nolink=true}}
+{{itembox|width=220|height=270|name=C-3PO Sweat|image=Emoji Sweat C-3PO.png|nolink=true}}
+{{itembox|width=220|height=270|name=Bespin Carbon Freezing Chamber|displayname=<span style="font-size:82%">Bespin Carbon Freezing Chamber</span>|image=Podium Bespin Carbon Freezing Chamber.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

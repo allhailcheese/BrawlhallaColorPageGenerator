@@ -62,6 +62,7 @@ public partial class WriterData
         ["OrbSocial"] = TD_DESCRIPTION,
         #endregion
         #region bundle exclusive
+        // TODO: there's gotta be a way to make this dynamic...
         ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
         #endregion
         #region removed from store

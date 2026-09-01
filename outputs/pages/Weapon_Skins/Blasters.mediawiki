@@ -17,7 +17,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Birdshot|image=Birdshot.png|desc=[[Scarecrow Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blaster Pistols|image=Blaster Pistols.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=180|height=170|name=Blasters of Mercy|image=Blasters of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 33}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Blazing Deringers|image=Blazing Deringers.png|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Blazing Deringers|image=Blazing Deringers.webp|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blazing Fire|image=Blazing Fire.webp|desc=[[Heatblast]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Bolt Blasters|image=Bolt Blasters.png|desc=[[Stormlord Ada]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Boom Booms|image=Boom Booms.png|desc=[[Goblin Thatch]]|descheight=55px}}

@@ -1,0 +1,30 @@
+{{Store Item Infobox
+| image = Bundle Dark Side.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Give yourself to the dark side and claim the unlimited power of this new bundle of villains from all eras of the Star Wars timeline!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 8 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=General Grievous|image=General Grievous.png}}
+{{itembox|width=220|height=270|name=Darth Maul|image=Darth Maul.png}}
+{{itembox|width=220|height=270|name=Darth Vader|image=Darth Vader.png}}
+{{itembox|width=220|height=270|name=The Darksaber|image=The Darksaber.webp}}
+{{itembox|width=220|height=270|name=Imperial Probe Droid|image=Bot Imperial Probe Droid.png}}
+{{itembox|width=220|height=270|name=The Sith|image=Avatar The Sith.png|nolink=true}}
+{{itembox|width=220|height=270|name=Darth Vader Thumbs Down|image=Emoji ThumbsDown Darth Vader.png|nolink=true}}
+{{itembox|width=220|height=270|name=Bespin Carbon Freezing Chamber|displayname=<span style="font-size:82%">Bespin Carbon Freezing Chamber</span>|image=Podium Bespin Carbon Freezing Chamber.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

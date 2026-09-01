@@ -1,0 +1,35 @@
+{{Store Item Infobox
+| image = Bundle Festival '26 Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = It's party time! Get some of the greatest hits from previous Brawlhalla Fests and more in this celebratory bundle.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|fest|2026}}'''
+
+==Contents==
+
+This bundle contains 11 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Shin Sekai Koji|image=Shin Sekai Koji.webp}}
+{{itembox|width=220|height=270|name=Inari Yumiko|image=Inari Yumiko.png}}
+{{itembox|width=220|height=270|name=Void Zenith Artemis|image=Void Zenith Artemis.png}}
+{{itembox|width=220|height=270|name=Party Time|image=KO Party Time.gif}}
+{{itembox|width=220|height=270|name=Fireworks|image=Taunt Fireworks Still.png}}
+{{itembox|width=220|height=270|name=Darkheart Spire|image=Podium Darkheart Spire.png}}
+{{itembox|width=220|height=270|name=Lil' Reaper|image=Lil' Reaper.png}}
+{{itembox|width=220|height=270|name=Brynn Facepalm|image=Emoji Facepalm Brynn.png|nolink=true}}
+{{itembox|width=220|height=270|name=Caspian Sweat|image=Emoji Sweat Caspian.png|nolink=true}}
+{{itembox|width=220|height=270|name=Caster Thor Wow|image=Emoji Wow Caster Thor.png|nolink=true}}
+{{itembox|width=220|height=270|name=Caster Kor Thumbs Up|image=Emoji ThumbsUp Caster Kor.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

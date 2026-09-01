@@ -1,0 +1,33 @@
+{{Store Item Infobox
+| image = Bundle Age of Rebellion Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Whether war heroes or defiant outlaws, they all have a part to play in taking down the Galactic Empire.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 11 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Luke Skywalker|image=Luke Skywalker.png}}
+{{itembox|width=220|height=270|name=Han Solo|image=Han Solo.png}}
+{{itembox|width=220|height=270|name=Chewbacca|image=Chewbacca.png}}
+{{itembox|width=220|height=270|name=Kay Vess|image=Kay Vess.png}}
+{{itembox|width=220|height=270|name=Holochess|image=Taunt Holochess Still.png}}
+{{itembox|width=220|height=270|name=Han in Carbonite|image=Avatar Han in Carbonite.png|nolink=true}}
+{{itembox|width=220|height=270|name=Chewbacca Rage|image=Emoji Rage Chewbacca.png|nolink=true}}
+{{itembox|width=220|height=270|name=Jabba the Hutt Cackle|image=Emoji Laugh Jabba the Hutt.png|nolink=true}}
+{{itembox|width=220|height=270|name=Han Solo Shrug|image=Emoji Shrug Han Solo.png|nolink=true}}
+{{itembox|width=220|height=270|name=Bespin Carbon Freezing Chamber|displayname=<span style="font-size:82%">Bespin Carbon Freezing Chamber</span>|image=Podium Bespin Carbon Freezing Chamber.png}}
+{{itembox|width=220|height=270|name=Kay & Nix Lookin' Good|image=Emoji LookinGood Kay & Nix.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

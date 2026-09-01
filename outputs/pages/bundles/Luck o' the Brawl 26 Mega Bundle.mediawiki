@@ -1,0 +1,36 @@
+{{Store Item Infobox
+| image = Bundle Luck o' the Brawl 26 Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Get every previous Luck o' the Brawl Skin, this year's new Fae's Bounty Podium, and the Dobhar Sidekick at a lucky discount!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|march|2026}}'''
+
+==Contents==
+
+This bundle contains 12 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Fae's Bounty|image=Podium Fae's Bounty.png}}
+{{itembox|width=220|height=270|name=Dullahan Jiro|image=Dullahan Jiro.png}}
+{{itembox|width=220|height=270|name=Warborn Ulgrim|image=Warborn Ulgrim.png}}
+{{itembox|width=220|height=270|name=Dragon Hunter Isaiah|image=Dragon Hunter Isaiah.png}}
+{{itembox|width=220|height=270|name=Cú Sídhe Sentinel|image=Cú Sídhe Sentinel.png}}
+{{itembox|width=220|height=270|name=Kelpie Thea|image=Kelpie Thea.png}}
+{{itembox|width=220|height=270|name=Kern Koji|image=Kern Koji.png}}
+{{itembox|width=220|height=270|name=Ragnir the Covetous|image=Ragnir the Covetous.png}}
+{{itembox|width=220|height=270|name=Gallowglass Jhala|image=Gallowglass Jhala.png}}
+{{itembox|width=220|height=270|name=Merrow Sidra|image=Merrow Sidra.png}}
+{{itembox|width=220|height=270|name=KO-rpse Candle Mordex|image=KO-rpse Candle Mordex.png}}
+{{itembox|width=220|height=270|name=Dobhar|image=Bot Dobhar.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

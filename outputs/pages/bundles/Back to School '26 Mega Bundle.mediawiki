@@ -1,0 +1,38 @@
+{{Store Item Infobox
+| image = Bundle Back to School '26 Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Get 8 Back to School Event Legend Skins PLUS the 1st ever B2S Podium: Protagonist's Desk, plus even more supplies for day 1 of classes!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|school|2026}}'''
+
+==Contents==
+
+This bundle contains 14 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Protagonist's Desk|image=Podium Protagonist's Desk.png}}
+{{itembox|width=220|height=270|name=Band Kid Yumiko|image=Band Kid Yumiko.png}}
+{{itembox|width=220|height=270|name=Brawldog Mordex|image=Brawldog Mordex.png}}
+{{itembox|width=220|height=270|name=Ace Spiker Lin Fei|image=Ace Spiker Lin Fei.png}}
+{{itembox|width=220|height=270|name=Oendan Jiro|image=Oendan Jiro.png}}
+{{itembox|width=220|height=270|name=First Day Asuri|image=First Day Asuri.png}}
+{{itembox|width=220|height=270|name=Kindergarten Kaya|image=Kindergarten Kaya.png}}
+{{itembox|width=220|height=270|name=Detention Ada|image=Detention Ada.png}}
+{{itembox|width=220|height=270|name=Greased Lightning Koji|image=Greased Lightning Koji.png}}
+{{itembox|width=220|height=270|name=Victor|image=Bot Victor.png}}
+{{itembox|width=220|height=270|name=Freddie|image=Bot Freddie.png}}
+{{itembox|width=220|height=270|name=Oodles of Doodles|image=AniAvatar Flipbook Cat.gif|nolink=true}}
+{{itembox|width=220|height=270|name=First Day Thinking|image=Emoji Think First Day.png|nolink=true}}
+{{itembox|width=220|height=270|name=Greased Lightning Wait|image=Emoji Wait Greased Lightning.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

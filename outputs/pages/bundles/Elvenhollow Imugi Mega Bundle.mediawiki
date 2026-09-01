@@ -1,0 +1,30 @@
+{{Store Item Infobox
+| image = Bundle Elvenhollow Imugi Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = The captain of the faerie queen's guard is ready to defend the Fangwild Forest! Get the exclusive new Elvenhollow Imugi Skin, the Bundle exclusive Scarecrow Sidekick and a discount on all these blooming seasonal goodies:
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|spring|2025}}'''
+
+==Contents==
+
+This bundle contains 6 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Elvenhollow Imugi|image=Elvenhollow Imugi.png}}
+{{itembox|width=220|height=270|name=Scarecrow|image=Bot Scarecrow.png}}
+{{itembox|width=220|height=270|name=Floral Bliss 2025|image=Podium Floral Bliss 2025.png}}
+{{itembox|width=220|height=270|name=Elvenhollow Thumbs Down|image=Emoji ThumbsDown Elvenhollow.png|nolink=true}}
+{{itembox|width=220|height=270|name=Druid Mage Think|image=Emoji Think Druid Mage.png|nolink=true}}
+{{itembox|width=220|height=270|name=Gardener Laugh|image=Emoji Laugh Gardener.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

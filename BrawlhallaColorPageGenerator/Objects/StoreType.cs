@@ -9,6 +9,7 @@ public sealed class StoreType
 {
     public string StoreName { get; }
     public string? DisplayNameKey { get; }
+    public string? DescriptionKey { get; }
 
     public int IdolCost { get; }
     public double IdolBundleDiscount { get; }
@@ -24,6 +25,7 @@ public sealed class StoreType
     public string? EndDateKey { get; }
     public string? Rarity { get; }
     public string? TimedPromotion { get; }
+    public bool LockToTimedPromotion { get; }
 
     public StoreType(SepReader.Row row)
     {
@@ -31,6 +33,9 @@ public sealed class StoreType
 
         DisplayNameKey = row[nameof(DisplayNameKey)].ToString();
         if (string.IsNullOrWhiteSpace(DisplayNameKey)) DisplayNameKey = null;
+
+        DescriptionKey = row[nameof(DescriptionKey)].ToString();
+        if (string.IsNullOrWhiteSpace(DescriptionKey)) DescriptionKey = null;
 
         IdolCost = row[nameof(IdolCost)].TryParse<int>() ?? 0;
         IdolBundleDiscount = row[nameof(IdolBundleDiscount)].TryParse<double>() ?? 0;
@@ -56,6 +61,8 @@ public sealed class StoreType
 
         TimedPromotion = row[nameof(TimedPromotion)].ToString();
         if (string.IsNullOrWhiteSpace(TimedPromotion)) TimedPromotion = null;
+
+        LockToTimedPromotion = string.Equals("TRUE", row[nameof(LockToTimedPromotion)].ToString(), System.StringComparison.OrdinalIgnoreCase);
     }
 }
 

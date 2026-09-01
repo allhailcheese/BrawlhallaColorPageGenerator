@@ -43,7 +43,7 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Neo-City Boots|image=Neo-City Boots.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Talons|image=Nightmare Talons.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Boots|image=Ninpō Unsealed Boots.png|desc={{BPReward|Season Twelve|gold|Past Tier 14}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Ogre Impact Battle Boots|image=Ogre Impact Battle Boots.png|desc=[[Fiona]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ogre Impact Battle Boots|image=Ogre Impact Battle Boots.webp|desc=[[Fiona]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Olive Stompers|image=Olive Stompers.png|desc=[[Emerald Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=RGB Boots|image=RGB Boots.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Runtime|image=Runtime.png|desc=[[Gridrunner Thea]]|descheight=55px}}

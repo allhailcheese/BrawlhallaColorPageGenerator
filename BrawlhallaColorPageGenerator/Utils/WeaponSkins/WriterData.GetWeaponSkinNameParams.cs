@@ -9,7 +9,7 @@ public partial class WriterData
     {
         string displayNameKey = weaponSkinType.DisplayNameKey!;
 
-        string weaponSkinName = LangFile.Entries[displayNameKey];
+        string weaponSkinName = LangFile.Entries[displayNameKey].Replace('’', '\'');
         string imageName = weaponSkinName;
         ImageExtensionEnum extension = ImageExtensionEnum.Png;
         string displayName = weaponSkinName;
@@ -97,7 +97,6 @@ public partial class WriterData
             // animated with gif
             case "PistolMythicNix":
             case "FistsMythicWuShang":
-            case "FistsMythicWerewolf":
             case "OrbOddball":
             case "OrbLilith":
             case "ScytheMythicNix":
@@ -112,6 +111,7 @@ public partial class WriterData
             case "HammerPatrick":
             case "HammerScientist":
             case "HammerMagicalTeros03":
+            case "HammerEpicCowgirl":
             case "SwordObiWan":
             case "SwordAhsoka":
             case "SwordAnakin":
@@ -129,6 +129,7 @@ public partial class WriterData
             case "PistolHeatblast":
             case "PistolEpicNix":
             case "PistolEpicDiana":
+            case "PistolEpicCowgirl":
             case "RocketLanceSpaceLeviathan":
             case "RocketLanceEpicOrion":
             case "RocketLanceScientist":
@@ -143,6 +144,9 @@ public partial class WriterData
             case "SpearEpicOrion":
             case "SpearMythicWuShang":
             case "SpearEivor":
+            case "FistsMythicWerewolf":
+            case "GreatswordLuke":
+            case "BootsFiona":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Webp;
@@ -150,11 +154,6 @@ public partial class WriterData
                 }
                 break;
         }
-
-        // Poppin’ TNTina
-        weaponSkinName = weaponSkinName.Replace('’', '\'');
-        displayName = displayName.Replace('’', '\'');
-        imageName = imageName.Replace('’', '\'');
 
         // progression level
         if (WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkinType.WeaponSkinName, out int upgradeLevel) && upgradeLevel != 0)

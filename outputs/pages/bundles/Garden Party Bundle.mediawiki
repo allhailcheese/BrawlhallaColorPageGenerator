@@ -1,0 +1,29 @@
+{{Store Item Infobox
+| image = Bundle Garden Party.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Tend to your garden with the best of the best in this bundle offering a blossoming discount. Featuring the exclusive return of the Floral Bliss 2021 Podium!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|spring|2026}}'''
+
+==Contents==
+
+This bundle contains 5 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Gardener Bödvar|image=Gardener Bödvar.png}}
+{{itembox|width=220|height=270|name=Honeybeeno|image=Honeybeeno.png}}
+{{itembox|width=220|height=270|name=Green Thumb Lin Fei|image=Green Thumb Lin Fei.png}}
+{{itembox|width=220|height=270|name=Floral Bliss 2021|image=Podium Floral Bliss 2021.png}}
+{{itembox|width=220|height=270|name=Honeybee Rage|image=Emoji Rage Honeybee.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

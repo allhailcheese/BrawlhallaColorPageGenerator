@@ -124,7 +124,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Sledge Hammer|image=Sledge Hammer.png|desc=[[Gumshoe Sentinel]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Sol Smasher|image=Sol Smasher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Soldier's Duty|image=Soldier's Duty.png|desc=[[Steam Faction Scarlet]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Soucriant's Fury|image=Soucriant's Fury.png|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Soucriant's Fury|image=Soucriant's Fury.webp|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Soul of Aoku|image=Soul of Aoku.png|desc=[[Inari Yumiko]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Soulbinder|image=Soulbinder.png|desc=[[Draugr Thor]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Stake Driver|image=Stake Driver.png|desc=[[Dawnwalker Cassidy]]|descheight=55px}}

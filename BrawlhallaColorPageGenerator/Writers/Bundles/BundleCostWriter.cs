@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using BrawlhallaColorPageGenerator.Objects;
@@ -11,11 +10,9 @@ public sealed class BundleCostWriter(WriterData data)
     {
         using StreamWriter writer = new(path) { NewLine = "\n" };
 
-        IEnumerable<StoreType> bundles = data.StoreTypes.Stores.Where((s) => s.Type == "Bundle" && !SKIP_BUNDLES.Contains(s.StoreName) && s.IdolBundleDiscount > 0);
-
         writer.WriteLine("<includeonly>{{#vardefine:base_cost|{{#switch:{{lc:{{{1}}}}}");
         writer.WriteLine("<!-- cost before applying discount. aka sum of costs of items. names should be lowercase -->");
-        foreach (StoreType item in bundles)
+        foreach (StoreType item in BundleUtils.Bundles(data))
         {
             writer.Write("| ");
             writer.Write(data.LangFile.Entries[item.DisplayNameKey!].ToLowerInvariant());
@@ -25,7 +22,7 @@ public sealed class BundleCostWriter(WriterData data)
         writer.WriteLine("|0");
         writer.WriteLine("}}}}{{#vardefine:discount|{{#switch:{{lc:{{{1}}}}}");
         writer.WriteLine("<!-- fraction of base cost. names should be lowercase -->");
-        foreach (StoreType item in bundles)
+        foreach (StoreType item in BundleUtils.Bundles(data))
         {
             writer.Write("| ");
             writer.Write(data.LangFile.Entries[item.DisplayNameKey!].ToLowerInvariant());
@@ -59,12 +56,4 @@ public sealed class BundleCostWriter(WriterData data)
     {
         return store.ItemList.Sum((item) => data.StoreTypes.StoresMap[item].IdolCost);
     }
-
-    private static readonly HashSet<string> SKIP_BUNDLES = [
-        "---Template---",
-        "BHFest25Bundle",
-        "Heatwave25Bundle",
-        "BackToSchool25Bundle",
-        "BackToSchool26EventCenterBundle",
-    ];
 }

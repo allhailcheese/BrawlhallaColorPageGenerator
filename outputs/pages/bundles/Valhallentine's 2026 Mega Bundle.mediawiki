@@ -1,0 +1,43 @@
+{{Store Item Infobox
+| image = Bundle Valhallentine's 2026 Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Get every single Valhallentine's Skin AND this year's brand new Podium at a lovingly generous discount!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|love|2026}}'''
+
+==Contents==
+
+This bundle contains 19 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Demon Bride Hattori|image=Demon Bride Hattori.png}}
+{{itembox|width=220|height=270|name=Date Night Dusk|image=Date Night Dusk.png}}
+{{itembox|width=220|height=270|name=Cho-Kor-late|image=Cho-Kor-late.png}}
+{{itembox|width=220|height=270|name=Love Bug Val|image=Love Bug Val.png}}
+{{itembox|width=220|height=270|name=Caelestis Yumiko|image=Caelestis Yumiko.png}}
+{{itembox|width=220|height=270|name=Secret Admirer Orion|image=Secret Admirer Orion.png}}
+{{itembox|width=220|height=270|name=Red Romance Volkov|image=Red Romance Volkov.png}}
+{{itembox|width=220|height=270|name=Heart of Hathor Mirage|image=Heart of Hathor Mirage.png}}
+{{itembox|width=220|height=270|name=Red Rose Kaya|image=Red Rose Kaya.png}}
+{{itembox|width=220|height=270|name=Date Night Nai|image=Date Night Nai.png}}
+{{itembox|width=220|height=270|name=Classy Roland|image=Classy Roland.png}}
+{{itembox|width=220|height=270|name=Eternal Love Brynn|image=Eternal Love Brynn.png}}
+{{itembox|width=220|height=270|name=Suitor Lucien|image=Suitor Lucien.png}}
+{{itembox|width=220|height=270|name=Lovelaced Ada|image=Lovelaced Ada.png}}
+{{itembox|width=220|height=270|name=Heartbreaker Barraza|image=Heartbreaker Barraza.png}}
+{{itembox|width=220|height=270|name=Secret Admirer Zariel|image=Secret Admirer Zariel.png}}
+{{itembox|width=220|height=270|name=Matchmaker Vector|image=Matchmaker Vector.png}}
+{{itembox|width=220|height=270|name=Soulmate Azoth|image=Soulmate Azoth.png}}
+{{itembox|width=220|height=270|name=Sweetheart Haul|image=Podium Sweetheart Haul.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

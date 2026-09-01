@@ -1,0 +1,28 @@
+{{Store Item Infobox
+| image = Bundle Lady Vera Launch.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = The Luminary joins the Grand Tournament! Get Lady Vera and her 3 launch Skins at a holy discount.
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is no longer available'''
+
+==Contents==
+
+This bundle contains 4 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Lady Vera|image=Lady Vera.png}}
+{{itembox|width=220|height=270|name=Divine Adjudicator Vera|image=Divine Adjudicator Vera.png}}
+{{itembox|width=220|height=270|name=High Inquisitor Vera|image=High Inquisitor Vera.png}}
+{{itembox|width=220|height=270|name=Aqyn Vera|image=Aqyn Vera.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

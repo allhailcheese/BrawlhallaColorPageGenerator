@@ -1,0 +1,29 @@
+{{Store Item Infobox
+| image = Bundle Halftime.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Both team captains and the star of the halftime show all in one bundle! It's going to be an exciting game. Get this to receive:
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|school|2025}}'''
+
+==Contents==
+
+This bundle contains 5 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Rocker Volkov|image=Rocker Volkov.png}}
+{{itembox|width=220|height=270|name=Gridiron Xull|image=Gridiron Xull.png}}
+{{itembox|width=220|height=270|name=Brawldog Mordex|image=Brawldog Mordex.png}}
+{{itembox|width=220|height=270|name=Victor|image=Bot Victor.png}}
+{{itembox|width=220|height=270|name=Home Team Cheer|image=Taunt Home Team Cheer Still.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

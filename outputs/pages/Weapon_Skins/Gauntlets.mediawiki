@@ -145,7 +145,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=The Taggers|image=The Taggers.png|desc=[[All City Caspian]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Toybox Gauntlets|image=Toybox Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Treble Makers|image=Treble Makers.png|desc=[[Mad Dog Mordex]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Tyr's Blessing|image=Tyr's Blessing.gif|desc=[[Ascended Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Tyr's Blessing|image=Tyr's Blessing.webp|desc=[[Ascended Mordex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Tyr's Fists|image=Tyr's Fists.png|desc=[[The Gifts of Asgard]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Umbra Gauntlets|image=Umbra Gauntlets.png|desc=[[Shadow Dragon Onyx]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Valiant Armament Gauntlets|displayname={{small|Valiant Armament Gauntlets}}|image=Valiant Armament Gauntlets.png|desc={{BPReward|Season Ten|free|Tier 78}}|descheight=70px}}

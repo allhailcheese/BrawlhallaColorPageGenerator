@@ -1,0 +1,25 @@
+{{Store Item Infobox
+| image = Bundle Hunter's.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Focus the fury of the Sun into the perfect shot with the ultimate Hunter bundle featuring the Cayde-6 Avatar and bundle exclusive Hunter Ghost companion!
+}}
+
+'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+==Contents==
+
+This bundle contains 3 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Hunter Ghost|image=Hunter Ghost.png}}
+{{itembox|width=220|height=270|name=Hunter|image=Hunter.png}}
+{{itembox|width=220|height=270|name=Cayde-6|image=Avatar Cayde-6.png|nolink=true}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

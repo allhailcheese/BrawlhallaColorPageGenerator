@@ -89,7 +89,7 @@ public partial class WriterData
         {
             result.Add(("mammoth", storeType.StoreName switch
             {
-                // Purchased as a bundle
+                // Purchased as a bundle. TODO: make dynamic
                 "PaleRider" => 300,
                 "MythicWuShang" => 900,
                 "MythicNix" => 900,
