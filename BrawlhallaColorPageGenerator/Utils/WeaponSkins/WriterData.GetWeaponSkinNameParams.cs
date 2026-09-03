@@ -145,6 +145,7 @@ public partial class WriterData
             case "SpearMythicWuShang":
             case "SpearEivor":
             case "FistsMythicWerewolf":
+            case "FistsFiona":
             case "GreatswordLuke":
             case "BootsFiona":
                 if (!colorMode)
