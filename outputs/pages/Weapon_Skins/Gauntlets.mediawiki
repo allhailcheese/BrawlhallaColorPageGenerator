@@ -100,7 +100,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Mudras|image=Mudras.png|desc=[[Perfect Wu Shang]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Neo-City Gauntlets|image=Neo-City Gauntlets.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=70px}}
+{{itembox|width=190|height=170|name=Neo-City Gauntlets|image=Neo-City Gauntlets.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Autumn Singles 2026|Twitch Drops}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Nightlapse|image=Nightlapse.png|desc={{BPReward|Season Two|gold|Tier 50}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Nightmare Knuckles|image=Nightmare Knuckles.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Ninpō: Kotegakure|image=Ninpō Kotegakure.png|desc=[[Modern Monomi Val]]|descheight=70px}}
