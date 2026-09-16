@@ -8,6 +8,7 @@ Abandoned Anchor
 Acuity Manifest
 Aesir Blade
 Airship Anchor
+All Seeing Axe
 Ancient Axe
 Arbiters Reach
 Asgardian Axe
@@ -140,6 +141,7 @@ Soul Render
 Spitebringer
 Splitter
 Spring Cleaning
+Stained Clerestory
 Star Render
 Star-Crossed Nightmare && displayname:Star-Crossed Nightmare (Lvl 1) && image:Star-Crossed Nightmare Level 1 $1.png
 Star-Crossed Nightmare && displayname:Star-Crossed Nightmare (Lvl 2) && image:Star-Crossed Nightmare Level 2 $1.png
@@ -181,6 +183,7 @@ Yong-ui Dokki
 {{List to itembox|color={{{1|}}}|
 Achilles' Loss
 Airgliders
+All Seeing Boots
 Ancestral Steps
 Aqua Jets
 Asgardian Battle Boots
@@ -245,6 +248,7 @@ Winged Solstice
 {{List to itembox|color={{{1|}}}|
 A Shot at Love
 Ace of Spades
+All Seeing Blasters
 Aqua Blasters
 Arts and Crafts
 Asgardian Blasters
@@ -422,6 +426,7 @@ Zip and Snap
 ===[[Bow]]===
 {{List to itembox|color={{{1|}}}|
 AG Tactical System
+All Seeing Bow
 Alpine's Ace
 Antler Strike
 Asgardian Bow
@@ -499,11 +504,13 @@ Kingdom Bow
 L'archet
 Lara's Bow
 Lethal Lute
+Light of Elysium
 Lightbringer
 Loa Bow
 Mastercraft Recurve
 Moongleam Bow
 Naptime
+Neo-City Bow
 New Best Friend
 Nightmare Bow
 Ninpō&#58; Denkyū && image:Ninpō Denkyū $1.png
@@ -568,6 +575,7 @@ Zombie Whisperer
 ===[[Cannon]]===
 {{List to itembox|color={{{1|}}}|
 1000 Army Cannon
+All Seeing Cannon
 Alpine Assault
 Argo's Cannon
 Art of War
@@ -589,6 +597,7 @@ Corsair Cannon
 Cyber Myk Megacannon
 Danish Brick Mortar
 Darkheart Tower
+Davy Jones's Locker
 Daybreaker
 Divine Thunderclap
 Door-Buster
@@ -656,6 +665,8 @@ Watery Grave
 
 ===[[Chakram]]===
 {{List to itembox|color={{{1|}}}|
+All Seeing Chakram
+Arcane Halo
 Asgardian Chakram
 Aztlán Chakram
 Boon of Mars
@@ -695,6 +706,7 @@ Wheel of Thorns
 
 ===[[Gauntlets]]===
 {{List to itembox|color={{{1|}}}|
+All Seeing Gauntlets
 Apocalypse Hands
 Apothecary Mitts
 Asgardian Gauntlets
@@ -769,6 +781,7 @@ Ground & Pound
 Guild Gauntlets
 H2-KO
 Halo Breakers
+Hand of Deliverance
 Hand Wraps
 Hands of Fate
 Hands of the Cosmos
@@ -872,6 +885,10 @@ Yoga Fists
 {{List to itembox|color={{{1|}}}|
 Adjudicator's Mercy
 Aethon's Wing
+All Seeing Greatsword
+Armorslayer && displayname:Armorslayer (Lvl 1) && image:Armorslayer Level 1 $1.png
+Armorslayer && displayname:Armorslayer (Lvl 2) && image:Armorslayer Level 2 $1.png
+Armorslayer && displayname:Armorslayer (Lvl 3) && image:Armorslayer Level 3 $1.png
 Asgardian Great Lightsaber
 Asgardian Greatsword
 Aztlán Greatsword
@@ -946,6 +963,7 @@ World Ender && displayname:World Ender (Lvl 3) && image:World Ender Level 3 $1.p
 {{List to itembox|color={{{1|}}}|
 Afterlife
 Airship Engineer's Hammer
+All Seeing Hammer
 Ares's Might
 Asgardian Hammer
 Astro Slammer
@@ -1106,6 +1124,9 @@ Unicorn Stampede
 Valiant Armament Hammer
 Verdict
 Warhammer
+Weight of Betrayal && displayname:Weight of Betrayal (Lvl 1) && image:Weight of Betrayal Level 1 $1.png
+Weight of Betrayal && displayname:Weight of Betrayal (Lvl 2) && image:Weight of Betrayal Level 2 $1.png
+Weight of Betrayal && displayname:Weight of Betrayal (Lvl 3) && image:Weight of Betrayal Level 3 $1.png
 Wild's Smasher
 Wings of Victory
 Wrought Iron Street Lamp
@@ -1119,6 +1140,7 @@ Yokai Smash
 {{List to itembox|color={{{1|}}}|
 +5 Daggers
 Actuator Claws
+All Seeing Katars
 Anchor Shanks
 Apollo's Fury
 Asgardian Katars
@@ -1289,6 +1311,7 @@ Zenith Daggers
 {{List to itembox|color={{{1|}}}|
 4LLY
 Aesir's Orb
+All Seeing Orb
 Alley-oop
 Apple of Eden
 Apple of Odin
@@ -1395,6 +1418,7 @@ Abyssal Excavator
 Accretion Mass Projector
 Aesinite Lance
 Aetheric Rocket Drill
+All Seeing Rocket Lance
 Armored Attack Rocket
 Asgardian Lance
 Asteroid Grinder
@@ -1524,6 +1548,7 @@ Yorishiro
 ===[[Scythe]]===
 {{List to itembox|color={{{1|}}}|
 Adrenaline Rush
+All Seeing Scythe
 Amplitude
 Arched Valor
 Asgardian Scythe
@@ -1583,6 +1608,7 @@ In Sickness
 Interstellar Edge
 Into the Abyss
 Jaws of the Oni
+Judgment Call
 Keytar Slash
 Kingpin Scythe
 Knowledge is Key
@@ -1670,6 +1696,7 @@ Yoshimitsu's Scythe
 ===[[Spear]]===
 {{List to itembox|color={{{1|}}}|
 Airbender Staff
+All Seeing Spear
 Amanita Naginata
 Ambition
 Arctic Edge Spear
@@ -1863,6 +1890,7 @@ Yokai Naginata
 
 ===[[Sword]]===
 {{List to itembox|color={{{1|}}}|
+All Seeing Sword
 Alucard Sword
 Ancestor's Flame
 Ancestral Blade
@@ -1987,6 +2015,7 @@ Palette Knife
 Paring Knife
 Peppermint Piercer
 Phoenix Claw
+Pious Blade
 Plasma Cleaver
 Power Sword
 Powersurge
@@ -2000,6 +2029,7 @@ RGB Sword
 Royal Sword
 Saber of Order
 Saltwater Saber
+Scylla's Sword
 Serisage
 Shadow Edge
 Shakti Sword

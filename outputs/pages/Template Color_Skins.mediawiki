@@ -359,6 +359,7 @@ Queen of Scales Jhala
 Gallowglass Jhala
 Maggie
 Simon Belmont
+Arbiter Jhala
 }}
 ===[[Jiro]]===
 {{List to itembox|color={{{1|}}}|
@@ -441,6 +442,7 @@ Lady Vera
 Divine Adjudicator Vera
 High Inquisitor Vera
 Aqyn Vera
+Holy Justiciar Vera
 }}
 ===[[Lin Fei]]===
 {{List to itembox|color={{{1|}}}|
@@ -478,6 +480,7 @@ Princess Bubblegum
 Professor Vraxx
 Vraxxy Jones
 Warlock
+Omniscient Vraxx
 }}
 ===[[Lucien]]===
 {{List to itembox|color={{{1|}}}|
@@ -506,6 +509,9 @@ Pharaoh King Magyar
 Forsaken Magyar
 Elvenhollow Magyar
 Mecha Knight Magyar
+Magyar the Apostate && displayname:Magyar the Apostate (Lvl 1) && image:Magyar the Apostate Level 1 $1.png
+Magyar the Apostate && displayname:Magyar the Apostate (Lvl 2) && image:Magyar the Apostate Level 2 $1.png
+Magyar the Apostate && displayname:Magyar the Apostate (Lvl 3) && image:Magyar the Apostate Level 3 $1.png
 }}
 ===[[Mako]]===
 {{List to itembox|color={{{1|}}}|
@@ -787,6 +793,7 @@ Merrow Sidra
 Sky Pirate Sidra
 Beastmaster Sidra
 The Arbiter
+Ghost Pirate Sidra
 }}
 ===[[Sir Roland]]===
 {{List to itembox|color={{{1|}}}|
@@ -1008,6 +1015,7 @@ Secret Admirer Zariel
 Archfiend Zariel
 Beachside Zariel
 Devil Jin
+Zariel the Exalted
 }}
 [[Category:Skins in all colors]]</includeonly>
 <noinclude>

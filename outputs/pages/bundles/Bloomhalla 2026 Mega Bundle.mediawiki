@@ -8,7 +8,7 @@
 | blank3      = Whether you're a woodland creature, or you're hosting a tea party, this mega bundle packs all the springtime essentials.
 }}
 
-'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+'''{{PAGENAME}}''' is one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
 
 This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
 

@@ -2,6 +2,8 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 
 ==Chakram Skins==
 {{itembox/top}}
+{{itembox|width=200|height=170|name=All Seeing Chakram|image=All Seeing Chakram.png|desc={{BPReward|Season Fourteen|free|Justiciar Tier 4}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Arcane Halo|image=Arcane Halo.png|desc=[[Holy Justiciar Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Chakram|image=Asgardian Chakram.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Aztlán Chakram|image=Aztlán Chakram.png|desc={{BPReward|Season Eleven|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Bug Fixer|image=Bug Fixer.png|desc=[[Desktop Butterfly Ransom]]|descheight=55px}}

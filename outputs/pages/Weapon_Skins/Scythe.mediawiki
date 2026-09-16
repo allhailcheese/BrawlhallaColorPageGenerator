@@ -3,6 +3,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 ==Scythe Skins==
 {{itembox/top}}
 {{itembox|width=180|height=170|name=Adrenaline Rush|image=Adrenaline Rush.png|desc=[[Demon Rider Artemis]]|descheight=55px}}
+{{itembox|width=180|height=170|name=All Seeing Scythe|image=All Seeing Scythe.png|desc={{BPReward|Season Fourteen|gold|Justiciar Tier 6}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Amplitude|image=Amplitude.png|desc=[[Mad Dog Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Arched Valor|image=Arched Valor.png|desc={{BPReward|Season Four|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Asgardian Scythe|image=Asgardian Scythe.png|desc=[[Collectors Pack]]|descheight=55px}}
@@ -57,6 +58,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Interstellar Edge|image=Interstellar Edge.png|desc=[[Metadev Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Into the Abyss|image=Into the Abyss.png|desc=[[Enchantress]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Jaws of the Oni|image=Jaws of the Oni.png|desc={{BPReward|Season One|gold|Tier 79}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Judgment Call|image=Judgment Call.png|desc=[[Holy Justiciar Vera]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Keytar Slash|image=Keytar Slash.png|desc=[[Rocker Volkov]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Kingpin Scythe|image=Kingpin Scythe.png|desc=[[The Don]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Knowledge is Key|image=Knowledge is Key.png|desc=[[Headmaster Fait]]|descheight=55px}}

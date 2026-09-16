@@ -3,6 +3,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 ==Spear Skins==
 {{itembox/top}}
 {{itembox|width=210|height=220|name=Airbender Staff|image=Airbender Staff.png|desc=[[Aang]]|descheight=55px}}
+{{itembox|width=210|height=220|name=All Seeing Spear|image=All Seeing Spear.png|desc={{BPReward|Season Fourteen|gold|Beholder Tier 21}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Amanita Naginata|image=Amanita Naginata.png|desc=[[Deathcap Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Ambition|image=Ambition.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Arctic Edge Spear|image=Arctic Edge Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}

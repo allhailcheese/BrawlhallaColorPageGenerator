@@ -92,6 +92,7 @@ This map set is intended for 2 players.
 {{MapListing|Elysium}}
 {{MapListing|Shrek's Muddy Swamp}}
 {{MapListing|Shrek's Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 
@@ -150,6 +151,7 @@ This map set is intended for 4 players with teams enabled.
 {{MapListing|Elysium}}
 {{MapListing|Shrek's Muddy Swamp}}
 {{MapListing|Shrek's Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 
@@ -253,6 +255,7 @@ This map set is intended for 2 players. It is used in [[Experimental 1v1]] when 
 {{MapListing|Small Wasteland}}
 {{MapListing|Shadowscar Landing}}
 {{MapListing|Shrek's Muddy Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 
@@ -338,6 +341,7 @@ This map set is used in [[Ranked 1v1]] matches, in [[Unranked 1v1]], and in [[St
 {{MapListing|Shadowscar Landing}}
 {{MapListing|Elysium}}
 {{MapListing|Shrek's Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 
@@ -380,6 +384,7 @@ This map set is used in [[Ranked 2v2]] matches.
 {{MapListing|Shadowscar Landing}}
 {{MapListing|Elysium}}
 {{MapListing|Shrek's Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 ==Tournament Map Sets==
@@ -504,6 +509,7 @@ This map set is used in place of the typical "All" map set, removing maps that m
 {{MapListing|Shadowscar Landing}}
 {{MapListing|Shrek's Muddy Swamp}}
 {{MapListing|Shrek's Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 
@@ -591,6 +597,7 @@ This map set is used for lobbies of 2 players.
 {{MapListing|Elysium}}
 {{MapListing|Shrek's Muddy Swamp}}
 {{MapListing|Shrek's Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 
@@ -639,6 +646,7 @@ This map set is used for lobbies of 3-4 players with teams enabled.
 {{MapListing|Shadowscar Landing}}
 {{MapListing|Elysium}}
 {{MapListing|Shrek's Muddy Swamp}}
+{{MapListing|Eternity's End}}
 {{MapListing/bottom}}
 
 

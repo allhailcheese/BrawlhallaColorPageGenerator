@@ -47,6 +47,7 @@ public partial class WriterData
         ["BootsEsports2026"] = TD_DESCRIPTION,
         ["FistEsports2026"] = TD_DESCRIPTION,
         ["RocketLanceEsports2026"] = TD_DESCRIPTION,
+        ["BowEsports2026"] = TD_DESCRIPTION,
         // magical girl
         ["GreatswordMagicalGirl"] = TD("Summer 2026 Whitelist"),
         // gifts of asgard. TODO: give all of these a proper description
@@ -427,6 +428,32 @@ public partial class WriterData
         ["SwordBP13"] = "{{BPReward|Season Thirteen|gold|Dark Tier 4}}",
         ["SpearBP13"] = "{{BPReward|Season Thirteen|gold|Dark Tier 21}}",
         ["KatarBP13"] = "{{BPReward|Season Thirteen|free|Dark Tier 23}}",
+
+        // bp 14
+        // skin
+        ["BP14Magyar01"] = "{{BPReward|Season Fourteen|gold|Intro Tier 1}}",
+        ["BP14Magyar02"] = "{{BPReward|Season Fourteen|gold|Intro Tier 1}}",
+        ["BP14Magyar03"] = "{{BPReward|Season Fourteen|gold|Intro Tier 1}}",
+        ["BarbAngel"] = "{{BPReward|Season Fourteen|gold|Arbiter Tier 23}}",
+        ["ClericElysium"] = "{{BPReward|Season Fourteen|gold|Justiciar Tier 23}}",
+        ["VraxxAngel"] = "{{BPReward|Season Fourteen|gold|Beholder Tier 23}}",
+        ["EpicCelestial"] = "{{BPReward|Season Fourteen|gold|Final Tier 7}}",
+
+        // weapon skins
+        ["KatarBP14"] = "{{BPReward|Season Fourteen|free|Intro Tier 5}}",
+        ["BowBP14"] = "{{BPReward|Season Fourteen|free|Arbiter Tier 4}}",
+        ["FistsBP14"] = "{{BPReward|Season Fourteen|gold|Arbiter Tier 8}}",
+        ["HammerBP14"] = "{{BPReward|Season Fourteen|gold|Arbiter Tier 14}}",
+        ["AxeBP14"] = "{{BPReward|Season Fourteen|gold|Arbiter Tier 22}}",
+        ["OrbBP14"] = "{{BPReward|Season Fourteen|free|Arbiter Tier 23}}",
+        ["ChakramBP14"] = "{{BPReward|Season Fourteen|free|Justiciar Tier 4}}",
+        ["ScytheBP14"] = "{{BPReward|Season Fourteen|gold|Justiciar Tier 6}}",
+        ["BootsBP14"] = "{{BPReward|Season Fourteen|free|Justiciar Tier 23}}",
+        ["CannonBP14"] = "{{BPReward|Season Fourteen|free|Beholder Tier 1}}",
+        ["SwordBP14"] = "{{BPReward|Season Fourteen|gold|Beholder Tier 4}}",
+        ["SpearBP14"] = "{{BPReward|Season Fourteen|gold|Beholder Tier 21}}",
+        ["GreatswordBP14"] = "{{BPReward|Season Fourteen|free|Beholder Tier 23}}",
+
         #endregion
         #region misc
         ["Yetee"] = "Bonus with purchase Brawlhalla merchandise from [https://theyetee.com/collections/brawlhalla The Yetee]",

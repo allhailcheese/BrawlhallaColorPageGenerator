@@ -10,15 +10,17 @@ public sealed class BOTWWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
+        HashSet<string> usedGamemodeKeys = [];
+
         using StreamWriter writer = new(path) { NewLine = "\n" };
         writer.WriteLine("<includeonly>{{#switch:{{lc:{{{1|}}}}}");
         foreach (GameModeType gamemode in data.GameModeTypes.Gamemodes)
         {
-            WriteGamemodeType(writer, gamemode);
+            WriteGamemodeType(writer, gamemode, usedGamemodeKeys);
 
             if (gamemode.GameModeName == "BOTWSnowbrawlNewMap")
             {
-                WriteGamemodeType(writer, BOTWSnowbrawlNewMap_Old);
+                WriteGamemodeType(writer, BOTWSnowbrawlNewMap_Old, usedGamemodeKeys);
             }
         }
         writer.Write(@"}}</includeonly><noinclude>
@@ -29,7 +31,7 @@ public sealed class BOTWWriter(WriterData data)
 [[Category:Templates]]</noinclude>");
     }
 
-    private void WriteGamemodeType(StreamWriter writer, GameModeType gamemode)
+    private void WriteGamemodeType(StreamWriter writer, GameModeType gamemode, HashSet<string> usedGamemodeKeys)
     {
         if (
             !gamemode.GameModeName.Contains("BOTW") ||
@@ -43,6 +45,9 @@ public sealed class BOTWWriter(WriterData data)
             "BOTW2v2CrewBattleTMNT" => "TMNT Crew Battle",
             "BOTWFixedStaminaGamemodeNewMap" => "Bustling Side Street Street Brawl",
             "BOTWHeatwaveSnowbrawlLavaFFA" => "Mustafar Water Balloon Fight!",
+            "BOTW1v1300NewMap" => "Eternity's End KO Mania!",
+            "BOTW2v2SwitchNewMap" => "Eternity's End Switchcraft 2v2",
+            "BOTWOddbrawl2v2NewMap" => "Eternity's End Team Oddbrawl",
             // Fake gamemode types to keep older ones
             "BOTWSnowbrawlNewMap_Old" => gamemode.DisplayNameKey,
             // Real
@@ -54,6 +59,10 @@ public sealed class BOTWWriter(WriterData data)
 
         // key
         string gamemodeNameKey = gamemodeName.ToLowerInvariant().TrimEnd('!').Replace('’', '\'');
+
+        if (!usedGamemodeKeys.Add(gamemodeNameKey))
+            gamemodeNameKey = "DUPLICATE!! " + gamemodeNameKey;
+
         writer.Write('|');
         writer.Write(gamemodeNameKey);
         writer.WriteLine('=');
@@ -204,7 +213,7 @@ public sealed class BOTWWriter(WriterData data)
                 // make sure we get all of them
                 if (levelSetName.Contains("New"))
                 {
-                    writer.WriteLine("AN OVERRIDE NEEDS TO BE ADDED FOR THIS");
+                    writer.WriteLine($"AN OVERRIDE NEEDS TO BE ADDED FOR THIS ({gamemode.GameModeName})");
                     return;
                 }
 
@@ -280,6 +289,9 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTW2v2Ghost200NewMap"] = ["Atlas_2v2"], // Hidden in the Walls
         ["BOTWTableTop3v3NewMap"] = ["Atlas_3v3"], // Shiganshina Clash
         ["BOTW4FFANewMap"] = ["MudBrawl2"], // Swamp Mud Brawl
+        ["BOTW1v1300NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End KO Mania!
+        ["BOTW2v2SwitchNewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Switchcraft 2v2
+        ["BOTWOddbrawl2v2NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Team Oddbrawl
     };
 
     private void WriteItemSpawnRuleSetText(StreamWriter writer, GameModeType gamemode)

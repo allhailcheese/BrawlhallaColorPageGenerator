@@ -8,7 +8,7 @@
 | blank3      = The wall against which the Darkness breaks. Join a long line of heroes, forged from strength with this bundle featuring the Commander Zavala Avatar and bundle exclusive Titan Ghost Companion!
 }}
 
-'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+'''{{PAGENAME}}''' is one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
 
 This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
 

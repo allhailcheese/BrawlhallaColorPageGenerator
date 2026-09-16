@@ -44,8 +44,12 @@ public sealed class BundlePageWriter(WriterData data)
         writer.WriteLine("}}");
         writer.WriteLine();
 
+        writer.Write("'''{{PAGENAME}}''' ");
+        bool avail = !BUNDLES_NO_LONGER_AVAIL.Contains(bundle.StoreName);
+        writer.Write(avail ? "is " : "was ");
+
         writer.WriteLine("""
-'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
 
 This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
 

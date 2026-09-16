@@ -3,6 +3,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 ==Bow Skins==
 {{itembox/top}}
 {{itembox|width=180|height=170|name=AG Tactical System|image=AG Tactical System.png|desc=[[Shadowstalker Diana]]|descheight=55px}}
+{{itembox|width=180|height=170|name=All Seeing Bow|image=All Seeing Bow.png|desc={{BPReward|Season Fourteen|free|Arbiter Tier 4}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Alpine's Ace|image=Alpine's Ace.png|desc=[[Alpine Kaya]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Antler Strike|image=Antler Strike.png|desc=[[Huntress Kaya]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Asgardian Bow|image=Asgardian Bow.png|desc=[[Collectors Pack]]|descheight=55px}}
@@ -74,10 +75,12 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Kingdom Bow|image=Kingdom Bow.png|desc=[[Michonne]]|descheight=55px}}
 {{itembox|width=180|height=170|name=L'archet|image=L'archet.png|desc=[[Band Kid Yumiko]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Lara's Bow|image=Lara's Bow.png|desc=[[Lara Croft]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Light of Elysium|image=Light of Elysium.png|desc=[[Zariel the Exalted]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Lightbringer|image=Lightbringer.png|desc=[[Fangwild's Heart Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Loa Bow|image=Loa Bow.png|desc=[[Baron Azoth]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Moongleam Bow|image=Moongleam Bow.png|desc=[[Metadev Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Naptime|image=Naptime.png|desc=[[Kindergarten Kaya]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Neo-City Bow|image=Neo-City Bow.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
 {{itembox|width=180|height=170|name=New Best Friend|image=New Best Friend.png|desc=[[Daryl]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Bow|image=Nightmare Bow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Denkyū|image=Ninpō Denkyū.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}

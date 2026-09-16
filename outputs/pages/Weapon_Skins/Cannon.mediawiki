@@ -3,6 +3,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 ==Cannon Skins==
 {{itembox/top}}
 {{itembox|width=180|height=170|name=1000 Army Cannon|image=1000 Army Cannon.png|desc=[[Xianxia Lin Fei]]|descheight=55px}}
+{{itembox|width=180|height=170|name=All Seeing Cannon|image=All Seeing Cannon.png|desc={{BPReward|Season Fourteen|free|Beholder Tier 1}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Alpine Assault|image=Alpine Assault.png|desc=[[Abominable Jötunn Xull]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Argo's Cannon|image=Argo's Cannon.png|desc=[[Leonidas Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Art of War|image=Art of War.png|desc=[[Admiral Isaiah]]|descheight=55px}}
@@ -23,6 +24,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Cyber Myk Megacannon|image=Cyber Myk Megacannon.png|desc={{BPReward|Season Eight|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Danish Brick Mortar|image=Danish Brick Mortar.png|desc=[[Tinyfigure Seven]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Tower|image=Darkheart Tower.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Davy Jones's Locker|image=Davy Jones's Locker.png|desc=[[Ghost Pirate Sidra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Daybreaker|image=Daybreaker.png|desc=[[Rising Dragon Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Divine Thunderclap|image=Divine Thunderclap.png|desc=[[Daomadan Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Door-Buster|image=Door-Buster.png|desc=[[Task Force Isaiah]]|descheight=55px}}

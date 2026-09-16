@@ -369,6 +369,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Gallowglass Jhala|image=Gallowglass Jhala.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Maggie|image=Maggie.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Simon Belmont|image=Simon Belmont.png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Arbiter Jhala|image=Arbiter Jhala.png|desc={{BPReward|Season Fourteen|gold|Arbiter Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -398,7 +399,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Pearl|image=Pearl.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Red Rose Kaya|image=Red Rose Kaya.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Sylvan Cleric Kaya|image=Sylvan Cleric Kaya.png|desc={{BPReward|Season Seven|gold|Tier 71}}|descheight=49px}}
-{{itembox|width=220|height=270|name=Trick or Treater Kaya|image=Trick or Treater Kaya.png|cost={{Coin|ticket halloween|1850}}<br><small>{{ItemTag|halloween|2025}}</small>|costheight=49px}}
+{{itembox|width=220|height=270|name=Trick or Treater Kaya|image=Trick or Treater Kaya.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -453,6 +454,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Divine Adjudicator Vera|image=Divine Adjudicator Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=High Inquisitor Vera|image=High Inquisitor Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Aqyn Vera|image=Aqyn Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Holy Justiciar Vera|image=Holy Justiciar Vera.png|desc={{BPReward|Season Fourteen|gold|Justiciar Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -493,6 +495,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Professor Vraxx|image=Professor Vraxx.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Vraxxy Jones|image=Vraxxy Jones.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Warlock|image=Warlock.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Omniscient Vraxx|image=Omniscient Vraxx.png|desc={{BPReward|Season Fourteen|gold|Beholder Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -522,6 +525,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Forsaken Magyar|image=Forsaken Magyar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Elvenhollow Magyar|image=Elvenhollow Magyar.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Mecha Knight Magyar|image=Mecha Knight Magyar.png|desc={{BPReward|Season Ten|gold|Tier 50}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Magyar the Apostate|image=Magyar the Apostate.webp|desc={{BPReward|Season Fourteen|gold|Intro Tier 1}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -810,6 +814,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Sky Pirate Sidra|image=Sky Pirate Sidra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Beastmaster Sidra|image=Beastmaster Sidra.png|desc={{BPReward|Season Seven|gold|Tier 47}}|descheight=49px}}
 {{itembox|width=220|height=270|name=The Arbiter|image=The Arbiter.png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Ghost Pirate Sidra|image=Ghost Pirate Sidra.png|cost={{Coin|ticket halloween|1850}}<br><small>{{ItemTag|halloween|2026}}</small>|costheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -1031,6 +1036,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Archfiend Zariel|image=Archfiend Zariel.png|desc={{BPReward|Season One|gold|Tier 47}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Beachside Zariel|image=Beachside Zariel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Devil Jin|image=Devil Jin.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Zariel the Exalted|image=Zariel the Exalted.png|desc={{BPReward|Season Fourteen|gold|Final Tier 7}}|descheight=49px|epic=true}}
 {{Itembox/bottom}}
 
 [[Category:Brawlhalla]] [[Category:Cosmetics]]

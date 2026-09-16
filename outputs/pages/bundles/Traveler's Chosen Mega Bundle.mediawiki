@@ -8,7 +8,7 @@
 | blank3      = Of all the firepower you’ll bring with you from the Tower, the Guardians by your side will be your finest weapons. Includes the exclusive Gjallarhorn Cannon Weapon Skin and 3 Bundle Exclusive Ghost Companions!
 }}
 
-'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+'''{{PAGENAME}}''' is one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
 
 This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
 

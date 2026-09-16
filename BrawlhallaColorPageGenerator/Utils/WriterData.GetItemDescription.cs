@@ -106,6 +106,7 @@ public partial class WriterData
         "EgyptianShoujo",
         "EpicWitch",
         "EpicDragon",
+        "EpicCelestial",
     ];
 
     // metadev skins not marked with IsMetadev

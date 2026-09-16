@@ -4,6 +4,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=180|height=170|name=4LLY|image=4LLY.png|desc=[[Star Commander Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Aesir's Orb|image=Aesir's Orb.png|desc=[[Royal Warrior Thor]]|descheight=55px}}
+{{itembox|width=180|height=170|name=All Seeing Orb|image=All Seeing Orb.png|desc={{BPReward|Season Fourteen|free|Arbiter Tier 23}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Alley-oop|image=Alley-oop.png|desc=[[adidas Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Apple of Odin|image=Apple of Odin.png|desc=[[Asgardian Ezio]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Asgardian Orb|image=Asgardian Orb.png|desc=[[Collectors Pack]]|descheight=55px}}

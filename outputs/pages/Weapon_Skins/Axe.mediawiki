@@ -7,6 +7,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Acuity Manifest|image=Acuity Manifest.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #10|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Aesir Blade|image=Aesir Blade.png|desc=[[Metadev Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Airship Anchor|image=Airship Anchor.png|desc=[[Sky Scourge Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=All Seeing Axe|image=All Seeing Axe.png|desc={{BPReward|Season Fourteen|gold|Arbiter Tier 22}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Arbiters Reach|image=Arbiters Reach.png|desc=[[Celestial Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Axe|image=Asgardian Axe.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Mercy|image=Axe of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 18}}|descheight=55px}}
@@ -128,6 +129,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Spitebringer|image=Spitebringer.png|desc=[[Harpy Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Splitter|image=Splitter.png|desc=[[Blood Moon Volkov]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Spring Cleaning|image=Spring Cleaning.png|desc=[[Elvenhollow Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stained Clerestory|image=Stained Clerestory.png|desc=[[Arbiter Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Star Render|image=Star Render.png|desc=[[Metadev Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Star-Crossed Nightmare|image=Star-Crossed Nightmare Level 3.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Styraxe|image=Styraxe.png|desc=[[Elvenhollow Imugi]]|descheight=55px}}

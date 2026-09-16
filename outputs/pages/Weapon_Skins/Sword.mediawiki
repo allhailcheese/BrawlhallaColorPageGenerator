@@ -3,6 +3,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 ==Sword Skins==
 {{itembox/top}}
 {{itembox|width=190|height=200|name=Ahsoka's Lightsaber|image=Ahsoka's Lightsaber.webp|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=190|height=200|name=All Seeing Sword|image=All Seeing Sword.png|desc={{BPReward|Season Fourteen|gold|Beholder Tier 4}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Alucard Sword|image=Alucard Sword.png|desc=[[Alucard]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Anakin's Lightsaber|image=Anakin's Lightsaber.webp|desc=[[Anakin Skywalker]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Ancestor's Flame|image=Ancestor's Flame.png|desc=[[Ojiisan Koji]]|descheight=55px}}
@@ -123,6 +124,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Paring Knife|image=Paring Knife.png|desc=[[Gardener Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Peppermint Piercer|image=Peppermint Piercer.png|desc=[[Nutcracker Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Phoenix Claw|image=Phoenix Claw.png|desc=[[Hanbok Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Pious Blade|image=Pious Blade.png|desc=[[Arbiter Jhala]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Plasma Cleaver|image=Plasma Cleaver.png|desc=[[Cyber Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Power Sword|image=Power Sword.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=190|height=200|name=Powersurge|image=Powersurge.webp|desc=[[Shin Sekai Koji]]|descheight=55px}}
@@ -137,6 +139,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Saber of Order|image=Saber of Order.png|desc={{BPReward|Season Four|gold|Tier 77}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Saltwater Saber|image=Saltwater Saber.png|desc=[[Kraken Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Salvaged Razor|image=Salvaged Razor.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Scylla's Sword|image=Scylla's Sword.png|desc=[[Ghost Pirate Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Serisage|image=Serisage.png|desc=[[Kabuki Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Sharktooth Grin|image=Sharktooth Grin.png|desc=[[Shark Attack Thatch]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Shinkal|image=Shinkal.png|desc=[[Metadev Jaeyun]]|descheight=55px}}

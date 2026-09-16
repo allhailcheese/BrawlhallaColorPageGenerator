@@ -42,6 +42,7 @@ public partial class WriterData
                 "BHFest26" => FormatItemTag("fest", 2026),
                 "Heatwave26" => FormatItemTag("summer", 2026),
                 "BackToSchool26" => FormatItemTag("school", 2026),
+                "Halloween26" => FormatItemTag("halloween", 2026),
                 _ => " ERROR",
             });
             if (useSmallElement) sb.Append("</small>");
@@ -117,15 +118,15 @@ public partial class WriterData
             string coinStr = "ticket " + storeType.SpecialCurrencyType switch
             {
                 "BHFest25" => "fest",
+                "BHFest26" => "fest26",
                 "Heatwave25" or "Heatwave26" => "heatwave",
                 "BackToSchool25" or "BackToSchool26" => "school",
-                "Halloween25" => "halloween",
+                "Halloween25" or "Halloween26" => "halloween",
                 "Anniversary25" => "anniv",
                 "Christmas25" => "xmas",
                 "VDay25" => "love",
                 "StPatricks26" => "march",
                 "Bloomhalla26" => "spring",
-                "BHFest26" => "fest26",
                 _ => "ERROR",
             };
 
@@ -144,6 +145,7 @@ public partial class WriterData
         "BackToSchool25",
         "BackToSchool26",
         "Halloween25",
+        "Halloween26",
         "StPatricks26",
     ];
 }

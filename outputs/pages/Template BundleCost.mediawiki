@@ -71,6 +71,9 @@
 | team spirit bundle = 675
 | school faculty bundle = 700
 | qinghua & baobao launch bundle = 585
+| brawlhalloween '26 mega bundle = 2380
+| graveyard shift bundle = 1000
+| trick or treater bundle = 560
 |0
 }}}}{{#vardefine:discount|{{#switch:{{lc:{{{1}}}}}
 <!-- fraction of base cost. names should be lowercase -->
@@ -145,6 +148,9 @@
 | team spirit bundle = 0.666666666666666
 | school faculty bundle = 0.7
 | qinghua & baobao launch bundle = 0.747826086956521
+| brawlhalloween '26 mega bundle = 0.630252100840336
+| graveyard shift bundle = 0.7
+| trick or treater bundle = 0.696428571428571
 |1
 }}}}{{#switch:{{lc:{{{2|}}}}}
 |discount = {{CalcBundleDiscount|{{#var:discount}}|discount}}

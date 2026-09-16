@@ -71,9 +71,13 @@ public sealed partial class WriterData
         CostumeTypes costumeTypes = new(costumeTypesContent);
         Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
         {
-            if (a.OwnerHero != b.OwnerHero) return string.Compare(a.OwnerHero, b.OwnerHero);
+            if (a.OwnerHero != b.OwnerHero)
+                return string.Compare(a.OwnerHero, b.OwnerHero);
 
-            if (a.DisplayNameKey == b.DisplayNameKey)
+            // if same name, sort by upgrade
+            string aName = langFile.Entries.GetValueOrDefault(a.DisplayNameKey ?? "", "~" + a.CostumeName);
+            string bName = langFile.Entries.GetValueOrDefault(b.DisplayNameKey ?? "", "~" + b.CostumeName);
+            if (aName == bName)
             {
                 int upgradeLevelA = costumeTypes.UpgradeLevel.GetValueOrDefault(a.CostumeName, 0);
                 int upgradeLevelB = costumeTypes.UpgradeLevel.GetValueOrDefault(b.CostumeName, 0);
@@ -94,21 +98,17 @@ public sealed partial class WriterData
                 Utils.BASE_WEAPON_NAME[b.BaseWeapon]
             );
 
-            if (a.DisplayNameKey == b.DisplayNameKey)
-            {
-                int upgradeLevelA = weaponSkinTypes.UpgradeLevel.GetValueOrDefault(a.WeaponSkinName, 0);
-                int upgradeLevelB = weaponSkinTypes.UpgradeLevel.GetValueOrDefault(b.WeaponSkinName, 0);
-                return upgradeLevelA.CompareTo(upgradeLevelB);
-            }
-            else
-            {
-                string aName = langFile.Entries.GetValueOrDefault(a.DisplayNameKey ?? "", "~" + a.WeaponSkinName);
-                string bName = langFile.Entries.GetValueOrDefault(b.DisplayNameKey ?? "", "~" + b.WeaponSkinName);
-                if (aName != bName)
-                    return string.Compare(aName, bName);
+            string aName = langFile.Entries.GetValueOrDefault(a.DisplayNameKey ?? "", "~" + a.WeaponSkinName);
+            string bName = langFile.Entries.GetValueOrDefault(b.DisplayNameKey ?? "", "~" + b.WeaponSkinName);
+            if (aName != bName)
+                return string.Compare(aName, bName);
 
-                return a.WeaponSkinID.CompareTo(b.WeaponSkinID);
-            }
+            int upgradeLevelA = weaponSkinTypes.UpgradeLevel.GetValueOrDefault(a.WeaponSkinName, 0);
+            int upgradeLevelB = weaponSkinTypes.UpgradeLevel.GetValueOrDefault(b.WeaponSkinName, 0);
+            if (upgradeLevelA != upgradeLevelB)
+                return upgradeLevelA.CompareTo(upgradeLevelB);
+
+            return a.WeaponSkinID.CompareTo(b.WeaponSkinID);
         }));
 
         // Companions

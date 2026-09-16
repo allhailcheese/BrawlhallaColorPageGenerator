@@ -5,6 +5,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=+5 Daggers|image=+5 Daggers.png|desc=[[Fortune Hunter Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Actuator Claws|image=Actuator Claws.png|desc=[[Mecha Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Ahsoka's Lightsaber & Shoto|displayname={{small|Ahsoka's Lightsaber & Shoto}}|image=Ahsoka's Lightsaber & Shoto.png|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=180|height=190|name=All Seeing Katars|image=All Seeing Katars.png|desc={{BPReward|Season Fourteen|free|Intro Tier 5}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Anchor Shanks|image=Anchor Shanks.png|desc=[[Deep Sea Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Apollo's Fury|image=Apollo's Fury.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Asgardian Katars|image=Asgardian Katars.png|desc=[[Collectors Pack]]|descheight=55px}}

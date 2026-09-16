@@ -1010,6 +1010,39 @@
 *2 Players vs An [[Ascended Mordex]] Chosen bot
 *Scoreboard header changed to "EXALTED HUNTERS WIN!" or "MORDEX WINS!"
 *Map: {{MapListing|small fortress of wolves}}
+|eternity's end switchcraft 2v2=
+{{!}}-
+{{!}} '''Eternity's End Switchcraft 2v2'''
+{{!}} [[File:BOTW Eternity's End Switchcraft 2v2.jpg|200px]]
+{{!}}''Even more Switchcraft mayhem! Get a teammate and jump into this crazy 2v2 Stock battle. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle equally scrambled opponents and try to knock out all 6 of their Stocks first to win!''
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
+*Map: {{MapListing|eternity's end}}
+|eternity's end team oddbrawl=
+{{!}}-
+{{!}} '''Eternity's End Team Oddbrawl'''
+{{!}} [[File:BOTW Eternity's End Team Oddbrawl.jpg|200px]]
+{{!}}''Form teams, protect your carrier, and play ball! Hold the Necro Ball to score points for your team in this 2v2 match up. Players can earn more points by landing attacks with the Necro Ball. The team to reach 100 points first wins!''
+*{{gamemodes|oddbrawl|16px}}
+*4 players
+*Score to win: 100
+*4:00 minutes
+*Teams enabled (2v2)
+*Map: {{MapListing|eternity's end}}
+|eternity's end ko mania=
+{{!}}-
+{{!}} '''Eternity's End KO Mania!'''
+{{!}} [[File:BOTW Eternity's End KO Mania!.jpg|200px]]
+{{!}}''Square off against your opponent in this hard hitting KO fest! Chew through your foe's 5 Stocks with damage cranked up to an insane 300%! Send your challenger into orbit before they know what hit them. First to 5 KOs wins!''
+*{{gamemodes|stock|16px}}
+*2 players
+*5 lives
+*8:00 minutes
+*300% damage
+*Map: {{MapListing|eternity's end}}
 }}</includeonly><noinclude>
 {{doc}}
 {{BOTW/top}}

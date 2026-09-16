@@ -6,6 +6,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Accretion Mass Projector|image=Accretion Mass Projector.webp|desc=[[Void Zenith Artemis]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Aesinite Lance|image=Aesinite Lance.png|desc=[[Arcanium Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Aetheric Rocket Drill|image=Aetheric Rocket Drill.png|desc=[[Steam Tank Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=All Seeing Rocket Lance|image=All Seeing Rocket Lance.png|desc=[[Omniscient Vraxx]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Asgardian Lance|image=Asgardian Lance.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Asteroid Grinder|image=Asteroid Grinder.png|desc=[[Star Miner Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Atomic Rocket|image=Atomic Rocket.png|desc=[[Atomic Orion]]|descheight=55px}}
@@ -27,7 +28,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Core Collapse|image=Core Collapse.webp|desc=[[Orion Prime]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Corinthian Lance|image=Corinthian Lance.png|desc=[[Gorgon Thea]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cristatus Wingspan|image=Cristatus Wingspan.png|desc=[[Peacock Artemis]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Crystalforged Rocket Lance|image=Crystalforged Rocket Lance.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
+{{itembox|width=205|height=170|name=Crystalforged Lance|image=Crystalforged Lance.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=205|height=170|name=Cupid's Arrow|image=Cupid's Arrow.png|desc=[[Matchmaker Vector]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Cyber Myk Starblaze|image=Cyber Myk Starblaze.png|desc=[[Live Action Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Darkheart Missile|image=Darkheart Missile.png|cost={{Coin|mammoth|60}}|costheight=55px}}

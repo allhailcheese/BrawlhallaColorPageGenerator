@@ -4,6 +4,8 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=190|height=170|name=Adjudicator's Mercy|image=Adjudicator's Mercy.png|desc=[[Forsaken Magyar]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Aethon's Wing|image=Aethon's Wing.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=All Seeing Greatsword|image=All Seeing Greatsword.png|desc={{BPReward|Season Fourteen|free|Beholder Tier 23}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Armorslayer|image=Armorslayer Level 3.png|desc=[[Magyar the Apostate]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Asgardian Great Lightsaber|displayname={{small|Asgardian Great Lightsaber}}|image=Asgardian Great Lightsaber.png|cost={{Coin|mammoth|140}}|costheight=70px|epic=true}}
 {{itembox|width=190|height=170|name=Asgardian Greatsword|image=Asgardian Greatsword.png|desc=[[Collectors Pack]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Aztlán Greatsword|image=Aztlán Greatsword.png|desc={{BPReward|Season Eleven|gold|Tier 18}}|descheight=70px}}

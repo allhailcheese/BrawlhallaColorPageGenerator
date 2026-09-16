@@ -13,6 +13,8 @@ public static class BundleUtils
         "BHFest25Bundle",
         "Heatwave25Bundle",
         "BackToSchool25Bundle",
+        "Halloween25Bundle",
         "BackToSchool26EventCenterBundle",
+        "Halloween26EventCenterBundle",
     ];
 }

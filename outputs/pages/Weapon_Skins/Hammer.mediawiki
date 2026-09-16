@@ -4,6 +4,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=205|height=170|name=Afterlife|image=Afterlife.png|desc=[[Pharaoh King Magyar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Airship Engineer's Hammer|image=Airship Engineer's Hammer.png|desc=[[Sky Captain Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=All Seeing Hammer|image=All Seeing Hammer.png|desc={{BPReward|Season Fourteen|gold|Arbiter Tier 14}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Ares's Might|image=Ares's Might.png|desc=[[Golden Gladiator Magyar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Asgardian Hammer|image=Asgardian Hammer.png|desc=[[Asgard Bödvar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Astro Slammer|image=Astro Slammer.png|desc=[[Mecha Teros]]|descheight=55px}}
@@ -160,6 +161,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Unicorn Stampede|image=Unicorn Stampede.png|desc=[[Xavier Woods]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Valiant Armament Hammer|image=Valiant Armament Hammer.png|desc=[[Mecha Knight Magyar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Verdict|image=Verdict.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Weight of Betrayal|image=Weight of Betrayal Level 3.png|desc=[[Magyar the Apostate]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc={{BPReward|Season Six|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Wings of Victory|image=Wings of Victory.png|desc=[[Airship Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp.png|desc=[[Autumn Esports 2025 Pack]]|descheight=55px}}

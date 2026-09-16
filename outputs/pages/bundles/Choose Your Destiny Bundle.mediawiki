@@ -8,7 +8,7 @@
 | blank3      = Nix must choose her allegiance if she ever hopes to win Odin's tournament of heroes, and keep her job (and soul). Claim this bundle and decide whether you ally yourself with the valkyries or demons!
 }}
 
-'''{{PAGENAME}}''' was one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+'''{{PAGENAME}}''' is one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
 
 This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
 

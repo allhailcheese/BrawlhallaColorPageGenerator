@@ -131,6 +131,10 @@ public partial class WriterData
             case "ImugiDragon1":
             case "ImugiDragon2":
             case "ImugiDragon3":
+            // bp 14
+            case "BP14Magyar01":
+            case "BP14Magyar02":
+            case "BP14Magyar03":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Webp;
