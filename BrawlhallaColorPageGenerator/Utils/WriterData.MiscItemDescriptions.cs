@@ -44,9 +44,9 @@ public partial class WriterData
         ["OrbEsports2026"] = TD("Summer Doubles 2026"),
         ["ChakramEsports2026"] = TD("Eternal Sports 2026 #2"),
         ["FistEsports2026"] = TD("Autumn Singles 2026"),
+        ["RocketLanceEsports2026"] = TD("Autumn Doubles 2026"),
         ["AxeEsports2026"] = TD_DESCRIPTION,
         ["BootsEsports2026"] = TD_DESCRIPTION,
-        ["RocketLanceEsports2026"] = TD_DESCRIPTION,
         ["BowEsports2026"] = TD_DESCRIPTION,
         // magical girl
         ["GreatswordMagicalGirl"] = TD("Summer 2026 Whitelist"),
