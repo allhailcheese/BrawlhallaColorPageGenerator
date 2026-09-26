@@ -1,0 +1,9 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Golden Gladiator Magyar|image=Golden Gladiator Magyar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Phantom of the Armor Magyar|image=Phantom of the Armor Magyar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Pharaoh King Magyar|image=Pharaoh King Magyar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Forsaken Magyar|image=Forsaken Magyar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Elvenhollow Magyar|image=Elvenhollow Magyar.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Mecha Knight Magyar|image=Mecha Knight Magyar.png|desc={{BPReward|Season Ten|gold|Tier 50}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Magyar the Apostate|image=Magyar the Apostate.webp|desc={{BPReward|Season Fourteen|gold|Intro Tier 1}}|descheight=49px}}
+{{Itembox/bottom}}

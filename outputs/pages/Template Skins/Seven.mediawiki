@@ -1,0 +1,6 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Firefighter Seven|image=Firefighter Seven.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Tinyfigure Seven|image=Tinyfigure Seven.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wanderer Seven|image=Wanderer Seven.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Calavera Catrina Seven|image=Calavera Catrina Seven.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{Itembox/bottom}}

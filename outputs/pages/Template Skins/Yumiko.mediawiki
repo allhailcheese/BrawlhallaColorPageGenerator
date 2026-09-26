@@ -1,0 +1,15 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Tokyo Yumiko|image=Tokyo Yumiko.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lil' Yumiko|image=Lil' Yumiko.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Cursed Mask Yumiko|image=Cursed Mask Yumiko.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fox Spirit Yumiko|image=Fox Spirit Yumiko.png|desc={{ItemTag|chest|Wild Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Punkin Spice Yumiko|image=Punkin Spice Yumiko.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Matsuri Yumiko|image=Matsuri Yumiko.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Madame Yumiko|image=Madame Yumiko.png|desc={{ItemTag|chest|Royal Order Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Arctic Fox Yumiko|image=Arctic Fox Yumiko.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=High Frequency Yumiko|image=High Frequency Yumiko.png|desc={{BPReward|Season Two|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Caelestis Yumiko|image=Caelestis Yumiko.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Inari Yumiko|image=Inari Yumiko.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Band Kid Yumiko|image=Band Kid Yumiko.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Twilight Dragon Yumiko|image=Twilight Dragon Yumiko.png|desc={{BPReward|Season Thirteen|gold|Twilight Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

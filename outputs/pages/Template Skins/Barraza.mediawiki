@@ -1,0 +1,14 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Razorback Barraza|image=Razorback Barraza.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nemesis Barraza|image=Nemesis Barraza.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Sawed-Off Barraza|image=Sawed-Off Barraza.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Slasher Barraza|image=Slasher Barraza.png|cost={{Coin|mammoth|100}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Amun-Raza|image=Amun-Raza.png|desc={{ItemTag|chest|Sandstorm Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Shark Heart Barraza|image=Shark Heart Barraza.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Heartbreaker Barraza|image=Heartbreaker Barraza.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wraith Barraza|image=Wraith Barraza.png|desc={{ItemTag|chest|Revenant Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Rick|image=Rick.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Metadev Barraza|image=Metadev Barraza.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Famished Beast Barraza|image=Famished Beast Barraza.png|desc={{BPReward|Season Nine|gold|Tier 35}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Krieg|image=Krieg.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

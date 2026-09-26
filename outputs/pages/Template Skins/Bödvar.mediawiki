@@ -1,0 +1,16 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Bear'dvar|image=Bear'dvar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Cyber Bödvar|image=Cyber Bödvar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Big Rig Bödvar|image=Big Rig Bödvar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Asgard Bödvar|image=Asgard Bödvar.png|desc=Part of the [[Collectors Pack]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Marauder Bödvar|image=Marauder Bödvar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Warchief Bödvar|image=Warchief Bödvar.png|desc={{ItemTag|chest|Odin's Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Bödvar-mania|image=Bödvar-mania.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Draugr Bödvar|image=Draugr Bödvar.png|desc={{ItemTag|chest|Forbidden Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Nutcracker Bödvar|image=Nutcracker Bödvar.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Bödvar|image=Metadev Bödvar.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Xavier Woods|image=Xavier Woods.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Ritzy Bödvar|image=Ritzy Bödvar.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Vanir Guardian Bödvar|image=Vanir Guardian Bödvar.png|desc={{BPReward|Season Three|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Gardener Bödvar|image=Gardener Bödvar.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{Itembox/bottom}}

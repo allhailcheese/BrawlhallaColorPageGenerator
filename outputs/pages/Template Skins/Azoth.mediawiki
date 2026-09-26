@@ -1,0 +1,14 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Baron Azoth|image=Baron Azoth.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lichlord Azoth|image=Lichlord Azoth.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Annihilator Azoth|image=Annihilator Azoth.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Deep One Azoth|image=Deep One Azoth.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Sky Scourge Azoth|image=Sky Scourge Azoth.png|desc={{ItemTag|chest|Skysail Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Ancient Azoth|image=Ancient Azoth.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Muerto Azoth|image=Muerto Azoth.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Necromancer Azoth|image=Necromancer Azoth.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Island Azoth|image=Island Azoth.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ehzot Azoth|image=Ehzot Azoth.png|desc={{BPReward|Season Four|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Soulmate Azoth|image=Soulmate Azoth.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ascendant Azoth|image=AniAscendant Azoth.gif|desc={{BPReward|Season Eleven|gold|Tier 1}}|descheight=49px}}
+{{Itembox/bottom}}

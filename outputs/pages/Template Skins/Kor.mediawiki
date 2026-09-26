@@ -1,0 +1,16 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Molten Kor|image=Molten Kor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Armored Kor|image=Armored Kor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Kor Wrecking LLC|image=Kor Wrecking LLC.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Warrior Spirit Kor|image=Warrior Spirit Kor.png|desc={{ItemTag|chest|Imperial Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Snowman Kor|image=Snowman Kor.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Kor in Space|image=Kor in Space.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fangwild Kor|image=Fangwild Kor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=The Korinthian|image=The Korinthian.png|desc={{ItemTag|chest|Celestial Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Jake|image=Jake.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Cho-Kor-late|image=Cho-Kor-late.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Four Arms|image=Four Arms (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Gentleman Kor|image=Gentleman Kor.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Toph|image=Toph.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Indomitable Daylight Kor|image=Indomitable Daylight Kor.png|desc={{BPReward|Season Eleven|gold|Tier 35}}|descheight=49px}}
+{{Itembox/bottom}}

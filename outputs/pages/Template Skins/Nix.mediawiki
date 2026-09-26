@@ -1,0 +1,14 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Grim Reaper Nix|image=Grim Reaper Nix.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lockdown Nix|image=Lockdown Nix.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Scarecrow Nix|image=Scarecrow Nix.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wipeout Nix|image=Wipeout Nix.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nix Couture|image=Nix Couture.png|desc={{ItemTag|chest|Brawl City Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Eliminator Nix|image=Eliminator Nix.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Specter Knight|image=Specter Knight.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Retro Reaper Nix|image=Retro Reaper Nix.png|desc={{BPReward|Season Two|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=White Out Nix|image=White Out Nix.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Gothic Chic Nix|image=Gothic Chic Nix.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Nix|image=Metadev Nix.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Ascended Nix|image=Ascended Nix.png|cost={{Coin|mammoth|900}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

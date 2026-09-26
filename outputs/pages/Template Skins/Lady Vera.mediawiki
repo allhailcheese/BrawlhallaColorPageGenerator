@@ -1,0 +1,6 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Divine Adjudicator Vera|image=Divine Adjudicator Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=High Inquisitor Vera|image=High Inquisitor Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Aqyn Vera|image=Aqyn Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Holy Justiciar Vera|image=Holy Justiciar Vera.png|desc={{BPReward|Season Fourteen|gold|Justiciar Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

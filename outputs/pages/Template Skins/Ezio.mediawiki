@@ -1,0 +1,8 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Asgardian Ezio|image=Asgardian Ezio.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Revelations Ezio|image=Revelations Ezio.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Armor of Brutus Ezio|image=Armor of Brutus Ezio.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Alucard|image=Alucard.png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Anakin Skywalker|image=Anakin Skywalker.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Darth Vader|image=Darth Vader.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

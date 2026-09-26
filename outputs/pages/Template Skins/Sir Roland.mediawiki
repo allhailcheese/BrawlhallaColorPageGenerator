@@ -1,0 +1,14 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Roland the Hooded|image=Roland the Hooded.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=King Roland|image=King Roland.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Match Point Roland|image=Match Point Roland.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Classy Roland|image=Classy Roland.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lion Rampant Roland|image=Lion Rampant Roland.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=The Mad King|image=The Mad King.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lionheart Roland|image=Lionheart Roland.png|desc={{ItemTag|chest|Wild Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Roland the Victorious|image=Roland the Victorious.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=King Knight|image=King Knight.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Fiendish Knight Roland|image=Fiendish Knight Roland.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=The Honorable Sir Roland, Esq.|displayname={{small|The Honorable Sir Roland, Esq.}}|image=The Honorable Sir Roland, Esq..png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ashen Warmonger Roland|image=Ashen Warmonger Roland.png|desc={{BPReward|Season Nine|gold|Tier 20}}|descheight=49px}}
+{{Itembox/bottom}}

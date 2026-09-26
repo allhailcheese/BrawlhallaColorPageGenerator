@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using BrawlhallaColorPageGenerator;
+using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaColorPageGenerator.Writers;
 using BrawlhallaColorPageGenerator.Writers.Bundles;
 using BrawlhallaColorPageGenerator.Writers.Colors;
@@ -55,8 +56,17 @@ questListWriter.WriteTo("outputs/pages/Template QuestList/LowDexterity.mediawiki
 questListWriter.WriteTo("outputs/pages/Template QuestList/LowDefense.mediawiki", StatEnum.Defense, StatQuestType.Low);
 questListWriter.WriteTo("outputs/pages/Template QuestList/LowSpeed.mediawiki", StatEnum.Speed, StatQuestType.Low);
 
-SkinsWriter skinsWriter = new(data);
-skinsWriter.WriteTo("outputs/pages/Skins.mediawiki");
+{
+    Directory.CreateDirectory("outputs/pages/Template Skins");
+
+    SkinsWriter skinsWriter = new(data);
+    foreach (HeroType hero in data.HeroTypes.Heroes)
+    {
+        if (!hero.IsActive || hero.HeroName == "Random") continue;
+    
+        skinsWriter.WriteTo($"outputs/pages/Template Skins/{hero.BioName}.mediawiki", hero.HeroName);
+    }
+}
 
 {
     Directory.CreateDirectory("outputs/pages/Weapon_Skins");

@@ -1,0 +1,11 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Cosmic Fait|image=Cosmic Fait.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dark Arts Fait|image=Dark Arts Fait.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Feline Fait|image=Feline Fait.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Enchantress|image=Enchantress.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Headmaster Fait|image=Headmaster Fait.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Fait|image=Metadev Fait.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Star Commander Fait|image=Star Commander Fait.png|desc={{BPReward|Season Five|gold|Tier 47}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Cozy Sweater Fait|image=Cozy Sweater Fait.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Daylight Star ☆ Magi Fait|image=Daylight Star ☆ Magi Fait.png|desc={{BPReward|Season Ten|gold|Tier 35}}|descheight=49px}}
+{{Itembox/bottom}}

@@ -1,0 +1,15 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Hand of Horus Mirage|image=Hand of Horus Mirage.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Undying Mirage|image=Undying Mirage.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Mirage the Cleaner|image=Mirage the Cleaner.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Heart of Hathor Mirage|image=Heart of Hathor Mirage.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Anubis Mirage|image=Anubis Mirage.png|desc={{ItemTag|chest|Sandstorm Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Freestyle Mirage|image=Freestyle Mirage.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Apocalypse Mirage|image=Apocalypse Mirage.webp|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Mirage Incarnate|image=Mirage Incarnate.png|desc={{ItemTag|chest|Revenant Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Corsair Mirage|image=Corsair Mirage.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Corpse Bride Mirage|image=Corpse Bride Mirage.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Donatello|image=Donatello (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Librarian Mirage|image=Librarian Mirage.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Miracle Magi ☆ Starlit Mirage|image=Miracle Magi ☆ Starlit Mirage.png|desc={{BPReward|Season Ten|gold|Tier 85}}|descheight=49px|epic=true}}
+{{Itembox/bottom}}

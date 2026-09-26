@@ -1,0 +1,8 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Rogue Queen Arcadia|image=Rogue Queen Arcadia.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Carapace Armored Arcadia|image=Carapace Armored Arcadia.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Briar Rose Arcadia|image=Briar Rose Arcadia.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Equinox Arcadia|image=Equinox Arcadia.png|desc={{BPReward|Season Six|gold|Tier 23}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Diabolical Doll Arcadia|image=Diabolical Doll Arcadia.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Luke Skywalker|image=Luke Skywalker.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

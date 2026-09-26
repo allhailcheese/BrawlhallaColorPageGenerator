@@ -1,0 +1,7 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Covert Ops Vivi|image=Covert Ops Vivi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Streetwear Vivi|image=Streetwear Vivi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Grã-mestra Batista|image=Grã-mestra Batista.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Mega Man|image=Mega Man.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Vivi Batida de Rua|image=Vivi Batida de Rua.png|cost={{Coin|ticket spring|1850}}<br>{{ItemTag|spring|2026}}|costheight=49px}}
+{{Itembox/bottom}}

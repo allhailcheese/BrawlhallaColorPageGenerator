@@ -1,0 +1,12 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Star Miner Ulgrim|image=Star Miner Ulgrim.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Arcanium Ulgrim|image=Arcanium Ulgrim.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Apprentice Ulgrim|image=Apprentice Ulgrim.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dragonport Ulgrim|image=Dragonport Ulgrim.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Jotun Ulgrim|image=Jotun Ulgrim.png|desc={{ItemTag|chest|Ragnarök Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Warborn Ulgrim|image=Warborn Ulgrim.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Macho Man|image=Macho Man.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Master Blacksmith Ulgrim|image=Master Blacksmith Ulgrim.png|desc={{BPReward|Season Three|gold|Tier 47}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Mad Doctor Ulgrim|image=Mad Doctor Ulgrim.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ivaldi's Finest Ulgrim|image=Ivaldi's Finest Ulgrim.png|cost={{Coin|ticket anniv|1850}}<br>{{ItemTag|anniv|2025}}|costheight=49px}}
+{{Itembox/bottom}}

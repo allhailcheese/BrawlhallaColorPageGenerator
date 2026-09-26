@@ -1,0 +1,13 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Sourcecode Petra|image=Sourcecode Petra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Darkheart Petra|image=Darkheart Petra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lost World Petra|image=Lost World Petra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Obake Petra|image=AniObake Petra.gif|desc={{BPReward|Season One|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Petra Reanimated|image=Petra Reanimated.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Riptide Petra|image=Riptide Petra.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Garnet|image=Garnet.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Ryu|image=Ryu.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Ken|image=Ken.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Street Sovereign Petra|image=Street Sovereign Petra.png|desc={{BPReward|Season Eight|gold|Tier 35}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Sengoku Rappa Petra|image=Sengoku Rappa Petra.png|desc={{BPReward|Season Twelve|gold|Past Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

@@ -1,0 +1,12 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Gumshoe Sentinel|image=Gumshoe Sentinel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=High Impact Sentinel|image=High Impact Sentinel.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nightwatch Sentinel|image=Nightwatch Sentinel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=First Edition Sentinel|image=First Edition Sentinel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lord Sentinel|image=Lord Sentinel.png|desc={{ItemTag|chest|Dragon's Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=President Sentinel|image=President Sentinel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Stormsteel Sentinel|image=Stormsteel Sentinel.png|desc={{ItemTag|chest|Forgeborne Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=The Rock|image=The Rock.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Cú Sídhe Sentinel|image=Cú Sídhe Sentinel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Frost Tech Sentinel|image=Frost Tech Sentinel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{Itembox/bottom}}

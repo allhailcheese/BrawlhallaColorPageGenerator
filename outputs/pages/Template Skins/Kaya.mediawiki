@@ -1,0 +1,12 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Huntress Kaya|image=Huntress Kaya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Snow Stalker Kaya|image=Snow Stalker Kaya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Aurora Kaya|image=Aurora Kaya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Athena Kaya|image=Athena Kaya.png|desc={{ItemTag|chest|Olympian Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Kindergarten Kaya|image=Kindergarten Kaya.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Alpine Kaya|image=Alpine Kaya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Pearl|image=Pearl.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Red Rose Kaya|image=Red Rose Kaya.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Sylvan Cleric Kaya|image=Sylvan Cleric Kaya.png|desc={{BPReward|Season Seven|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Trick or Treater Kaya|image=Trick or Treater Kaya.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{Itembox/bottom}}

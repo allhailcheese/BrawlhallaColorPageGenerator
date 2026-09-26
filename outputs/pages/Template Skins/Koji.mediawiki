@@ -1,0 +1,16 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Shogun Koji|image=Shogun Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ronin Koji|image=Ronin Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Demon Ogre Koji|image=Demon Ogre Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Tengu Koji|image=Tengu Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Yakuza Koji|image=Yakuza Koji.png|desc={{ItemTag|chest|Imperial Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Ojiisan Koji|image=Ojiisan Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Greased Lightning Koji|image=Greased Lightning Koji.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Emperor Koji|image=Emperor Koji.png|desc={{ItemTag|chest|Celestial Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Street Samurai Koji|image=Street Samurai Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shin Sekai Koji|image=Shin Sekai Koji.webp|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Michonne|image=Michonne.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Storm Shadow|image=Storm Shadow.png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Kern Koji|image=Kern Koji.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Future Nokizaru Koji|image=Future Nokizaru Koji.png|desc={{BPReward|Season Twelve|gold|Future Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

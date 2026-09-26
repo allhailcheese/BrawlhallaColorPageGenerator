@@ -1,0 +1,14 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Technomancer Ada|image=Technomancer Ada.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fatal Error Ada|image=Fatal Error Ada.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=DJ Ada|image=DJ Ada.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Vixen Ada|image=Vixen Ada.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wasteland Ada|image=Wasteland Ada.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Atlantean Ada|image=Atlantean Ada.png|desc={{ItemTag|chest|Sunken Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Detention Ada|image=Detention Ada.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Stormlord Ada|image=Stormlord Ada.png|desc={{ItemTag|chest|Elemental Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Lovelaced Ada|image=Lovelaced Ada.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Heatblast|image=AniHeatblast (lock-in).gif|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Astral Core Ada|image=Astral Core Ada.png|desc={{BPReward|Season Five|gold|Tier 23}}|descheight=49px}}
+{{itembox|width=220|height=270|name=The Mandalorian|displayname=The Mandalorian & Grogu|image=The Mandalorian.png|cost={{Coin|mammoth|500}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

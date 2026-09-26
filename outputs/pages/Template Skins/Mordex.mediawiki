@@ -1,0 +1,17 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=North Wind Mordex|image=North Wind Mordex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Iron Legion Mordex|image=Iron Legion Mordex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Celestial Mordex|image=Celestial Mordex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dog Days Mordex|image=Dog Days Mordex.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fenrir Mordex|image=Fenrir Mordex.png|desc={{ItemTag|chest|Ragnarök Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Dunewalker Mordex|image=Dunewalker Mordex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Mad Dog Mordex|image=Mad Dog Mordex.png|desc={{ItemTag|chest|Synthwave Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Daimio|image=Daimio.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Black Diamond Mordex|image=Black Diamond Mordex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Tai Lung|image=Tai Lung (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Octavius Mordex|image=AniOctavius Mordex.gif|desc={{BPReward|Season Four|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Brawldog Mordex|image=Brawldog Mordex.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Termidex|image=Termidex.png|desc={{BPReward|Season Eight|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=KO-rpse Candle Mordex|image=KO-rpse Candle Mordex.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ascended Mordex|image=Ascended Mordex.png|cost={{Coin|mammoth|900}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

@@ -1,0 +1,17 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Snake Charmer Nai|image=Snake Charmer Nai.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Snake Goddess Nai|image=Snake Goddess Nai.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Tomb Tamer Nai|image=Tomb Tamer Nai.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Date Night Nai|image=Date Night Nai.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Empress Nai|image=Empress Nai.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Winged Serpent Nai|image=Winged Serpent Nai.png|desc={{ItemTag|chest|Ancient Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Galaxy X Nai|image=Galaxy X Nai.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nidhogg Nai|image=Nidhogg Nai.png|desc={{ItemTag|chest|Ragnarök Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Lady of the Dead Nai|image=Lady of the Dead Nai.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Asuka|image=Asuka.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=High Priestess Nai|image=High Priestess Nai.png|desc={{BPReward|Season Four|gold|Tier 47}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Sea Krait Nai|image=Sea Krait Nai.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Festive Baker Nai|image=Festive Baker Nai.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fell Empress Nai|image=Fell Empress Nai.png|desc={{BPReward|Season Eleven|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Mikasa|image=Mikasa.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

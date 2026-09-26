@@ -1,0 +1,17 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Cat Burglar Asuri|image=Cat Burglar Asuri.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Awakened Asuri|image=Awakened Asuri.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lynx Asuri|image=Lynx Asuri.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Swashbuckler Asuri|image=Swashbuckler Asuri.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Apex Predator Asuri|image=Apex Predator Asuri.png|desc={{ItemTag|chest|Cosmic Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Mecha Asuri|image=Mecha Asuri.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=First Day Asuri|image=First Day Asuri.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Badlands Asuri|image=Badlands Asuri.png|desc={{ItemTag|chest|Outlaw Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Skel-asuri|image=Skel-asuri.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Asuri|image=Metadev Asuri.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Tigress|image=Tigress.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Ahsoka Tano|image=Ahsoka Tano.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Master of Night Asuri|image=Master of Night Asuri.png|desc={{BPReward|Season Eleven|gold|Tier 20}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Levi|image=Levi.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Puss in Boots|image=Puss in Boots.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

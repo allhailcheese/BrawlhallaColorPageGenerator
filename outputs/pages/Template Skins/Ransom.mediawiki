@@ -1,0 +1,5 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Desktop Butterfly Ransom|image=Desktop Butterfly Ransom.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Rootkit Ransom|image=Rootkit Ransom.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Incognito Ransom|image=Incognito Ransom.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{Itembox/bottom}}

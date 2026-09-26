@@ -1,0 +1,16 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Dark Age Orion|image=Dark Age Orion.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Harbinger Orion|image=Harbinger Orion.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Atomic Orion|image=Atomic Orion.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Orion|image=Metadev Orion.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Orion For Hire|image=Orion For Hire.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Kabuto Orion|image=Kabuto Orion.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Corsair Orion|image=Corsair Orion.png|desc={{ItemTag|chest|Skysail Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Atlantean Orion|image=Atlantean Orion.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Crossfade Orion|image=Crossfade Orion.png|desc={{ItemTag|chest|Brawl City Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Black Knight|image=Black Knight.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Cyber Oni Orion|image=Cyber Oni Orion.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Orion Prime|image=Orion Prime.png|desc={{BPReward|Season Five|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Live Action Orion|image=Live Action Orion.png|desc={{BPReward|Season Eight|gold|Tier 65}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Secret Admirer Orion|image=Secret Admirer Orion.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{Itembox/bottom}}

@@ -1,0 +1,16 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Space Race Cassidy|image=Space Race Cassidy.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=High Noon Cassidy|image=High Noon Cassidy.png|cost={{Coin|mammoth|100}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Masked Hero Cassidy|image=Masked Hero Cassidy.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Serape Kid Cassidy|image=Serape Kid Cassidy.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Cupcake Cassidy|image=Cupcake Cassidy.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dawnwalker Cassidy|image=Dawnwalker Cassidy.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Calavera Cassidy|image=Calavera Cassidy.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dust Devil Cassidy|image=Dust Devil Cassidy.png|desc={{ItemTag|chest|Elemental Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Globox|image=Globox.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Nutcracker Cassidy|image=Nutcracker Cassidy.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Bitpunk Cassidy|image=Bitpunk Cassidy.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=New West Cassidy|image=New West Cassidy.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Sandy Cheeks|image=Sandy Cheeks.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Vampire Huntress Cassidy|image=Vampire Huntress Cassidy.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

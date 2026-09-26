@@ -1,0 +1,5 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Golden Gladiator Zuva|image=Golden Gladiator Zuva.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ancestral Zuva|image=Ancestral Zuva.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Elegant Zuva|image=Elegant Zuva.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{Itembox/bottom}}

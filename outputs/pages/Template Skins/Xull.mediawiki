@@ -1,0 +1,11 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Demon Ogre Xull|image=Demon Ogre Xull.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Arctic Trapper Xull|image=Arctic Trapper Xull.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Commander Xull|image=Commander Xull.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Gridiron Xull|image=Gridiron Xull.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Amethyst|image=Amethyst.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Elvenhollow Xull|image=Elvenhollow Xull.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Terror-Watt Xull|image=Terror-Watt Xull.png|desc={{BPReward|Season Eight|gold|Tier 20}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Abominable Jötunn Xull|image=Abominable Jötunn Xull.png|cost={{Coin|ticket xmas|1850}}<br>{{ItemTag|xmas|2025}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shrek|image=Shrek.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

@@ -1,0 +1,14 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Vraxx the Viking|image=Vraxx the Viking.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Supreme Ruler Vraxx|image=Supreme Ruler Vraxx.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Vraxx the King|image=Vraxx the King.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dark Matter Vraxx|image=Dark Matter Vraxx.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=General Vraxx|image=General Vraxx.png|desc={{ItemTag|chest|Cosmic Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Space Dogfighter Vraxx|image=Space Dogfighter Vraxx.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wasteland Vraxx|image=Wasteland Vraxx.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Princess Bubblegum|image=AniPrincess Bubblegum.gif|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Professor Vraxx|image=Professor Vraxx.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Vraxxy Jones|image=Vraxxy Jones.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Warlock|image=Warlock.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Omniscient Vraxx|image=Omniscient Vraxx.png|desc={{BPReward|Season Fourteen|gold|Beholder Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

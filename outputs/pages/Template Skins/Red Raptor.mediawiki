@@ -1,0 +1,9 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Rocket Raptor|image=Rocket Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fallen Raptor|image=Fallen Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Emerald Raptor|image=Emerald Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Raptor, the Betrayer|image=Raptor, the Betrayer.png|desc={{BPReward|Season Nine|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Scuba Raptor|image=Scuba Raptor.png|cost={{Coin|ticket heatwave|1850}}<br>{{ItemTag|summer|2026}}|costheight=49px}}
+{{itembox|width=220|height=270|name=adidas Raptor|image=adidas Raptor.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Eren|image=Eren.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

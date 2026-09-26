@@ -1,0 +1,13 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Sky Captain Scarlet|image=Sky Captain Scarlet.png|cost={{Coin|mammoth|80}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Steam Tank Scarlet|image=Steam Tank Scarlet.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Steamsmith Scarlet|image=Steamsmith Scarlet.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Steam Sentry Scarlet|image=Steam Sentry Scarlet.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Bewitching Scarlet|image=Bewitching Scarlet.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Airship Scarlet|image=Airship Scarlet.png|desc={{ItemTag|chest|Skysail Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Mad Genius Scarlet|image=Mad Genius Scarlet.png|cost={{Coin|mammoth|240}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Steam Faction Scarlet|image=Steam Faction Scarlet.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Puella Papilio Scarlet|image=Puella Papilio Scarlet.png|desc={{BPReward|Season Six|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Teatime Scarlet|image=Teatime Scarlet.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Tiny Tina|image=Tiny Tina.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

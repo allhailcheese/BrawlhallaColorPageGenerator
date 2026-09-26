@@ -1,0 +1,7 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Ship Sinker Imugi|image=Ship Sinker Imugi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Mecha Imugi|image=Mecha Imugi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Exoshell Imugi|image=Exoshell Imugi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Elvenhollow Imugi|image=Elvenhollow Imugi.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Imugi, Millennium Dragon|image=Imugi, Millennium Dragon.webp|desc={{BPReward|Season Thirteen|gold|Intro Tier 1}}|descheight=49px}}
+{{Itembox/bottom}}

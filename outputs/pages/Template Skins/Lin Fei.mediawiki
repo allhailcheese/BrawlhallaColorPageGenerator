@@ -1,0 +1,10 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Xianxia Lin Fei|image=Xianxia Lin Fei.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Zhulong Lin Fei|image=Zhulong Lin Fei.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Daomadan Lin Fei|image=Daomadan Lin Fei.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ace Spiker Lin Fei|image=Ace Spiker Lin Fei.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wenqing Lin Fei|image=Wenqing Lin Fei.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Green Thumb Lin Fei|image=Green Thumb Lin Fei.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Sakura|image=Sakura.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Rising Dragon Lin Fei|image=Rising Dragon Lin Fei.png|desc={{BPReward|Season Thirteen|gold|Light Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

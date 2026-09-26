@@ -1,0 +1,10 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Soulbound Onyx|image=Soulbound Onyx.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Guardian Onyx|image=Guardian Onyx.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Project-0NYX|image=Project-0NYX.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Festive Yeti Onyx|image=Festive Yeti Onyx.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Leonidas Onyx|image=Leonidas Onyx.png|desc={{BPReward|Season Five|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Termin-gator Onyx|image=Termin-gator Onyx.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Titan|image=Titan.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Shadow Dragon Onyx|image=Shadow Dragon Onyx.png|desc={{BPReward|Season Thirteen|gold|Dark Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

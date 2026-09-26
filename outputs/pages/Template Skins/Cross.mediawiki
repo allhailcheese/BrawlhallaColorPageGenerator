@@ -1,0 +1,15 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Boss Cross|image=Boss Cross.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Devil Cross|image=Devil Cross.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Staff Sgt. Cross|image=Staff Sgt. Cross.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Krampus Cross|image=Krampus Cross.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Double Cross|image=Double Cross.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shadowlord Cross|image=Shadowlord Cross.png|desc={{ItemTag|chest|Forbidden Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Water Wars Cross|image=Water Wars Cross.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Prizefighter Cross|image=Prizefighter Cross.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Infernal Cross|image=Infernal Cross.png|desc={{ItemTag|chest|Forgeborne Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Hellboy|image=Hellboy.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Honor Bound Cross|image=Honor Bound Cross.png|desc={{BPReward|Season Four|gold|Tier 23}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Luke|image=Luke.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Han Solo|image=Han Solo.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

@@ -1,0 +1,7 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Mach 25 Thea|image=Mach 25 Thea.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Gridrunner Thea|image=Gridrunner Thea.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Gorgon Thea|image=Gorgon Thea.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Kelpie Thea|image=Kelpie Thea.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Fleeting Magi ☆ Starlit Thea|image=Fleeting Magi ☆ Starlit Thea.png|desc={{BPReward|Season Ten|gold|Tier 65}}|descheight=49px}}
+{{Itembox/bottom}}

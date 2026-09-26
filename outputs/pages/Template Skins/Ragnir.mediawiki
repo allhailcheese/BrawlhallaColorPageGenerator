@@ -1,0 +1,17 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Mecha Ragnir|image=Mecha Ragnir.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Celestial Ragnir|image=Celestial Ragnir.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ashen Ragnir|image=Ashen Ragnir.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nightshade Ragnir|image=Nightshade Ragnir.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dark Depths Ragnir|image=Dark Depths Ragnir.png|desc={{ItemTag|chest|Sunken Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Sobek Ragnir|image=Sobek Ragnir.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ragnirsaurus Rex|image=Ragnirsaurus Rex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ragnir the Covetous|image=Ragnir the Covetous.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Inferno Ragnir|image=Inferno Ragnir.png|desc={{ItemTag|chest|Elemental Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Werebat Ragnir|image=Werebat Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Frost Guardian Ragnir|image=Frost Guardian Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Raphael|image=Raphael (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Elder Wild Ragnir|image=Elder Wild Ragnir.webp|desc={{BPReward|Season Six|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Seadragon Ragnir|image=Seadragon Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ragnir, King of Darkness|image=Ragnir, King of Darkness.png|desc={{BPReward|Season Thirteen|gold|Final Tier 7}}|descheight=49px|epic=true}}
+{{Itembox/bottom}}

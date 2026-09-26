@@ -1,0 +1,17 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Wu Shang Kong|image=Wu Shang Kong.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Seeker Wu Shang|image=Seeker Wu Shang.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wu Shang the Breaker|image=Wu Shang the Breaker.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Infinite Wu Shang|image=Infinite Wu Shang.png|desc={{ItemTag|chest|Cosmic Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Perfect Wu Shang|image=Perfect Wu Shang.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Djinn Wu Shang|image=Djinn Wu Shang.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ranno Wu Shang|image=Ranno Wu Shang.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Gentleman Wu Shang|image=Gentleman Wu Shang.png|desc={{ItemTag|chest|Royal Order Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Santa Wu Shang|image=Santa Wu Shang.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Po|image=Po.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Chun-Li|image=Chun-Li.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Aang|image=Aang.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Cthu'shang|image=Cthu'shang.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wu Shang, the Seeker|image=Wu Shang, the Seeker.webp|desc={{BPReward|Season Nine|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Ascended Wu Shang|image=Ascended Wu Shang.png|cost={{Coin|mammoth|900}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

@@ -1,0 +1,18 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Hardsuit Val|image=Hardsuit Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Kunoichi Val|image=Kunoichi Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Star Merc Val|image=Star Merc Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dragonslayer Val|image=Dragonslayer Val.png|desc={{ItemTag|chest|Dragon's Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Commando Val|image=Commando Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nutcracker Val|image=Nutcracker Val.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Chimera Val|image=Chimera Val.png|desc={{ItemTag|chest|Olympian Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Mythic Hero Val|image=Mythic Hero Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Stevonnie|image=Stevonnie (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Future Wave Val|image=Future Wave Val.webp|desc={{BPReward|Season Two|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Michelangelo|image=Michelangelo (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Akuma|image=Akuma.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Love Bug Val|image=Love Bug Val.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Val|image=Metadev Val.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Obi-Wan Kenobi|image=Obi-Wan Kenobi.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Modern Monomi Val|image=Modern Monomi Val.png|desc={{BPReward|Season Twelve|gold|Present Tier 23}}|descheight=49px}}
+{{Itembox/bottom}}

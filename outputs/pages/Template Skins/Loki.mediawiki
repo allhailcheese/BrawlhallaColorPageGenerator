@@ -1,0 +1,8 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Arcane Loki|image=Arcane Loki.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Outlaw Loki|image=Outlaw Loki.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=THNX Researcher Loki|image=THNX Researcher Loki.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Lakeside Loki|image=Lakeside Loki.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Interloper Loki|image=Interloper Loki.png|desc={{BPReward|Season Eleven|gold|Tier 65}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Valedictorian Loki|image=Valedictorian Loki.png|cost={{Coin|ticket school|1850}}<br><small>{{ItemTag|school|2026}}</small>|costheight=49px}}
+{{Itembox/bottom}}

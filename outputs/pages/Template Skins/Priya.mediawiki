@@ -1,0 +1,6 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Dark Harlequin Priya|image=Dark Harlequin Priya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Joyful Dancer Priya|image=Joyful Dancer Priya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Chakora Priya|image=Chakora Priya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Akuma Shinobi Priya|image=Akuma Shinobi Priya.png|desc={{BPReward|Season Twelve|gold|Final Tier 7}}|descheight=49px}}
+{{Itembox/bottom}}

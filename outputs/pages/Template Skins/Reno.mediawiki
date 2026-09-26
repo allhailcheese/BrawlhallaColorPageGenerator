@@ -1,0 +1,8 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Desperado Reno|image=Desperado Reno.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Widowmaker Reno|image=Widowmaker Reno.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ferrymoth Reno|image=Ferrymoth Reno.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Honeybeeno|image=Honeybeeno.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Relentless Pest Reno|image=Relentless Pest Reno.png|desc={{BPReward|Season Nine|gold|Tier 50}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Lilith|image=Lilith.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

@@ -1,0 +1,17 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Iron Legion Teros|image=Iron Legion Teros.png|cost={{Coin|mammoth|80}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ready to Riot Teros|image=Ready to Riot Teros.png|cost={{Coin|mammoth|140}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Rift Dweller Teros|image=Rift Dweller Teros.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Wreck the Halls Teros|image=Wreck the Halls Teros.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=The Yetee Teros|image=The Yetee Teros.png|desc=Bonus with purchase Brawlhalla merchandise from [https://theyetee.com/collections/brawlhalla The Yetee]|descheight=49px}}
+{{itembox|width=220|height=270|name=Forgeheart Teros|image=Forgeheart Teros.png|desc={{ItemTag|chest|Odin's Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Mecha Teros|image=Mecha Teros.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=God King Teros|image=God King Teros.png|desc={{ItemTag|chest|Sandstorm Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Gatekeeper Teros|image=Gatekeeper Teros.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Gruagach|image=Gruagach.png|cost={{Coin|mammoth|240}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Roman Reigns|image=Roman Reigns.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Hall Minotaur Teros|image=Hall Minotaur Teros.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Teros|image=Metadev Teros.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
+{{itembox|width=220|height=270|name=Patrick Star|image=Patrick Star.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Fallen Prince Teros|image=Fallen Prince Teros.webp|desc={{BPReward|Season Ten|gold|Tier 1}}|descheight=49px}}
+{{Itembox/bottom}}

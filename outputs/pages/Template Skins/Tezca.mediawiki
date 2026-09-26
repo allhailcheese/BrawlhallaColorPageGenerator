@@ -1,0 +1,9 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Talk of the Town Tezca|image=Talk of the Town Tezca.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Ocelotl Tezca|image=Ocelotl Tezca.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Chel|image=Chel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Corrupted Blood Tezca|image=Corrupted Blood Tezca.webp|desc={{BPReward|Season Eight|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Druid Mage Chel|image=Druid Mage Chel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Usurper Chel|image=Usurper Chel.png|desc={{BPReward|Season Eleven|gold|Tier 50}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Fiona|image=Fiona.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

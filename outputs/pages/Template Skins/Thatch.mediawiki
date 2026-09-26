@@ -1,0 +1,13 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Cursed Gold Thatch|image=Cursed Gold Thatch.png|cost={{Coin|mammoth|200}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Castaway Thatch|image=Castaway Thatch.png|cost={{Coin|mammoth|200}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Biker Thatch|image=Biker Thatch.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Secret Santa Thatch|image=Secret Santa Thatch.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shark Attack Thatch|image=Shark Attack Thatch.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Goblin Thatch|image=Goblin Thatch.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Poseidon Thatch|image=Poseidon Thatch.png|desc={{ItemTag|chest|Olympian Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Classy Thatch|image=Classy Thatch.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Werewolf Thatch|image=Werewolf Thatch.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Snake Eyes|image=Snake Eyes (Thatch Skin).png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Chewbacca|image=Chewbacca.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{Itembox/bottom}}

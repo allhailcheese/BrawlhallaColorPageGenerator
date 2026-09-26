@@ -1,0 +1,5 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Centurion Aurus|image=Centurion Aurus.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=God of Boar Aurus|image=God of Boar Aurus.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Freesmith Inquisitor Aurus|image=Freesmith Inquisitor Aurus.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{Itembox/bottom}}

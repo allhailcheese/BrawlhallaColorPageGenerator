@@ -1,0 +1,15 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Spec-Ops Lucien|image=Spec-Ops Lucien.png|cost={{Coin|mammoth|200}} or {{Coin|goin|480}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dark of Night Lucien|image=Dark of Night Lucien.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Vive la Révolucien|image=Vive la Révolucien.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Plague Doctor Lucien|image=Plague Doctor Lucien.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Horseman Lucien|image=Horseman Lucien.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Dreadnought Lucien|image=Dreadnought Lucien.png|desc={{ItemTag|chest|Sunken Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Bullet Diver Lucien|image=Bullet Diver Lucien.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Suitor Lucien|image=Suitor Lucien.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Overdrive Lucien|image=Overdrive Lucien.png|desc={{ItemTag|chest|Synthwave Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Raven Rogue Lucien|image=Raven Rogue Lucien.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Deep Sea Lucien|image=Deep Sea Lucien.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|summer}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nina Williams|image=Nina Williams.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Hunter|image=Hunter.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{Itembox/bottom}}

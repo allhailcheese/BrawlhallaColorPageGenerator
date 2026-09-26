@@ -1,0 +1,5 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Hulking Mantis Rupture|image=Hulking Mantis Rupture.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Werebeast Rupture|image=Werebeast Rupture.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Rock 'n Rupture|image=Rock 'n Rupture.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{Itembox/bottom}}

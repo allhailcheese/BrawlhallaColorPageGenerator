@@ -1,0 +1,12 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Jiro the Specialist|image=Jiro the Specialist.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shinigami Jiro|image=Shinigami Jiro.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Shogun Jiro|image=Shogun Jiro.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Komainu Jiro|image=Komainu Jiro.png|desc={{ItemTag|chest|Exalted Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Dullahan Jiro|image=Dullahan Jiro.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Crimson Oni Jiro|image=Crimson Oni Jiro.png|desc={{BPReward|Season One|gold|Tier 71}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Leonardo|image=Leonardo (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Oendan Jiro|image=Oendan Jiro.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Yoshimitsu|image=Yoshimitsu.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Shinobi no Mono Jiro|image=Shinobi no Mono Jiro.webp|desc={{BPReward|Season Twelve|gold|Intro Tier 1}}|descheight=49px}}
+{{Itembox/bottom}}

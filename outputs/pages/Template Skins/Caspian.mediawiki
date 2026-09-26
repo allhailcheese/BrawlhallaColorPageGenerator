@@ -1,0 +1,12 @@
+{{Itembox/top}}
+{{itembox|width=220|height=270|name=Fortune Hunter Caspian|image=Fortune Hunter Caspian.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Nightcap Caspian|image=Nightcap Caspian.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=All City Caspian|image=All City Caspian.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Immortal Caspian|image=Immortal Caspian.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Aces High Caspian|image=Aces High Caspian.png|desc={{ItemTag|chest|Outlaw Chest}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Harlequin Caspian|image=Harlequin Caspian.png|cost={{Coin|mammoth|140}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Plague Knight|image=Plague Knight.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Diamondhead|image=Diamondhead (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Diamond Jack Caspian|image=Diamond Jack Caspian.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Tuxedo Bandit Caspian|image=Tuxedo Bandit Caspian.png|desc={{BPReward|Season Ten|gold|Tier 20}}|descheight=49px}}
+{{Itembox/bottom}}
