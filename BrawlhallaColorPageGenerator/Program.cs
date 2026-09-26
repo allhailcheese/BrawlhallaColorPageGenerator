@@ -63,7 +63,7 @@ questListWriter.WriteTo("outputs/pages/Template QuestList/LowSpeed.mediawiki", S
     foreach (HeroType hero in data.HeroTypes.Heroes)
     {
         if (!hero.IsActive || hero.HeroName == "Random") continue;
-    
+
         skinsWriter.WriteTo($"outputs/pages/Template Skins/{hero.BioName}.mediawiki", hero.HeroName);
     }
 }
