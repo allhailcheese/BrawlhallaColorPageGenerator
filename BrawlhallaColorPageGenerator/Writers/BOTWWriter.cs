@@ -16,12 +16,21 @@ public sealed class BOTWWriter(WriterData data)
         writer.WriteLine("<includeonly>{{#switch:{{lc:{{{1|}}}}}");
         foreach (GameModeType gamemode in data.GameModeTypes.Gamemodes)
         {
-            WriteGamemodeType(writer, gamemode, usedGamemodeKeys);
-
-            if (gamemode.GameModeName == "BOTWSnowbrawlNewMap")
+            // older versions of the gamemode that got overwritten
+            switch (gamemode.GameModeName)
             {
-                WriteGamemodeType(writer, BOTWSnowbrawlNewMap_Old, usedGamemodeKeys);
+                case "BOTWTableTop1v1":
+                    WriteGamemodeType(writer, BOTWTableTop1v1_Old, usedGamemodeKeys);
+                    break;
+                case "BOTWShift1v1NewMap":
+                    WriteGamemodeType(writer, BOTWShift1v1NewMap_Old, usedGamemodeKeys);
+                    break;
+                case "BOTWSnowbrawlNewMap":
+                    WriteGamemodeType(writer, BOTWSnowbrawlNewMap_Old, usedGamemodeKeys);
+                    break;
             }
+
+            WriteGamemodeType(writer, gamemode, usedGamemodeKeys);
         }
         writer.Write(@"}}</includeonly><noinclude>
 {{doc}}
@@ -36,6 +45,7 @@ public sealed class BOTWWriter(WriterData data)
         if (
             !gamemode.GameModeName.Contains("BOTW") ||
             // duplicate of BOTWVolleyBattle2v2NewMap but allows all maps, which doesn't make sense with its name and description
+            // maybe it was an old thing that got overwritten? check
             gamemode.GameModeName == "BOTWVolleyBattle2v2"
         ) return;
 
@@ -49,6 +59,7 @@ public sealed class BOTWWriter(WriterData data)
             "BOTW2v2SwitchNewMap" => "Eternity's End Switchcraft 2v2",
             "BOTWOddbrawl2v2NewMap" => "Eternity's End Team Oddbrawl",
             // Fake gamemode types to keep older ones
+            "BOTWShift1v1NewMap_Old" => gamemode.DisplayNameKey,
             "BOTWSnowbrawlNewMap_Old" => gamemode.DisplayNameKey,
             // Real
             _ => data.LangFile.Entries[gamemode.DisplayNameKey],
@@ -78,19 +89,22 @@ public sealed class BOTWWriter(WriterData data)
         writer.Write(thumbnailName);
         writer.WriteLine(".jpg|200px]]");
         // description
+        writer.Write("{{!}}");
         if (gamemode.DescriptionKey is not null)
         {
+            writer.Write("''");
             string gamemodeDescription = gamemode.GameModeName switch
             {
                 // Fake gamemode types to keep older ones
+                "BOTWShift1v1NewMap_Old" => gamemode.DescriptionKey,
                 "BOTWSnowbrawlNewMap_Old" => gamemode.DescriptionKey,
                 // Real
                 _ => data.LangFile.Entries[gamemode.DescriptionKey],
             };
-            writer.Write("{{!}}''");
             writer.Write(gamemodeDescription);
-            writer.WriteLine("''");
+            writer.Write("''");
         }
+        writer.WriteLine();
         // scoring type
         writer.Write("*{{gamemodes|");
         writer.Write(scoringTypeName.ToLowerInvariant());
@@ -272,6 +286,7 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTW3v3NewMap"] = ["RefineryDoors"], // Theed City Skirmish
         ["BOTWTableTop1v1"] = ["Lavabrawl3"], // Dwarven Duel
         ["BOTWBombMania"] = ["BP8ThreePlatformFFABig"], // Terminus-plosions!
+        ["BOTWShift1v1NewMap_Old"] = ["BP8ThreePlatform"], // Loki's Illusions
         ["BOTWShift1v1NewMap"] = ["TriPlatBattle"], // Mishima Dojo Skirmish
         ["BOTWVolleyBattle2v2"] = ["VolleyBattleSmall"], // TEKKEN Brawl
         ["BOTWVolleyBattle2v2NewMap"] = ["VolleyBattleSmall"], // TEKKEN Brawl
@@ -383,10 +398,40 @@ public sealed class BOTWWriter(WriterData data)
         }
     }
 
-    // BOTWSnowbrawlNewMap was replaced, this is the original one
+    // some botw gamemodes were replaced. these are the originals.
+
+    private static readonly GameModeType BOTWTableTop1v1_Old = new()
+    {
+        GameModeName = "BOTWTableTop1v1_Old",
+        DisplayNameKey = "GameModeType_BOTWTableTop1v1_DisplayName",
+        DescriptionKey = "GameModeType_BOTWTableTop1v1_DescriptionKey",
+        ScoringType = "TABLETOP",
+        LevelSet = "TableTop1v1",
+        MaxPlayers = 2,
+        Duration = 180,
+        DamageRatio = 100,
+    };
+
+    private static readonly GameModeType BOTWShift1v1NewMap_Old = new()
+    {
+        GameModeName = "BOTWShift1v1NewMap_Old",
+        // the text was also overwritten
+        DisplayNameKey = "Loki's Illusions",
+        DescriptionKey = "Beware Loki’s veil of illusions and use it to your advantage in this 3 stock 1v1 transforming battle! Choose one weapon each from 3 of your favorite Legends. Then, use the Weapon throw button to change forms in combat. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!",
+        MaxPlayers = 2,
+        Duration = 480,
+        StartingLives = 3,
+        ScoringType = "STOCK",
+        OverrideItemSpawnRuleSet = "NoItems",
+        LevelSet = "",
+        Variation = "Shift",
+        DamageRatio = 100,
+    };
+
     private static readonly GameModeType BOTWSnowbrawlNewMap_Old = new()
     {
         GameModeName = "BOTWSnowbrawlNewMap_Old",
+        // the text was also overwritten
         DisplayNameKey = "Starlight Snowbrawl Scuffle",
         DescriptionKey = "Cool off with your fellow Starlight Champions in this 4 player, 3 minute free-for-all! Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!",
         ScoringType = "SNOWBALL",
