@@ -684,6 +684,16 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (3v3)
+|volleybrawl duos=
+{{!}}-
+{{!}} '''Volleybrawl Duos'''
+{{!}} [[File:BOTW Volleybrawl Duos.jpg|200px]]
+{{!}}''Pair up for a sandy 2v2 game of Volleybrawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!''
+*{{gamemodes|volleybrawl|16px}}
+*4 players
+*3 lives
+*8:00 minutes
+*Teams enabled (2v2)
 |volleybrawl face-off=
 {{!}}-
 {{!}} '''Volleybrawl Face-off'''

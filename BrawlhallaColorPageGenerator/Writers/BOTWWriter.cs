@@ -45,12 +45,7 @@ public sealed class BOTWWriter(WriterData data)
 
     private void WriteGamemodeType(StreamWriter writer, GameModeType gamemode, HashSet<string> usedGamemodeKeys)
     {
-        if (
-            !gamemode.GameModeName.Contains("BOTW") ||
-            // duplicate of BOTWVolleyBattle2v2NewMap but allows all maps, which doesn't make sense with its name and description
-            // maybe it was an old thing that got overwritten? check
-            gamemode.GameModeName == "BOTWVolleyBattle2v2"
-        ) return;
+        if (!gamemode.GameModeName.Contains("BOTW")) return;
 
         string gamemodeName = gamemode.GameModeName switch
         {
@@ -61,6 +56,8 @@ public sealed class BOTWWriter(WriterData data)
             "BOTW1v1300NewMap" => "Eternity's End KO Mania!",
             "BOTW2v2SwitchNewMap" => "Eternity's End Switchcraft 2v2",
             "BOTWOddbrawl2v2NewMap" => "Eternity's End Team Oddbrawl",
+            // Text got overwritten
+            "BOTWVolleyBattle2v2" => BOTWVolleyBattle2v2_DisplayName,
             // Fake gamemode types to keep older ones
             "BOTWShift1v1NewMap_Old" => gamemode.DisplayNameKey,
             "BOTWSnowbrawlNewMap_Old" => gamemode.DisplayNameKey,
@@ -98,6 +95,8 @@ public sealed class BOTWWriter(WriterData data)
             writer.Write("''");
             string gamemodeDescription = gamemode.GameModeName switch
             {
+                // Text got overwritten
+                "BOTWVolleyBattle2v2" => BOTWVolleyBattle2v2_Description,
                 // Fake gamemode types to keep older ones
                 "BOTWShift1v1NewMap_Old" => gamemode.DescriptionKey,
                 "BOTWSnowbrawlNewMap_Old" => gamemode.DescriptionKey,
@@ -291,7 +290,6 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTWBombMania"] = ["BP8ThreePlatformFFABig"], // Terminus-plosions!
         ["BOTWShift1v1NewMap_Old"] = ["BP8ThreePlatform"], // Loki's Illusions
         ["BOTWShift1v1NewMap"] = ["TriPlatBattle"], // Mishima Dojo Skirmish
-        ["BOTWVolleyBattle2v2"] = ["VolleyBattleSmall"], // TEKKEN Brawl
         ["BOTWVolleyBattle2v2NewMap"] = ["VolleyBattleSmall"], // TEKKEN Brawl
         ["BOTWTableTop2v2NewMap"] = ["Norse1v1Spike"], // Jötunheimr's Doom
         ["BOTWTagRelay2v2NewMap"] = ["SpongebobMap"], // Bubble Tag Relay
@@ -430,6 +428,10 @@ public sealed class BOTWWriter(WriterData data)
         Duration = 180,
         DamageRatio = 100,
     };
+
+    // originally generic, text overwritten with tekken. gamemode type still exists.
+    private const string BOTWVolleyBattle2v2_DisplayName = "Volleybrawl Duos";
+    private const string BOTWVolleyBattle2v2_Description = "Pair up for a sandy 2v2 game of Volleybrawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!";
 
     // originally bp8, turned into tekken
     private static readonly GameModeType BOTWShift1v1NewMap_Old = new()
