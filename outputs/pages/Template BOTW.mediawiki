@@ -39,6 +39,16 @@
 *3:00 minutes
 *200% damage
 *Map Set: [[Map_Set#Big_Map_Set|Big]]
+|switchcraft 1v1=
+{{!}}-
+{{!}} '''Switchcraft 1v1'''
+{{!}} [[File:BOTW Switchcraft 1v1.jpg|200px]]
+{{!}}''Pick your strongest 3 Legends and put them in a magic vortex, where their weapons and signature moves get scrambled into wild new combinations! Battle your equally scrambled opponent in a 1v1 Stock battle. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+*Map Set: [[Map_Set#1v1_Map_Set|1v1]]
 |dangerous duel=
 {{!}}-
 {{!}} '''Dangerous Duel'''

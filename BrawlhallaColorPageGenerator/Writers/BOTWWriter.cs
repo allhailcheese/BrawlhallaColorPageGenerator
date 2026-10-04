@@ -19,6 +19,9 @@ public sealed class BOTWWriter(WriterData data)
             // older versions of the gamemode that got overwritten
             switch (gamemode.GameModeName)
             {
+                case "BOTW1v1Switch":
+                    WriteGamemodeType(writer, BOTW1v1Switch_Old, usedGamemodeKeys);
+                    break;
                 case "BOTWTableTop1v1":
                     WriteGamemodeType(writer, BOTWTableTop1v1_Old, usedGamemodeKeys);
                     break;
@@ -400,6 +403,22 @@ public sealed class BOTWWriter(WriterData data)
 
     // some botw gamemodes were replaced. these are the originals.
 
+    // originally generic, turned into bp9
+    private static readonly GameModeType BOTW1v1Switch_Old = new()
+    {
+        GameModeName = "BOTW1v1Switch_Old",
+        DisplayNameKey = "GameModeType_BOTW1v1Switch_DisplayName",
+        DescriptionKey = "GameModeType_BOTW1v1Switch_DescriptionKey",
+        MaxPlayers = 2,
+        Duration = 480,
+        StartingLives = 3,
+        ScoringType = "STOCK",
+        LevelSet = "Standard1v1",
+        Variation = "Scramble",
+        DamageRatio = 100,
+    };
+
+    // originally bp7, turned into ivaldi
     private static readonly GameModeType BOTWTableTop1v1_Old = new()
     {
         GameModeName = "BOTWTableTop1v1_Old",
@@ -412,6 +431,7 @@ public sealed class BOTWWriter(WriterData data)
         DamageRatio = 100,
     };
 
+    // originally bp8, turned into tekken
     private static readonly GameModeType BOTWShift1v1NewMap_Old = new()
     {
         GameModeName = "BOTWShift1v1NewMap_Old",
@@ -428,6 +448,7 @@ public sealed class BOTWWriter(WriterData data)
         DamageRatio = 100,
     };
 
+    // originally bp10, turned into shrek
     private static readonly GameModeType BOTWSnowbrawlNewMap_Old = new()
     {
         GameModeName = "BOTWSnowbrawlNewMap_Old",
