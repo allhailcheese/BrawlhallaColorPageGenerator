@@ -87,7 +87,14 @@ public sealed class BOTWWriter(WriterData data)
         writer.Write("{{!}} [[File:BOTW ");
         string thumbnailName = gamemodeName.Replace('’', '\'');
         writer.Write(thumbnailName);
-        writer.WriteLine(".jpg|200px]]");
+        writer.Write('.');
+        writer.Write(gamemode.GameModeName switch
+        {
+            "BOTW4FFASingleLegend" => "png", // Yumiko, We-Miko!
+            "BOTW2v2300" => "png", // Double KO Mania!
+            _ => "jpg",
+        });
+        writer.WriteLine("|200px]]");
         // description
         writer.Write("{{!}}");
         if (gamemode.DescriptionKey is not null)

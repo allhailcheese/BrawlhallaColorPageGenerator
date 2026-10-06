@@ -110,7 +110,7 @@
 |yumiko, we-miko=
 {{!}}-
 {{!}} '''Yumiko, We-Miko!'''
-{{!}} [[File:BOTW Yumiko, We-Miko!.jpg|200px]]
+{{!}} [[File:BOTW Yumiko, We-Miko!.png|200px]]
 {{!}}''Time to get crazy like a fox! Yumiko has tricked Brawlhalla into being playable for free a week early. Jump in this 4 Player mirror match FFA and try out our clever trickster in this 3 minute queued match. Get 2 points for a KO, lose a point for being KOed. Most points at the end wins!''
 *{{gamemodes|timed|16px}}
 *4 players
@@ -143,7 +143,7 @@
 |double ko mania=
 {{!}}-
 {{!}} '''Double KO Mania!'''
-{{!}} [[File:BOTW Double KO Mania!.jpg|200px]]
+{{!}} [[File:BOTW Double KO Mania!.png|200px]]
 {{!}}''Square off against your opponents in this hard hitting 2v2 KO fest! Chew through your foes' 5 Stocks with damage cranked up to an insane 300%! Cover your ally with no team damage and send your challenger into orbit before they know what hit them. First to KO both opponents 5 times wins!''
 *{{gamemodes|stock|16px}}
 *4 players
