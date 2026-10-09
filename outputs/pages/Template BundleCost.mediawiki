@@ -158,15 +158,5 @@
 |mammoth = {{Coin|mammoth|{{CalcBundleDiscount|{{#var:base_cost}}|{{#var:discount}}}}}}
 |mammoth+discount|{{Coin|mammoth|{{CalcBundleDiscount|{{#var:base_cost}}|{{#var:discount}}}}}} / {{CalcBundleDiscount|{{#var:discount}}|discount}} off
 }}</includeonly><noinclude>
-* <code><nowiki>{{BundleCost|Valhallentine's 2026 Mega Bundle}}</nowiki></code> = {{BundleCost|Valhallentine's 2026 Mega Bundle}}
-* <code><nowiki>{{BundleCost|Valhallentine's 2026 Mega Bundle|cost}}</nowiki></code> = {{BundleCost|Valhallentine's 2026 Mega Bundle|cost}}
-* <code><nowiki>{{BundleCost|Valhallentine's 2026 Mega Bundle|discount}}</nowiki></code> = {{BundleCost|Valhallentine's 2026 Mega Bundle|discount}}
-* <code><nowiki>{{BundleCost|Valhallentine's 2026 Mega Bundle|mammoth}}</nowiki></code> = {{BundleCost|Valhallentine's 2026 Mega Bundle|mammoth}}
-* <code><nowiki>{{BundleCost|Valhallentine's 2026 Mega Bundle|mammoth+discount}}</nowiki></code> = {{BundleCost|Valhallentine's 2026 Mega Bundle|mammoth+discount}}
-* <code><nowiki>{{BundleCost|unknown}}</nowiki></code> = {{BundleCost|unknown}}
-* <code><nowiki>{{BundleCost|unknown|cost}}</nowiki></code> = {{BundleCost|unknown|cost}}
-* <code><nowiki>{{BundleCost|unknown|discount}}</nowiki></code> = {{BundleCost|unknown|discount}}
-* <code><nowiki>{{BundleCost|unknown|mammoth}}</nowiki></code> = {{BundleCost|unknown|mammoth}}
-* <code><nowiki>{{BundleCost|unknown|mammoth+discount}}</nowiki></code> = {{BundleCost|unknown|mammoth+discount}}
-
+{{doc}}
 [[Category:Templates]]</noinclude>
