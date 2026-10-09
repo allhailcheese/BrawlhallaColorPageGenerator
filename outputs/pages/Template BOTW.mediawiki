@@ -247,6 +247,7 @@
 *3 lives
 *8:00 minutes
 *200% damage
+*[[Ghost Mode]] is enabled
 *Map Set: [[Map_Set#1v1_Map_Set|1v1]]
 |ghost brawl 2v2=
 {{!}}-
@@ -259,6 +260,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (2v2)
+*[[Ghost Mode]] is enabled
 *Map Set: [[Map_Set#2v2_Map_Set|2v2]]
 |scum & villainy strikeout=
 {{!}}-
@@ -291,6 +293,7 @@
 *3 players
 *3:00 minutes
 *300% damage
+*[[Ghost Mode]] is enabled
 *Map Set: 
 **{{MapListing|small brawlhaven}}
 **{{MapListing|small mammoth fortress}}
@@ -334,7 +337,6 @@
 *Score to win: 3
 *8:00 minutes
 *Teams enabled (3v3)
-*Map: {{MapListing|demon island ctf}}
 |bubble tag=
 {{!}}-
 {{!}} '''Bubble Tag'''
@@ -345,6 +347,7 @@
 *Score to win: 5
 *5:00 minutes, max 1:30 minute rounds
 *Teams enabled (3v3)
+*Team damage enabled
 *Map Set: [[Map_Set#2v2_Map_Set|2v2]]
 |3v3 kung foot=
 {{!}}-
@@ -374,6 +377,9 @@
 *{{gamemodes|timed|16px}}
 *4 players
 *3:00 minutes
+*Map Set: 
+**{{MapListing|temple climb}}
+**{{MapListing|siege of lions}}
 |2v2 temple climb=
 {{!}}-
 {{!}} '''2v2 Temple Climb'''
@@ -383,6 +389,9 @@
 *4 players
 *3:00 minutes
 *Teams enabled (2v2)
+*Map Set: 
+**{{MapListing|temple climb}}
+**{{MapListing|siege of lions}}
 |morph=
 {{!}}-
 {{!}} '''Morph'''
@@ -424,7 +433,6 @@
 *2 players
 *3 lives
 *15:00 minutes
-*Map: {{MapListing|walker attack!}}
 |jötunn winter brawlball=
 {{!}}-
 {{!}} '''Jötunn Winter Brawlball'''
@@ -471,6 +479,7 @@
 *8:00 minutes
 *300% damage
 *Teams enabled (2v2)
+*[[Ghost Mode]] is enabled
 *Map: {{MapListing|small fortress of wolves}}
 |siege of lions=
 {{!}}-
@@ -490,9 +499,6 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: 
-**{{MapListing|suzaku castle walls}}
-**{{MapListing|bustling side street}}
 |ghost bubble tag=
 {{!}}-
 {{!}} '''Ghost Bubble Tag'''
@@ -503,6 +509,7 @@
 *Score to win: 5
 *5:00 minutes, max 1:30 minute rounds
 *Teams enabled (2v2)
+*[[Ghost Mode]] is enabled
 *Map Set: [[Map_Set#2v2_Map_Set|2v2]]
 |arashikage showdown=
 {{!}}-
@@ -561,6 +568,7 @@
 *{{gamemodes|bounty|16px}}
 *4 players
 *3:00 minutes
+*[[Ghost Mode]] is enabled
 *Map: {{MapListing|florence rooftop}}
 |bounty hunting=
 {{!}}-
@@ -625,6 +633,7 @@
 *3 lives
 *8:00 minutes
 *Teams enabled (2v2)
+*[[Ghost Mode]] is enabled
 *Map: {{MapListing|western air temple}}
 |gamemaster's doom=
 {{!}}-
@@ -791,9 +800,6 @@
 *2 players
 *3 lives
 *8:00 minutes
-*Map Set: 
-**{{MapListing|suzaku castle walls}}
-**{{MapListing|bustling side street}}
 |tekken brawl=
 {{!}}-
 {{!}} '''TEKKEN Brawl'''
@@ -825,6 +831,7 @@
 *Score to win: 5
 *5:00 minutes, max 1:30 minute rounds
 *Teams enabled (2v2)
+*Team damage enabled
 *Map: {{MapListing|bikini bottom}}
 |brawl of the heroes=
 {{!}}-
@@ -941,6 +948,7 @@
 *4 players
 *3:00 minutes
 *300% damage
+*[[Ghost Mode]] is enabled
 *Map: {{MapListing|castle batavia}}
 |spooky switchcraft=
 {{!}}-
@@ -1014,6 +1022,7 @@
 *2 players
 *3 lives
 *8:00 minutes
+*[[Ghost Mode]] is enabled
 *Map: {{MapListing|jikoku}}
 |hidden in the walls=
 {{!}}-
@@ -1026,6 +1035,7 @@
 *8:00 minutes
 *200% damage
 *Teams enabled (2v2)
+*[[Ghost Mode]] is enabled
 *Map: {{MapListing|shiganshina district}}
 |shiganshina clash=
 {{!}}-

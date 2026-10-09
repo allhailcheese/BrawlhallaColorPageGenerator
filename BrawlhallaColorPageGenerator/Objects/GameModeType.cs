@@ -21,6 +21,7 @@ public sealed class GameModeType
     public string? OverrideItemSpawnRuleSet { get; init; }
     public string? LevelSet { get; init; }
     public uint DamageRatio { get; init; }
+    public bool TeamDamage { get; init; }
     public bool GhostRule { get; init; }
 
     public GameModeType() { }
@@ -42,6 +43,7 @@ public sealed class GameModeType
         OverrideItemSpawnRuleSet = element.Element(nameof(OverrideItemSpawnRuleSet))?.Value;
         LevelSet = element.Element(nameof(LevelSet))?.Value;
         DamageRatio = uint.TryParse(element.Element(nameof(DamageRatio))?.Value, out uint dr) ? dr : 100;
+        TeamDamage = string.Equals("TRUE", element.Element(nameof(TeamDamage))?.Value, StringComparison.OrdinalIgnoreCase);
         GhostRule = string.Equals("TRUE", element.Element(nameof(GhostRule))?.Value, StringComparison.OrdinalIgnoreCase);
     }
 }

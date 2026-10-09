@@ -35,7 +35,7 @@ public sealed class BOTWWriter(WriterData data)
 
             WriteGamemodeType(writer, gamemode, usedGamemodeKeys);
         }
-        writer.Write(@"}}</includeonly><noinclude>
+        writer.WriteLine(@"}}</includeonly><noinclude>
 {{doc}}
 {{BOTW/top}}
 {{BOTW/bottom}}
@@ -191,7 +191,13 @@ public sealed class BOTWWriter(WriterData data)
             writer.Write('v');
             writer.Write(Math.Floor(gamemode.MaxPlayers / 2f));
             writer.WriteLine(')');
+
+            if (gamemode.TeamDamage)
+                writer.WriteLine("*Team damage enabled");
         }
+
+        if (gamemode.GhostRule)
+            writer.WriteLine("*[[Ghost Mode]] is enabled");
 
         // 2 player vs bot gamemodes
         if (gamemode.GameModeName == "BOTW2v1DarthMaul")
@@ -212,14 +218,16 @@ public sealed class BOTWWriter(WriterData data)
 
     private void WriteLevelSetText(StreamWriter writer, GameModeType gamemode)
     {
-        string? levelSetName = gamemode.LevelSet;
+        if (gamemode.LevelSet is null)
+            return;
 
+        ScoringType scoringType = data.ScoringTypes.ScoringsMap[gamemode.ScoringType];
         // map set is all maps for the gamemode
-        if (levelSetName is null || levelSetName.EndsWith("All") || levelSetName == "VolleyBattle")
+        if (gamemode.LevelSet == scoringType.LevelSetAll)
             return;
 
         // link to map set page
-        if (LEVEL_SET_TO_MAP_SET_PAGE_ANCHOR.TryGetValue(levelSetName, out string? mapSetPageHeader))
+        if (LEVEL_SET_TO_MAP_SET_PAGE_ANCHOR.TryGetValue(gamemode.LevelSet, out string? mapSetPageHeader))
         {
             writer.Write("*Map Set: [[Map_Set#");
             writer.Write(mapSetPageHeader);
@@ -234,13 +242,13 @@ public sealed class BOTWWriter(WriterData data)
             if (levelList is null)
             {
                 // make sure we get all of them
-                if (levelSetName.Contains("New"))
+                if (gamemode.LevelSet.Contains("New") || gamemode.LevelSet == "OVERRIDE ME")
                 {
                     writer.WriteLine($"AN OVERRIDE NEEDS TO BE ADDED FOR THIS ({gamemode.GameModeName})");
                     return;
                 }
 
-                LevelSetType levelSet = data.LevelSetTypes.LevelSetsMap[levelSetName];
+                LevelSetType levelSet = data.LevelSetTypes.LevelSetsMap[gamemode.LevelSet];
                 levelList = levelSet.LevelTypes;
             }
 
@@ -452,7 +460,7 @@ public sealed class BOTWWriter(WriterData data)
         StartingLives = 3,
         ScoringType = "STOCK",
         OverrideItemSpawnRuleSet = "NoItems",
-        LevelSet = "",
+        LevelSet = "OVERRIDE ME",
         Variation = "Shift",
         DamageRatio = 100,
     };
@@ -465,7 +473,7 @@ public sealed class BOTWWriter(WriterData data)
         DisplayNameKey = "Starlight Snowbrawl Scuffle",
         DescriptionKey = "Cool off with your fellow Starlight Champions in this 4 player, 3 minute free-for-all! Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!",
         ScoringType = "SNOWBALL",
-        LevelSet = "",
+        LevelSet = "OVERRIDE ME",
         MaxPlayers = 4,
         Duration = 180,
         DamageRatio = 100,

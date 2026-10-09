@@ -9,12 +9,14 @@ public sealed class ScoringType
     public string ScoringName { get; }
     public string DisplayNameKey { get; }
     public string ItemSpawnRuleSet { get; }
+    public string? LevelSetAll { get; }
 
     public ScoringType(XElement element)
     {
         ScoringName = element.Attribute(nameof(ScoringName))!.Value;
         DisplayNameKey = element.Element(nameof(DisplayNameKey))!.Value;
         ItemSpawnRuleSet = element.Element(nameof(ItemSpawnRuleSet))!.Value;
+        LevelSetAll = element.Element(nameof(LevelSetAll))?.Value;
     }
 }
 
