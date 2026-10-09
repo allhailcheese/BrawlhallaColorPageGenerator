@@ -92,6 +92,8 @@ public sealed class BOTWWriter(WriterData data)
         {
             "BOTW4FFASingleLegend" => "png", // Yumiko, We-Miko!
             "BOTW2v2300" => "png", // Double KO Mania!
+            "BOTWRicochetTimed" => "png", // Dodgebomb
+            "BOTW2v2" => "png", // Brawl Together!
             _ => "jpg",
         });
         writer.WriteLine("|200px]]");

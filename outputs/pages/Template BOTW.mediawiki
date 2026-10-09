@@ -23,7 +23,7 @@
 |dodgebomb=
 {{!}}-
 {{!}} '''Dodgebomb'''
-{{!}} [[File:BOTW Dodgebomb.jpg|200px]]
+{{!}} [[File:BOTW Dodgebomb.png|200px]]
 {{!}}''Bombs, bombs, and more bombs! Juke and dodge high above the ground in this bombs only game mode. Score 2 points for a knockout and lose a point for being knocked out yourself in this 4 player 2 minute free for all queue!''
 *{{gamemodes|dodgebomb|16px}}
 *4 players
@@ -119,7 +119,7 @@
 |brawl together=
 {{!}}-
 {{!}} '''Brawl Together!'''
-{{!}} [[File:BOTW Brawl Together!.jpg|200px]]
+{{!}} [[File:BOTW Brawl Together!.png|200px]]
 {{!}}''Queue solo or as a team for 2v2 brawlin' action! No partner? Don't worry, we'll find someone to fight with you! No team damage, no ladder anxiety, just relax and enjoy Brawlhalla in teams. First team to KO both opponents 3 times each wins!''
 *{{gamemodes|stock|16px}}
 *4 players
