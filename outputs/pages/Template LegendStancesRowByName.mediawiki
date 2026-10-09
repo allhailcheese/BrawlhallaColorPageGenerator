@@ -1,5 +1,4 @@
-<includeonly><onlyinclude>
-{{#switch:{{lc:{{{1}}}}}
+<includeonly>{{#switch:{{lc:{{{1}}}}}
 |bödvar|bodvar = {{LegendStancesRow|{{#ifeq:{{{nohead|}}}|true||Bödvar}}|str=6|dex=6|def=5|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str|super_str_take=dex,def|super_dex_take=def,spd|super_def_take=str,spd|super_spd_take=str,dex|levels={{{levels|}}}|str_level=8|dex_level=6|def_level=4|spd_level=3|super_str_level=17|super_dex_level=15|super_def_level=13|super_spd_level=11}}
 |cassidy = {{LegendStancesRow|{{#ifeq:{{{nohead|}}}|true||Cassidy}}|str=6|dex=8|def=4|spd=4|str_take=spd|dex_take=str|def_take=dex|spd_take=def|super_str_take=dex,dex|super_dex_take=str,spd|super_def_take=str,dex|super_spd_take=dex,def|levels={{{levels|}}}|str_level=6|dex_level=8|def_level=3|spd_level=4|super_str_level=15|super_dex_level=17|super_def_level=11|super_spd_level=13}}
 |orion = {{LegendStancesRow|{{#ifeq:{{{nohead|}}}|true||Orion}}|str=4|dex=6|def=6|spd=6|str_take=def|dex_take=spd|def_take=dex|spd_take=str|super_str_take=dex,def|super_dex_take=str,spd|super_def_take=dex,spd|super_spd_take=str,def|levels={{{levels|}}}|str_level=3|dex_level=6|def_level=8|spd_level=4|super_str_level=11|super_dex_level=15|super_def_level=17|super_spd_level=13}}
@@ -70,19 +69,6 @@
 |rupture = {{LegendStancesRow|{{#ifeq:{{{nohead|}}}|true||Rupture}}|str=9|dex=3|def=5|spd=5|str_take=def|dex_take=str|def_take=spd|spd_take=dex|super_str_take=def,spd|super_dex_take=str,def|super_def_take=str,str|super_spd_take=str,dex|levels={{{levels|}}}|str_level=8|dex_level=3|def_level=6|spd_level=4|super_str_level=17|super_dex_level=11|super_def_level=15|super_spd_level=13}}
 |aurus = {{LegendStancesRow|{{#ifeq:{{{nohead|}}}|true||Aurus}}|str=6|dex=6|def=6|spd=4|str_take=dex|dex_take=def|def_take=spd|spd_take=str|super_str_take=dex,def|super_dex_take=str,def|super_def_take=str,spd|super_spd_take=str,dex|levels={{{levels|}}}|str_level=6|dex_level=4|def_level=3|spd_level=8|super_str_level=15|super_dex_level=13|super_def_level=17|super_spd_level=11}}
 |qinghua & baobao = {{LegendStancesRow|{{#ifeq:{{{nohead|}}}|true||Qinghua & Baobao}}|str=5|dex=4|def=5|spd=8|str_take=dex|dex_take=spd|def_take=str|spd_take=def|super_str_take=dex,spd|super_dex_take=str,spd|super_def_take=spd,spd|super_spd_take=str,def|levels={{{levels|}}}|str_level=4|dex_level=3|def_level=6|spd_level=8|super_str_level=13|super_dex_level=11|super_def_level=15|super_spd_level=17}}
-}}</onlyinclude></includeonly><noinclude>
-{| class="wikitable" style="text-align:center;"
-{{LegendStancesRowByName|Bodvar}}
-{{LegendStancesRowByName|Xull}}
-{{LegendStancesRowByName|Lady Vera}}
-|}
-
-{| class="wikitable" style="text-align:center;"
-{{LegendStancesRowByName|Lady Vera|nohead=true}}
-|}
-
-{| class="wikitable" style="text-align:center;"
-{{LegendStancesRowByName|Lady Vera|nohead=true|levels=true}}
-|}
-
+}}</includeonly><noinclude>
+{{doc}}
 [[Category:Templates]]</noinclude>

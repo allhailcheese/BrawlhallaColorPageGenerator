@@ -48,13 +48,13 @@ public sealed class RuneType
     public string? ShortName => IconName switch
     {
         "a_StanceIcon_Strength" => "str",
-        "a_StanceIcon_SuperStrength" => $"super_str",
+        "a_StanceIcon_SuperStrength" => "super_str",
         "a_StanceIcon_Dexterity" => "dex",
-        "a_StanceIcon_SuperDexterity" => $"super_dex",
+        "a_StanceIcon_SuperDexterity" => "super_dex",
         "a_StanceIcon_Weight" => "def",
-        "a_StanceIcon_SuperWeight" => $"super_def",
+        "a_StanceIcon_SuperWeight" => "super_def",
         "a_StanceIcon_Speed" => "spd",
-        "a_StanceIcon_SuperSpeed" => $"super_spd",
+        "a_StanceIcon_SuperSpeed" => "super_spd",
         "a_StanceIcon_Challenge" => "chal",
         "a_StanceIcon_Base" => null,
         _ => "ERROR",
