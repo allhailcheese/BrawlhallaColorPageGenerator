@@ -19,6 +19,9 @@ public sealed class BOTWWriter(WriterData data)
             // older versions of the gamemode that got overwritten
             switch (gamemode.GameModeName)
             {
+                case "BOTW1v1Relay5":
+                    WriteGamemodeType(writer, BOTW1v1Relay5_Old, usedGamemodeKeys);
+                    break;
                 case "BOTW1v1Switch":
                     WriteGamemodeType(writer, BOTW1v1Switch_Old, usedGamemodeKeys);
                     break;
@@ -301,6 +304,7 @@ public sealed class BOTWWriter(WriterData data)
     // For gamemodes that use a level set that is later changed (like "NewMap1v1")
     private static readonly Dictionary<string, string[]> GAMEMODE_LEVEL_LIST_OVERRIDE = new()
     {
+        ["BOTW1v1Relay5_Old"] = ["BattleHill"], // Strikeout Mania!
         ["BOTW1v1Switch"] = ["BP9EndTimesTiny"], // Dangerous Duel
         ["BOTW3v3NewMap"] = ["RefineryDoors"], // Theed City Skirmish
         ["BOTWTableTop1v1"] = ["Lavabrawl3"], // Dwarven Duel
@@ -417,6 +421,22 @@ public sealed class BOTWWriter(WriterData data)
     }
 
     // some botw gamemodes were replaced. these are the originals.
+
+    // originally generic, turned into star wars
+    private static readonly GameModeType BOTW1v1Relay5_Old = new()
+    {
+        GameModeName = "BOTW1v1Relay5_Old",
+        DisplayNameKey = "GameModeType_BOTW1v1Relay5_DisplayName",
+        DescriptionKey = "GameModeType_BOTW1v1Relay5_DescriptionKey",
+        MaxPlayers = 2,
+        Duration = 480,
+        StartingLives = 5,
+        ScoringType = "STOCK",
+        // TODO there might've been an even older version with a more general map set?
+        LevelSet = "OVERRIDE ME",
+        DamageRatio = 300,
+        Variation = "Relay",
+    };
 
     // originally generic, turned into bp9
     private static readonly GameModeType BOTW1v1Switch_Old = new()

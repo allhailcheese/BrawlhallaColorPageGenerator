@@ -262,6 +262,17 @@
 *Teams enabled (2v2)
 *[[Ghost Mode]] is enabled
 *Map Set: [[Map_Set#2v2_Map_Set|2v2]]
+|strikeout mania=
+{{!}}-
+{{!}} '''Strikeout Mania!'''
+{{!}} [[File:BOTW Strikeout Mania!.jpg|200px]]
+{{!}}''Pick your best 5 Legends and face off against your opponents best 5 Legends in this intense 300% damage battle! When you lose a stock the next Legend in your list spawns in ready to fight. KO your opponent 5 times to win!''
+*{{gamemodes|stock|16px}} {{gamemodes|strikeout|16px}}
+*2 players
+*5 lives
+*8:00 minutes
+*300% damage
+*Map: {{MapListing|plains of passage}}
 |scum & villainy strikeout=
 {{!}}-
 {{!}} '''Scum & Villainy Strikeout'''
