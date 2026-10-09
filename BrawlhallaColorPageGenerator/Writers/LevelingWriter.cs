@@ -24,7 +24,7 @@ public sealed class LevelingWriter(WriterData data)
     public void WriteTo(string path)
     {
         using StreamWriter writer = new(path) { NewLine = "\n" };
-        writer.WriteLine("<includeonly><onlyinclude>\n{{#switch:{{lc:{{{1}}}}}");
+        writer.WriteLine("<includeonly>{{#switch:{{lc:{{{1}}}}}");
         foreach (HeroType hero in data.HeroTypes.Heroes.OrderBy((h) => h.ReleaseOrderID))
         {
             if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes) || hero.BioName is null)
@@ -76,15 +76,8 @@ public sealed class LevelingWriter(WriterData data)
         }
         writer.WriteLine(
 """
-}}</onlyinclude></includeonly><noinclude>
-{| class="wikitable" style="text-align:center;"
-{{LegendLevelingRowByName|Bodvar}}
-{{LegendLevelingRowByName|Lady Vera}}
-|}
-
-{| class="wikitable" style="text-align:center;"
-{{LegendLevelingRowByName|Bodvar|extra_labels=true}}
-|}
+}}</includeonly><noinclude>
+{{doc}}
 [[Category:Templates]]</noinclude>
 """
 );
