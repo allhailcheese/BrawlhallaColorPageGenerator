@@ -19,6 +19,9 @@ public sealed class BOTWWriter(WriterData data)
             // older versions of the gamemode that got overwritten
             switch (gamemode.GameModeName)
             {
+                case "BOTW3v3NewMap":
+                    WriteGamemodeType(writer, BOTWAvatar3v3, usedGamemodeKeys);
+                    break;
                 case "BOTW1v1Relay5":
                     WriteGamemodeType(writer, BOTW1v1Relay5_Old, usedGamemodeKeys);
                     break;
@@ -430,6 +433,21 @@ public sealed class BOTWWriter(WriterData data)
     }
 
     // some botw gamemodes were replaced. these are the originals.
+
+    // originally avatar, turned into star wars (and name changed to BOTW3v3NewMap)
+    private static readonly GameModeType BOTWAvatar3v3 = new()
+    {
+        GameModeName = nameof(BOTWAvatar3v3),
+        DisplayNameKey = "GameModeType_AvatarBOTW3v3_DisplayName",
+        DescriptionKey = "GameModeType_AvatarBOTW3v3_DescriptionKey",
+        Teams = true,
+        MaxPlayers = 6,
+        Duration = 480,
+        StartingLives = 3,
+        ScoringType = "STOCK",
+        LevelSet = "AvatarBigBOTW",
+        DamageRatio = 100,
+    };
 
     // originally generic, turned into star wars
     private static readonly GameModeType BOTW1v1Relay5_Old = new()

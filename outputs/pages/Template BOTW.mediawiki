@@ -604,6 +604,17 @@
 *Map Set: 
 **{{MapListing|florence rooftop}}
 **{{MapListing|florence terrace}}
+|air temple skirmish=
+{{!}}-
+{{!}} '''Air Temple Skirmish'''
+{{!}} [[File:BOTW Air Temple Skirmish.jpg|200px]]
+{{!}}''Test your bending skills in an epic free-for-all match! Take to the skies just outside the Western Air Temple and work together to secure KO's. Earn 2 points for KOing an enemy, lose 1 point for being KO'd. The team with the most points after 3 minutes, wins!''
+*{{gamemodes|stock|16px}}
+*6 players
+*3 lives
+*8:00 minutes
+*Teams enabled (3v3)
+*Map: {{MapListing|western air temple brawl}}
 |theed city skirmish=
 {{!}}-
 {{!}} '''Theed City Skirmish'''
