@@ -665,6 +665,15 @@
 *2 players
 *3:00 minutes
 *Map Set: [[Map_Set#Dice & Destruction 1v1_Map_Set|Dice & Destruction 1v1]]
+|crumbling chasm clash=
+{{!}}-
+{{!}} '''Crumbling Chasm Clash'''
+{{!}} [[File:BOTW Crumbling Chasm Clash.jpg|200px]]
+{{!}}''Watch out! The stage slowly crumbles away in this exciting new way to play Dice & Destruction. Fight in this 1v1, 3-minute match and earn the the most points before time runs out while you struggle to find your footing.''
+*{{gamemodes|dice & destruction|16px}}
+*2 players
+*3:00 minutes
+*Map: {{MapListing|crumbling chasm}}
 |dwarven duel=
 {{!}}-
 {{!}} '''Dwarven Duel'''

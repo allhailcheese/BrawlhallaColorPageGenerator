@@ -26,6 +26,7 @@ public sealed class BOTWWriter(WriterData data)
                     WriteGamemodeType(writer, BOTW1v1Switch_Old, usedGamemodeKeys);
                     break;
                 case "BOTWTableTop1v1":
+                    WriteGamemodeType(writer, BOTWTableTop1v1_Old_Old, usedGamemodeKeys);
                     WriteGamemodeType(writer, BOTWTableTop1v1_Old, usedGamemodeKeys);
                     break;
                 case "BOTWShift1v1NewMap":
@@ -311,6 +312,7 @@ public sealed class BOTWWriter(WriterData data)
         [nameof(BOTW1v1Relay5_Old)] = ["BattleHill"], // Strikeout Mania!
         ["BOTW1v1Switch"] = ["BP9EndTimesTiny"], // Dangerous Duel
         ["BOTW3v3NewMap"] = ["RefineryDoors"], // Theed City Skirmish
+        [nameof(BOTWTableTop1v1_Old)] = ["BP9EndTimesSmall"], // Crumbling Chasm Clash
         ["BOTWTableTop1v1"] = ["Lavabrawl3"], // Dwarven Duel
         ["BOTWBombMania"] = ["BP8ThreePlatformFFABig"], // Terminus-plosions!
         [nameof(BOTWShift1v1NewMap_Old_Old)] = ["BP8ThreePlatform"], // Loki's Illusions
@@ -460,14 +462,25 @@ public sealed class BOTWWriter(WriterData data)
         DamageRatio = 100,
     };
 
-    // originally bp7, turned into ivaldi
-    private static readonly GameModeType BOTWTableTop1v1_Old = new()
+    // originally bp7, turned into bp9, then into ivaldi
+    private static readonly GameModeType BOTWTableTop1v1_Old_Old = new()
     {
-        GameModeName = nameof(BOTWTableTop1v1_Old),
+        GameModeName = nameof(BOTWTableTop1v1_Old_Old),
         DisplayNameKey = "GameModeType_BOTWTableTop1v1_DisplayName",
         DescriptionKey = "GameModeType_BOTWTableTop1v1_DescriptionKey",
         ScoringType = "TABLETOP",
         LevelSet = "TableTop1v1",
+        MaxPlayers = 2,
+        Duration = 180,
+        DamageRatio = 100,
+    };
+    private static readonly GameModeType BOTWTableTop1v1_Old = new()
+    {
+        GameModeName = nameof(BOTWTableTop1v1_Old),
+        DisplayNameKey = "GameModeType_BOTWBP9TableTop1v1_DisplayName",
+        DescriptionKey = "GameModeType_BOTWBP9TableTop1v1_DescriptionKey",
+        ScoringType = "TABLETOP",
+        LevelSet = "OVERRIDE ME",
         MaxPlayers = 2,
         Duration = 180,
         DamageRatio = 100,
