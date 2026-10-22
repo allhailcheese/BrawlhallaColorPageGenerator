@@ -10,14 +10,16 @@ public partial class WriterData
     {
         string displayNameKey = emojiType.DisplayNameKey;
 
-        string emojiName = LangFile.Entries[displayNameKey].Replace('’', '\'');
+        string emojiName = LangFile.Entries[displayNameKey];
+        emojiName = emojiName.Replace('’', '\'');
+        emojiName = emojiName.Replace('î', 'i');
         string imageName = emojiName;
         ImageExtensionEnum extension = emojiType.AnimRig switch
         {
             "a__AnimationEmoji1" => ImageExtensionEnum.Png,
             "a__AnimationEmoji8" => emojiType.EmojiName switch
             {
-                "OneMoreBaoBao" => ImageExtensionEnum.Webp,
+                "OneMoreBaoBao" or "LaughAnniversary" => ImageExtensionEnum.Webp,
                 _ => ImageExtensionEnum.Gif,
             },
             _ => throw new ArgumentException($"Unhandled emoji AnimRig {emojiType.AnimRig}"),
@@ -30,18 +32,23 @@ public partial class WriterData
                 emojiName = displayName = "Elvenhollow Thumbs Down";
                 imageName = "Elvenhollow";
                 break;
+            case "AnniLookinGoodDiana":
+                emojiName = displayName = "Lookin' Swanky";
+                imageName = "Swanky";
+                break;
             case "OneMoreBaoBao":
                 break;
             default:
                 string[] expectedSuffixes = emojiType.Category switch
                 {
                     "OneMore" => ["One More", "1 More"],
-                    "LookingGood" => ["Lookin' Good"],
+                    "LookingGood" => ["Lookin' Good", "Lookin' Swanky"],
                     "ThumbsUp" => ["Thumbs Up"],
                     "ThumbsDown" => ["Thumbs Down"],
                     "Laugh" => ["Laugh", "Cackle"],
                     "GG" => ["GG", "GG OR AM I LYING?"],
                     "Think" => ["Think", "Thinking"],
+                    "Wow" => ["Wow", "Astonishment"],
                     _ => [emojiType.Category],
                 };
                 string suffix = expectedSuffixes.FirstOrDefault((suff) => imageName.EndsWith(suff)) ?? throw new ArgumentException($"Unhandled irregular emoji name {imageName}");

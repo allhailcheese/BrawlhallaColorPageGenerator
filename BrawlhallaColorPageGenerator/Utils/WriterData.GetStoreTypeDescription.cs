@@ -43,6 +43,7 @@ public partial class WriterData
                 "Heatwave26" => FormatItemTag("summer", 2026),
                 "BackToSchool26" => FormatItemTag("school", 2026),
                 "Halloween26" => FormatItemTag("halloween", 2026),
+                "Anniversary26" => FormatItemTag("anniv", 2026),
                 _ => " ERROR",
             });
             if (useSmallElement) sb.Append("</small>");
@@ -95,6 +96,7 @@ public partial class WriterData
                 "MythicWuShang" => 900,
                 "MythicNix" => 900,
                 "MythicWerewolf" => 900,
+                "MythicMinotaur" => 900,
                 // Normal
                 _ => storeType.IdolCost
             }));
@@ -122,7 +124,8 @@ public partial class WriterData
                 "Heatwave25" or "Heatwave26" => "heatwave",
                 "BackToSchool25" or "BackToSchool26" => "school",
                 "Halloween25" or "Halloween26" => "halloween",
-                "Anniversary25" => "anniv",
+                "Anniversary25" => "anniv25",
+                "Anniversary26" => "anniv26",
                 "Christmas25" => "xmas",
                 "VDay25" => "love",
                 "StPatricks26" => "march",

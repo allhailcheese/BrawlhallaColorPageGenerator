@@ -29,6 +29,7 @@ public sealed class BOTWWriter(WriterData data)
                     WriteGamemodeType(writer, BOTWTableTop1v1_Old, usedGamemodeKeys);
                     break;
                 case "BOTWShift1v1NewMap":
+                    WriteGamemodeType(writer, BOTWShift1v1NewMap_Old_Old, usedGamemodeKeys);
                     WriteGamemodeType(writer, BOTWShift1v1NewMap_Old, usedGamemodeKeys);
                     break;
                 case "BOTWSnowbrawlNewMap":
@@ -59,11 +60,13 @@ public sealed class BOTWWriter(WriterData data)
             "BOTW1v1300NewMap" => "Eternity's End KO Mania!",
             "BOTW2v2SwitchNewMap" => "Eternity's End Switchcraft 2v2",
             "BOTWOddbrawl2v2NewMap" => "Eternity's End Team Oddbrawl",
+            "BOTWShift1v1NewMap" => "Eternity's End Morph",
             // Text got overwritten
             "BOTWVolleyBattle2v2" => BOTWVolleyBattle2v2_DisplayName,
             // Fake gamemode types to keep older ones
-            "BOTWShift1v1NewMap_Old" => gamemode.DisplayNameKey,
-            "BOTWSnowbrawlNewMap_Old" => gamemode.DisplayNameKey,
+            nameof(BOTWShift1v1NewMap_Old_Old) => gamemode.DisplayNameKey,
+            nameof(BOTWShift1v1NewMap_Old) => gamemode.DisplayNameKey,
+            nameof(BOTWSnowbrawlNewMap_Old) => gamemode.DisplayNameKey,
             // Real
             _ => data.LangFile.Entries[gamemode.DisplayNameKey],
         };
@@ -110,8 +113,9 @@ public sealed class BOTWWriter(WriterData data)
                 // Text got overwritten
                 "BOTWVolleyBattle2v2" => BOTWVolleyBattle2v2_Description,
                 // Fake gamemode types to keep older ones
-                "BOTWShift1v1NewMap_Old" => gamemode.DescriptionKey,
-                "BOTWSnowbrawlNewMap_Old" => gamemode.DescriptionKey,
+                nameof(BOTWShift1v1NewMap_Old_Old) => gamemode.DescriptionKey,
+                nameof(BOTWShift1v1NewMap_Old) => gamemode.DescriptionKey,
+                nameof(BOTWSnowbrawlNewMap_Old) => gamemode.DescriptionKey,
                 // Real
                 _ => data.LangFile.Entries[gamemode.DescriptionKey],
             };
@@ -304,20 +308,21 @@ public sealed class BOTWWriter(WriterData data)
     // For gamemodes that use a level set that is later changed (like "NewMap1v1")
     private static readonly Dictionary<string, string[]> GAMEMODE_LEVEL_LIST_OVERRIDE = new()
     {
-        ["BOTW1v1Relay5_Old"] = ["BattleHill"], // Strikeout Mania!
+        [nameof(BOTW1v1Relay5_Old)] = ["BattleHill"], // Strikeout Mania!
         ["BOTW1v1Switch"] = ["BP9EndTimesTiny"], // Dangerous Duel
         ["BOTW3v3NewMap"] = ["RefineryDoors"], // Theed City Skirmish
         ["BOTWTableTop1v1"] = ["Lavabrawl3"], // Dwarven Duel
         ["BOTWBombMania"] = ["BP8ThreePlatformFFABig"], // Terminus-plosions!
-        ["BOTWShift1v1NewMap_Old"] = ["BP8ThreePlatform"], // Loki's Illusions
-        ["BOTWShift1v1NewMap"] = ["TriPlatBattle"], // Mishima Dojo Skirmish
+        [nameof(BOTWShift1v1NewMap_Old_Old)] = ["BP8ThreePlatform"], // Loki's Illusions
+        [nameof(BOTWShift1v1NewMap_Old)] = ["TriPlatBattle"], // Mishima Dojo Skirmish
+        ["BOTWShift1v1NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Morph
         ["BOTWVolleyBattle2v2NewMap"] = ["VolleyBattleSmall"], // TEKKEN Brawl
         ["BOTWTableTop2v2NewMap"] = ["Norse1v1Spike"], // Jötunheimr's Doom
         ["BOTWTagRelay2v2NewMap"] = ["SpongebobMap"], // Bubble Tag Relay
         ["BOTW1v1NewMap"] = ["Mustafar"], // Brawl of the Heroes
         ["BOTWBounty6Bombs200"] = ["BP9EndTimesBig"], // Apocalyptic Target
         ["BOTW2v2NewMap"] = ["RefineryDoors"], // Rule of 2v2
-        ["BOTWSnowbrawlNewMap_Old"] = ["ThreeShips"], // Starlight Snowbrawl Scuffle
+        [nameof(BOTWSnowbrawlNewMap_Old)] = ["ThreeShips"], // Starlight Snowbrawl Scuffle
         ["BOTWSnowbrawlNewMap"] = ["MudBrawl2"], // Muddy Gadget Mayhem
         ["BOTWTableTopFFA6NewMap"] = ["ThreeShips"], // Starlight Selection Trials
         ["BOTWThreeForAllRelayNewMap"] = ["SmallMovingPlatform"], // Lichlord's Relay
@@ -329,6 +334,8 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTW1v1300NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End KO Mania!
         ["BOTW2v2SwitchNewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Switchcraft 2v2
         ["BOTWOddbrawl2v2NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Team Oddbrawl
+        ["BOTW3v3BrawlballNewMap"] = ["Elysium"], // Brawlball Bash! (Elysium Arena)
+        ["BOTW2v2BrawlballNewMap"] = ["Elysium"], // 2v2 Brawlball (Elysium Arena)
     };
 
     private void WriteItemSpawnRuleSetText(StreamWriter writer, GameModeType gamemode)
@@ -425,7 +432,7 @@ public sealed class BOTWWriter(WriterData data)
     // originally generic, turned into star wars
     private static readonly GameModeType BOTW1v1Relay5_Old = new()
     {
-        GameModeName = "BOTW1v1Relay5_Old",
+        GameModeName = nameof(BOTW1v1Relay5_Old),
         DisplayNameKey = "GameModeType_BOTW1v1Relay5_DisplayName",
         DescriptionKey = "GameModeType_BOTW1v1Relay5_DescriptionKey",
         MaxPlayers = 2,
@@ -441,7 +448,7 @@ public sealed class BOTWWriter(WriterData data)
     // originally generic, turned into bp9
     private static readonly GameModeType BOTW1v1Switch_Old = new()
     {
-        GameModeName = "BOTW1v1Switch_Old",
+        GameModeName = nameof(BOTW1v1Switch_Old),
         DisplayNameKey = "GameModeType_BOTW1v1Switch_DisplayName",
         DescriptionKey = "GameModeType_BOTW1v1Switch_DescriptionKey",
         MaxPlayers = 2,
@@ -456,7 +463,7 @@ public sealed class BOTWWriter(WriterData data)
     // originally bp7, turned into ivaldi
     private static readonly GameModeType BOTWTableTop1v1_Old = new()
     {
-        GameModeName = "BOTWTableTop1v1_Old",
+        GameModeName = nameof(BOTWTableTop1v1_Old),
         DisplayNameKey = "GameModeType_BOTWTableTop1v1_DisplayName",
         DescriptionKey = "GameModeType_BOTWTableTop1v1_DescriptionKey",
         ScoringType = "TABLETOP",
@@ -470,10 +477,25 @@ public sealed class BOTWWriter(WriterData data)
     private const string BOTWVolleyBattle2v2_DisplayName = "Volleybrawl Duos";
     private const string BOTWVolleyBattle2v2_Description = "Pair up for a sandy 2v2 game of Volleybrawl! Hit the ball to change it to your team's color. If the ball touches the opposing team's floor while it's your team's color, it'll do damage. Deplete their HP to score a point. Be careful: if the ball is still for too long or is hit four times without changing sides it'll reset. First to three points wins!";
 
-    // originally bp8, turned into tekken
+    // originally bp8, turned into tekken, then turned into bp14
     private static readonly GameModeType BOTWShift1v1NewMap_Old = new()
     {
-        GameModeName = "BOTWShift1v1NewMap_Old",
+        GameModeName = nameof(BOTWShift1v1NewMap_Old),
+        // the text was also overwritten
+        DisplayNameKey = "Mishima Dojo Skirmish",
+        DescriptionKey = "Hone your skills inside of the Mishima Dojo! Choose one weapon each from 3 of your favorite Legends in a 3 stock 1v1 battle. Use the Weapon throw button to change forms in combat. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!",
+        MaxPlayers = 2,
+        Duration = 480,
+        StartingLives = 3,
+        ScoringType = "STOCK",
+        OverrideItemSpawnRuleSet = "NoItems",
+        LevelSet = "OVERRIDE ME",
+        Variation = "Shift",
+        DamageRatio = 100,
+    };
+    private static readonly GameModeType BOTWShift1v1NewMap_Old_Old = new()
+    {
+        GameModeName = nameof(BOTWShift1v1NewMap_Old_Old),
         // the text was also overwritten
         DisplayNameKey = "Loki's Illusions",
         DescriptionKey = "Beware Loki’s veil of illusions and use it to your advantage in this 3 stock 1v1 transforming battle! Choose one weapon each from 3 of your favorite Legends. Then, use the Weapon throw button to change forms in combat. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!",
@@ -490,7 +512,7 @@ public sealed class BOTWWriter(WriterData data)
     // originally bp10, turned into shrek
     private static readonly GameModeType BOTWSnowbrawlNewMap_Old = new()
     {
-        GameModeName = "BOTWSnowbrawlNewMap_Old",
+        GameModeName = nameof(BOTWSnowbrawlNewMap_Old),
         // the text was also overwritten
         DisplayNameKey = "Starlight Snowbrawl Scuffle",
         DescriptionKey = "Cool off with your fellow Starlight Champions in this 4 player, 3 minute free-for-all! Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!",

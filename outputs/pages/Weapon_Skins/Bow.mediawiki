@@ -86,6 +86,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Ninpō: Denkyū|image=Ninpō Denkyū.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Unsealed Bow|image=Ninpō Unsealed Bow.png|desc={{BPReward|Season Twelve|free|Past Tier 23}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Opal's Bow|image=Opal's Bow.png|desc=[[Pearl]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ornamental Arches|image=Ornamental Arches.png|desc=[[Formal Deco Vector]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Owl's Flight|image=Owl's Flight.png|desc=[[Athena Kaya]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Packbane|image=Packbane.png|desc=[[Ember the Hunter]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Pew Pew|image=Pew Pew.png|desc=[[Lil' Yumiko]]|descheight=55px}}

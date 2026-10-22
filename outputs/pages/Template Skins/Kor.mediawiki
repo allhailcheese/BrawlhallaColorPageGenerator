@@ -13,4 +13,5 @@
 {{itembox|width=220|height=270|name=Gentleman Kor|image=Gentleman Kor.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Toph|image=Toph.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Indomitable Daylight Kor|image=Indomitable Daylight Kor.png|desc={{BPReward|Season Eleven|gold|Tier 35}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Kor|image=Metadev Kor.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
 {{Itembox/bottom}}

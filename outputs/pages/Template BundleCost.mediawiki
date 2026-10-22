@@ -74,6 +74,10 @@
 | brawlhalloween '26 mega bundle = 2380
 | graveyard shift bundle = 1000
 | trick or treater bundle = 560
+| 11th anniversary mega bundle = 1620
+| high fashion bundle = 895
+| gentlemen bundle = 670
+| ascended teros = 1120
 |0
 }}}}{{#vardefine:discount|{{#switch:{{lc:{{{1}}}}}
 <!-- fraction of base cost. names should be lowercase -->
@@ -151,6 +155,10 @@
 | brawlhalloween '26 mega bundle = 0.630252100840336
 | graveyard shift bundle = 0.7
 | trick or treater bundle = 0.696428571428571
+| 11th anniversary mega bundle = 0.604938271604938
+| high fashion bundle = 0.782122905027933
+| gentlemen bundle = 0.791044776119403
+| ascended teros = 0.803571429
 |1
 }}}}{{#switch:{{lc:{{{2|}}}}}
 |discount = {{CalcBundleDiscount|{{#var:discount}}|discount}}

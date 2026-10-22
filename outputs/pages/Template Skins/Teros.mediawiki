@@ -14,4 +14,5 @@
 {{itembox|width=220|height=270|name=Metadev Teros|image=Metadev Teros.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
 {{itembox|width=220|height=270|name=Patrick Star|image=Patrick Star.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Fallen Prince Teros|image=Fallen Prince Teros.webp|desc={{BPReward|Season Ten|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Ascended Teros|image=Ascended Teros.png|cost={{Coin|mammoth|900}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}

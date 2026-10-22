@@ -140,6 +140,7 @@
 *Map Set: 
 **{{MapListing|big brawlball arena}}
 **{{MapListing|big world's end arena}}
+**{{MapListing|elysium arena}}
 |double ko mania=
 {{!}}-
 {{!}} '''Double KO Mania!'''
@@ -802,6 +803,16 @@
 *3 lives
 *8:00 minutes
 *Map: {{MapListing|mishima dojo}}
+|eternity's end morph=
+{{!}}-
+{{!}} '''Eternity's End Morph'''
+{{!}} [[File:BOTW Eternity's End Morph.jpg|200px]]
+{{!}}''Choose 3 Legends and 1 Weapon from each in this 3 stock 1v1 battle. Use the Weapon throw button to change forms in combat. Weapons are always equipped and cannot be picked up or thrown. First to 3 KOs wins!''
+*{{gamemodes|stock|16px}} {{gamemodes|morph|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+*Map: {{MapListing|eternity's end}}
 |street brawl relay=
 {{!}}-
 {{!}} '''Street Brawl Relay'''
@@ -1097,13 +1108,35 @@
 {{!}}-
 {{!}} '''Eternity's End KO Mania!'''
 {{!}} [[File:BOTW Eternity's End KO Mania!.jpg|200px]]
-{{!}}''Square off against your opponent in this hard hitting KO fest! Chew through your foe's 5 Stocks with damage cranked up to an insane 300%! Send your challenger into orbit before they know what hit them. First to 5 KOs wins!''
+{{!}}''Square off against your opponent in this hard hitting KO fest! Chew through your foe's 5 Stocks with damage cranked up to an insane 300%. Send your challenger into orbit before they know what hit them. First to 5 KOs wins.''
 *{{gamemodes|stock|16px}}
 *2 players
 *5 lives
 *8:00 minutes
 *300% damage
 *Map: {{MapListing|eternity's end}}
+|brawlball bash! (elysium arena)=
+{{!}}-
+{{!}} '''Brawlball Bash! (Elysium Arena)'''
+{{!}} [[File:BOTW Brawlball Bash! (Elysium Arena).jpg|200px]]
+{{!}}''Are you ready for some Brawlball? Get the team together for this 3v3 game! Don't have a team? Fear not, we'll find one for you. Hit the arena, snag the ball, juke or pass past your opponents, and hold it in their goal to score. No team damage, and you can go through walls the same color as you. First team to 3 scores wins.''
+*{{gamemodes|brawlball|16px}}
+*6 players
+*Score to win: 3
+*5:00 minutes, max 0:30 minute rounds
+*Teams enabled (3v3)
+*Map: {{MapListing|elysium arena}}
+|2v2 brawlball (elysium arena)=
+{{!}}-
+{{!}} '''2v2 Brawlball (Elysium Arena)'''
+{{!}} [[File:BOTW 2v2 Brawlball (Elysium Arena).jpg|200px]]
+{{!}}''Are you ready for some Brawlball? Get the team together for this 2v2 game! Don't have a duo? Fear not, we'll find one for you. Hit the arena, snag the ball, juke or pass past your opponents, and hold it in their goal to score. No team damage, and you can go through walls the same color as you. First team to 3 scores wins.''
+*{{gamemodes|brawlball|16px}}
+*4 players
+*Score to win: 3
+*5:00 minutes, max 0:30 minute rounds
+*Teams enabled (2v2)
+*Map: {{MapListing|elysium arena}}
 }}</includeonly><noinclude>
 {{doc}}
 {{BOTW/top}}

@@ -66,6 +66,10 @@ public partial class WriterData
             case "Halloween26GraveyardBundle":
             case "Halloween26TrickOrTreatBundle":
                 return ("halloween", 2026);
+            case "Anniversary26MegaBundle":
+            case "Anniversary26HighFashionBundle":
+            case "Anniversary26GentlemenBundle":
+                return ("anniv", 2026);
             default:
                 return ("UNKNOWN", 0);
         }

@@ -10,6 +10,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=All Seeing Axe|image=All Seeing Axe.png|desc={{BPReward|Season Fourteen|gold|Arbiter Tier 22}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Arbiters Reach|image=Arbiters Reach.png|desc=[[Celestial Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Axe|image=Asgardian Axe.png|desc=[[Collectors Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of 1000 Battles|image=Axe of 1000 Battles.png|desc=[[Ascended Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Mercy|image=Axe of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Might|image=Axe of Might.png|desc=[[Silver Age Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Regrowth|image=Axe of Regrowth Level 3.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}

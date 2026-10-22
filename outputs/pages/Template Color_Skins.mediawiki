@@ -434,6 +434,7 @@ Four Arms
 Gentleman Kor
 Toph
 Indomitable Daylight Kor
+Metadev Kor
 }}
 <span id="L"></span>
 ===[[Lady Vera]]===
@@ -832,6 +833,7 @@ Patrick Star
 Fallen Prince Teros && displayname:Fallen Prince Teros (Lvl 1) && image:Fallen Prince Teros Level 1 $1.png
 Fallen Prince Teros && displayname:Fallen Prince Teros (Lvl 2) && image:Fallen Prince Teros Level 2 $1.png
 Fallen Prince Teros && displayname:Fallen Prince Teros (Lvl 3) && image:Fallen Prince Teros Level 3 $1.png
+Ascended Teros
 }}
 ===[[Tezca]]===
 {{List to itembox|color={{{1|}}}|
@@ -927,6 +929,7 @@ Vector Model 01
 Hyperdrift Vector
 Hotshot Vector
 Matchmaker Vector
+Formal Deco Vector
 }}
 ===[[Vivi]]===
 {{List to itembox|color={{{1|}}}|

@@ -12,6 +12,7 @@ All Seeing Axe
 Ancient Axe
 Arbiters Reach
 Asgardian Axe
+Axe of 1000 Battles
 Axe of Mercy
 Axe of Might
 Axe of Regrowth && displayname:Axe of Regrowth (Lvl 1) && image:Axe of Regrowth Level 1 $1.png
@@ -516,6 +517,7 @@ Nightmare Bow
 Ninpō&#58; Denkyū && image:Ninpō Denkyū $1.png
 Ninpō&#58; Unsealed Bow && image:Ninpō Unsealed Bow $1.png
 Opal's Bow
+Ornamental Arches
 Owl's Flight
 Packbane
 Pew Pew
@@ -811,6 +813,7 @@ Love's Embrace
 Malady Wear && displayname:Malady Wear (Lvl 1) && image:Malady Wear Level 1 $1.png
 Malady Wear && displayname:Malady Wear (Lvl 2) && image:Malady Wear Level 2 $1.png
 Malady Wear && displayname:Malady Wear (Lvl 3) && image:Malady Wear Level 3 $1.png
+Marble Clutches
 Martial Fists
 Melting Wax Gauntlets
 Metalbender's Mittens
@@ -1076,6 +1079,7 @@ Righteous Indignation
 Root of the Forest
 Santa's Sleigh-er
 Satellite Smash
+Sculpted Turquoise
 Season's Beatings
 Selena's Smasher
 Shadaloo Scepter
@@ -1123,6 +1127,7 @@ Umbra Hammer
 Unicorn Stampede
 Valiant Armament Hammer
 Verdict
+Visage of Shattered Bones
 Warhammer
 Weight of Betrayal && displayname:Weight of Betrayal (Lvl 1) && image:Weight of Betrayal Level 1 $1.png
 Weight of Betrayal && displayname:Weight of Betrayal (Lvl 2) && image:Weight of Betrayal Level 2 $1.png
@@ -1522,6 +1527,7 @@ Soaring Magi ☆ Sky Duster
 Spark Compressor
 Spark of Madness
 Speaker of the Sea
+Stainless Appeal
 Steam Rocket
 Svartalfheim's Caverns
 Synthetic Charge

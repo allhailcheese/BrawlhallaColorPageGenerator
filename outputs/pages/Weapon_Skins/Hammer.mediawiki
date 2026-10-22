@@ -114,6 +114,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Santa's Sleigh-er|image=Santa's Sleigh-er.png|desc=[[Reindeer Games Gnash]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Satellite Smash|image=Satellite Smash.png|desc=[[Space Race Cassidy]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Scrapyard Bruiser|image=Scrapyard Bruiser.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=205|height=170|name=Sculpted Turquoise|image=Sculpted Turquoise.png|desc=[[Metadev Kor]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Season's Beatings|image=Season's Beatings.png|desc=[[Wreck the Halls Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Selena's Smasher|image=Selena's Smasher.png|desc=[[Globox]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Shadaloo Scepter|image=Shadaloo Scepter.png|desc=[[M. Bison]]|descheight=55px}}
@@ -161,6 +162,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Unicorn Stampede|image=Unicorn Stampede.png|desc=[[Xavier Woods]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Valiant Armament Hammer|image=Valiant Armament Hammer.png|desc=[[Mecha Knight Magyar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Verdict|image=Verdict.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Visage of Shattered Bones|image=Visage of Shattered Bones.png|desc=[[Ascended Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Weight of Betrayal|image=Weight of Betrayal Level 3.png|desc=[[Magyar the Apostate]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc={{BPReward|Season Six|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Wings of Victory|image=Wings of Victory.png|desc=[[Airship Scarlet]]|descheight=55px}}

@@ -96,6 +96,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Lion's Reign|image=Lion's Reign.png|desc={{BPReward|Season Four|free|Tier 6}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Love's Embrace|image=Love's Embrace.png|desc=[[Secret Admirer Zariel]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Malady Wear|image=Malady Wear Level 3.png|desc=[[Corrupted Blood Tezca]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Marble Clutches|image=Marble Clutches.png|desc=[[Metadev Kor]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Martial Fists|image=Martial Fists.png|desc=[[Warrior Spirit Kor]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=70px}}

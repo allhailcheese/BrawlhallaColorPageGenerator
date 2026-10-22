@@ -1,0 +1,35 @@
+{{Store Item Infobox
+| image = Bundle 11th Anniversary Mega.jpg
+| blank_name1 = Max Cost
+| blank1 = {{BundleCost|{{PAGENAME}}|mammoth}}
+| blank_name2 = Discount
+| blank2 = {{BundleCost|{{PAGENAME}}|discount}} off
+| blank_name3 = Store Description
+| blank3      = Get every previous Anniversary Skin, plus the new Sleepless Metropolis Podium and annual 11th Cake-aversary Emote at a celebratory discount!
+}}
+
+'''{{PAGENAME}}''' is one of the [[Store Bundles|Bundles]] available in the game [[Brawlhalla]]. 
+
+This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is a {{BundleCost|{{PAGENAME}}|discount}} discount. If some items in the bundle are already owned, the price will be lowered accordingly.
+
+'''This bundle is only available for purchase during {{Events|anniv|2026}}'''
+
+==Contents==
+
+This bundle contains 11 items:
+
+{{Itembox/top|op=justify-content:unset;align-items:unset}}
+{{itembox|width=220|height=270|name=Ritzy Bödvar|image=Ritzy Bödvar.png}}
+{{itembox|width=220|height=270|name=Gentleman Kor|image=Gentleman Kor.png}}
+{{itembox|width=220|height=270|name=Maître d'Hattori|image=Maître d'Hattori.png}}
+{{itembox|width=220|height=270|name=The Honorable Sir Roland, Esq.|displayname={{small|The Honorable Sir Roland, Esq.}}|image=The Honorable Sir Roland, Esq..png}}
+{{itembox|width=220|height=270|name=Gothic Chic Nix|image=Gothic Chic Nix.png}}
+{{itembox|width=220|height=270|name=Peacock Artemis|image=Peacock Artemis.png}}
+{{itembox|width=220|height=270|name=Swanky Diana|image=Swanky Diana.png}}
+{{itembox|width=220|height=270|name=Haute Couture Ember|image=Haute Couture Ember.png}}
+{{itembox|width=220|height=270|name=Ivaldi's Finest Ulgrim|image=Ivaldi's Finest Ulgrim.png}}
+{{itembox|width=220|height=270|name=Sleepless Metropolis|image=Podium Sleepless Metropolis.png}}
+{{itembox|width=220|height=270|name=11th Cake-Aversary|image=Taunt 11th Cake-Aversary Still.png}}
+{{itembox/bottom}}
+
+[[Category:Bundles]]

@@ -16,5 +16,6 @@ public static class BundleUtils
         "Halloween25Bundle",
         "BackToSchool26EventCenterBundle",
         "Halloween26EventCenterBundle",
+        "Anniversary25Bundle",
     ];
 }
