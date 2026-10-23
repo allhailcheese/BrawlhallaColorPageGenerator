@@ -981,6 +981,19 @@
 *3 players
 *3:00 minutes
 *Map: {{MapListing|lich's tomb}}
+|symphony of the ghosts=
+{{!}}-
+{{!}} '''Symphony of the Ghosts'''
+{{!}} [[File:BOTW Symphony of the Ghosts.jpg|200px]]
+{{!}}''Phase in and out of visibility as you fight to keep your opponents from escaping Dracula's Castle! Queue up against 3 other Players in this 3-minute FFA game with 300% damage. Score 2 points for KO-ing an enemy, lose 1 point for being KO'd. All while you and your opponents go invisible when not using powers!''
+*{{gamemodes|timed|16px}}
+*4 players
+*3:00 minutes
+*300% damage
+*[[Ghost Mode]] is enabled
+*Map Set: 
+**{{MapListing|dracula's castle}}
+**{{MapListing|inverted dracula's castle}}
 |batavian ghost brawl=
 {{!}}-
 {{!}} '''Batavian Ghost Brawl'''
@@ -992,6 +1005,18 @@
 *300% damage
 *[[Ghost Mode]] is enabled
 *Map: {{MapListing|castle batavia}}
+|switchcraft-vania=
+{{!}}-
+{{!}} '''Switchcraft-vania'''
+{{!}} [[File:BOTW Switchcraft-vania.jpg|200px]]
+{{!}}''Dracula invites you into a world of optical illusion in this 1v1 Switchcraft Mode. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle an equally scrambled opponent and try to knock out all 3 of their Stocks first to win!''
+*{{gamemodes|stock|16px}} {{gamemodes|switchcraft|16px}}
+*2 players
+*3 lives
+*8:00 minutes
+*Map Set: 
+**{{MapListing|dracula's castle}}
+**{{MapListing|inverted dracula's castle}}
 |spooky switchcraft=
 {{!}}-
 {{!}} '''Spooky Switchcraft'''

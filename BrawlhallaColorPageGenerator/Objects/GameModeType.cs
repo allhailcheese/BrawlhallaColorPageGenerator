@@ -20,7 +20,7 @@ public sealed class GameModeType
     public uint ScoreToWin { get; init; }
     public string? OverrideItemSpawnRuleSet { get; init; }
     public string? LevelSet { get; init; }
-    public uint DamageRatio { get; init; }
+    public uint DamageRatio { get; init; } = 100;
     public bool TeamDamage { get; init; }
     public bool GhostRule { get; init; }
 

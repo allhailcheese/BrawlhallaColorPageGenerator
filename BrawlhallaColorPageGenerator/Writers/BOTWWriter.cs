@@ -39,6 +39,12 @@ public sealed class BOTWWriter(WriterData data)
                 case "BOTWSnowbrawlNewMap":
                     WriteGamemodeType(writer, BOTWSnowbrawlNewMap_Old, usedGamemodeKeys);
                     break;
+                case "BOTWBatavia4FFAGhost300":
+                    WriteGamemodeType(writer, BOTWCastlevania4FFAGhost300, usedGamemodeKeys);
+                    break;
+                case "BOTWBatavia1v1Switch":
+                    WriteGamemodeType(writer, BOTWCastlevania1v1Switch, usedGamemodeKeys);
+                    break;
             }
 
             WriteGamemodeType(writer, gamemode, usedGamemodeKeys);
@@ -71,6 +77,8 @@ public sealed class BOTWWriter(WriterData data)
             nameof(BOTWShift1v1NewMap_Old_Old) => gamemode.DisplayNameKey,
             nameof(BOTWShift1v1NewMap_Old) => gamemode.DisplayNameKey,
             nameof(BOTWSnowbrawlNewMap_Old) => gamemode.DisplayNameKey,
+            nameof(BOTWCastlevania4FFAGhost300) => gamemode.DisplayNameKey,
+            nameof(BOTWCastlevania1v1Switch) => gamemode.DisplayNameKey,
             // Real
             _ => data.LangFile.Entries[gamemode.DisplayNameKey],
         };
@@ -120,6 +128,8 @@ public sealed class BOTWWriter(WriterData data)
                 nameof(BOTWShift1v1NewMap_Old_Old) => gamemode.DescriptionKey,
                 nameof(BOTWShift1v1NewMap_Old) => gamemode.DescriptionKey,
                 nameof(BOTWSnowbrawlNewMap_Old) => gamemode.DescriptionKey,
+                nameof(BOTWCastlevania4FFAGhost300) => gamemode.DescriptionKey,
+                nameof(BOTWCastlevania1v1Switch) => gamemode.DescriptionKey,
                 // Real
                 _ => data.LangFile.Entries[gamemode.DescriptionKey],
             };
@@ -261,8 +271,11 @@ public sealed class BOTWWriter(WriterData data)
                     return;
                 }
 
-                LevelSetType levelSet = data.LevelSetTypes.LevelSetsMap[gamemode.LevelSet];
-                levelList = levelSet.LevelTypes;
+                levelList = gamemode.LevelSet switch
+                {
+                    "CastleVaniaBOTW" => ["CastleSpire", "CastleSpireReverse"],
+                    _ => data.LevelSetTypes.LevelSetsMap[gamemode.LevelSet].LevelTypes
+                };
             }
 
             writer.Write("*Map");
@@ -274,14 +287,20 @@ public sealed class BOTWWriter(WriterData data)
 
             foreach (string levelName in levelList)
             {
-                if (!data.LevelTypes.LevelsMap.TryGetValue(levelName, out LevelType? level))
+                string? levelDisplayName = levelName switch
+                {
+                    "CastleSpire" => "Dracula's Castle",
+                    "CastleSpireReverse" => "Inverted Dracula's Castle",
+                    _ => data.LevelTypes.LevelsMap.GetValueOrDefault(levelName)?.DisplayName,
+                };
+                if (levelDisplayName is null)
                     continue;
 
                 if (levelList.Length > 1)
                     writer.Write("**");
 
                 writer.Write("{{MapListing|");
-                writer.Write(level.DisplayName.ToLowerInvariant());
+                writer.Write(levelDisplayName.ToLowerInvariant());
                 writer.WriteLine("}}");
             }
         }
@@ -446,7 +465,6 @@ public sealed class BOTWWriter(WriterData data)
         StartingLives = 3,
         ScoringType = "STOCK",
         LevelSet = "AvatarBigBOTW",
-        DamageRatio = 100,
     };
 
     // originally generic, turned into star wars
@@ -459,7 +477,6 @@ public sealed class BOTWWriter(WriterData data)
         Duration = 480,
         StartingLives = 5,
         ScoringType = "STOCK",
-        // TODO there might've been an even older version with a more general map set?
         LevelSet = "OVERRIDE ME",
         DamageRatio = 300,
         Variation = "Relay",
@@ -477,7 +494,6 @@ public sealed class BOTWWriter(WriterData data)
         ScoringType = "STOCK",
         LevelSet = "Standard1v1",
         Variation = "Scramble",
-        DamageRatio = 100,
     };
 
     // originally bp7, turned into bp9, then into ivaldi
@@ -490,7 +506,6 @@ public sealed class BOTWWriter(WriterData data)
         LevelSet = "TableTop1v1",
         MaxPlayers = 2,
         Duration = 180,
-        DamageRatio = 100,
     };
     private static readonly GameModeType BOTWTableTop1v1_Old = new()
     {
@@ -501,7 +516,6 @@ public sealed class BOTWWriter(WriterData data)
         LevelSet = "OVERRIDE ME",
         MaxPlayers = 2,
         Duration = 180,
-        DamageRatio = 100,
     };
 
     // originally generic, text overwritten with tekken. gamemode type still exists.
@@ -522,7 +536,6 @@ public sealed class BOTWWriter(WriterData data)
         OverrideItemSpawnRuleSet = "NoItems",
         LevelSet = "OVERRIDE ME",
         Variation = "Shift",
-        DamageRatio = 100,
     };
     private static readonly GameModeType BOTWShift1v1NewMap_Old_Old = new()
     {
@@ -537,7 +550,6 @@ public sealed class BOTWWriter(WriterData data)
         OverrideItemSpawnRuleSet = "NoItems",
         LevelSet = "OVERRIDE ME",
         Variation = "Shift",
-        DamageRatio = 100,
     };
 
     // originally bp10, turned into shrek
@@ -547,10 +559,36 @@ public sealed class BOTWWriter(WriterData data)
         // the text was also overwritten
         DisplayNameKey = "Starlight Snowbrawl Scuffle",
         DescriptionKey = "Cool off with your fellow Starlight Champions in this 4 player, 3 minute free-for-all! Score 1 point for hitting someone with a snowball, 3 points for getting a KO, and lose 1 point for being KO'd. Most points at the end wins!",
-        ScoringType = "SNOWBALL",
-        LevelSet = "OVERRIDE ME",
         MaxPlayers = 4,
         Duration = 180,
-        DamageRatio = 100,
+        ScoringType = "SNOWBALL",
+        LevelSet = "OVERRIDE ME",
+    };
+
+    // originally castlevania, turned into castle batavia (and name changed to BOTWBatavia4FFAGhost300)
+    private static readonly GameModeType BOTWCastlevania4FFAGhost300 = new()
+    {
+        GameModeName = nameof(BOTWCastlevania4FFAGhost300),
+        DisplayNameKey = "Symphony of the Ghosts",
+        DescriptionKey = "Phase in and out of visibility as you fight to keep your opponents from escaping Dracula's Castle! Queue up against 3 other Players in this 3-minute FFA game with 300% damage. Score 2 points for KO-ing an enemy, lose 1 point for being KO'd. All while you and your opponents go invisible when not using powers!",
+        MaxPlayers = 4,
+        Duration = 180,
+        ScoringType = "TIMED",
+        LevelSet = "CastleVaniaBOTW",
+        DamageRatio = 300,
+        GhostRule = true,
+    };
+    // originally castlevania, turned into castle batavia (and name changed to BOTWBatavia1v1Switch)
+    private static readonly GameModeType BOTWCastlevania1v1Switch = new()
+    {
+        GameModeName = nameof(BOTWCastlevania1v1Switch),
+        DisplayNameKey = "Switchcraft-vania",
+        DescriptionKey = "Dracula invites you into a world of optical illusion in this 1v1 Switchcraft Mode. Pick 3 Legends and watch their weapons and sigs get jumbled up. Battle an equally scrambled opponent and try to knock out all 3 of their Stocks first to win!",
+        MaxPlayers = 2,
+        Duration = 480,
+        StartingLives = 3,
+        ScoringType = "STOCK",
+        LevelSet = "CastleVaniaBOTW",
+        Variation = "Scramble",
     };
 }
