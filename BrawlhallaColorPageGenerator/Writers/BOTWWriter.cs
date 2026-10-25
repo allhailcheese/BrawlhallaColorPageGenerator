@@ -87,7 +87,7 @@ public sealed class BOTWWriter(WriterData data)
         string scoringTypeName = data.LangFile.Entries[scoringType.DisplayNameKey];
 
         // key
-        string gamemodeNameKey = gamemodeName.ToLowerInvariant().TrimEnd('!').Replace('’', '\'');
+        string gamemodeNameKey = gamemodeName.ToLowerInvariant().Replace("!", "").Replace('’', '\'');
 
         if (!usedGamemodeKeys.Add(gamemodeNameKey))
             gamemodeNameKey = "DUPLICATE!! " + gamemodeNameKey;

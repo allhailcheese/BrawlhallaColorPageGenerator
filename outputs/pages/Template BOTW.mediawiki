@@ -744,7 +744,7 @@
 *2 players
 *3 lives
 *8:00 minutes
-|oops! all boomerangs=
+|oops all boomerangs=
 {{!}}-
 {{!}} '''Oops! All Boomerangs'''
 {{!}} [[File:BOTW Oops! All Boomerangs.jpg|200px]]
@@ -1160,7 +1160,7 @@
 *8:00 minutes
 *300% damage
 *Map: {{MapListing|eternity's end}}
-|brawlball bash! (elysium arena)=
+|brawlball bash (elysium arena)=
 {{!}}-
 {{!}} '''Brawlball Bash! (Elysium Arena)'''
 {{!}} [[File:BOTW Brawlball Bash! (Elysium Arena).jpg|200px]]
