@@ -19,7 +19,7 @@ This bundle contains 5 items:
 {{Itembox/top|op=justify-content:unset;align-items:unset}}
 {{itembox|width=220|height=270|name=Asgardian Lightsaber|image=Asgardian Lightsaber.webp}}
 {{itembox|width=220|height=270|name=Asgardian Saberstaff|image=Asgardian Saberstaff.webp}}
-{{itembox|width=220|height=270|name=Asgardian Shoto Lightsabers|displayname={{small|Asgardian Shoto Lightsabers}}|image=Asgardian Shoto Lightsabers.png}}
+{{itembox|width=220|height=270|name=Asgardian Shoto Lightsabers|displayname={{small|Asgardian Shoto Lightsabers}}|image=Asgardian Shoto Lightsabers.webp}}
 {{itembox|width=220|height=270|name=The Darksaber|image=The Darksaber.webp}}
 {{itembox|width=220|height=270|name=Asgardian Great Lightsaber|displayname={{small|Asgardian Great Lightsaber}}|image=Asgardian Great Lightsaber.png}}
 {{itembox/bottom}}

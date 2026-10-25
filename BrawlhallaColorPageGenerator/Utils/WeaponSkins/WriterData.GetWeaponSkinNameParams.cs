@@ -76,6 +76,9 @@ public partial class WriterData
             case "BowTrickOrTreat":
                 if (!colorMode) imageName = "ded";
                 break;
+            case "KatarCrystalforge":
+                displayName = imageName = weaponSkinName = "Crystalforged Blades";
+                break;
             // animated with gif and Ani prefix
             case "PistolBubblegum":
             case "BowCyberSam":
@@ -144,6 +147,13 @@ public partial class WriterData
             case "SpearEpicOrion":
             case "SpearMythicWuShang":
             case "SpearEivor":
+            case "KatarAhsoka":
+            case "KatarAsgardSaber":
+            case "KatarMakoProgression03":
+            case "KatarEpicRagnir":
+            case "KatarEpicEmber":
+            case "KatarGrievous":
+            case "KatarEpicWitch":
             case "FistsMythicWerewolf":
             case "FistsFiona":
             case "GreatswordLuke":

@@ -4,12 +4,12 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=180|height=190|name=+5 Daggers|image=+5 Daggers.png|desc=[[Fortune Hunter Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Actuator Claws|image=Actuator Claws.png|desc=[[Mecha Asuri]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Ahsoka's Lightsaber & Shoto|displayname={{small|Ahsoka's Lightsaber & Shoto}}|image=Ahsoka's Lightsaber & Shoto.png|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Ahsoka's Lightsaber & Shoto|displayname={{small|Ahsoka's Lightsaber & Shoto}}|image=Ahsoka's Lightsaber & Shoto.webp|desc=[[Ahsoka Tano]]|descheight=55px}}
 {{itembox|width=180|height=190|name=All Seeing Katars|image=All Seeing Katars.png|desc={{BPReward|Season Fourteen|free|Intro Tier 5}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Anchor Shanks|image=Anchor Shanks.png|desc=[[Deep Sea Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Apollo's Fury|image=Apollo's Fury.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Asgardian Katars|image=Asgardian Katars.png|desc=[[Collectors Pack]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Asgardian Shoto Lightsabers|displayname={{small|Asgardian Shoto Lightsabers}}|image=Asgardian Shoto Lightsabers.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
+{{itembox|width=180|height=190|name=Asgardian Shoto Lightsabers|displayname={{small|Asgardian Shoto Lightsabers}}|image=Asgardian Shoto Lightsabers.webp|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=180|height=190|name=Autumn Wind|image=Autumn Wind.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
 {{itembox|width=180|height=190|name=Aztlán Katars|image=Aztlán Katars.png|desc=[[Master of Night Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Back Alley Justice|image=Back Alley Justice.png|desc=[[Gumshoe Sentinel]]|descheight=55px}}
@@ -37,7 +37,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Crescent Moon Claws|image=Crescent Moon Claws.png|desc=[[Metadev Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Crystal Blades|image=Crystal Blades.png|desc=[[Frost Guardian Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Crystal Shards|image=Crystal Shards.png|desc=[[Diamondhead]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Crystalforged Katar|image=Crystalforged Katar.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
+{{itembox|width=180|height=190|name=Crystalforged Blades|image=Crystalforged Blades.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=190|name=Crystalline Blades|image=Crystalline Blades.png|desc=[[Metadev Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Cyber Myk Shanks|image=Cyber Myk Shanks.png|desc={{BPReward|Season Eight|free|Tier 78}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Dark Scarabs|image=Dark Scarabs.png|desc={{BPReward|Season One|gold|Tier 9}}|descheight=55px}}
@@ -118,24 +118,24 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Saint Nicks|image=Saint Nicks.png|desc=[[Diamond Jack Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sakura Strikers|image=Sakura Strikers.png|desc=[[Sakura]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sekai no Kana|image=Sekai no Kana.png|desc=[[Asuka]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Serpent's Fangs|image=Serpent's Fangs Level 3.png|desc=[[Jörmungandr Mako]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Serpent's Fangs|image=Serpent's Fangs.webp|desc=[[Jörmungandr Mako]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Serve & Protect|image=Serve & Protect.png|desc=[[Stormsteel Sentinel]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Shadow Trawl|image=Shadow Trawl.png|desc=[[Abyssal Goblin Mako]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Shadowclaws|image=Shadowclaws.png|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Shadowclaws|image=Shadowclaws.webp|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sharpoons|image=Sharpoons.png|desc=[[Lakeside Loki]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Silent Night|image=Silent Night.png|desc=[[Holly Jolly Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Skyforged Blades|image=Skyforged Blades.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Smoldering Skewers|image=Smoldering Skewers.png|desc=[[Ashen Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sonar Slicers|image=Sonar Slicers.png|desc=[[Werebat Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Soul Fangs|image=Soul Fangs.png|desc=[[Arcane Loki]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Spirit Ash's Fangs|image=Spirit Ash's Fangs.png|desc=[[Fangwild's Heart Ember]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Spirit Ash's Fangs|image=Spirit Ash's Fangs.webp|desc=[[Fangwild's Heart Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Splish & Splash|image=Splish & Splash.png|desc=[[Swim Team Mako]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Stained Shards|image=Stained Shards.png|desc={{BPReward|Season Four|gold|Tier 57}}|descheight=55px}}
-{{itembox|width=180|height=190|name=Stolen Jedi Lightsabers|image=Stolen Jedi Lightsabers.png|desc=[[General Grievous]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Stolen Jedi Lightsabers|image=Stolen Jedi Lightsabers.webp|desc=[[General Grievous]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sun Seekers|image=Sun Seekers.png|desc=[[Rising Dragon Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Taurus Skulls|image=Taurus Skulls.png|desc=[[Outlaw Loki]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Teeth of the Nile|image=Teeth of the Nile.png|desc=[[Sobek Ragnir]]|descheight=55px}}
-{{itembox|width=180|height=190|name=The Ailing Twin Gods|image=The Ailing Twin Gods.png|desc=[[Fell Empress Nai]]|descheight=55px}}
+{{itembox|width=180|height=190|name=The Ailing Twin Gods|image=The Ailing Twin Gods.webp|desc=[[Fell Empress Nai]]|descheight=55px}}
 {{itembox|width=180|height=190|name=The Blackhearts|image=The Blackhearts.png|desc=[[Date Night Nai]]|descheight=55px}}
 {{itembox|width=180|height=190|name=The Devourers|image=The Devourers.png|desc=[[Nidhogg Nai]]|descheight=55px}}
 {{itembox|width=180|height=190|name=The Miracle Workers|image=The Miracle Workers.png|desc=[[Plague Doctor Lucien]]|descheight=55px}}
