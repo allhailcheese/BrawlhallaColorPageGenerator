@@ -20,7 +20,7 @@ This bundle contains 4 items:
 {{itembox|width=220|height=270|name=Vampire Huntress Cassidy|image=Vampire Huntress Cassidy.png}}
 {{itembox|width=220|height=270|name=Cassidoodle|image=Avatar DoodleCassidy.png|nolink=true}}
 {{itembox|width=220|height=270|name=Avatar Cape|image=Taunt Avatar Cape Still.png}}
-{{itembox|width=220|height=270|name=|image=.png}}
+{{itembox|width=220|height=270|name=Surt's Wrath|image=TrailIcon Surt's Wrath.png}}
 {{itembox/bottom}}
 
 [[Category:Bundles]]

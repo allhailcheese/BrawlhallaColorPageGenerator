@@ -20,7 +20,7 @@ This bundle contains 5 items:
 {{itembox|width=220|height=270|name=Ascended Mordex|image=Ascended Mordex.png}}
 {{itembox|width=220|height=270|name=Fenreus|image=Bot Fenreus.png}}
 {{itembox|width=220|height=270|name=Bite the Dusk|image=KO Bite the Dusk.webp}}
-{{itembox|width=220|height=270|name=|image=.png}}
+{{itembox|width=220|height=270|name=Fenrir's Eminence|image=TrailIcon Fenrir's Eminence.png}}
 {{itembox|width=220|height=270|name=Ascended Lookin' Good|image=Emoji LookinGood Ascended.png|nolink=true}}
 {{itembox/bottom}}
 

@@ -20,7 +20,7 @@ This bundle contains 5 items:
 {{itembox|width=220|height=270|name=Ascended Teros|image=Ascended Teros.png}}
 {{itembox|width=220|height=270|name=The Triumvirate of Fire|image=Bot The Triumvirate of Fire.png}}
 {{itembox|width=220|height=270|name=Decimation|image=KO Decimation.gif}}
-{{itembox|width=220|height=270|name=|image=.png}}
+{{itembox|width=220|height=270|name=Immolation|image=TrailIcon Immolation.png}}
 {{itembox|width=220|height=270|name=Ascended Rage|image=Emoji Rage Ascended.png|nolink=true}}
 {{itembox/bottom}}
 

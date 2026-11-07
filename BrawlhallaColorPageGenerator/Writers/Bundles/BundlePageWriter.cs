@@ -98,7 +98,7 @@ This bundle can cost a maximum of {{BundleCost|{{PAGENAME}}|mammoth}}, which is 
             "Avatar" => data.GetAvatarNameParams(data.AvatarTypes.AvatarsMap[item.Item!]),
             "Podium" => data.GetPodiumNameParams(data.PodiumTypes.PodiumsMap[item.Item!]),
             "Emoji" => data.GetEmojiNameParams(data.EmojiTypes.EmojisMap[item.Item!]),
-            "EmitterGroup" => default, // TODO
+            "EmitterGroup" => data.GetTrailEffectNameParams(data.EmitterGroupTypes.EmitterGroupsMap[item.Item!]),
             "Companion" => data.GetCompanionNameParams(data.CompanionTypes.CompanionsMap[item.Item!]),
             "Moniker" => default, // TODO
             _ => throw new ArgumentException($"Unsupported bundle item type {item.Type}"),

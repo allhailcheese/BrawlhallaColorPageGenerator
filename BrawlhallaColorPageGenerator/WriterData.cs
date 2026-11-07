@@ -27,6 +27,7 @@ public sealed partial class WriterData
     public required TauntTypes TauntTypes { get; init; }
     public required SpawnBotTypes SpawnBotTypes { get; init; }
     public required TrailEffectTypes TrailEffectTypes { get; init; }
+    public required EmitterGroupTypes EmitterGroupTypes { get; init; }
     public required AvatarTypes AvatarTypes { get; init; }
     public required PodiumTypes PodiumTypes { get; init; }
     public required EmojiTypes EmojiTypes { get; init; }
@@ -184,6 +185,10 @@ public sealed partial class WriterData
         // KO effect types
         string trailEffectTypesContent = files["TrailEffectTypes.xml"];
         TrailEffectTypes trailEffectTypes = new(trailEffectTypesContent);
+        
+        // trail effect types
+        string emitterGroupTypesContent = files["EmitterGroupTypes.xml"];
+        EmitterGroupTypes emitterGroupTypes = new(emitterGroupTypesContent);
 
         // Avatar types
         string avatarTypesContent = files["avatarTypes.csv"];
@@ -217,6 +222,7 @@ public sealed partial class WriterData
             TauntTypes = tauntTypes,
             SpawnBotTypes = spawnBotTypes,
             TrailEffectTypes = trailEffectTypes,
+            EmitterGroupTypes = emitterGroupTypes,
             AvatarTypes = avatarTypes,
             PodiumTypes = podiumTypes,
             EmojiTypes = emojiTypes,
