@@ -20,6 +20,8 @@ public partial class WriterData
             case "LumKing":
             case "LucySidekick":
             case "FuDogs":
+            case "DapperBot":
+            case "AnniBird":
                 extension = ImageExtensionEnum.Gif;
                 break;
         }
@@ -29,6 +31,8 @@ public partial class WriterData
             case "LumKing":
             case "LucySidekick":
             case "FuDogs":
+            case "DapperBot":
+            case "AnniBird":
                 imageName = "AniBot " + imageName;
                 break;
             default:

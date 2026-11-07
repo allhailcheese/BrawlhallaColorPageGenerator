@@ -22,7 +22,7 @@ This bundle contains 4 items:
 {{itembox|width=220|height=270|name=Gothic Chic Nix|image=Gothic Chic Nix.png}}
 {{itembox|width=220|height=270|name=Gothic Chic Laugh|image=Emoji Laugh Gothic Chic.webp|nolink=true}}
 {{itembox|width=220|height=270|name=Gilded Deco 2025|image=Podium Gilded Deco 2025.png}}
-{{itembox|width=220|height=270|name=Phil|image=Bot Phil.png}}
+{{itembox|width=220|height=270|name=Phil|image=AniBot Phil.gif}}
 {{itembox/bottom}}
 
 [[Category:Bundles]]
