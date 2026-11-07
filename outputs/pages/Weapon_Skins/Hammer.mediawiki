@@ -162,8 +162,8 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Unicorn Stampede|image=Unicorn Stampede.png|desc=[[Xavier Woods]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Valiant Armament Hammer|image=Valiant Armament Hammer.png|desc=[[Mecha Knight Magyar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Verdict|image=Verdict.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Visage of Shattered Bones|image=Visage of Shattered Bones.png|desc=[[Ascended Teros]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Weight of Betrayal|image=Weight of Betrayal Level 3.png|desc=[[Magyar the Apostate]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Visage of Shattered Bones|image=Visage of Shattered Bones.webp|desc=[[Ascended Teros]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Weight of Betrayal|image=Weight of Betrayal.webp|desc=[[Magyar the Apostate]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc={{BPReward|Season Six|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Wings of Victory|image=Wings of Victory.png|desc=[[Airship Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp.png|desc=[[Autumn Esports 2025 Pack]]|descheight=55px}}

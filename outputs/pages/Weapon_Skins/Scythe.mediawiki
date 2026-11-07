@@ -9,14 +9,14 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Asgardian Scythe|image=Asgardian Scythe.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Autumn Harvest|image=Autumn Harvest.png|desc=[[Autumn Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Aztlán Scythe|image=Aztlán Scythe.png|desc={{BPReward|Season Eleven|gold|Tier 83}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Blood Moon Influence|image=Blood Moon Influence Level 3.png|desc=[[Octavius Mordex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Blood Moon Influence|image=Blood Moon Influence.webp|desc=[[Octavius Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blossoming Blade|image=Blossoming Blade.png|desc=[[Spring Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Calling Card|image=Calling Card.png|desc=[[Jiro the Specialist]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Candlelit Scythe|image=Candlelit Scythe.png|desc=[[KO-rpse Candle Mordex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Candlelit Scythe|image=Candlelit Scythe.webp|desc=[[KO-rpse Candle Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Casey's Hockey Stick|image=Casey's Hockey Stick.png|desc=[[Leonardo]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Cat Scratch|image=Cat Scratch.png|desc=[[Feline Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Caught a Big One!|image=Caught a Big One!.png|desc=[[Lakeside Loki]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Chaos Harvester|image=Chaos Harvester.png|desc=[[Termidex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Chaos Harvester|image=Chaos Harvester.webp|desc=[[Termidex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Chi Stopper|image=Chi Stopper.png|desc=[[Tai Lung]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Climbing Gear|image=Climbing Gear.png|desc=[[Black Diamond Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Coatl Culler|image=Coatl Culler.png|desc=[[Interloper Loki]]|descheight=55px}}
@@ -24,13 +24,13 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Crossfader|image=Crossfader.png|desc=[[DJ Hugin]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crystalforged Scythe|image=Crystalforged Scythe.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Sickle|image=Cyber Myk Sickle.png|desc={{BPReward|Season Eight|gold|Tier 83}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Cygnus|image=Cygnus Level 3.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Cygnus|image=Cygnus.webp|desc=[[Event Horizon Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Reaper|image=Darkheart Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Death Touch|image=Death Touch.png|desc=[[Shinigami Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Digital Lockdown|image=Digital Lockdown.png|desc={{BPReward|Season Two|gold|Tier 37}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Dreamweaver's Dance: Reap|displayname={{small|Dreamweaver's Dance: Reap}}|image=Dreamweaver's Dance Reap.png|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Dreamweaver's Dance: Reap|displayname={{small|Dreamweaver's Dance: Reap}}|image=Dreamweaver's Dance Reap.webp|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dwarven-Forged Scythe|image=Dwarven-Forged Scythe.png|desc={{BPReward|Season Seven|gold|Tier 69}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Edge of the Universe|image=Edge of the Universe.png|desc=[[Void Zenith Artemis]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Edge of the Universe|image=Edge of the Universe.webp|desc=[[Void Zenith Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Erudition's Call|image=Erudition's Call.png|desc=[[File:Icon Viewership.png|16px|link=]] {{VSR|Charity Stream #9|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Eternity|image=Eternity.png|desc=[[Seraph Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Eye of Horus|image=Eye of Horus.png|desc=[[Hand of Horus Mirage]]|descheight=55px}}
@@ -43,7 +43,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Golden Light|image=Golden Light.png|desc=[[Celestial Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Scythe|image=Goldforged Scythe.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Guild Scythe|image=Guild Scythe.png|cost={{Coin|goin|225}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Hand of Asmodeus|image=Hand of Asmodeus.gif|desc=[[Ascended Nix]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hand of Asmodeus|image=Hand of Asmodeus.webp|desc=[[Ascended Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Scythe|image=Hardlight Scythe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Harvest Sickle|image=Harvest Sickle.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Haunted Hook|image=Haunted Hook.png|desc=[[Mirage Incarnate]]|descheight=55px}}
@@ -51,7 +51,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Heartfelt Wish|image=Heartfelt Wish.png|desc=[[Daylight Star ☆ Magi Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Heartthrob|image=Heartthrob.png|desc=[[Red Romance Volkov]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Holy Incantation|image=Holy Incantation.png|desc=[[Aqyn Vera]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Hotline Slash|image=Hotline Slash.png|desc=[[Retro Reaper Nix]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hotline Slash|image=Hotline Slash.webp|desc=[[Retro Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ice Pick|image=Ice Pick.png|desc=[[White Out Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ice Sickle|image=Ice Sickle.png|desc=[[Winter Esports 2024 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=In Sickness|image=In Sickness.png|desc=[[Corpse Bride Mirage]]|descheight=55px}}
@@ -78,7 +78,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Neo-City Scythe|image=Neo-City Scythe.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|Midseason 2026 Whitelist|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Nevermore|image=Nevermore.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Reaper|image=Nightmare Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Ninpō: Kusarenka|image=Ninpō Kusarenka Level 3.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ninpō: Kusarenka|image=Ninpō Kusarenka.webp|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Unsealed Scythe|image=Ninpō Unsealed Scythe.png|desc={{BPReward|Season Twelve|gold|Future Tier 21}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Oni Bite|image=Oni Bite.png|desc=[[Shogun Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Pavo Beak|image=Pavo Beak.png|desc=[[Peacock Artemis]]|descheight=55px}}
@@ -130,7 +130,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Withering Scythe|image=Withering Scythe.png|desc={{BPReward|Season Six|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Wraith's Sickle|image=Wraith's Sickle.png|desc=[[Crimson Oni Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Wrath of Hel|image=Wrath of Hel.png|desc={{BPReward|Season Three|gold|Tier 81}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Wrath Unleashed|image=Wrath Unleashed.gif|desc=[[Ascended Mordex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Wrath Unleashed|image=Wrath Unleashed.webp|desc=[[Ascended Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Yard Marker|image=Yard Marker.png|desc=[[Brawldog Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Yoshimitsu's Scythe|image=Yoshimitsu's Scythe.png|desc=[[Yoshimitsu]]|descheight=55px}}
 {{itembox/bottom}}

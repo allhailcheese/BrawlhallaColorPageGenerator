@@ -46,7 +46,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Howling Siren|image=Howling Siren.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Hyper Fire Drifter|image=Hyper Fire Drifter.png|desc=[[2001 Skate Odyssey Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hyperion Yggdrasil|image=Hyperion Yggdrasil.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Interdimensional Rail Gun|image=Interdimensional Rail Gun.png|desc=[[Automaton Qinghua & Baobao]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Interdimensional Rail Gun|displayname={{small|Interdimensional Rail Gun}}|image=Interdimensional Rail Gun.png|desc=[[Automaton Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Jade Dragon|image=Jade Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Kanabo|image=Kanabo.png|desc=[[Demon Ogre Xull]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Koi Cannon|image=Koi Cannon.png|desc=[[Green Thumb Lin Fei]]|descheight=55px}}

@@ -48,7 +48,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Dragon Spawn Bow|image=Dragon Spawn Bow.png|desc=[[Dragon Heart Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dwarven-Forged Bow|image=Dwarven-Forged Bow.png|desc={{BPReward|Season Seven|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Elm Recurve Bow|image=Elm Recurve Bow.png|desc=[[Caelestis Yumiko]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Empress' Favor|image=Empress' Favor Level 3.png|desc=[[Ascendant Azoth]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Empress' Favor|image=Empress' Favor.webp|desc=[[Ascendant Azoth]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Evergrowth|image=Evergrowth.png|desc=[[Grovewarden Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Everlasting Shot|image=Everlasting Shot.png|desc=[[Red Rose Kaya]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Extinction Event|image=Extinction Event.png|desc=[[Annihilator Azoth]]|descheight=55px}}
@@ -75,8 +75,8 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Kingdom Bow|image=Kingdom Bow.png|desc=[[Michonne]]|descheight=55px}}
 {{itembox|width=180|height=170|name=L'archet|image=L'archet.png|desc=[[Band Kid Yumiko]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Lara's Bow|image=Lara's Bow.png|desc=[[Lara Croft]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Light of Elysium|image=Light of Elysium.png|desc=[[Zariel the Exalted]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Lightbringer|image=Lightbringer.png|desc=[[Fangwild's Heart Ember]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Light of Elysium|image=Light of Elysium.webp|desc=[[Zariel the Exalted]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Lightbringer|image=Lightbringer.webp|desc=[[Fangwild's Heart Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Loa Bow|image=Loa Bow.png|desc=[[Baron Azoth]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Moongleam Bow|image=Moongleam Bow.png|desc=[[Metadev Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Naptime|image=Naptime.png|desc=[[Kindergarten Kaya]]|descheight=55px}}
@@ -112,7 +112,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Smooth Waves|image=Smooth Waves.png|desc={{BPReward|Season Two|free|Tier 6}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Soul Seeker|image=Soul Seeker.png|desc=[[Outerworld Zariel]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Soulbane|image=Soulbane.png|desc=[[Lichlord Azoth]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Spiteful Scepter|image=Spiteful Scepter.png|desc=[[Soulbound Diana]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Spiteful Scepter|image=Spiteful Scepter.webp|desc=[[Soulbound Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Spring Breeze|image=Spring Breeze.png|desc=[[Spring Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Stardrive|image=Stardrive.png|desc=[[Star Guardian Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Starfall|image=Starfall.png|desc=[[Radiant Ember]]|descheight=55px}}
@@ -125,7 +125,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=The North Wind|image=The North Wind.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Thistle's Flight|image=Thistle's Flight.png|desc={{BPReward|Season Six|gold|Tier 29}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Toybox Bow|image=Toybox Bow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Twilight's Emissary|image=Twilight's Emissary.png|desc=[[Inari Yumiko]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Twilight's Emissary|image=Twilight's Emissary.webp|desc=[[Inari Yumiko]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Twin Tails|image=Twin Tails.png|desc=[[Fox Spirit Yumiko]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Twirling Flourish|image=Twirling Flourish.png|desc=[[Starlet Munin]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Umbra Bow|image=Umbra Bow.png|desc={{BPReward|Season Thirteen|free|Light Tier 4}}|descheight=55px}}

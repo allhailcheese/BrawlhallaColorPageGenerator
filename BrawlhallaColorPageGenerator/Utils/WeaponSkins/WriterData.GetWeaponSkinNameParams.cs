@@ -102,8 +102,6 @@ public partial class WriterData
             case "FistsMythicWuShang":
             case "OrbOddball":
             case "OrbLilith":
-            case "ScytheMythicNix":
-            case "ScytheMythicWerewolf":
                 if (!colorMode)
                 {
                     extension = ImageExtensionEnum.Gif;
@@ -111,10 +109,13 @@ public partial class WriterData
                 }
                 break;
             // animated with webp
+            // TODO: these are almost all from bp and crossovers. could this be automated?
             case "HammerPatrick":
             case "HammerScientist":
             case "HammerMagicalTeros03":
             case "HammerEpicCowgirl":
+            case "HammerMythicMinotaur":
+            case "HammerBP14Magyar03":
             case "SwordObiWan":
             case "SwordAhsoka":
             case "SwordAnakin":
@@ -147,6 +148,7 @@ public partial class WriterData
             case "SpearEpicOrion":
             case "SpearMythicWuShang":
             case "SpearEivor":
+            case "SpearEgyptianShoujo":
             case "KatarAhsoka":
             case "KatarAsgardSaber":
             case "KatarMakoProgression03":
@@ -154,9 +156,41 @@ public partial class WriterData
             case "KatarEpicEmber":
             case "KatarGrievous":
             case "KatarEpicWitch":
+            case "AxeMythicMinotaur":
+            case "AxeElderDragon3":
+            case "AxeEpicBrynn":
+            case "AxeSFDhalsim":
+            case "AxeEpicRayman":
+            case "AxeImugiDragon3":
+            case "AxeEpicRagnir":
+            case "AxeEpicWarlock":
+            case "AxeBP11Azoth03":
+            case "AxeMagicalTeros03":
+            case "BowBP11Azoth03":
+            case "BowEpicCelestial":
+            case "BowEpicEmber":
+            case "BowEpicDiana":
+            case "BowEpicYumiko":
             case "FistsMythicWerewolf":
             case "FistsFiona":
+            case "FistsWolfMonster03":
+            case "FistsEpicMordex":
+            case "FistsMonkGuardian03":
+            case "FistsEpicCelestial":
+            case "FistsTerminusLuchador03":
+            case "FistsSynth03":
+            case "ScytheWolfMonster03":
+            case "ScytheWerewolfCandleWolf":
+            case "ScytheEpicMordex":
+            case "ScytheBP5DualArt03":
+            case "ScytheEgyptianShoujo":
+            case "ScytheSpaceLeviathan":
+            case "ScytheMythicNix":
+            case "ScytheEpicNix":
+            case "ScytheShinobiBP1203":
+            case "ScytheMythicWerewolf":
             case "GreatswordLuke":
+            case "GreatswordBP14Magyar03":
             case "BootsFiona":
                 if (!colorMode)
                 {
@@ -248,5 +282,6 @@ public partial class WriterData
         "SwordMagicalGirl",
         "SwordDarthMaul",
         "GreatswordLuke",
+        "CannonAstroRoboBun",
     ];
 }

@@ -10,10 +10,10 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=All Seeing Axe|image=All Seeing Axe.png|desc={{BPReward|Season Fourteen|gold|Arbiter Tier 22}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Arbiters Reach|image=Arbiters Reach.png|desc=[[Celestial Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Axe|image=Asgardian Axe.png|desc=[[Collectors Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Axe of 1000 Battles|image=Axe of 1000 Battles.png|desc=[[Ascended Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of 1000 Battles|image=Axe of 1000 Battles.webp|desc=[[Ascended Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Mercy|image=Axe of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Might|image=Axe of Might.png|desc=[[Silver Age Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Axe of Regrowth|image=Axe of Regrowth Level 3.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of Regrowth|image=Axe of Regrowth.webp|desc=[[Elder Wild Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of the World Eagle|image=Axe of the World Eagle.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe You Out|image=Axe You Out.png|desc=[[Heartbreaker Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe-bladed Multi-Tool|image=Axe-bladed Multi-Tool.png|desc=[[Star Miner Ulgrim]]|descheight=55px}}
@@ -22,7 +22,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Battle Axe (Simon Belmont)|image=Battle Axe (Simon Belmont).png|desc=[[Simon Belmont]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Beckoning Bramble|image=Beckoning Bramble.png|desc={{BPReward|Season Six|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Beware of Ogre Sign|image=Beware of Ogre Sign.png|desc=[[Shrek]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Bifrost Edge|image=Bifrost Edge.png|desc=[[Aurora Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bifrost Edge|image=Bifrost Edge.webp|desc=[[Aurora Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Big Clipper|image=Big Clipper.png|desc=[[Hall Minotaur Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Blooming Blade|image=Blooming Blade.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
 {{itembox|width=200|height=170|name=Boiling Point|image=Boiling Point.png|desc=[[Ashen Ragnir]]|descheight=55px}}
@@ -30,21 +30,21 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Boss's Judgement|image=Boss's Judgement.png|desc=[[The Don]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Brave Magi ☆ Twinkling Justice|displayname={{small|Brave Magi ☆ Twinkling Justice}}|image=Brave Magi ☆ Twinkling Justice.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Bump in the Night|image=Bump in the Night.png|desc=[[Wraith Barraza]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Burning Enlightenment|image=Burning Enlightenment.png|desc=[[Dhalsim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Burning Enlightenment|image=Burning Enlightenment.webp|desc=[[Dhalsim]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Butcher's Delight|image=Butcher's Delight.png|desc=[[Orc Raider Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Buzz Axe|image=Buzz Axe.png|desc=[[Krieg]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Calaveraxe|image=Calaveraxe.png|desc=[[Ray of the Dead]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Castle Rocker|image=Castle Rocker.png|desc=[[Super Metal Rayman]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Castle Rocker|image=Castle Rocker.webp|desc=[[Super Metal Rayman]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ceremonial Axe|image=Ceremonial Axe.png|desc=[[Apprentice Ulgrim]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Champion's Axe|image=Champion's Axe.png|desc=[[Metadev Teros]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cheon-tu Dokki|image=Cheon-tu Dokki Level 3.png|desc=[[Imugi, Millennium Dragon]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cheon-tu Dokki|image=Cheon-tu Dokki.webp|desc=[[Imugi, Millennium Dragon]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Chocolate Cherry Sunburst|displayname={{small|Chocolate Cherry Sunburst}}|image=Chocolate Cherry Sunburst.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Chopsicle|image=Chopsicle.png|desc=[[The Yetee Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Conch Cleaver|image=Conch Cleaver.png|desc=[[Seadragon Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Crystal Whip Axe|image=Crystal Whip Axe.png|desc=[[Amethyst]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Crystalforged Axe|image=Crystalforged Axe.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Cyber Myk Axe|image=Cyber Myk Axe.png|desc={{BPReward|Season Eight|gold|Tier 13}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Dark Blade of Malakkar|image=Dark Blade of Malakkar.png|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dark Blade of Malakkar|image=Dark Blade of Malakkar.webp|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Axe|image=Darkheart Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Death Rattle|image=Death Rattle.png|desc=[[Lichlord Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Demonic Slab|image=Demonic Slab.png|desc={{BPReward|Season One|gold|Tier 29}}|descheight=55px}}
@@ -53,7 +53,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Dimensional Divide|image=Dimensional Divide.png|desc=[[Rift Dweller Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Disgrace|image=Disgrace.png|desc=[[Fallen Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dwarven-Forged Axe|image=Dwarven-Forged Axe.png|desc={{BPReward|Season Seven|gold|Tier 53}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Eldritch Bane|image=Eldritch Bane.png|desc=[[Infernal Warlock Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eldritch Bane|image=Eldritch Bane.webp|desc=[[Infernal Warlock Volkov]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Electronicore Axe|image=Electronicore Axe.png|desc=[[Terror-Watt Xull]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Elyria's End|image=Elyria's End.png|desc=[[Ehzot Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Emerald Blade|image=Emerald Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -99,7 +99,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Krusty Krab Spatula|image=Krusty Krab Spatula.png|desc=[[SpongeBob SquarePants]]|descheight=55px}}
 {{itembox|width=200|height=170|name=La Guitarra|image=La Guitarra.png|desc=[[Muerto Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Laughing Skull|image=Laughing Skull.png|desc=[[Baron Azoth]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lich Slayer|image=Lich Slayer Level 3.png|desc=[[Ascendant Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lich Slayer|image=Lich Slayer.webp|desc=[[Ascendant Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Love Affair|image=Love Affair.png|desc=[[Red Romance Volkov]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Macho King|image=Macho King.png|desc=[[Macho Man]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Magic Bubble Wand|image=Magic Bubble Wand.png|desc=[[Patrick Star]]|descheight=55px}}
@@ -132,7 +132,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Spring Cleaning|image=Spring Cleaning.png|desc=[[Elvenhollow Xull]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stained Clerestory|image=Stained Clerestory.png|desc=[[Arbiter Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Star Render|image=Star Render.png|desc=[[Metadev Barraza]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Star-Crossed Nightmare|image=Star-Crossed Nightmare Level 3.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Star-Crossed Nightmare|image=Star-Crossed Nightmare.webp|desc=[[Fallen Prince Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Styraxe|image=Styraxe.png|desc=[[Elvenhollow Imugi]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sunset Axe|image=Sunset Axe.png|desc={{BPReward|Season Two|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Terrorbyte|image=Terrorbyte.png|desc=[[Blue Virus Volkov]]|descheight=55px}}
