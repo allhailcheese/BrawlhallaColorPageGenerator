@@ -64,13 +64,13 @@ public sealed class BOTWWriter(WriterData data)
         string gamemodeName = gamemode.GameModeName switch
         {
             // These are all named like another BOTW gamedmode, but are on a specific map
-            "BOTW2v2CrewBattleTMNT" => "TMNT Crew Battle",
-            "BOTWFixedStaminaGamemodeNewMap" => "Bustling Side Street Street Brawl",
-            "BOTWHeatwaveSnowbrawlLavaFFA" => "Mustafar Water Balloon Fight!",
-            "BOTW1v1300NewMap" => "Eternity's End KO Mania!",
-            "BOTW2v2SwitchNewMap" => "Eternity's End Switchcraft 2v2",
-            "BOTWOddbrawl2v2NewMap" => "Eternity's End Team Oddbrawl",
-            "BOTWShift1v1NewMap" => "Eternity's End Morph",
+            "BOTW2v2CrewBattleTMNT" => "Crew Battle (TMNT)",
+            "BOTWFixedStaminaGamemodeNewMap" => "Street Brawl (Bustling Side Street)",
+            "BOTWHeatwaveSnowbrawlLavaFFA" => "Water Balloon Fight! (Mustafar)",
+            "BOTW1v1300NewMap" => "KO Mania! (Eternity's End)",
+            "BOTW2v2SwitchNewMap" => "Switchcraft 2v2 (Eternity's End)",
+            "BOTWOddbrawl2v2NewMap" => "Team Oddbrawl (Eternity's End)",
+            "BOTWShift1v1NewMap" => "Morph (Eternity's End)",
             // Text got overwritten
             "BOTWVolleyBattle2v2" => BOTWVolleyBattle2v2_DisplayName,
             // Fake gamemode types to keep older ones
@@ -339,7 +339,7 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTWBombMania"] = ["BP8ThreePlatformFFABig"], // Terminus-plosions!
         [nameof(BOTWShift1v1NewMap_Old_Old)] = ["BP8ThreePlatform"], // Loki's Illusions
         [nameof(BOTWShift1v1NewMap_Old)] = ["TriPlatBattle"], // Mishima Dojo Skirmish
-        ["BOTWShift1v1NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Morph
+        ["BOTWShift1v1NewMap"] = ["CelestialLongSidesShortWalls"], // Morph (Eternity's End)
         ["BOTWVolleyBattle2v2NewMap"] = ["VolleyBattleSmall"], // TEKKEN Brawl
         ["BOTWTableTop2v2NewMap"] = ["Norse1v1Spike"], // Jötunheimr's Doom
         ["BOTWTagRelay2v2NewMap"] = ["SpongebobMap"], // Bubble Tag Relay
@@ -355,9 +355,9 @@ public sealed class BOTWWriter(WriterData data)
         ["BOTW2v2Ghost200NewMap"] = ["Atlas_2v2"], // Hidden in the Walls
         ["BOTWTableTop3v3NewMap"] = ["Atlas_3v3"], // Shiganshina Clash
         ["BOTW4FFANewMap"] = ["MudBrawl2"], // Swamp Mud Brawl
-        ["BOTW1v1300NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End KO Mania!
-        ["BOTW2v2SwitchNewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Switchcraft 2v2
-        ["BOTWOddbrawl2v2NewMap"] = ["CelestialLongSidesShortWalls"], // Eternity's End Team Oddbrawl
+        ["BOTW1v1300NewMap"] = ["CelestialLongSidesShortWalls"], // KO Mania! (Eternity's End)
+        ["BOTW2v2SwitchNewMap"] = ["CelestialLongSidesShortWalls"], // Switchcraft 2v2 (Eternity's End)
+        ["BOTWOddbrawl2v2NewMap"] = ["CelestialLongSidesShortWalls"], // Team Oddbrawl (Eternity's End)
         ["BOTW3v3BrawlballNewMap"] = ["Elysium"], // Brawlball Bash! (Elysium Arena)
         ["BOTW2v2BrawlballNewMap"] = ["Elysium"], // 2v2 Brawlball (Elysium Arena)
     };
