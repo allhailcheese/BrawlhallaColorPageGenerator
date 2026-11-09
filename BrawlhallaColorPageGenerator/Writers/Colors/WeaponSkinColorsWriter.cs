@@ -34,6 +34,7 @@ public sealed class WeaponSkinColorsWriter(WriterData data)
                 weaponSkin.WeaponSkinName == "Template" ||
                 weaponSkin.DisplayNameKey is null ||
                 !weaponSkin.CanColorSwap ||
+                weaponSkin.WeaponSkinName == "HammerTrucker" || // has InheritCostumeDefines, but by luck can't swap
                 weaponSkin.WeaponSkinName.EndsWith("Stub") ||
                 weaponSkin.WeaponSkinName.EndsWith("EivorMale") ||
                 weaponSkin.WeaponSkinName.EndsWith("Stance")
