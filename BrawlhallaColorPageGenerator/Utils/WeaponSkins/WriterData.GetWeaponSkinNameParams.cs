@@ -88,7 +88,6 @@ public partial class WriterData
             case "OrbDemon01":
             case "OrbDemon02":
             case "OrbDemon03":
-            case "OrbBattlePassSet2":
             case "ScythePaleRider":
                 if (!colorMode)
                 {
@@ -189,6 +188,17 @@ public partial class WriterData
             case "ScytheEpicNix":
             case "ScytheShinobiBP1203":
             case "ScytheMythicWerewolf":
+            case "CannonChimney":
+            case "CannonCookout":
+            case "CannonMonOnyx":
+            case "OrbNimue":
+            case "HoloOrb":
+            case "OrbBattlePassSet2":
+            case "OrbAlucard":
+            case "OrbSFKen":
+            case "OrbSFRyu":
+            case "OrbEnchantress":
+            case "OrbEpicRaptor":
             case "GreatswordLuke":
             case "GreatswordBP14Magyar03":
             case "BootsFiona":

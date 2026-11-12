@@ -13,7 +13,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Beatdown Bell|image=Beatdown Bell.png|desc=[[Feline Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Big Chomp|image=Big Chomp.png|desc=[[Scuba Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blood Keepsake|image=Blood Keepsake.png|desc=[[Dusk Till Dawn]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Blood Shard|image=Blood Shard.png|desc=[[Nimue]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Blood Shard|image=Blood Shard.webp|desc=[[Nimue]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Closin' Time|image=Closin' Time.png|desc=[[Desperado Reno]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crimson Poison|image=Crimson Poison.png|desc=[[Widowmaker Reno]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crystalforged Orb|image=Crystalforged Orb.png|cost={{Coin|glory|15000}}<br>+ Goldforged Variant|costheight=55px}}
@@ -21,7 +21,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Darkheart Geode|image=Darkheart Geode.png|desc=[[Fallen Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Orb|image=Darkheart Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Death Awaits|image=Death Awaits.png|desc=[[Draugr Thor]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Death Star Hologram|image=Death Star Hologram.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
+{{itembox|width=180|height=170|name=Death Star Hologram|image=Death Star Hologram.webp|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=180|height=170|name=Demon's Malice|image=AniDemon's Malice.gif|desc=[[Obake Petra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Discarded Helmets|image=Discarded Helmets.png|desc=[[2001 Skate Odyssey Qinghua & Baobao]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dragon's Heart|image=Dragon's Heart.png|desc=[[Emerald Raptor]]|descheight=55px}}
@@ -34,8 +34,8 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Fae Magi ☆ Soaring Locket|displayname={{small|Fae Magi ☆ Soaring Locket}}|image=Fae Magi ☆ Soaring Locket.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Fossil Fury|image=Fossil Fury.png|desc=[[Lost World Petra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fu Lion Charm|image=Fu Lion Charm.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Galactic Glitch|image=AniGalactic Glitch.gif|desc={{BPReward|Season Two|gold|Tier 65}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Ghost Familiar|image=Ghost Familiar.png|desc=[[Alucard]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Galactic Glitch|image=Galactic Glitch.webp|desc={{BPReward|Season Two|gold|Tier 65}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Ghost Familiar|image=Ghost Familiar.webp|desc=[[Alucard]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Golden Dawn ~ Arcana|image=Golden Dawn ~ Arcana.png|desc=[[Daylight Star ☆ Magi Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Golden Punishment|image=Golden Punishment.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Orb|image=Goldforged Orb.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
@@ -66,14 +66,14 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Photon Sphere|image=Photon Sphere.png|desc={{BPReward|Season Five|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Piece of Eden|image=Piece of Eden.png|desc=[[Armor of Brutus Ezio]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Piña Collider|image=Piña Collider.png|desc=[[Thor by the Shore]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Power of Courage|image=Power of Courage.png|desc=[[Ken]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Power of Will|image=Power of Will.png|desc=[[Ryu]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Power of Courage|image=Power of Courage.webp|desc=[[Ken]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Power of Will|image=Power of Will.webp|desc=[[Ryu]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Psycho Power Aura|image=Psycho Power Aura.png|desc=[[M. Bison]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Pumpkin Jack|image=Pumpkin Jack.png|desc=[[Autumn Esports 2026 Pack]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Remnant of Fate|image=Remnant of Fate.png|desc=[[Enchantress]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Remnant of Fate|image=Remnant of Fate.webp|desc=[[Enchantress]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Reunited|image=Reunited.png|desc=[[Garnet]]|descheight=55px}}
 {{itembox|width=180|height=170|name=RGB Orb|image=RGB Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Sealed Infernum|image=Sealed Infernum.png|desc=[[Raptor, the Betrayer]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sealed Infernum|image=Sealed Infernum.webp|desc=[[Raptor, the Betrayer]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Searing Sphere|image=Searing Sphere.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Shot Caller|image=Shot Caller.png|desc=[[Street Sovereign Petra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Sidekick Souvenir Orb|image=Sidekick Souvenir Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
