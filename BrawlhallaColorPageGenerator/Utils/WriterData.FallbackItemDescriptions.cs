@@ -9,16 +9,14 @@ public partial class WriterData
 
     private const string TD_DESCRIPTION = $"{TD_ICON} [[Twitch Drops|''Future Twitch Drop'']]";
     private const string GIFTS_OF_ASGARD_DESCRIPTION = "[[The Gifts of Asgard]]";
-    private const string BUNDLE_EXCLUSIVE_DESCRIPTION = "[[Store Bundles|Bundle]] exclusive";
-    private const string REMOVED_FROM_STORE_DESCRIPTION = "Unobtainable.<br>Removed from Store.";
     private const string UNOBTAINABLE_DESCRIPTION = "''Unobtainable''";
 
     // TODO: show the track name instead of the generic text?
     private static string VSR(string track) => VSR_ICON + " {{VSR|" + track + "|Viewership Rewards}}";
     private static string TD(string track) => TD_ICON + " {{TD|" + track + "|Twitch Drops}}";
 
-    // for stuff that can't be automated: vsr, twitch drops, bundle exclusives, and battlepass
-    public readonly static Dictionary<string, string> MISC_ITEM_DESCRIPTIONS = new()
+    // for stuff that can't be automated: vsr, twitch drops, and battlepass
+    public readonly static Dictionary<string, string> FALLBACK_ITEM_DESCRIPTIONS = new()
     {
         #region exclusive weapon skins
         // charity
@@ -61,26 +59,6 @@ public partial class WriterData
         ["BowSocial"] = TD("Brawlhalla Fest 2026 Whitelist"),
         ["ChakramSocial"] = TD("Summer 2026 Whitelist"),
         ["OrbSocial"] = TD_DESCRIPTION,
-        #endregion
-        #region bundle exclusive
-        ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
-        #endregion
-        #region removed from store
-        // TODO: is there a way to make this dynamic?
-        // castlevania
-        ["Simon"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["Alucard"] = REMOVED_FROM_STORE_DESCRIPTION,
-        // gi joe
-        ["SnakeEyes"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["StormShadow"] = REMOVED_FROM_STORE_DESCRIPTION,
-        // halo
-        ["MasterChief"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["Arbiter"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["PistolSMG"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["PistolNeedler"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["OrbOddball"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["OrbGrifball"] = REMOVED_FROM_STORE_DESCRIPTION,
-        ["HammerGravHammer"] = REMOVED_FROM_STORE_DESCRIPTION,
         #endregion
         #region unobtainable
         ["AxeGears"] = UNOBTAINABLE_DESCRIPTION,

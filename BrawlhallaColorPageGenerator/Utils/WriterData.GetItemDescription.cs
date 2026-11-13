@@ -13,11 +13,13 @@ public partial class WriterData
         string description;
         DescriptionTypeEnum descriptionType;
 
+        bool noMoreNeedForFallback = FALLBACK_ITEM_DESCRIPTIONS.ContainsKey(itemName);
+
         // override description
-        if (MISC_ITEM_DESCRIPTIONS.TryGetValue(itemName, out string? itemDescription))
+        if (OVERRIDE_ITEM_DESCRIPTIONS.TryGetValue(itemName, out string? overridenDescription))
         {
             descriptionType = DescriptionTypeEnum.Desc;
-            description = itemDescription;
+            description = overridenDescription;
         }
         // weapon skin from a legend skin
         else if (itemType == ItemTypeEnum.WeaponSkin && GetWeaponSkinSourceCostume(itemName) is CostumeType costume)
@@ -65,6 +67,13 @@ public partial class WriterData
             description = "[[" + packName + "]]";
             if (itemType == ItemTypeEnum.Costume) description = "Part of the " + description + ".";
         }
+        // fallback description
+        else if (FALLBACK_ITEM_DESCRIPTIONS.TryGetValue(itemName, out string? fallbackDescription))
+        {
+            descriptionType = DescriptionTypeEnum.Desc;
+            description = fallbackDescription;
+            noMoreNeedForFallback = false;
+        }
         // unknown
         else
         {
@@ -83,6 +92,11 @@ public partial class WriterData
         if (itemType == ItemTypeEnum.Costume && EPIC_BATTLEPASS_SKINS.Contains(itemName))
         {
             rarity = RarityEnum.Epic;
+        }
+
+        if (noMoreNeedForFallback)
+        {
+            description += " THIS HAS A FALLBACK WHICH SHOULD BE REMOVED!!!";
         }
 
         return new()
