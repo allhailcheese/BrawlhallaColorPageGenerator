@@ -108,7 +108,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Mjolnir's Spirit|image=Mjolnir's Spirit.png|desc=[[Cheer Captain Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Monstrous Aura|image=Monstrous Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Mortal Coil|image=Mortal Coil.png|desc=[[Amun-Raza]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Neo-City Axe|image=Neo-City Axe.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo-City Axe|image=Neo-City Axe.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|BCX 2026 Day 2 Whitelist|Twitch Drops}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Hatchet|image=Nightmare Hatchet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Axe|image=Ninpō Unsealed Axe.png|desc={{BPReward|Season Twelve|gold|Present Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Painkiller|image=Painkiller.png|desc=[[Nemesis Barraza]]|descheight=55px}}

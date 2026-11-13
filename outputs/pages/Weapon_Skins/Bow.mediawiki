@@ -80,7 +80,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Loa Bow|image=Loa Bow.png|desc=[[Baron Azoth]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Moongleam Bow|image=Moongleam Bow.png|desc=[[Metadev Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Naptime|image=Naptime.png|desc=[[Kindergarten Kaya]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Neo-City Bow|image=Neo-City Bow.png|desc=[[File:Icon Twitch.png|16px|link=]] [[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=180|height=170|name=Neo-City Bow|image=Neo-City Bow.png|desc=[[File:Icon Twitch.png|16px|link=]] {{TD|BCX 2026 Day 3 Whitelist|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=170|name=New Best Friend|image=New Best Friend.png|desc=[[Daryl]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Bow|image=Nightmare Bow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Denkyū|image=Ninpō Denkyū.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}

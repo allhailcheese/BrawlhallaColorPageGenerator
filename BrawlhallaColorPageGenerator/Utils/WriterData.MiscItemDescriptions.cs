@@ -45,9 +45,9 @@ public partial class WriterData
         ["ChakramEsports2026"] = TD("Eternal Sports 2026 #2"),
         ["FistEsports2026"] = TD("Autumn Singles 2026"),
         ["RocketLanceEsports2026"] = TD("Autumn Doubles 2026"),
-        ["AxeEsports2026"] = TD_DESCRIPTION,
-        ["BootsEsports2026"] = TD_DESCRIPTION,
-        ["BowEsports2026"] = TD_DESCRIPTION,
+        ["BootsEsports2026"] = TD("BCX 2026 Day 1 Whitelist"),
+        ["AxeEsports2026"] = TD("BCX 2026 Day 2 Whitelist"),
+        ["BowEsports2026"] = TD("BCX 2026 Day 3 Whitelist"),
         // magical girl
         ["GreatswordMagicalGirl"] = TD("Summer 2026 Whitelist"),
         // gifts of asgard. TODO: give all of these a proper description
@@ -63,10 +63,10 @@ public partial class WriterData
         ["OrbSocial"] = TD_DESCRIPTION,
         #endregion
         #region bundle exclusive
-        // TODO: there's gotta be a way to make this dynamic...
         ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
         #endregion
         #region removed from store
+        // TODO: is there a way to make this dynamic?
         // castlevania
         ["Simon"] = REMOVED_FROM_STORE_DESCRIPTION,
         ["Alucard"] = REMOVED_FROM_STORE_DESCRIPTION,
